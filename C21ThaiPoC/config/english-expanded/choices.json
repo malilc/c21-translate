@@ -1,0 +1,4804 @@
+{
+  "Entries": [
+    {
+      "SourceEscaped": "聞かない",
+      "TargetEscaped": "Don't Listen",
+      "SourceUtf8Sha256": "776A98A5E01A71EEA8ED05E6C22808054020ED1D97300F17D90BB4D1CD646C94"
+    },
+    {
+      "SourceEscaped": "聞く",
+      "TargetEscaped": "Listen",
+      "SourceUtf8Sha256": "D9291CCBA400DB30A740FA6A877A740F939F30503930152AEB24244597B680D2"
+    },
+    {
+      "SourceEscaped": "やめとく",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "79EF545E8073DE7A212648BE6CD2D9DC47782D9D179E7C83C9D3BC13078E65A5"
+    },
+    {
+      "SourceEscaped": "聞いてみる",
+      "TargetEscaped": "Let's hear it.",
+      "SourceUtf8Sha256": "715F66B602718BC45F0B949C4B9E8997920E3AF3C31696B2E0F769DAC08E7CBB"
+    },
+    {
+      "SourceEscaped": "長～い説明を聞く",
+      "TargetEscaped": "Hear the long explanation",
+      "SourceUtf8Sha256": "50A832671172508B0938DD8F6FCFBCF0BA94250560052649A52EA91BF1340C9F"
+    },
+    {
+      "SourceEscaped": "短く説明してもらう",
+      "TargetEscaped": "Ask for a short explanation",
+      "SourceUtf8Sha256": "828A723C241E761FF0D2BE49D4BE857F25F23B37BFD8244B7826BD48736BE8CC"
+    },
+    {
+      "SourceEscaped": "説明を聞かない",
+      "TargetEscaped": "Skip the explanation",
+      "SourceUtf8Sha256": "BC417576F68CD51FBF2F1B790AC57EA9EFDEA39C0DB90C0AF53B1C361B958BE3"
+    },
+    {
+      "SourceEscaped": "「完全コズミックガイド」を開く",
+      "TargetEscaped": "Open the \"Complete Cosmic Guide\"",
+      "SourceUtf8Sha256": "1752BF1C097446CAACA3DD967B6E5FD55D1950DC80BDDBE5BACCC4A8E169548F"
+    },
+    {
+      "SourceEscaped": "見ない",
+      "TargetEscaped": "Don't Look",
+      "SourceUtf8Sha256": "7E20BB1C8D42AADA1312C834EE7D3FEBB2A2EC98D94316048438640E4A1900BF"
+    },
+    {
+      "SourceEscaped": "画面の見方を教えて！",
+      "TargetEscaped": "Explain the screen layout!",
+      "SourceUtf8Sha256": "DFCBE777A27ED4C6C7EBC7870ED743BD686C75371C8541A7FBC10987ECA09573"
+    },
+    {
+      "SourceEscaped": "画面のサイズについて教えて！",
+      "TargetEscaped": "Tell me about screen size!",
+      "SourceUtf8Sha256": "152CC999DDA5C1A257EB62C5AEE7A81412277263D87A0E7B89479970BC9FE17E"
+    },
+    {
+      "SourceEscaped": "バッチリ！",
+      "TargetEscaped": "All set!",
+      "SourceUtf8Sha256": "B0E04C673364D8BF16874B2BBD746F600E032428AA62C716EA8FDD13048CA600"
+    },
+    {
+      "SourceEscaped": "パーツについて",
+      "TargetEscaped": "About Parts",
+      "SourceUtf8Sha256": "C2F910786D506411B2F212CB393A6F08F576CB22DC893C244FAC56160E3DEC33"
+    },
+    {
+      "SourceEscaped": "チューニングパーツについて",
+      "TargetEscaped": "About Tuning Parts",
+      "SourceUtf8Sha256": "34FDAD920668C05F06FC70C9B8CA40DD47D61B570AF1ED2C97446A625511DC56"
+    },
+    {
+      "SourceEscaped": "ボイスメモリについて",
+      "TargetEscaped": "About Voice Memory",
+      "SourceUtf8Sha256": "CD0542B2775257950E3BE33B455CC8F49565E3EC48B6A66434E9716A5BED1B30"
+    },
+    {
+      "SourceEscaped": "AURAカートリッジについて",
+      "TargetEscaped": "About AURA Cartridges",
+      "SourceUtf8Sha256": "9B59AC1354B249CB1AEA5C2082FC816FCD05FBEE594B7FE355572E3E86502142"
+    },
+    {
+      "SourceEscaped": "聞くのをやめる",
+      "TargetEscaped": "Stop listening",
+      "SourceUtf8Sha256": "63315E689A704CE636B52A9E752AB29A50E8E97C16570A27E42945DDD4982944"
+    },
+    {
+      "SourceEscaped": "はい",
+      "TargetEscaped": "Yes",
+      "SourceUtf8Sha256": "8F90D85EC13A0B1B12D81203F2F3262CA156028A94AEAF91AE52FCD5A9DE4170"
+    },
+    {
+      "SourceEscaped": "いいえ",
+      "TargetEscaped": "No",
+      "SourceUtf8Sha256": "48EF2B674823D03D45863E46E4706682F9588EF1D13921134AE3A8508483FFB5"
+    },
+    {
+      "SourceEscaped": "新生・天使軍ってなんですか？",
+      "TargetEscaped": "What is the New Angel Army?",
+      "SourceUtf8Sha256": "37B2E45131653E47D6CD0BA256B3780327F8C60D8D173CF768D79F2BD12E2380"
+    },
+    {
+      "SourceEscaped": "ここはどんな場所？",
+      "TargetEscaped": "What kind of place is this?",
+      "SourceUtf8Sha256": "4C571DBF6AAE403351C55ADDCA1E024B5220CE5DA5E6DE3F5BA46C9FD50D96C0"
+    },
+    {
+      "SourceEscaped": "ルーキーバッチって何だっけ？",
+      "TargetEscaped": "Remind me what a Rookie Badge is.",
+      "SourceUtf8Sha256": "A5200A49DA5D86828CAF20EA650BDABA34971CAB16FCAE119896DE30C954D024"
+    },
+    {
+      "SourceEscaped": "ポルド基地ジャンプ（無制限）って？",
+      "TargetEscaped": "What is Pold Base Jump (Unlimited)?",
+      "SourceUtf8Sha256": "7DC237931BA906ED0BC509235B078F4D67F3010F76050EAAD1A7DA194157C54D"
+    },
+    {
+      "SourceEscaped": "これからどうしよう？",
+      "TargetEscaped": "What should I do next?",
+      "SourceUtf8Sha256": "D2AFBA67884F9BD629EBF54BB0A0917AA2A8CEFB691C0128CEBCED42A7A46F4F"
+    },
+    {
+      "SourceEscaped": "フクシアシティから出たいんだけど…",
+      "TargetEscaped": "I want to leave Fuchsia City...",
+      "SourceUtf8Sha256": "A737A06EE8AB1669D451997C383BD4CDF2F646BD792D54DED7A7C131E90F0ACE"
+    },
+    {
+      "SourceEscaped": "ルーキーバッチって？",
+      "TargetEscaped": "What is a Rookie Badge?",
+      "SourceUtf8Sha256": "3F2E6F40B5768324AD8829AB688E95B397D3CA65DD7370D7030D91362A8083C5"
+    },
+    {
+      "SourceEscaped": "どうやってステータスを見るの？",
+      "TargetEscaped": "How do I check my stats?",
+      "SourceUtf8Sha256": "687037F4164DF66B9BE39B6E16F8FC02FA72063C0646A84142173D98C75450DB"
+    },
+    {
+      "SourceEscaped": "コストって？",
+      "TargetEscaped": "What is Cost?",
+      "SourceUtf8Sha256": "2A79A1817BFC6C8EFBDF2B965B22760FE6BE689E92546D63ADE39DF1FB3DB003"
+    },
+    {
+      "SourceEscaped": "LvとEXPは？",
+      "TargetEscaped": "What are Lv and EXP?",
+      "SourceUtf8Sha256": "A96841FE34D2135D5C16B8BF76649E1E93D851EE1249C2C92EBA43EF6E68FC30"
+    },
+    {
+      "SourceEscaped": "HPとENは？",
+      "TargetEscaped": "What are HP and EN?",
+      "SourceUtf8Sha256": "252FE811D2F156A8558E40B8944C7EC1BA2ED875CD35566168409A08A1171846"
+    },
+    {
+      "SourceEscaped": "歩行と飛行、ジャンプ力は？",
+      "TargetEscaped": "What about Walking, Flight, and Jump Power?",
+      "SourceUtf8Sha256": "4E7E6B616880AC050555F537D3CD9EA8029DCB50379122A92A6544157929F859"
+    },
+    {
+      "SourceEscaped": "メイン威力とサブ威力は？",
+      "TargetEscaped": "What are Main Power and Sub Power?",
+      "SourceUtf8Sha256": "2746A93BD314294C00F29D17C3BA23319FFD6D7A74836E525CFEF7A63BDEB004"
+    },
+    {
+      "SourceEscaped": "他のが聞きたい",
+      "TargetEscaped": "I'd like to ask something else.",
+      "SourceUtf8Sha256": "DA37F9316666BB484B91A048276856E1297AE40757C529DDA65AFCED1567215A"
+    },
+    {
+      "SourceEscaped": "射撃能力と格闘能力は？",
+      "TargetEscaped": "What are Shooting and Melee Ability?",
+      "SourceUtf8Sha256": "19B42A312333C001AF14A0E1E4C5D2A75F7A4DC54379A9A145DB500A55C8BAB9"
+    },
+    {
+      "SourceEscaped": "重量補正は？",
+      "TargetEscaped": "What is Weight Adjustment?",
+      "SourceUtf8Sha256": "C6639A967C0BD6AF8296171D01529C811CD81215CA8158F8CED04BD7C8DBE5D3"
+    },
+    {
+      "SourceEscaped": "サイズは？",
+      "TargetEscaped": "What is Size?",
+      "SourceUtf8Sha256": "99B4E96386652DFCC2D32DDD6D1F17D3A4BEB5DB440209A5A5ED9AB94535CB9D"
+    },
+    {
+      "SourceEscaped": "潜在能力は？",
+      "TargetEscaped": "What is Potential?",
+      "SourceUtf8Sha256": "46257CCDD870B230195B6A2EDD76085F0AD3C288AEBE30C62F81FCCF165D6B20"
+    },
+    {
+      "SourceEscaped": "防御と安定性は？",
+      "TargetEscaped": "What are Defense and Stability?",
+      "SourceUtf8Sha256": "F3FE439BC507C9D2E3CCF0113EB381E1A46FAF0A2671B44D65BD3CE54AE3392E"
+    },
+    {
+      "SourceEscaped": "耐性は？",
+      "TargetEscaped": "What is Resistance?",
+      "SourceUtf8Sha256": "5461EAF6CB72036A8493D842C41B93C87553C6EFBC87D2CE904A707A024146B2"
+    },
+    {
+      "SourceEscaped": "いつでもいけます！",
+      "TargetEscaped": "I'm ready anytime!",
+      "SourceUtf8Sha256": "688B261F60C775AC890F51B58536FC1AF1BF7CF7668B81BF84FF32FF813B4F7F"
+    },
+    {
+      "SourceEscaped": "もう少し準備したい",
+      "TargetEscaped": "I want to prepare a little more.",
+      "SourceUtf8Sha256": "9941D46F4E1F62C9813A48F0561E86F7B1BC819C649B02BFAB151E38F3B6EC07"
+    },
+    {
+      "SourceEscaped": "行きます！",
+      "TargetEscaped": "Let's go!",
+      "SourceUtf8Sha256": "DE298948CE55006C8A7E3D6A910ED3DB243DA4D945A126A0ACDC158BC7399956"
+    },
+    {
+      "SourceEscaped": "もう少しここにいたい",
+      "TargetEscaped": "I want to stay here a little longer.",
+      "SourceUtf8Sha256": "504FE82EC68788F2EB2C449BF719056397BC82D37BE9D49FFE1C511F7D964FA8"
+    },
+    {
+      "SourceEscaped": "まだここにいたい",
+      "TargetEscaped": "I still want to stay here.",
+      "SourceUtf8Sha256": "11B3B8B72EAF6D9332620E1C1FCA8569B06FE203D4664B80C2DEAB286EAF4265"
+    },
+    {
+      "SourceEscaped": "ここを出る",
+      "TargetEscaped": "Leave this place",
+      "SourceUtf8Sha256": "4BDC2BA365F53A29ECBEBAC4D5C478EA10BE71CCF5CFDB82B50E67984A1E3B4D"
+    },
+    {
+      "SourceEscaped": "ホバリング飛行方式について",
+      "TargetEscaped": "About Hovering Flight Mode",
+      "SourceUtf8Sha256": "D2AA7AA8E93BF0C93DCF906306E392DB93FEB48136F34A84B5C1D6C70B7FC42D"
+    },
+    {
+      "SourceEscaped": "上昇・下降飛行方式について",
+      "TargetEscaped": "About Ascend/Descend Flight Mode",
+      "SourceUtf8Sha256": "F4B6A62F66BCCFCEE34B1B10702AAD31D42936AA2B89B712C9CFD7D8102C4B58"
+    },
+    {
+      "SourceEscaped": "飛行方式切り替えについて",
+      "TargetEscaped": "About Switching Flight Modes",
+      "SourceUtf8Sha256": "0D92D3C22272C191889F542F688858B3223FB1FDCC138287781E5F144890A7B0"
+    },
+    {
+      "SourceEscaped": "レベルアップダンジョンについて",
+      "TargetEscaped": "About the Level-Up Dungeon",
+      "SourceUtf8Sha256": "2CDDCF63922AF742BE188C911E056E17ED50E1A9496556537F6BA9EFD6632100"
+    },
+    {
+      "SourceEscaped": "レベルアップダンジョンに行く",
+      "TargetEscaped": "Go to the Level-Up Dungeon",
+      "SourceUtf8Sha256": "F27EDE50D7A5A84A5E4FE3079C47AF304784928DD73EF6A6EB3DEF5DE8AE45B4"
+    },
+    {
+      "SourceEscaped": "Lv31以上に上げるには",
+      "TargetEscaped": "How to reach Lv31 or higher",
+      "SourceUtf8Sha256": "4B5CFD69BD0CEE5ECA709743F9AF076A1069CC96A62A897FDE2ABA26FFE227EB"
+    },
+    {
+      "SourceEscaped": "SPロボストアエリアって？",
+      "TargetEscaped": "What is the SP Robot Store Area?",
+      "SourceUtf8Sha256": "3B5CD27A48B559B7A2998EDF05C47DB53768307F15236CA975B817A1E6A577AF"
+    },
+    {
+      "SourceEscaped": "スペシャルチケットって？",
+      "TargetEscaped": "What is a Special Ticket?",
+      "SourceUtf8Sha256": "5A2F90B7FBCFA135E4820CB7603F3F08DEA62718E3873158C6D72ED21DA87825"
+    },
+    {
+      "SourceEscaped": "レイドバトルって？",
+      "TargetEscaped": "What is a Raid Battle?",
+      "SourceUtf8Sha256": "E282E825C44AD0415310DD919F4ED50B3196F572CB50AA3A5F63F5E005051A69"
+    },
+    {
+      "SourceEscaped": "どうやって参加するの？",
+      "TargetEscaped": "How do I participate?",
+      "SourceUtf8Sha256": "004B9784FF3B8DABDD9140ECB3DCFBC70F0A5847F9DE9855C5A93757B3D70E5F"
+    },
+    {
+      "SourceEscaped": "どこに転送されるの？",
+      "TargetEscaped": "Where will I be transported?",
+      "SourceUtf8Sha256": "256D9AC766F70CDF440508A7298EC7AFB8165471BEEC64F8E798334C13B10435"
+    },
+    {
+      "SourceEscaped": "ゲートはいつ起動するの？",
+      "TargetEscaped": "When does the gate activate?",
+      "SourceUtf8Sha256": "1D1D2991C16D8EE04995D8F8A17C0F74ADA7F831CA6C0D033C178E0A551506F9"
+    },
+    {
+      "SourceEscaped": "入ったら出られるの？",
+      "TargetEscaped": "Can I leave after entering?",
+      "SourceUtf8Sha256": "66143B260C8AA579AF4999181CA75BC84FF22A27E138A8DEC8101A5EF601B80C"
+    },
+    {
+      "SourceEscaped": "レイドコインって？",
+      "TargetEscaped": "What are Raid Coins?",
+      "SourceUtf8Sha256": "3830F69E302ABAD58D02A0E0D1DB8ACB81D4B61CE6155433E7C1005A599488DA"
+    },
+    {
+      "SourceEscaped": "ガチャって？",
+      "TargetEscaped": "What is Gacha?",
+      "SourceUtf8Sha256": "03E1B249F912829A57A0779F0C1C6D3BDB104A0D38B8446B3FDD3443043BF419"
+    },
+    {
+      "SourceEscaped": "マニモdeガチャって？",
+      "TargetEscaped": "What is Manimo de Gacha?",
+      "SourceUtf8Sha256": "3419E6E0319D0373D8F849B54EFEB8C83CAC48D09488F6DD03E44332E57005C6"
+    },
+    {
+      "SourceEscaped": "他にはどんなガチャがあるの？",
+      "TargetEscaped": "What other Gacha are there?",
+      "SourceUtf8Sha256": "27C234C7537FAD283B985855932A0DCF46F404C0ACFCDC2BB2368775EE707753"
+    },
+    {
+      "SourceEscaped": "覚醒について",
+      "TargetEscaped": "About Awakening",
+      "SourceUtf8Sha256": "34C85166976BAD86CAEAC9ED996B82AAB72CCB018F53BDE24520DC72AF749878"
+    },
+    {
+      "SourceEscaped": "発射間隔キャンセルについて",
+      "TargetEscaped": "About Firing Interval Canceling",
+      "SourceUtf8Sha256": "D864837172300A44097F38A46198BDB951FC969A84BA83D3E787BE90413E55E4"
+    },
+    {
+      "SourceEscaped": "ダストバスターについて",
+      "TargetEscaped": "About the Dust Buster",
+      "SourceUtf8Sha256": "FEEA721DB5DE26C66120B273376C426788208414E94800C4616AA35DDFC79C43"
+    },
+    {
+      "SourceEscaped": "変形って？",
+      "TargetEscaped": "What is Transformation?",
+      "SourceUtf8Sha256": "E8A0574ACFB57044CC66424549172A85572E1463B5E3A4C1FD7E214C4A6CCBF9"
+    },
+    {
+      "SourceEscaped": "AURAって？",
+      "TargetEscaped": "What is AURA?",
+      "SourceUtf8Sha256": "14FA9F4EC339128A8F286ADC068E2BA0C1D6D9EE7E5049B8F045F2F41A5602DF"
+    },
+    {
+      "SourceEscaped": "純正変形について",
+      "TargetEscaped": "About Stock Robot Transformation",
+      "SourceUtf8Sha256": "8AB5725EC94C2FD9BAA859BEABE5B676BAA9D4690E63FF0F4A90F45ED4C18B48"
+    },
+    {
+      "SourceEscaped": "サブ武器変形について",
+      "TargetEscaped": "About Sub Weapon Transformation",
+      "SourceUtf8Sha256": "36E37192AB3EB9E7317685367848881D6160C4C9F3675C9DB2279D20C772FCCC"
+    },
+    {
+      "SourceEscaped": "純正サブ武器変形について",
+      "TargetEscaped": "About Stock Sub Weapon Transformation",
+      "SourceUtf8Sha256": "5EA8850D0318B6046B03942162F14B7BA6D3EF526B28C20CFD263B89B2899537"
+    },
+    {
+      "SourceEscaped": "どのパーツで変形できるの？",
+      "TargetEscaped": "Which parts allow transformation?",
+      "SourceUtf8Sha256": "2AB07AB1C3046373F7A8393A4737718DB944D07C07671881D7E3A04F9AC8394A"
+    },
+    {
+      "SourceEscaped": "どうやって使うの？",
+      "TargetEscaped": "How do I use it?",
+      "SourceUtf8Sha256": "754091C6A1E0FFDAD396E364DF6B47C9A021B8DBF35EEFAF422901360EC2FE29"
+    },
+    {
+      "SourceEscaped": "AURAレベルって？",
+      "TargetEscaped": "What is AURA Level?",
+      "SourceUtf8Sha256": "89C23B93569DE163708A17CA6F1AE2434B3E3B121E4D2991A881714CCDF0BDB0"
+    },
+    {
+      "SourceEscaped": "AURAカートリッジって？",
+      "TargetEscaped": "What is an AURA Cartridge?",
+      "SourceUtf8Sha256": "A0BDAA1E18D37FDEFC06582282080FA16B96CCF4B4D0009F63AE211CFBDE4A08"
+    },
+    {
+      "SourceEscaped": "「コミュニケーションガイド」を開く",
+      "TargetEscaped": "Open the \"Communication Guide\"",
+      "SourceUtf8Sha256": "C2C29DD0ED6BB5074299EED6E25DD64F9B6FA2A87A919303F00F7E9E63BEF799"
+    },
+    {
+      "SourceEscaped": "違います",
+      "TargetEscaped": "No, that's not right.",
+      "SourceUtf8Sha256": "9AC98E9CDDC7E3DD21EE994DB3E1ABF78822C881D1E18E515315E0D860AE2518"
+    },
+    {
+      "SourceEscaped": "そうです",
+      "TargetEscaped": "That's right.",
+      "SourceUtf8Sha256": "D9FDAA680C822802BBA83857B585FDC37F58616EE133F56BA575BB9F92A1195F"
+    },
+    {
+      "SourceEscaped": "まだです",
+      "TargetEscaped": "Not yet.",
+      "SourceUtf8Sha256": "AA206C6677044B7918761E033C9D9021073B4404ECAD9FBDEC6313BA01D2AD62"
+    },
+    {
+      "SourceEscaped": "しました",
+      "TargetEscaped": "I've done it.",
+      "SourceUtf8Sha256": "A8B046527CCFD372E32834B30E1FDB3171DADEABC0722CD4E44396F83B4F630F"
+    },
+    {
+      "SourceEscaped": "持ってない",
+      "TargetEscaped": "I don't have it.",
+      "SourceUtf8Sha256": "B21B3E2BA8294D413611243E937FE0C33A465F2603332EAF54E37E8436D02316"
+    },
+    {
+      "SourceEscaped": "持ってる",
+      "TargetEscaped": "I have it.",
+      "SourceUtf8Sha256": "89897637E47D0FA89624EABBDD77045223239B510F9FE9899D79671D762C0184"
+    },
+    {
+      "SourceEscaped": "教えて下さい",
+      "TargetEscaped": "Please teach me.",
+      "SourceUtf8Sha256": "55992D2303BEFDC91F363B8C0FDB4DAD511D78D4BCFD9EA7B566D72C7FCAE183"
+    },
+    {
+      "SourceEscaped": "知ってる",
+      "TargetEscaped": "I know.",
+      "SourceUtf8Sha256": "CF4B7E703753699CF3C89785F2DA40E2D8C7FB4CB5D60237719DF375720704F0"
+    },
+    {
+      "SourceEscaped": "ホバリング？",
+      "TargetEscaped": "Hovering?",
+      "SourceUtf8Sha256": "C7782502648BD95CF697C598C5CFBB8A0C08B704F39823DEF52C136387C9C7C8"
+    },
+    {
+      "SourceEscaped": "OFFです",
+      "TargetEscaped": "It's OFF.",
+      "SourceUtf8Sha256": "EE81347D46714B075E46882CEA83C4C55ECCD713520697170244E3FA04A2B0C6"
+    },
+    {
+      "SourceEscaped": "拡張アイテム",
+      "TargetEscaped": "Expansion Items",
+      "SourceUtf8Sha256": "12D7998AD6BEB898352C877369CD8FC70C4204EB693C75DEE83F372E870BD55B"
+    },
+    {
+      "SourceEscaped": "SPアイテム",
+      "TargetEscaped": "SP Items",
+      "SourceUtf8Sha256": "5F45F63A5B71787571D5516DF3F47FDA2FB1DF900820877B0D5159F09EDB07A3"
+    },
+    {
+      "SourceEscaped": "やりません",
+      "TargetEscaped": "I won't do it.",
+      "SourceUtf8Sha256": "2521E64DCEB6FCF9D55A154FCC2C063F3217C583A0B5AA011D1214026C59EE9B"
+    },
+    {
+      "SourceEscaped": "何ですか？",
+      "TargetEscaped": "What is it?",
+      "SourceUtf8Sha256": "997F1E9630E474187D6FDC437A09F7F2872EFD5949C6D1F7E4A70256D3A26ED5"
+    },
+    {
+      "SourceEscaped": "嫌です",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "FDCF1B5331F2BD51008A4BEF0BE79392779B55D4B39AD43D732F55F435BE88C0"
+    },
+    {
+      "SourceEscaped": "分かりました",
+      "TargetEscaped": "Understood.",
+      "SourceUtf8Sha256": "B3DF45F43DF9402FC682B09553ACC4F33E4A94BF98984C2590D0B895D81D6208"
+    },
+    {
+      "SourceEscaped": "了解",
+      "TargetEscaped": "Roger.",
+      "SourceUtf8Sha256": "AECBE4CBD4449C9AD081A8FFF7E0F76689275E88191A3718AC7BB94E1E8E59C6"
+    },
+    {
+      "SourceEscaped": "Mtってなに？",
+      "TargetEscaped": "What is Mt?",
+      "SourceUtf8Sha256": "26E8F50EC38DE2E06DD678BF745B9F3CC3FE518FC080CC0C0FE3CE3DD38468BC"
+    },
+    {
+      "SourceEscaped": "C$ってなに？",
+      "TargetEscaped": "What is C$?",
+      "SourceUtf8Sha256": "2410272C903FB1F295246A7BD3A0A21DE108AFD9F9DFACB494D92A87BEE12BF4"
+    },
+    {
+      "SourceEscaped": "プレゼントコードって？",
+      "TargetEscaped": "What is a Gift Code?",
+      "SourceUtf8Sha256": "AB161C69336A20329DE6E0B7CFCEBA1CC74B42306ED4A7120D7F5955EB62FB23"
+    },
+    {
+      "SourceEscaped": "入力する",
+      "TargetEscaped": "Enter a Code",
+      "SourceUtf8Sha256": "6FA5B34CA20EAFF009F171D093D012DF39B6D966BED3FB399EF665C25BB73B33"
+    },
+    {
+      "SourceEscaped": "やめる",
+      "TargetEscaped": "Cancel",
+      "SourceUtf8Sha256": "A9C9C456A0FA707CE8E393B7B576D17D4203BE083E8F3C2877E7BF9A76F00C87"
+    },
+    {
+      "SourceEscaped": "聞きたくない",
+      "TargetEscaped": "I don't want to hear it.",
+      "SourceUtf8Sha256": "56FCC4026C213150C5714B3CAA84C23460274C7205B21535E384EF94F5CECF15"
+    },
+    {
+      "SourceEscaped": "聞かせてよ",
+      "TargetEscaped": "Tell me.",
+      "SourceUtf8Sha256": "74323DA7E99D1026C49F7F4D01630A50454381FA8B69C533641CEE9D28F84F58"
+    },
+    {
+      "SourceEscaped": "ベテランさ！",
+      "TargetEscaped": "I'm a veteran!",
+      "SourceUtf8Sha256": "26CC30DDBD55695A8C3774B25B0F4A3E68491E6B154A4DBE467B00953F3E6F77"
+    },
+    {
+      "SourceEscaped": "そうだよ",
+      "TargetEscaped": "That's right.",
+      "SourceUtf8Sha256": "B8C11A50FC98DC6AF7524C909C9AACEB91A00868128C804DDA3A1AC7E5CA7941"
+    },
+    {
+      "SourceEscaped": "無理です",
+      "TargetEscaped": "I can't.",
+      "SourceUtf8Sha256": "21CF92A41A7479E74B2779CB8879596D0E07F27A9E802EC567A1FE951192C6FF"
+    },
+    {
+      "SourceEscaped": "任せろ！",
+      "TargetEscaped": "Leave it to me!",
+      "SourceUtf8Sha256": "98EEDC2A1E4CADC1F6E6BD8D04E68A29A670522868B9138650E5BE5D6098CEF0"
+    },
+    {
+      "SourceEscaped": "ゲルニア：カンビ遺跡      ： 400C$",
+      "TargetEscaped": "Gernia: Kambi Ruins: 400C$",
+      "SourceUtf8Sha256": "47D9F206C9F7C1F9C870E8887CC18460F3899CEFB4744A54A3A6CED1C282A0A3"
+    },
+    {
+      "SourceEscaped": "ゲルニア：フルビ遺跡      ： 400C$",
+      "TargetEscaped": "Gernia: Fulbi Ruins: 400C$",
+      "SourceUtf8Sha256": "2AD251D895888B12ED4136BA8F53AED7BA42C3A3FE52CD2DACB521D48EC7CABB"
+    },
+    {
+      "SourceEscaped": "ゲルニア：インディゴ遺跡  ： 400C$",
+      "TargetEscaped": "Gernia: Indigo Ruins: 400C$",
+      "SourceUtf8Sha256": "A9B94E3A39B1F9E8E0D59F9FF5C3655FC5E80BE544A69EED621E628DA57F72B7"
+    },
+    {
+      "SourceEscaped": "ガルド  ：ピアトロ遺跡    ： 700C$",
+      "TargetEscaped": "Gald: Piatro Ruins: 700C$",
+      "SourceUtf8Sha256": "327ED2ACCAAEBB22D4B2344D251CDC9E9D6E11B8B9E990F25645F9592CA44E72"
+    },
+    {
+      "SourceEscaped": "デゴ    ：ジオ遺跡        ：1100C$",
+      "TargetEscaped": "Dego: Geo Ruins: 1100C$",
+      "SourceUtf8Sha256": "0CD4F17EBEC0F734BC1E11EF38D2A5D4427566C9620EDA2FDCFACACD7A2D4F44"
+    },
+    {
+      "SourceEscaped": "デゴ    ：ケームー発電所  ：1100C$",
+      "TargetEscaped": "Dego: Kemu Power Plant: 1100C$",
+      "SourceUtf8Sha256": "A50434D4B7FEC5D9492C11625952EF87335F496BAC2FC6985704D25FE5C5D7AA"
+    },
+    {
+      "SourceEscaped": "べネブ  ：リンジャーニ遺跡：1900C$",
+      "TargetEscaped": "BeNeB: Linjarny Ruins: 1900C$",
+      "SourceUtf8Sha256": "BD3970BC2FC89BBA495802D16C3510406E6AC7C06CC2D5ABB24E79282DBF0513"
+    },
+    {
+      "SourceEscaped": "ダスド  ：ケイオム遺跡    ：1500C$",
+      "TargetEscaped": "Dasd: Keiome Ruins: 1500C$",
+      "SourceUtf8Sha256": "6892148E08696B169991D8094925C8F2C1F53FC7C1D45124072767A2772FFC66"
+    },
+    {
+      "SourceEscaped": "次のページ",
+      "TargetEscaped": "Next Page",
+      "SourceUtf8Sha256": "7C213EB5169FA1118950B25894DD2CA5BFF839E23B097487FE9F512173BB4D74"
+    },
+    {
+      "SourceEscaped": "ネラ ：王室墓地         ： 3000C$",
+      "TargetEscaped": "Nera: Royal Cemetery: 3000C$",
+      "SourceUtf8Sha256": "9803EB59D2A3CE760373519EA5B500D80B72FA84094DF2B2E837F435548B56E1"
+    },
+    {
+      "SourceEscaped": "ネラ ：スランバー洞窟   ： 3000C$",
+      "TargetEscaped": "Nera: Slumber Cave: 3000C$",
+      "SourceUtf8Sha256": "54AA2677C9E1570122DBB21FAF732085B6DE28337238F4941EA3198633BE04D6"
+    },
+    {
+      "SourceEscaped": "ネラ ：ホープシティ     ： 3000C$",
+      "TargetEscaped": "Nera: Hope City: 3000C$",
+      "SourceUtf8Sha256": "5DAA48900E81D557D1875CFF599671224AC59CF4E7A6166CAEC76668084ECB46"
+    },
+    {
+      "SourceEscaped": "ネラ ：地下スクラップ場 ： 3000C$",
+      "TargetEscaped": "Nera: Underground Scrapyard: 3000C$",
+      "SourceUtf8Sha256": "3D10CF6A07D52FC820FFAE57123F764A8AA7B061032AEC6B55B53947E8C5B3E1"
+    },
+    {
+      "SourceEscaped": "ネラ ：ディザイア庭園   ： 3000C$",
+      "TargetEscaped": "Nera: Desire Garden: 3000C$",
+      "SourceUtf8Sha256": "035A56AB7048D399A91762DF166A00D2C996D75DA5FD409A746F0A4F82B3593A"
+    },
+    {
+      "SourceEscaped": "ネラ ：ベーゼ牢獄       ： 3000C$",
+      "TargetEscaped": "Nera: Baise Prison: 3000C$",
+      "SourceUtf8Sha256": "1BE0D4C23154DA1A58ED197B91106C56090355A97C4A922A40FF1E2179FADF42"
+    },
+    {
+      "SourceEscaped": "ネラ ：スランバー異空間 ： 3000C$",
+      "TargetEscaped": "Nera: Slumber Otherworld: 3000C$",
+      "SourceUtf8Sha256": "0FE2DDFCFB63B7F2F00E88B05EC98E5C2FA2332F9E97FE8E9A7F84FC0AA46FA8"
+    },
+    {
+      "SourceEscaped": "前のページ",
+      "TargetEscaped": "Previous Page",
+      "SourceUtf8Sha256": "83D4591537D498D798B566A0C42FDE45B69B6438CD753F17CE71087BCD5ACB11"
+    },
+    {
+      "SourceEscaped": "ポルド        ：ラムタ研究区域   ：  200C$",
+      "TargetEscaped": "Pold: Ramta Research Area: 200C$",
+      "SourceUtf8Sha256": "E2930696039BA6E186A0E10B2F6EA97B588AF0F21CDED65B4BA00F8F678C5F68"
+    },
+    {
+      "SourceEscaped": "ゲルニア地下  ：ヘブンズタワー   ：  500C$",
+      "TargetEscaped": "Underground Gernia: Heavens Tower: 500C$",
+      "SourceUtf8Sha256": "1D47A4D54D881B52A92C96E5A342AC35FCEBC6D872F4F42EB0A8B045A3F83186"
+    },
+    {
+      "SourceEscaped": "ゲルニア      ：ヘブンズタワー   ：  300C$",
+      "TargetEscaped": "Gernia: Heavens Tower: 300C$",
+      "SourceUtf8Sha256": "18C62BCA2489ABDD2A855054A150993477B636CCBCA8BBA3CBFC05AE96F4CFC6"
+    },
+    {
+      "SourceEscaped": "ガルド        ：キシトン大渓谷   ：  800C$",
+      "TargetEscaped": "Gald: Kishiton Grand Canyon: 800C$",
+      "SourceUtf8Sha256": "61AEFC9DA02780AC5D7CA1C9B83F780FB661474D772E6C0AF53FBD7DC59038E6"
+    },
+    {
+      "SourceEscaped": "ガルド高山    ：ノルドロ遺跡     ： 1100C$",
+      "TargetEscaped": "Gald Highlands: Nordro Ruins: 1100C$",
+      "SourceUtf8Sha256": "197CE3C5F57462995CB4FBF13DBFA796BE5C80A2038762BE9AE4E7369400840A"
+    },
+    {
+      "SourceEscaped": "ガスター      ：ガスター山脈     ： 1600C$",
+      "TargetEscaped": "Gaster: Gaster Mountains: 1600C$",
+      "SourceUtf8Sha256": "94E35ED229F5AD6F05228FEA97FF00EC034270B3958BA0EB929797BD1B5115FC"
+    },
+    {
+      "SourceEscaped": "ガスター      ：インドラ洞窟     ： 1700C$",
+      "TargetEscaped": "Gaster: Indra Cave: 1700C$",
+      "SourceUtf8Sha256": "B25D916DC6EF9C6931D2EBD9BCC14B8C69D74CA67CF8E6E86F877F22BF913FD2"
+    },
+    {
+      "SourceEscaped": "ヘブンズゲート：中枢施設         ： 2500C$",
+      "TargetEscaped": "Heavens Gate: Central Facility: 2500C$",
+      "SourceUtf8Sha256": "548FE84FE5348282951763CDBC58D4698B0ED46E6038F54462368DD009270C1B"
+    },
+    {
+      "SourceEscaped": "ギガス        ：ティタン沼地     ： 3000C$",
+      "TargetEscaped": "Gigas: Titan Wetlands: 3000C$",
+      "SourceUtf8Sha256": "3D6CC6A58BACED37BD1996E82043D25CA114FF8D25D26593E6A2BD36D6C6EA11"
+    },
+    {
+      "SourceEscaped": "アルモス      ：ブターク遺跡     ： 3000C$",
+      "TargetEscaped": "Armos: Butak Ruins: 3000C$",
+      "SourceUtf8Sha256": "3B222EB62A872DE28B88E141FBB8C6C85020EDC0130B30774BA8C859A3B9AE54"
+    },
+    {
+      "SourceEscaped": "欲しい",
+      "TargetEscaped": "I want one.",
+      "SourceUtf8Sha256": "7BFE7863D351E8662B817F34BCF79A215327C26C34098F4AF5CCE454358CF60A"
+    },
+    {
+      "SourceEscaped": "デルタゲート入り口    ：   マスターチケット1枚",
+      "TargetEscaped": "Delta Gate Entrance: 1 Master Ticket",
+      "SourceUtf8Sha256": "5BFD2040AB56A793BFF1A4952989C4EA1503E89BA2137500F6E85494E492528E"
+    },
+    {
+      "SourceEscaped": "デルタゲート入り口    ：   シャーオックジャンプ1個",
+      "TargetEscaped": "Delta Gate Entrance: 1 Shaoak Jump",
+      "SourceUtf8Sha256": "E06F80AC1F2C6DFE7D607E2315D0DA9D7B8374F0D7BF732D22402536C6133084"
+    },
+    {
+      "SourceEscaped": "アクリル決戦拠点    ：   マスターチケット1枚",
+      "TargetEscaped": "Acryl Decisive Battle Base: 1 Master Ticket",
+      "SourceUtf8Sha256": "21215292AECE071BE0F4D8E522677EE710151ED51030E959CFCB455B2819CC5E"
+    },
+    {
+      "SourceEscaped": "アクリル決戦拠点    ：   シャーオックジャンプ1個",
+      "TargetEscaped": "Acryl Decisive Battle Base: 1 Shaoak Jump",
+      "SourceUtf8Sha256": "8D3EB36898AD7B51D62E95411143F5F3AA3F9CB519F18CC17914C68A91A23357"
+    },
+    {
+      "SourceEscaped": "崩壊の惑星ポイーン    ：   狭間の欠片・ポイーン5個",
+      "TargetEscaped": "Collapsing Planet Poyeen: 5 Rift Fragments - Poyeen",
+      "SourceUtf8Sha256": "B80461A8500D572FFAE175BF71170547E818DE2E20BEDA9F97BB55AED0315D24"
+    },
+    {
+      "SourceEscaped": "河童の惑星ゲルニア    ：   狭間の欠片・ゲルニア5個",
+      "TargetEscaped": "Kappa Planet Gernia: 5 Rift Fragments - Gernia",
+      "SourceUtf8Sha256": "E654075347EA7F996039AFF9286AC96592EAEA035680E3E4A001BCA9FB60BD95"
+    },
+    {
+      "SourceEscaped": "密林のゲルニア地下    ：   狭間の欠片・ゲルニア5個",
+      "TargetEscaped": "Underground Jungle Gernia: 5 Rift Fragments - Gernia",
+      "SourceUtf8Sha256": "193E29A248582E3EC314208D20254891C67B569779DF31663327D20E84C1A5EC"
+    },
+    {
+      "SourceEscaped": "砂雪の惑星デゴ  ：  狭間の欠片・ガルド5個",
+      "TargetEscaped": "Sand and Snow Planet Dego: 5 Rift Fragments - Gald",
+      "SourceUtf8Sha256": "971A62FBCB48E8B480974EE013AD28F3EC7816F23823B8ACA6A956BEAC2180BC"
+    },
+    {
+      "SourceEscaped": "砂雪の惑星デゴ  ：  狭間の欠片・デゴ5個",
+      "TargetEscaped": "Sand and Snow Planet Dego: 5 Rift Fragments - Dego",
+      "SourceUtf8Sha256": "86E8FF5794441FE6A02D465BD920AF9880CAB982D1C1FDA49C15AB99A4A0D95F"
+    },
+    {
+      "SourceEscaped": "記憶操作のヘブンズタワー  ：  狭間の欠片・塔ゲルニア5個",
+      "TargetEscaped": "Memory Manipulation Heavens Tower: 5 Rift Fragments - Gernia Tower",
+      "SourceUtf8Sha256": "694C3F08E4B3347D98E208C379DAC84A5ED0E0C64C74013103460CC1AF2027F7"
+    },
+    {
+      "SourceEscaped": "アクリル決戦拠点：一定時刻フリ―パス",
+      "TargetEscaped": "Acryl Decisive Battle Base: Free at Scheduled Times",
+      "SourceUtf8Sha256": "9593A45E1D15DC7604300BD3FE15D2755B24F30B3F761C66B7514E965675B9EB"
+    },
+    {
+      "SourceEscaped": "シャーオック  ：デルタゲート入り口： シャトルフリーパス",
+      "TargetEscaped": "Shaoak: Delta Gate Entrance: Shuttle Free Pass",
+      "SourceUtf8Sha256": "D5E5D87FB226A20D29781902B475127AFFF0DA65E0EAD85A7E3E924FA725698D"
+    },
+    {
+      "SourceEscaped": "バルチャー    ：アラハド草原      ： シャトルフリーパス",
+      "TargetEscaped": "Vulture: Arahad Grassland: Shuttle Free Pass",
+      "SourceUtf8Sha256": "53DAC9AE4E50816F4B1859F396951BCE8B3461FFA40FB7637B7BFBFD648780D1"
+    },
+    {
+      "SourceEscaped": "プーシャ      ：河童の里          ： シャトルフリーパス",
+      "TargetEscaped": "Pusha: Kappa Village: Shuttle Free Pass",
+      "SourceUtf8Sha256": "0852416D592B5F243C02AD9E7E661E128BFA416747A223A2BFCF40E9C88B500F"
+    },
+    {
+      "SourceEscaped": "アルモスSP    ：天使軍第2基地     ： シャトルフリーパス",
+      "TargetEscaped": "Armos SP: Angel Army Base 2: Shuttle Free Pass",
+      "SourceUtf8Sha256": "7BB832BF979D184A89BA3ED133768FB6ACBBD91742CA0804DEFDA84F434569DF"
+    },
+    {
+      "SourceEscaped": "パーツの強化！",
+      "TargetEscaped": "Enhance Parts!",
+      "SourceUtf8Sha256": "1A806197E9E499071E0F2605E27CF762E12A0A47AED543FF7DC4F5FEFCE24E4C"
+    },
+    {
+      "SourceEscaped": "何ができるの？",
+      "TargetEscaped": "What can you do?",
+      "SourceUtf8Sha256": "BCB7F577C0E81EBC2071DB39EC704F46ABB2B5779433240889A117331A7A6068"
+    },
+    {
+      "SourceEscaped": "…興味無いね",
+      "TargetEscaped": "...Not interested.",
+      "SourceUtf8Sha256": "1D53DF803FCC84AB8CA5C171886AA6AEE21667967F12DBBDBB6ADD76BC5CDE7D"
+    },
+    {
+      "SourceEscaped": "トナカイガン",
+      "TargetEscaped": "Reindeer Gun",
+      "SourceUtf8Sha256": "6C089BFD523C621A43427CB7B5FE8EA310F8740C7D9AF96902F3CAA1EEEBC1E2"
+    },
+    {
+      "SourceEscaped": "トナカイブレード",
+      "TargetEscaped": "Reindeer Blade",
+      "SourceUtf8Sha256": "07371403D28A1C27FC90279102D6C2F7727A5ABEAABB1C4F2A572F2B1C2B3910"
+    },
+    {
+      "SourceEscaped": "サンタソリバズーカAM",
+      "TargetEscaped": "Santa Sleigh Bazooka AM",
+      "SourceUtf8Sha256": "6BE8B286EA3403CC7A030F2D05F9F9A26B44688764E9D1DB4BF3F58A92C37FD2"
+    },
+    {
+      "SourceEscaped": "サンタソリガトリングAM",
+      "TargetEscaped": "Santa Sleigh Gatling AM",
+      "SourceUtf8Sha256": "190239B1ACFD6D8B375A1D0AE8F1A40C33C4C4A29724CA945F0ED14FD1F6B3F2"
+    },
+    {
+      "SourceEscaped": "トナカイLG",
+      "TargetEscaped": "Reindeer LG",
+      "SourceUtf8Sha256": "B798BFC753B0AE4FE7C1CE57DF844400348DA97BAABC8EF3A91B0104EB6DF1C0"
+    },
+    {
+      "SourceEscaped": "ファーツリーランス",
+      "TargetEscaped": "Fir Tree Lance",
+      "SourceUtf8Sha256": "9E2F86996668F826D86743FB779E85B97B3808C3CEE618252FCB61C19DCC9EF1"
+    },
+    {
+      "SourceEscaped": "やっぱりやめる！",
+      "TargetEscaped": "Actually, I'll pass!",
+      "SourceUtf8Sha256": "903EC2ABFAAFF90BD7BDC5A3C1AFD061569BF7EC3CE46AB375DA056F1BDDAEC8"
+    },
+    {
+      "SourceEscaped": "はい！",
+      "TargetEscaped": "Yes!",
+      "SourceUtf8Sha256": "C8437DA922B05A66A006272AE646CC70F57E96453C9E5B620E3ABBD8E90368F7"
+    },
+    {
+      "SourceEscaped": "やめた！",
+      "TargetEscaped": "I quit!",
+      "SourceUtf8Sha256": "984053CDFE0C457114AE7FDB77342B52C3830F1E749CD2185BD573AF82C5886E"
+    },
+    {
+      "SourceEscaped": "プレゼント交換する[要3個]",
+      "TargetEscaped": "Exchange Gifts [Requires 3]",
+      "SourceUtf8Sha256": "1F8EDF3112BA746FC37F678811DF5E2539F65B766FF8895EFB5E4D7E92667E30"
+    },
+    {
+      "SourceEscaped": "説明を聞く",
+      "TargetEscaped": "Hear the explanation",
+      "SourceUtf8Sha256": "FBA72DA5D086F47C6336E20436352223D38B53ABF241AF79C004035CF96F768D"
+    },
+    {
+      "SourceEscaped": "交換をやめる",
+      "TargetEscaped": "Cancel the exchange",
+      "SourceUtf8Sha256": "90421328EC1DF9AB56012F35D6D5A64500C52C62273600FAFBFAC841678716C8"
+    },
+    {
+      "SourceEscaped": "待って下さい",
+      "TargetEscaped": "Please wait.",
+      "SourceUtf8Sha256": "2A9CF3D4D0C752470E09DE205827E02BE36D3E12F7610DA4F99F2ED8AB7924BA"
+    },
+    {
+      "SourceEscaped": "何があったの？",
+      "TargetEscaped": "What happened?",
+      "SourceUtf8Sha256": "033C8163D70EB352567123B9EE8AD9B6816985F56902FFCADE13082B129C255F"
+    },
+    {
+      "SourceEscaped": "何をすればいいの？",
+      "TargetEscaped": "What should I do?",
+      "SourceUtf8Sha256": "36CEACFE3D8E3FCD95537196710030DF1A813814E8056570151B8AB9431F659C"
+    },
+    {
+      "SourceEscaped": "連中はどこに？",
+      "TargetEscaped": "Where are they?",
+      "SourceUtf8Sha256": "364E3FF828F6FA85AA089C5E2BE45DE79950CED57E4BE9F47BE6D4602AFDE2A9"
+    },
+    {
+      "SourceEscaped": "どうやって戻るの？",
+      "TargetEscaped": "How do I get back?",
+      "SourceUtf8Sha256": "2AE8044E1A1A27F3C45D550563F0890262D2D76847CE8A4F7B84427700DC24DC"
+    },
+    {
+      "SourceEscaped": "聞く事は無い",
+      "TargetEscaped": "I have no questions.",
+      "SourceUtf8Sha256": "5F8F78EBE487207058060230610AB10423A1856A09BA24701EC4355A68412348"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 深部ジャンプが欲しい",
+      "TargetEscaped": "I want a Pold Ruins Depths Jump.",
+      "SourceUtf8Sha256": "67903A638C1906DE30F13E41E937961D947F158F13F38C5388E54C649531ACF3"
+    },
+    {
+      "SourceEscaped": "渡す",
+      "TargetEscaped": "Hand it over",
+      "SourceUtf8Sha256": "2B2DA72322AE115BBA3458359C42FF1CA7BD27C8C311DC6124150DFFA10AAEF1"
+    },
+    {
+      "SourceEscaped": "深緑の欠片5個、1,000C$",
+      "TargetEscaped": "Deep Green Fragments: 5, 1,000C$",
+      "SourceUtf8Sha256": "773DBBAA1E2597F727ED19F2627541B298E61AF5AB8DF4903A4A493DD66D0CB0"
+    },
+    {
+      "SourceEscaped": "適正レベルはどれくらい？",
+      "TargetEscaped": "What level is recommended?",
+      "SourceUtf8Sha256": "9BE936DFFF5994379B0BFDBCDF9C8E1AB2E33B648F516DEF62E784C2E4BC86A7"
+    },
+    {
+      "SourceEscaped": "ダンジョンの弱点属性は？",
+      "TargetEscaped": "What element are the dungeon enemies weak to?",
+      "SourceUtf8Sha256": "FD395B109BDB50901A802AEA5055E3B49F84CB3C0F8C1A1C2E9F757607B24D73"
+    },
+    {
+      "SourceEscaped": "ボスについて",
+      "TargetEscaped": "About the Boss",
+      "SourceUtf8Sha256": "BF19B4E261E3E1087D15454552E5BFED6B9785F992F6CEF1778FD396DD6AD6EE"
+    },
+    {
+      "SourceEscaped": "ダンジョンの構造について",
+      "TargetEscaped": "About the Dungeon Layout",
+      "SourceUtf8Sha256": "950C4A4F0CA41073447BC4363D472ACC1813129A6D332E5EAC63E3B965AC31FC"
+    },
+    {
+      "SourceEscaped": "どうやったら入れるの？",
+      "TargetEscaped": "How do I get in?",
+      "SourceUtf8Sha256": "90C3C7D36BA52F5A811F90D87292514EFD1CBBB9DB9038A09B57F164CB64FCB4"
+    },
+    {
+      "SourceEscaped": "この先はどうなってるの？",
+      "TargetEscaped": "What's farther ahead?",
+      "SourceUtf8Sha256": "F374C6C42BC65EF2FCF920015A616E11C55F6B90C87670E0D4669829B2CD3ADB"
+    },
+    {
+      "SourceEscaped": "どうやって地上に戻るの？",
+      "TargetEscaped": "How do I return to the surface?",
+      "SourceUtf8Sha256": "F8A6EEE8E7E7DC931B58AF07E5FE7B1B078142FBE81C847E285FDAA2F853CC7B"
+    },
+    {
+      "SourceEscaped": "条件を聞こう",
+      "TargetEscaped": "Let's hear the conditions.",
+      "SourceUtf8Sha256": "7E10067011B9942AF98B2C65AAF42D7864C971568D46416ED10A4D2E60CF2BD7"
+    },
+    {
+      "SourceEscaped": "やめておく",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "CCFF02404D1F0C0AD32B509395F6F5E0560D678F7E1DB1BE9EA96D7656BEDD0E"
+    },
+    {
+      "SourceEscaped": "リペアパック500 10個 2,000C$",
+      "TargetEscaped": "Repair Pack 500: 10 packs: 2,000C$",
+      "SourceUtf8Sha256": "DBD2F8A9CEF69958E298AC7D7E7CB287F16FBB60DE58DE0EF163B08208369D39"
+    },
+    {
+      "SourceEscaped": "エスケープゲート 1個 4,500C$",
+      "TargetEscaped": "Escape Gate: 1 gate: 4,500C$",
+      "SourceUtf8Sha256": "17F88FBA1288B0DF7BE34276CB9DD3BD6350C68B2D601CC7067BE2970CBBBAC0"
+    },
+    {
+      "SourceEscaped": "断る",
+      "TargetEscaped": "I refuse.",
+      "SourceUtf8Sha256": "92767B16344FD1E20A376CD03EFA03325546E5A614826A17A6A0D37E3CA2C341"
+    },
+    {
+      "SourceEscaped": "引き受けた！",
+      "TargetEscaped": "I'll do it!",
+      "SourceUtf8Sha256": "96E6301E4A2BE517476E94852DACE1B731B3B6D1EFDD42143EEEDA2A27434BE6"
+    },
+    {
+      "SourceEscaped": "自分で行け",
+      "TargetEscaped": "Go yourself.",
+      "SourceUtf8Sha256": "22298DD3230512BC0A61F175874526C2CEBB18006F75AF97F2F62BF585486C87"
+    },
+    {
+      "SourceEscaped": "やります",
+      "TargetEscaped": "I'll do it.",
+      "SourceUtf8Sha256": "C2A92793C55635E2AC40ADBD4EEAFEBE08250C85698026A5B2FE6D4588B7FF7D"
+    },
+    {
+      "SourceEscaped": "何も…",
+      "TargetEscaped": "Nothing...",
+      "SourceUtf8Sha256": "4211A1AA8A37FE833607B1FC5E8482C1515F029F7C695F38F20F3B54267B4D32"
+    },
+    {
+      "SourceEscaped": "どうしました？",
+      "TargetEscaped": "What's wrong?",
+      "SourceUtf8Sha256": "AD469E298F39BD28FD3610ED3D6D045FA313968B90AE9067E38CBB4BDF6D6283"
+    },
+    {
+      "SourceEscaped": "任せて",
+      "TargetEscaped": "Leave it to me.",
+      "SourceUtf8Sha256": "83322BEEAEF6855BD35329CDA733B92CF618D013E729D6A9C9B151B3FF80CB4D"
+    },
+    {
+      "SourceEscaped": "特に何も…",
+      "TargetEscaped": "Nothing in particular...",
+      "SourceUtf8Sha256": "CBB20281359D6300AFC213D99C39A554C59DAD813BA3BD9BBCC0C75064D9AE30"
+    },
+    {
+      "SourceEscaped": "レキさんを…",
+      "TargetEscaped": "About レキ...",
+      "SourceUtf8Sha256": "5D9B77E8C1755CC41B2BA07CB8270F71BB412781795E0A0EB83B57B79CB2E7B6"
+    },
+    {
+      "SourceEscaped": "言えません",
+      "TargetEscaped": "I can't tell you.",
+      "SourceUtf8Sha256": "23E4BF528ADB3CE57AD29655C7D93836F5C3A9932375FD4E74957CB8B60D240F"
+    },
+    {
+      "SourceEscaped": "それが…",
+      "TargetEscaped": "Well...",
+      "SourceUtf8Sha256": "A8D4C5FFB139C6EC9F1019EB3925FA480091BE09F09898496DC0011AA5B55B83"
+    },
+    {
+      "SourceEscaped": "それで…",
+      "TargetEscaped": "And then...",
+      "SourceUtf8Sha256": "1AAF5427C79FFC4AFCAF660259681D9A44610BB33AB17FD3A3579ABFE80C18A1"
+    },
+    {
+      "SourceEscaped": "大丈夫です",
+      "TargetEscaped": "I'm ready.",
+      "SourceUtf8Sha256": "2E4511C79DD301BD751212CA916D4ECB6803D0F2FE2FE7F710A166E18D934922"
+    },
+    {
+      "SourceEscaped": "シルバー",
+      "TargetEscaped": "Silver",
+      "SourceUtf8Sha256": "E54388B7DC55DDD5F657A109E63D0C336020C9FA4EBBA87D2E564FEB46139836"
+    },
+    {
+      "SourceEscaped": "ゴールド",
+      "TargetEscaped": "Gold",
+      "SourceUtf8Sha256": "738321C578DCB8AD121988832F952ADA7267CC20EADEE55B9C62F097EC5CDEB2"
+    },
+    {
+      "SourceEscaped": "材料を集めてきます",
+      "TargetEscaped": "I'll gather the materials.",
+      "SourceUtf8Sha256": "5F9721B0D1E05DE3C3D2CA04551A65A24DEB3E0720B88900924EDB1E4A6D027A"
+    },
+    {
+      "SourceEscaped": "ないなら仕方ありませんね",
+      "TargetEscaped": "If you don't have any, it can't be helped.",
+      "SourceUtf8Sha256": "86A6E8574A9E2AF1FD23E06A37C6EEED6B638CD344C0A561F8E2F9F3A0613C56"
+    },
+    {
+      "SourceEscaped": "お願いします",
+      "TargetEscaped": "Please do.",
+      "SourceUtf8Sha256": "C5C3DF248EAAA492712E0F65960E8E3F3BAE2552EE807A4132574534C88F64C7"
+    },
+    {
+      "SourceEscaped": "あきらめます",
+      "TargetEscaped": "I'll give up.",
+      "SourceUtf8Sha256": "AC4A30D2FAEB31429A59A2F410C9E20BE4AB5FD734C0DC6B1A7817F32CAB560C"
+    },
+    {
+      "SourceEscaped": "遠慮します",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "6C359F4B6162EC7BEC9086C8242DA1D6FCA3F770578AFCECE8FF06B6D36168ED"
+    },
+    {
+      "SourceEscaped": "協力します！",
+      "TargetEscaped": "I'll help!",
+      "SourceUtf8Sha256": "AEF911689F592594B091DC56DB611AAC2C0469FD9F5914EAAF3C0532F531FD82"
+    },
+    {
+      "SourceEscaped": "特に何も無いよ",
+      "TargetEscaped": "Nothing in particular.",
+      "SourceUtf8Sha256": "95D09A5FC140C5F55B718A4776BD5DD6AE68C3AB7B57D34388031302D316F36C"
+    },
+    {
+      "SourceEscaped": "ハテック博士が…",
+      "TargetEscaped": "ハテック博士 said...",
+      "SourceUtf8Sha256": "AD90A5AF71D6EB395A22F3FC15C00CFF366E8260A1BA80F768EB3147A5B841CB"
+    },
+    {
+      "SourceEscaped": "やめときます",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "4A4589DC770083E8389E93D66F76B97B5369BA67DE08990BD26B009929F7321F"
+    },
+    {
+      "SourceEscaped": "任せて！",
+      "TargetEscaped": "Leave it to me!",
+      "SourceUtf8Sha256": "64BB547F8B7B9C920786A347110EFF052F854D1C083A707D0984634B29756FB7"
+    },
+    {
+      "SourceEscaped": "どうぞ",
+      "TargetEscaped": "Here you go.",
+      "SourceUtf8Sha256": "5041F23AECC8158431EB4824F78775F846067CCD029F5ADC531C2354914B33B4"
+    },
+    {
+      "SourceEscaped": "挑戦する",
+      "TargetEscaped": "Take the challenge",
+      "SourceUtf8Sha256": "3D0C9E729BFC271556A6B289638AE2D304B6ED1194CD5B381FA624AB7BE6ABFA"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 200C$",
+      "TargetEscaped": "Poyeen: Pold Base: 200C$",
+      "SourceUtf8Sha256": "72B10A0D2237E4E23DBBADD2B3D209A3809DB5B81AC7C9CE9556022B012CEFA7"
+    },
+    {
+      "SourceEscaped": "違うよ！",
+      "TargetEscaped": "That's not it!",
+      "SourceUtf8Sha256": "6D8C12999BBDE910BF525432CA6A25465A632FE0827AF47B397F3A9A6D585D13"
+    },
+    {
+      "SourceEscaped": "相手をする",
+      "TargetEscaped": "Engage them",
+      "SourceUtf8Sha256": "41B872B3538C766B36A021624850AC490B2BD97BADBADE92C62C90F173E6257B"
+    },
+    {
+      "SourceEscaped": "相手しない",
+      "TargetEscaped": "Ignore them",
+      "SourceUtf8Sha256": "7586A655B22631A742520531D392A78E21CA8EFDB9AEEED764090FEA9A8E6E86"
+    },
+    {
+      "SourceEscaped": "ここはどこ？",
+      "TargetEscaped": "Where am I?",
+      "SourceUtf8Sha256": "1FF90071FA74D5132F618BB03DBC460B8211E1DE6F3695223D0814D57CA3864B"
+    },
+    {
+      "SourceEscaped": "他のエリアに行くには",
+      "TargetEscaped": "How do I reach other areas?",
+      "SourceUtf8Sha256": "D299DC00D2D0CE8CA2E917E781AD1072A833614B6224E5FF695CF44071618E5E"
+    },
+    {
+      "SourceEscaped": "あなたは誰？",
+      "TargetEscaped": "Who are you?",
+      "SourceUtf8Sha256": "BB384ED582EA98800EB62C1D37C02E5820AF5F231A29AAF3A8779AEDEA06D90F"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地",
+      "TargetEscaped": "Poyeen: Pold Base",
+      "SourceUtf8Sha256": "D2DD01F1B6F49B7749E1816F53FDD438FDE7CAF1FB40C71D03B25F4599E6BDE8"
+    },
+    {
+      "SourceEscaped": "P・モーナだよ",
+      "TargetEscaped": "It's P・モーナ.",
+      "SourceUtf8Sha256": "D88E28CE898F452F4CF1ED9E17B3CD64DF79702F49F694345D0D071939FD1F5F"
+    },
+    {
+      "SourceEscaped": "教えない",
+      "TargetEscaped": "I won't tell you.",
+      "SourceUtf8Sha256": "8F1DD81D83315D4959A5EAB65BF7830B414E06BA6ACF01901C800A2DA7672168"
+    },
+    {
+      "SourceEscaped": "誰？",
+      "TargetEscaped": "Who?",
+      "SourceUtf8Sha256": "A0290443491AB012C8FD92CB7876EF6D12CC7F1E971741CA6BBE40FAB8D1CCC4"
+    },
+    {
+      "SourceEscaped": "何しに来たの？",
+      "TargetEscaped": "What did you come here for?",
+      "SourceUtf8Sha256": "CEA8DF7C3F8836BB02F4D07CFA1C0AC9118BEB14E66551FD46FEA88D139C16F9"
+    },
+    {
+      "SourceEscaped": "ハロウィンまだだよ？",
+      "TargetEscaped": "It's not Halloween yet, you know?",
+      "SourceUtf8Sha256": "11E190E1974703284017326A6B7685C0AFA85B09DEAC0940F298B3151921CB5E"
+    },
+    {
+      "SourceEscaped": "探検したら？",
+      "TargetEscaped": "Why not explore?",
+      "SourceUtf8Sha256": "8387DF4A5ED5BF8509ACAF4E3991DCA37EFA6EDFA9BCE66E24D2266AE10F98BB"
+    },
+    {
+      "SourceEscaped": "何か手伝うことはある？",
+      "TargetEscaped": "Can I help with anything?",
+      "SourceUtf8Sha256": "17B9A3398A5922EFEE25AA71743F693654B687E8C1963FC8922BF089F3FB243C"
+    },
+    {
+      "SourceEscaped": "バイバイ",
+      "TargetEscaped": "Bye-bye",
+      "SourceUtf8Sha256": "922434C873C2AFCE7C0A734072C397F2CE827AFCF0DA9E2459F646AA5CE8B7AF"
+    },
+    {
+      "SourceEscaped": "【日常組】コラボイベント",
+      "TargetEscaped": "【Nichijogumi】 Collaboration Event",
+      "SourceUtf8Sha256": "BB385DABEE78B268E0C5E5CCB5F9BC49CD4C0C3CA305B5AE3510432E8393ECEF"
+    },
+    {
+      "SourceEscaped": "【日常組】コラボイベントの詳細",
+      "TargetEscaped": "【Nichijogumi】 Collaboration Event Details",
+      "SourceUtf8Sha256": "E2AFB16A214A568D22F43FB4ACF6BCD28AB988F7E0DA9144C9804787014BF233"
+    },
+    {
+      "SourceEscaped": "鋼鉄戦記C21の最新情報",
+      "TargetEscaped": "Latest Steel Chronicles C21 News",
+      "SourceUtf8Sha256": "F530DEFDF13CD9D8757117B632E6A7735B2E7235C9187AA43B0A8F1107053505"
+    },
+    {
+      "SourceEscaped": "ガレージの入り方",
+      "TargetEscaped": "How to Enter the Garage",
+      "SourceUtf8Sha256": "5DCD3832E8E8F365D531C8F7F28D7F1BA8D846B5D0836E0FC403CF663A4CAF33"
+    },
+    {
+      "SourceEscaped": "特に用は無い",
+      "TargetEscaped": "I don't need anything.",
+      "SourceUtf8Sha256": "73877091724A3A339DD7CE4522869AFDC7D3117631C8FAAC2DB36CD230BDF001"
+    },
+    {
+      "SourceEscaped": "ダンジョンの深部について",
+      "TargetEscaped": "About Dungeon Depths",
+      "SourceUtf8Sha256": "429B4E9336A634B967BA2B57E7ADA003E4D418BF59610F46F4D7B5EA9724A6CD"
+    },
+    {
+      "SourceEscaped": "改造済み転送装置について",
+      "TargetEscaped": "About the Modified Transport Device",
+      "SourceUtf8Sha256": "4F5D8B5F0BCB51A07BD2F13FC842586DD09D025EF56EAB3BE0EAC6ECA720E6E2"
+    },
+    {
+      "SourceEscaped": "今はいいや",
+      "TargetEscaped": "I'm fine for now.",
+      "SourceUtf8Sha256": "D78F9572E2B50FB3289B7684958C472BB15AAC6BA621A812F718892ECA9938C1"
+    },
+    {
+      "SourceEscaped": "やってみる！",
+      "TargetEscaped": "I'll try!",
+      "SourceUtf8Sha256": "838CC4DC62259048712D11C005B58757B606C9E950CDCED9155AC477AF9A4459"
+    },
+    {
+      "SourceEscaped": "このままで十分",
+      "TargetEscaped": "It's good enough as it is.",
+      "SourceUtf8Sha256": "F68EEC356F715843591A5C30DC276876E9DE40FB4A55F9551984F0EC81798422"
+    },
+    {
+      "SourceEscaped": "頑張ります！",
+      "TargetEscaped": "I'll do my best!",
+      "SourceUtf8Sha256": "CE668C40F253D10781168301572643428E336FA5787539B1A44CDADBEF25CEC7"
+    },
+    {
+      "SourceEscaped": "了解です",
+      "TargetEscaped": "Understood.",
+      "SourceUtf8Sha256": "A23D5D3D2F3FAA5ABCEF711D5EFD4693B7DA6516716E4B9A2621BC98E748EFEB"
+    },
+    {
+      "SourceEscaped": "読まない",
+      "TargetEscaped": "Don't Read",
+      "SourceUtf8Sha256": "07617780CD65D413ED413394AD04BA5DE7C9D6578C7BC5817E5A1B7F714823A0"
+    },
+    {
+      "SourceEscaped": "読む",
+      "TargetEscaped": "Read",
+      "SourceUtf8Sha256": "818417A13955F3A116CFB32E8D311D2A958241771381D8B1D5B02354016F90EF"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部ジャンプが欲しい",
+      "TargetEscaped": "I want a Kambi Ruins Depths Jump.",
+      "SourceUtf8Sha256": "0BD0A351CC78EDA9B8A35AD4C64F4C182623C876853698415E73E279ACC952C9"
+    },
+    {
+      "SourceEscaped": "古代の欠片3個、5,000C$",
+      "TargetEscaped": "Ancient Fragments: 3, 5,000C$",
+      "SourceUtf8Sha256": "C23FF0B046DA0ADE298B692F6CCD918F7A52CC6FE2D3DDCB305F0F5B4B0A022B"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 400C$",
+      "TargetEscaped": "Poyeen: Pold Base: 400C$",
+      "SourceUtf8Sha256": "F4948B32E36C6C5B9A4A2AF357287647856AB85C343A152E3AC54D3EC0D9AA9A"
+    },
+    {
+      "SourceEscaped": "特に用は…",
+      "TargetEscaped": "Nothing in particular...",
+      "SourceUtf8Sha256": "31BA97CDA422DF947ABDD74BB89A2044BEA5CB4BC9B0BE14486AA9BAC5B7018A"
+    },
+    {
+      "SourceEscaped": "却下で…",
+      "TargetEscaped": "No thanks...",
+      "SourceUtf8Sha256": "F8213453A3C9E5FA5871FF326C9EF1C0736168243061812C9E444B75380FEF3C"
+    },
+    {
+      "SourceEscaped": "任せてよ",
+      "TargetEscaped": "Leave it to me.",
+      "SourceUtf8Sha256": "09C407F5E49C9CE414FDFB9799E1A423B1158EC56C271E3400A77016DE9DABD7"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部ジャンプが欲しい",
+      "TargetEscaped": "I want a Fulbi Ruins Depths Jump.",
+      "SourceUtf8Sha256": "480E696220FFAF4BDAEBD9A2B49A7CF4A3421C15BB2FE5867C0758FBC9962A50"
+    },
+    {
+      "SourceEscaped": "紫石の欠片3個、5,000C$",
+      "TargetEscaped": "Purple Stone Fragments: 3, 5,000C$",
+      "SourceUtf8Sha256": "823D3B5C36FA8C6F761A311337BF2B222815E5D9CDBBD2B362C2A68B393085E8"
+    },
+    {
+      "SourceEscaped": "遺跡について",
+      "TargetEscaped": "About the Ruins",
+      "SourceUtf8Sha256": "FAE49B7FF427468F87023217CD9C9292B8DC285C584A0B1958C70E9127BF57DC"
+    },
+    {
+      "SourceEscaped": "こっそりヒントを教えて",
+      "TargetEscaped": "Give me a secret hint.",
+      "SourceUtf8Sha256": "2FCD8BF4268EAEA40A48973969153A0806304FF22CB3EA8D7BBEB24934800306"
+    },
+    {
+      "SourceEscaped": "エリア1",
+      "TargetEscaped": "Area 1",
+      "SourceUtf8Sha256": "216A29E8B317893BC595A5E6ADD5BB0DDB8174E75E236C46E1903C424B5D146F"
+    },
+    {
+      "SourceEscaped": "エリア2",
+      "TargetEscaped": "Area 2",
+      "SourceUtf8Sha256": "38CB77369F45747FB31BBA8D0738C6C2D75EDA0AF7D7EAAD565B55D66DAFEA20"
+    },
+    {
+      "SourceEscaped": "エリア3",
+      "TargetEscaped": "Area 3",
+      "SourceUtf8Sha256": "D21395ABEC4982543553A018B848EEE36BDA9787C445C22E3BA802C7B5C4A212"
+    },
+    {
+      "SourceEscaped": "エリア4",
+      "TargetEscaped": "Area 4",
+      "SourceUtf8Sha256": "81A0E41A507485434E037834B021EA5B4C36166F9D580C73B1E2420571099E07"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 300C$",
+      "TargetEscaped": "Poyeen: Pold Base: 300C$",
+      "SourceUtf8Sha256": "FC5E2F28F8FDB92C7BF8FE5FFE3744A87CDCD845FAD075155D97635F2AB50883"
+    },
+    {
+      "SourceEscaped": "天使軍はどうなったの？",
+      "TargetEscaped": "What happened to the Angel Army?",
+      "SourceUtf8Sha256": "85972D72DE755950172CFA97F77DC2B6673D33A45D823CFEDA14F89DA1DA1A3A"
+    },
+    {
+      "SourceEscaped": "惑星バルチャーはどうなったの？",
+      "TargetEscaped": "What happened to Planet Vulture?",
+      "SourceUtf8Sha256": "3271EC53A8E7DE2A164EC70FC1695FBFDB3466C10E4A73A13B498125BDA113B9"
+    },
+    {
+      "SourceEscaped": "この先は？",
+      "TargetEscaped": "What's ahead?",
+      "SourceUtf8Sha256": "9954D99FAC6084119943B476A285F1025C996735CCE857D976DBFCB408B5DFDE"
+    },
+    {
+      "SourceEscaped": "この先へ行きたい",
+      "TargetEscaped": "I want to go farther.",
+      "SourceUtf8Sha256": "0398D9D4C21B469296ED11CB8B4342DE4166C0B4F99511D83B9E93B812A50719"
+    },
+    {
+      "SourceEscaped": "カッパオフィサー？",
+      "TargetEscaped": "カッパオフィサー?",
+      "SourceUtf8Sha256": "4F0438B583D4D519A028669915B4FFE6587000368E2FDD03D580D907F2638CCD"
+    },
+    {
+      "SourceEscaped": "何故地下へ侵攻？",
+      "TargetEscaped": "Why invade underground?",
+      "SourceUtf8Sha256": "05F937AA57B7A82EEE2B334059189CBA28508C1A0A3333463307A8EF5DF5E320"
+    },
+    {
+      "SourceEscaped": "使わない",
+      "TargetEscaped": "Don't Use",
+      "SourceUtf8Sha256": "16F23FFFD17DA8BA4E8DBDAA6B369DB115C5909CB7FE9DFA8EE6DAD4DA8043D3"
+    },
+    {
+      "SourceEscaped": "使う",
+      "TargetEscaped": "Use",
+      "SourceUtf8Sha256": "12413235D333FE11016DA623FA1F439425B42C22B0CB246387BB88AD546D0952"
+    },
+    {
+      "SourceEscaped": "モンキーガ？",
+      "TargetEscaped": "モンキーガ?",
+      "SourceUtf8Sha256": "B2208EBE2E87F86636B7BF0B3A654BC5D9B83735155E005E89AEA4C4E6C2474E"
+    },
+    {
+      "SourceEscaped": "何で引っ越して来たの？",
+      "TargetEscaped": "Why did you move here?",
+      "SourceUtf8Sha256": "6328C387B9754A1B1F9BE9C639E0021201062DE4190C391772646C928D42208E"
+    },
+    {
+      "SourceEscaped": "何をしているの？",
+      "TargetEscaped": "What are you doing?",
+      "SourceUtf8Sha256": "6D9149AC9994E27CA9C3B23CD6A44B162CF8786D5CB96FFE1BFB414C73E860DA"
+    },
+    {
+      "SourceEscaped": "青い侍はどこにいる？",
+      "TargetEscaped": "Where is the blue samurai?",
+      "SourceUtf8Sha256": "5F993F784903D9517171DF20AC82EA68A56D779A917365DD0DC2632D77F25E0E"
+    },
+    {
+      "SourceEscaped": "面白い話はない？",
+      "TargetEscaped": "Any interesting stories?",
+      "SourceUtf8Sha256": "3E212F9B5309B3A26FD8312CF9D9D12CABD1125709BC4A1CBB048390A420F132"
+    },
+    {
+      "SourceEscaped": "P・リズベッド様とは？",
+      "TargetEscaped": "Who is P・リズベッド?",
+      "SourceUtf8Sha256": "D76CF3D08C2BA2D3B304654BB83E87643E79B3784111BC84C676F2B8E5F8FA4D"
+    },
+    {
+      "SourceEscaped": "何故捕われた？",
+      "TargetEscaped": "Why were you captured?",
+      "SourceUtf8Sha256": "D8B447CEED8EC80136B4EC9912EF3BFD9AD830D8F56B3D79EBCE23A619F6F425"
+    },
+    {
+      "SourceEscaped": "救助したよ（条件：パーツ空き１）",
+      "TargetEscaped": "I rescued them. (Requires １ free part slot)",
+      "SourceUtf8Sha256": "2A46B82056D9947C5E353273417AFE4623542DCA4138A1CE02636C9A8C16E210"
+    },
+    {
+      "SourceEscaped": "カッパオフィサーの目的",
+      "TargetEscaped": "カッパオフィサー's Objective",
+      "SourceUtf8Sha256": "F6D91A3D6C4071E7071D98EABE362886F9158384ADBDD9814EEE69543B09294F"
+    },
+    {
+      "SourceEscaped": "カッパオフィサーはどこに？",
+      "TargetEscaped": "Where is カッパオフィサー?",
+      "SourceUtf8Sha256": "0625BC74C3C26AA81BB5770D672439862A0B69015E0E1DB1109A8731C8FBADF2"
+    },
+    {
+      "SourceEscaped": "カッパオフィサーの追跡",
+      "TargetEscaped": "Pursuing カッパオフィサー",
+      "SourceUtf8Sha256": "D45E34C5124D6BF459A6DD36916702131051F7E714F56383E32F537169BB9ACD"
+    },
+    {
+      "SourceEscaped": "どうしても捕まえたい！",
+      "TargetEscaped": "I have to catch him!",
+      "SourceUtf8Sha256": "6881274C3C40A8CA741A5AB31131DBFDE2465788F57C1DB163C49DFE60108809"
+    },
+    {
+      "SourceEscaped": "メモリー4個見つけた",
+      "TargetEscaped": "I found 4 Memories.",
+      "SourceUtf8Sha256": "A7B9E4F4E971A2EF0AA02A98576B162131875679489DD8F4B2E50B261364750F"
+    },
+    {
+      "SourceEscaped": "これからどうする？",
+      "TargetEscaped": "What will you do now?",
+      "SourceUtf8Sha256": "8E41F296D598BC394662DD6659CE683E40E67967B41EC6D5699290CBF1EC1563"
+    },
+    {
+      "SourceEscaped": "行く",
+      "TargetEscaped": "Go",
+      "SourceUtf8Sha256": "D74A571FFAB4DF17D50C773BC15F694A93EE3DA5ADF89B9D416907A68FCBE7E6"
+    },
+    {
+      "SourceEscaped": "ホログラム？",
+      "TargetEscaped": "A hologram?",
+      "SourceUtf8Sha256": "6B0AE9F873E7440DBE72DF8ACAA0BBF63F749DE3DC1E3C97EF78C5BF5435AA86"
+    },
+    {
+      "SourceEscaped": "幻覚？",
+      "TargetEscaped": "A hallucination?",
+      "SourceUtf8Sha256": "AC3C7E46C4AF674BAF76DEC94868AF8ACFFAE7E133D1F08C0E98A062A76EFD72"
+    },
+    {
+      "SourceEscaped": "羨ましい…",
+      "TargetEscaped": "I'm jealous...",
+      "SourceUtf8Sha256": "E05170EE5F787BA718520EA264C3432013A50EDBFFC66BD14F089151C99B2D7C"
+    },
+    {
+      "SourceEscaped": "酷い…",
+      "TargetEscaped": "How awful...",
+      "SourceUtf8Sha256": "8918D7603B619B2B2D1C3BB4F3AFED2DF10735F7E7A2EFD9B3A2039BD76E7B79"
+    },
+    {
+      "SourceEscaped": "どういうこと？",
+      "TargetEscaped": "What do you mean?",
+      "SourceUtf8Sha256": "F508A05892BA81D7CC1E54FE09EBBFD7BB58AB571000B45639F06C02DB85BAC8"
+    },
+    {
+      "SourceEscaped": "同機種？",
+      "TargetEscaped": "The same model?",
+      "SourceUtf8Sha256": "E98ED9B738D485B391448629419CFBB13609C298B5D3F1FD0CA5C86052B38788"
+    },
+    {
+      "SourceEscaped": "洗脳されてない？",
+      "TargetEscaped": "You're not brainwashed?",
+      "SourceUtf8Sha256": "0C93E058A5903088341320FD0DE96460388C067A7BE3AD16A0C3D54472A5EDA0"
+    },
+    {
+      "SourceEscaped": "演技？",
+      "TargetEscaped": "Acting?",
+      "SourceUtf8Sha256": "8B48344AFB9BC3EC428A19F1B832D37D837A81584DD698318F7F07BE714BA01D"
+    },
+    {
+      "SourceEscaped": "カッパオフィサーの事",
+      "TargetEscaped": "About カッパオフィサー",
+      "SourceUtf8Sha256": "98126B6B66FEFB1B12E9C42BAAB7EA98C8DE7A7F490973443EBB11730173517E"
+    },
+    {
+      "SourceEscaped": "何でもない",
+      "TargetEscaped": "It's nothing.",
+      "SourceUtf8Sha256": "915BC1CB4CEFCEFEF6EC8533CDAA02814B844BA6717BBBDCD7AE21266EE32825"
+    },
+    {
+      "SourceEscaped": "あるロボ（カッパオフィサー）の事",
+      "TargetEscaped": "About a certain robot (カッパオフィサー)",
+      "SourceUtf8Sha256": "7FF4D3CEBA405DF526403A7393C8DC8DABBB49F81E9D8C577C3A7F79CAF07B11"
+    },
+    {
+      "SourceEscaped": "G・リモアに甘えたい",
+      "TargetEscaped": "I want G・リモア to pamper me.",
+      "SourceUtf8Sha256": "9A5A366264D9CE282FDAD3C401D1E137C2111217424621E2F0B63BBA6D551BE5"
+    },
+    {
+      "SourceEscaped": "削除しない",
+      "TargetEscaped": "Don't Delete",
+      "SourceUtf8Sha256": "E484F8FC6CF28C026F0B9999AFBCB1FC0BF22D32F7207311EE09AC435FD71CB2"
+    },
+    {
+      "SourceEscaped": "削除する",
+      "TargetEscaped": "Delete",
+      "SourceUtf8Sha256": "146915EC6BA480DE67EFE930A0998EA20FE8D95CF425C56B7C8A7C10794F0983"
+    },
+    {
+      "SourceEscaped": "マスターチケット1枚",
+      "TargetEscaped": "Master Ticket: 1",
+      "SourceUtf8Sha256": "78FF30C3FA87593F90373C9864FD5D6D4E352CC9B2048DA649F9D623DD256100"
+    },
+    {
+      "SourceEscaped": "シャーオックジャンプ1個",
+      "TargetEscaped": "Shaoak Jump: 1",
+      "SourceUtf8Sha256": "CCD5BFDBADDE04A0069FF8F0045A6F5CFF03F30BEAB685B1086E00536636E1AD"
+    },
+    {
+      "SourceEscaped": "D・スティカ？",
+      "TargetEscaped": "D・スティカ?",
+      "SourceUtf8Sha256": "C800593BDD5CFBC4DD9D7CDE2C69A41033A72039FB55C8EC79DB40078380567F"
+    },
+    {
+      "SourceEscaped": "作戦エリアの適正レベル",
+      "TargetEscaped": "Recommended Level for the Operation Area",
+      "SourceUtf8Sha256": "B2B88A009CFC2970BAB5E7CB226F45C38310B9A6F67D96AC0F586FFDC4F916DB"
+    },
+    {
+      "SourceEscaped": "作戦エリア内の詳細",
+      "TargetEscaped": "Details of the Operation Area",
+      "SourceUtf8Sha256": "8CE46C663B1CA94BDC57A785E379A667A1FC70170CF7A0101C953C67DE74DC0B"
+    },
+    {
+      "SourceEscaped": "P・リズベッドを救助したよ",
+      "TargetEscaped": "I rescued P・リズベッド.",
+      "SourceUtf8Sha256": "D6CE4DB699EBD5DD648AA95A27E913CA01158D8B5F6C3BC5EAA8D5B30C0BCFEF"
+    },
+    {
+      "SourceEscaped": "D・スティカについて",
+      "TargetEscaped": "About D・スティカ",
+      "SourceUtf8Sha256": "DC71C875BDFCE770851991BA7BAA985EF0BF80329C04249E12CE94F4493E4313"
+    },
+    {
+      "SourceEscaped": "D・スティカの性格について",
+      "TargetEscaped": "About D・スティカ's Personality",
+      "SourceUtf8Sha256": "6E191D4A2F9661DFAE4CA89ED75321FD5B611901D039615A49A7E37B0D389870"
+    },
+    {
+      "SourceEscaped": "忙しい",
+      "TargetEscaped": "I'm busy.",
+      "SourceUtf8Sha256": "20C0B1FEA4E0E453DCC753754497D1B5D690389F4A7AD5F9C10E9B2B4E8909AB"
+    },
+    {
+      "SourceEscaped": "良いよ！",
+      "TargetEscaped": "Sure!",
+      "SourceUtf8Sha256": "677A09714CFECEEA699534CA7112DCBB173A3EA00685067B3CECAA75688500C5"
+    },
+    {
+      "SourceEscaped": "いや、違う",
+      "TargetEscaped": "No, that's not it.",
+      "SourceUtf8Sha256": "70ED8C90C249075DB68F7480490B3290A135DD4AA385471AD76D7F4D2B6D6E81"
+    },
+    {
+      "SourceEscaped": "そうだな",
+      "TargetEscaped": "That's true.",
+      "SourceUtf8Sha256": "2F718D5390D3CEEA2345A0A02C444E3A7621E3794C110C4DC70DA7E76CAA728C"
+    },
+    {
+      "SourceEscaped": "手伝います",
+      "TargetEscaped": "I'll help.",
+      "SourceUtf8Sha256": "CC6E231A3EC83147D42A07FEC051FAF182849CAED9F00E438DBBDA6844DD0944"
+    },
+    {
+      "SourceEscaped": "忙しいので無理です",
+      "TargetEscaped": "I'm too busy.",
+      "SourceUtf8Sha256": "3100F59CD087ECD6D524E3844B67E33F41D1F40CCBE64796D3CB0A0A72831E05"
+    },
+    {
+      "SourceEscaped": "もちろん！",
+      "TargetEscaped": "Of course!",
+      "SourceUtf8Sha256": "D7DC2C584DAB1C79C1051244BD1990DA52C55F4F5FFFD94BD0097C76A51BD1CA"
+    },
+    {
+      "SourceEscaped": "自信がないです",
+      "TargetEscaped": "I'm not confident.",
+      "SourceUtf8Sha256": "95B5EB5978BB7CA9251876AE7FD8AA4201202B5E2FD27CC72EB5AF696D80DBA2"
+    },
+    {
+      "SourceEscaped": "わかりました",
+      "TargetEscaped": "Understood.",
+      "SourceUtf8Sha256": "62A3E713F13C252452C90A0003AF6E8DF6B7DB6B60F36A41F4D1260909358F2E"
+    },
+    {
+      "SourceEscaped": "持っていません",
+      "TargetEscaped": "I don't have it.",
+      "SourceUtf8Sha256": "31157506C5E8AF9D1FD1135537203FB57103D25FCB98A19AF311DB4E4889C75B"
+    },
+    {
+      "SourceEscaped": "自分で行って下さい",
+      "TargetEscaped": "Please go yourself.",
+      "SourceUtf8Sha256": "8164778F2530DE8E679F2918295D51210FE07DE135E254026EFC007CFFB63E5A"
+    },
+    {
+      "SourceEscaped": "用は無いです",
+      "TargetEscaped": "I don't need anything.",
+      "SourceUtf8Sha256": "4DA449CFCA34B1E1ABB87025B7E8E73724EDCEDC5657B1870B0B393C43065E25"
+    },
+    {
+      "SourceEscaped": "あの！",
+      "TargetEscaped": "Um!",
+      "SourceUtf8Sha256": "35B8EE94D7C67188848B8D3941849A3126777E6434C81F94C6DAEE34B4DC267A"
+    },
+    {
+      "SourceEscaped": "いりません",
+      "TargetEscaped": "I don't want it.",
+      "SourceUtf8Sha256": "D281CCB9DD3FAA3CD184FA126F1417E53A70E8B4B385CBE71F10C0F89751B328"
+    },
+    {
+      "SourceEscaped": "欲しいです",
+      "TargetEscaped": "I'd like it.",
+      "SourceUtf8Sha256": "E4550653BAAD60D71C727F41A2DF7FECAAE8ABE3CEBA853585F3E01A02540420"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 800C$",
+      "TargetEscaped": "Poyeen: Pold Base: 800C$",
+      "SourceUtf8Sha256": "340313B97E4A05980C21FA0CE1D5A1FEE9015BC8EA311495749F0D0F1CC02D22"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 700C$",
+      "TargetEscaped": "Poyeen: Pold Base: 700C$",
+      "SourceUtf8Sha256": "580F32FBD8C6CCDBE7BFF78C887FFAF866EA715AE9195A1C27F50313CEFA5361"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡 深部ジャンプが欲しい",
+      "TargetEscaped": "I want a Piatro Ruins Depths Jump.",
+      "SourceUtf8Sha256": "48678A53034CC5FE06EEF23E594B961170B47754ED83624729157BF5E08BB6AF"
+    },
+    {
+      "SourceEscaped": "琥珀の欠片5個、1,000C$",
+      "TargetEscaped": "Amber Fragments: 5, 1,000C$",
+      "SourceUtf8Sha256": "0878F79C8AB91D82664CE8A94B17BF14753F435820218A0CA46A84DC67C9EE70"
+    },
+    {
+      "SourceEscaped": "やなこった",
+      "TargetEscaped": "No way.",
+      "SourceUtf8Sha256": "D8E4CED0DD02E918D198CD27850F0D7E231AFF1FE5728E812AD7AAF30633B44E"
+    },
+    {
+      "SourceEscaped": "了解！",
+      "TargetEscaped": "Roger!",
+      "SourceUtf8Sha256": "2D80DCF567869B6DF59C7FB9863926BBB48ADEADF1441AE11D6BBFE42E632E42"
+    },
+    {
+      "SourceEscaped": "任せてくれ",
+      "TargetEscaped": "Leave it to me.",
+      "SourceUtf8Sha256": "E2752FAC2DF8524DD60CC7C43A1696C0ED9A05F737900D50EB6CA25C0D664FB7"
+    },
+    {
+      "SourceEscaped": "話しかける",
+      "TargetEscaped": "Talk to them",
+      "SourceUtf8Sha256": "E7B2555E5A7B8336385A30637851017011D2DAC6638D298CCD33E3DADE5893F7"
+    },
+    {
+      "SourceEscaped": "通り過ぎる",
+      "TargetEscaped": "Walk past",
+      "SourceUtf8Sha256": "9D7487C89580D61F028B56F7508AD6BFF985D39EBDE86D0451DA079157638421"
+    },
+    {
+      "SourceEscaped": "引き受ける",
+      "TargetEscaped": "Accept",
+      "SourceUtf8Sha256": "A1B71818FED28EF682A623AFE3AB2531134CFD4EB301456319F451C326315EB4"
+    },
+    {
+      "SourceEscaped": "引き受けない",
+      "TargetEscaped": "Decline",
+      "SourceUtf8Sha256": "F2EC42643B2F2E09A4733C1DD65D1292AA37B252AB5A117ED056AB50163C0278"
+    },
+    {
+      "SourceEscaped": "通る",
+      "TargetEscaped": "Pass through",
+      "SourceUtf8Sha256": "A5921E8A61097799EB8EFEDC40CE3B1CD95959BB2B65D953E52C542E11AD7EB6"
+    },
+    {
+      "SourceEscaped": "特に…",
+      "TargetEscaped": "Nothing in particular...",
+      "SourceUtf8Sha256": "113ACBEBC2ACAF53CBC53EB84E7EE32E2E390A57F6B18C5B8E665E78C13B5169"
+    },
+    {
+      "SourceEscaped": "ダイヤを…",
+      "TargetEscaped": "About the diamond...",
+      "SourceUtf8Sha256": "52C6F18F482E3F1BDF332F58C7D08B2300588E05E60D2C1918C40E8571E12B7C"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 1100C$",
+      "TargetEscaped": "Poyeen: Pold Base: 1100C$",
+      "SourceUtf8Sha256": "E5B939B1CEC4BCD6B5A168979DDCBD80518DA15671F0083D2583C11857EAE0D4"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 深部ジャンプが欲しい",
+      "TargetEscaped": "I want a Geo Ruins Depths Jump.",
+      "SourceUtf8Sha256": "502885E9B1494817F7BCEDF7C751E50F4614BFEE11E418965DCAD5D0239A75D4"
+    },
+    {
+      "SourceEscaped": "氷雪の欠片5個、1,000C$",
+      "TargetEscaped": "Ice and Snow Fragments: 5, 1,000C$",
+      "SourceUtf8Sha256": "D7487AC8C296F11C320F7D6CB08E1E59AD386408FDCFCCA13AB9922141614100"
+    },
+    {
+      "SourceEscaped": "持っていない",
+      "TargetEscaped": "I don't have it.",
+      "SourceUtf8Sha256": "832F5344352075F6D21C8CC80D2E0179E4740F14041AF7AB1768CEAD0B351BC4"
+    },
+    {
+      "SourceEscaped": "持っている",
+      "TargetEscaped": "I have it.",
+      "SourceUtf8Sha256": "74F2A6C86B8051395C2D0292443F60EDCDE808D611D6472C078E5E7FEEBE244D"
+    },
+    {
+      "SourceEscaped": "渡さない",
+      "TargetEscaped": "Don't hand it over",
+      "SourceUtf8Sha256": "A492FB0466455B58CB2F0C8843555B5E2BE0E7925D52F10AE058555ECA05D569"
+    },
+    {
+      "SourceEscaped": "ここで何を？",
+      "TargetEscaped": "What are you doing here?",
+      "SourceUtf8Sha256": "D4415B6002831CC4427291BB86FF76E289D8E52586135817C10A3CFDB2ED57DD"
+    },
+    {
+      "SourceEscaped": "助けに来た！",
+      "TargetEscaped": "I've come to help!",
+      "SourceUtf8Sha256": "D8C65BC7A924CB29722706D3D2BEED0786B0EC7388EFEB6CB9B5CE7948698829"
+    },
+    {
+      "SourceEscaped": "助ける方法はないのか？",
+      "TargetEscaped": "Isn't there a way to save her?",
+      "SourceUtf8Sha256": "30B554BE169F41DEFE217640376AAE5559606E0416F4E9B2C4DF33A8EE7235C5"
+    },
+    {
+      "SourceEscaped": "彼女を撃破した",
+      "TargetEscaped": "I defeated her.",
+      "SourceUtf8Sha256": "F66589AEC67833728E74A7BC58A8D0555E394BBC321F4F075771393E6D0FCF14"
+    },
+    {
+      "SourceEscaped": "浄化されたメモリーを渡す",
+      "TargetEscaped": "Hand over the Purified Memory",
+      "SourceUtf8Sha256": "EBE6D8230D674DD4E94EBBB3FACEE97075B8B88D723B14C3A2181FE78C7426C8"
+    },
+    {
+      "SourceEscaped": "メモリーを抜かない",
+      "TargetEscaped": "Don't remove the Memory",
+      "SourceUtf8Sha256": "7180C8EC4D8AD16D0501F9BC7D6A4BAFFBC1634B3136700CD7FE9C91BDD731B3"
+    },
+    {
+      "SourceEscaped": "メモリーを抜く",
+      "TargetEscaped": "Remove the Memory",
+      "SourceUtf8Sha256": "DA9BA237663BB5DFE67D939934CE82BE07A350D75E1C90F957D4944C9D05EA89"
+    },
+    {
+      "SourceEscaped": "いやだ",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "0F61D991D28FE0CCDC996CB4F9023492FE91A4A0837BDC3D3E2821794FBE7D84"
+    },
+    {
+      "SourceEscaped": "いいよ",
+      "TargetEscaped": "Sure.",
+      "SourceUtf8Sha256": "7B2C6E4E5F4A77B1FC265497FC360D54DE4549E7D36D30425C59D1610257F859"
+    },
+    {
+      "SourceEscaped": "うばいとる",
+      "TargetEscaped": "Take it by force",
+      "SourceUtf8Sha256": "86219C80F903FF9D5941492DCFE73AB0C2AC6DA1ACB513473261EF74041B6A7C"
+    },
+    {
+      "SourceEscaped": "なにソレ？",
+      "TargetEscaped": "What's that?",
+      "SourceUtf8Sha256": "9D581094D606E6C4E34B42ECB712B3CF241E587F75C2B116372C8BAFB41E91CC"
+    },
+    {
+      "SourceEscaped": "どこで？",
+      "TargetEscaped": "Where?",
+      "SourceUtf8Sha256": "07956D4F1FA6DADFDB03BBBF2BF12523B11015B5372FC570655DB64112A302FF"
+    },
+    {
+      "SourceEscaped": "ありがとう",
+      "TargetEscaped": "Thank you.",
+      "SourceUtf8Sha256": "5773BE7D3DEDF7CBDA8A0EA503873B85D558DCBB78A636F491ED206A375EDA3F"
+    },
+    {
+      "SourceEscaped": "何だい？",
+      "TargetEscaped": "What is it?",
+      "SourceUtf8Sha256": "4B3E36EB1C8ADB9833F39389063DC199F3A1C90DA20194A6E7DCDE37FB9B5413"
+    },
+    {
+      "SourceEscaped": "うんうん",
+      "TargetEscaped": "Uh-huh.",
+      "SourceUtf8Sha256": "B64CBC3702146A1A1E4AD401927C1A26314816301CE3BB43A0BB033B0A54D707"
+    },
+    {
+      "SourceEscaped": "ヤツ？",
+      "TargetEscaped": "That guy?",
+      "SourceUtf8Sha256": "5819F81433C33D452F854A3D314CC89032EAB92D580963D962765DC20298C13F"
+    },
+    {
+      "SourceEscaped": "嫌だね",
+      "TargetEscaped": "No way.",
+      "SourceUtf8Sha256": "0414B5C30ECEEBF8DBB1814B41E5C510D70FCAFAAEF9221F6AC1B0E471B85908"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 1900C$",
+      "TargetEscaped": "Poyeen: Pold Base: 1900C$",
+      "SourceUtf8Sha256": "5F7BEA094C5027024878FAA28F86BF2A63B66475D2432ECAFE8C411530D71623"
+    },
+    {
+      "SourceEscaped": "信じない",
+      "TargetEscaped": "Don't Believe",
+      "SourceUtf8Sha256": "30CCFEA10D9014306BD61DDD3058D0509AB69214C8AF651EE37D99A66C7C05A0"
+    },
+    {
+      "SourceEscaped": "信じる",
+      "TargetEscaped": "Believe",
+      "SourceUtf8Sha256": "A00A25F7A6385C9915B6DED445BEBFAA86A898798017D4F5863D5414E62452D5"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡(HARD)？",
+      "TargetEscaped": "Linjarny Ruins (HARD)?",
+      "SourceUtf8Sha256": "A80CC559757C61672182771114A8A20E98112711171B6FA48AE19FE134341666"
+    },
+    {
+      "SourceEscaped": "何か面白い話？",
+      "TargetEscaped": "Any interesting stories?",
+      "SourceUtf8Sha256": "FB6A19AC3B3D108FEC96AA3B75FF666BD571218C516698AA8F29768465C04664"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡(NORMAL)？",
+      "TargetEscaped": "Linjarny Ruins (NORMAL)?",
+      "SourceUtf8Sha256": "078AAE0A35B86A32EBAFEA3D598820118B9C4F888EE339EE421BA794035CA15C"
+    },
+    {
+      "SourceEscaped": "いいえ？",
+      "TargetEscaped": "No?",
+      "SourceUtf8Sha256": "384FACE2D401489B89955544CC9C22617891DB94C87349DC8F7EAA9F5BC04FD2"
+    },
+    {
+      "SourceEscaped": "悪魔軍です",
+      "TargetEscaped": "I'm in the Devil Army.",
+      "SourceUtf8Sha256": "FF2D3AF6FE144D57760E0C17AB4D0871F74FE1B8EAE3954EB6BD3A2EAF7B97E3"
+    },
+    {
+      "SourceEscaped": "セルちゃんについて",
+      "TargetEscaped": "About セルちゃん",
+      "SourceUtf8Sha256": "809B171C3EE3D4133CAF8E4BB57DD041BB632EB0E2B503D1060C58EB10F43756"
+    },
+    {
+      "SourceEscaped": "そうですね",
+      "TargetEscaped": "That's right.",
+      "SourceUtf8Sha256": "ED7B2F55FC78FFDBD523755D6A4FADD5285CA1B01A77CE76A51B53754D94EEE8"
+    },
+    {
+      "SourceEscaped": "涼しい姿に！",
+      "TargetEscaped": "Wear something cooler!",
+      "SourceUtf8Sha256": "F6DE72597DFB138C7E521DEABB0A078658FAFE9A345E546ACA7D695CD6CB310A"
+    },
+    {
+      "SourceEscaped": "水があれば！",
+      "TargetEscaped": "If only there were water!",
+      "SourceUtf8Sha256": "F72BC563AB03127F6EAF04DC97F0E31E45582D2C3CE6AB791E609932D5BE27D2"
+    },
+    {
+      "SourceEscaped": "戦えなかった？",
+      "TargetEscaped": "You couldn't fight?",
+      "SourceUtf8Sha256": "F8590E3E0D1F2034FF81C98C21F82E234A1823005105FA1772A75140B1F020A3"
+    },
+    {
+      "SourceEscaped": "イライラ？",
+      "TargetEscaped": "Frustrated?",
+      "SourceUtf8Sha256": "8DA05F7CA5754079ED37F53A79CBF031FCBA147C2AC7D0AC35FE685EE3C42235"
+    },
+    {
+      "SourceEscaped": "楽しそうですね",
+      "TargetEscaped": "That sounds fun.",
+      "SourceUtf8Sha256": "4B61C7150AA44614D0C2A8A35177CA70F0F1F55CE789A6F5D4257B73F15B3B49"
+    },
+    {
+      "SourceEscaped": "水ですか？",
+      "TargetEscaped": "Water?",
+      "SourceUtf8Sha256": "9CB42091ECB8E26C8B08C6F7D1E2962383FE5689343EBA1A147CA971C817EA9D"
+    },
+    {
+      "SourceEscaped": "連絡先教えて",
+      "TargetEscaped": "Give me your contact details.",
+      "SourceUtf8Sha256": "610B6ADE6222E980B6332FD3B7A240DD163E5F54944D44364657A1CA128532D3"
+    },
+    {
+      "SourceEscaped": "上？",
+      "TargetEscaped": "Up?",
+      "SourceUtf8Sha256": "DEC47808D33197EFDE5F905E9220A3C458279A69B3397A14C3706E9C44B872BA"
+    },
+    {
+      "SourceEscaped": "セルちゃん何してる？",
+      "TargetEscaped": "What's セルちゃん doing?",
+      "SourceUtf8Sha256": "A63DB990EF12C73CCAE124606CBC763CBF7AF2DE0F4BBDE39953C6A881F9FB68"
+    },
+    {
+      "SourceEscaped": "次ってボス？",
+      "TargetEscaped": "Is the boss next?",
+      "SourceUtf8Sha256": "1B528A1637255C94E820C1D07A504E18A0DAF93C7BA15FFC52EDA891F0A23CA4"
+    },
+    {
+      "SourceEscaped": "制限リンジャーニ遺跡とは？",
+      "TargetEscaped": "What are the Restricted Linjarny Ruins?",
+      "SourceUtf8Sha256": "F15E6C2E7FDC23E59A5E77DB1501F9CDC0C1F339364B9B64F6CF5207A96A21D2"
+    },
+    {
+      "SourceEscaped": "NORMALについて",
+      "TargetEscaped": "About NORMAL",
+      "SourceUtf8Sha256": "3E0F39D5F3F5788C974AC4A248E355FD2EF36475B264C6F65A14D774F034C764"
+    },
+    {
+      "SourceEscaped": "HARDついて",
+      "TargetEscaped": "About HARD",
+      "SourceUtf8Sha256": "BC224DD70F23A22EF7AFFD16A7EF806E41549A0AD76532061D7AD34C777EE54D"
+    },
+    {
+      "SourceEscaped": "禁域（ポウタ道）へ行く",
+      "TargetEscaped": "Go to the Forbidden Area (Pouta Road)",
+      "SourceUtf8Sha256": "B2B030AEBAEA37C42C131E6FE739CE05E3A1999F3AF0D3D6EA4DE9647036167D"
+    },
+    {
+      "SourceEscaped": "ラボラトリーへ行く",
+      "TargetEscaped": "Go to the Laboratory",
+      "SourceUtf8Sha256": "44A0D5F765354C7FFC76130D1462C64CF04156F0516483E3C03A304667763936"
+    },
+    {
+      "SourceEscaped": "お断りだ",
+      "TargetEscaped": "I refuse.",
+      "SourceUtf8Sha256": "50EB13747FF539E36EB39912D51B259BADAC9E8217070D366B49D9C390CF5EA6"
+    },
+    {
+      "SourceEscaped": "心得た！",
+      "TargetEscaped": "Understood!",
+      "SourceUtf8Sha256": "2B0FBFE5A9DA958DD52008BFAF09BC821D19164AF8D33E9A86E7CA4CCFA6862A"
+    },
+    {
+      "SourceEscaped": "無理だ…",
+      "TargetEscaped": "I can't...",
+      "SourceUtf8Sha256": "C3BD3DC71802784B9848E4CA0F2AA0300B6803DDA3DB9B29DA28AF95D4181F7A"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 1500C$",
+      "TargetEscaped": "Poyeen: Pold Base: 1500C$",
+      "SourceUtf8Sha256": "3AAB6BECABDF6A728749878E4BDE02E4A0B4C3D9A7BF452E48E77E31C1BCFC72"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡？",
+      "TargetEscaped": "Keiome Ruins?",
+      "SourceUtf8Sha256": "5033AE49F7DD0EA46327BE6B7DEEB357B64361E9A593E0BB50D7C8D9B3B8B46C"
+    },
+    {
+      "SourceEscaped": "ゲート起動条件",
+      "TargetEscaped": "Gate Activation Requirements",
+      "SourceUtf8Sha256": "6529CEB1417B593D3B1555128947AF1B66D71BC33827D74B86853E60E57BDC9E"
+    },
+    {
+      "SourceEscaped": "天使軍です",
+      "TargetEscaped": "I'm in the Angel Army.",
+      "SourceUtf8Sha256": "320E46623E6DBC086BFD2E059FD1DDBCC9E36527D5286DEECCF5E4204B922481"
+    },
+    {
+      "SourceEscaped": "お宝は？",
+      "TargetEscaped": "What about treasure?",
+      "SourceUtf8Sha256": "EE61274CCC86F99C3A28ED7824FBB6C4530F3EF8716499151D1C0FFEF55215CD"
+    },
+    {
+      "SourceEscaped": "待って",
+      "TargetEscaped": "Wait.",
+      "SourceUtf8Sha256": "6CFDAAFCC622A4F66A4A9527ECD47CFBE4837BAC6CE628FA79F292970C507C22"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 1600C$",
+      "TargetEscaped": "Poyeen: Pold Base: 1600C$",
+      "SourceUtf8Sha256": "8E0DD2C4A36F5E3B753B71962D83AFE2332F6FBE44F5EBE5A64D70B387FEDCAA"
+    },
+    {
+      "SourceEscaped": "止めない",
+      "TargetEscaped": "Don't Stop",
+      "SourceUtf8Sha256": "65F2978F9C5271E55B068E2A66F4B8D58C96C93E553AECA1D328D0854F322390"
+    },
+    {
+      "SourceEscaped": "止める",
+      "TargetEscaped": "Stop",
+      "SourceUtf8Sha256": "6372F7E9B398FA82BFDF87C06ADED9E4C6ABDA39E84D1E4A802AA91996DDF0FC"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 1700C$",
+      "TargetEscaped": "Poyeen: Pold Base: 1700C$",
+      "SourceUtf8Sha256": "EBE033F101DB68F206CD85C2DB4C16A1D9CEC68823C5D00120D2C8E495A40A1A"
+    },
+    {
+      "SourceEscaped": "惑星ネラについて",
+      "TargetEscaped": "About Planet Nera",
+      "SourceUtf8Sha256": "AEA446DAB75342C207EBBD779A173C5BA8DCD449114C0E799654A293D56BE28A"
+    },
+    {
+      "SourceEscaped": "南には何があるの？",
+      "TargetEscaped": "What's to the south?",
+      "SourceUtf8Sha256": "4E964D7A9377AF9EE9F8D6C190EB0D38BC36010DE16F0CA6A32C6DE3D2F3F977"
+    },
+    {
+      "SourceEscaped": "西には何があるの？",
+      "TargetEscaped": "What's to the west?",
+      "SourceUtf8Sha256": "4FE040F3250AB2B7259A11C7FA6CCA9A3F10AE1641A60AD460DE644FD7B3591D"
+    },
+    {
+      "SourceEscaped": "特殊エネミーについて",
+      "TargetEscaped": "About Special Enemies",
+      "SourceUtf8Sha256": "B574D3379FDD4B60BEF2A560603442F5938B67BF2736963263F636DC61AF9DF5"
+    },
+    {
+      "SourceEscaped": "集落に行きたい",
+      "TargetEscaped": "I want to go to the settlement.",
+      "SourceUtf8Sha256": "558F7722E57C3BEC1F1625B9675C122AE1BFE9FAE1F6040905683083F1C56F73"
+    },
+    {
+      "SourceEscaped": "スランバーの噂",
+      "TargetEscaped": "Rumors about Slumber",
+      "SourceUtf8Sha256": "A41C903DF21F5955AEAE6D3658F17DD2E5F2D458640CF1AF9747CA8FA2A93144"
+    },
+    {
+      "SourceEscaped": "通行証持ってるよ",
+      "TargetEscaped": "I have a permit.",
+      "SourceUtf8Sha256": "C8AA404CBB93F2014F3547B9F810FAEC941494E5BC517E189F398BEA5DE92AF5"
+    },
+    {
+      "SourceEscaped": "シティに行くには？",
+      "TargetEscaped": "How do I get to the city?",
+      "SourceUtf8Sha256": "2D5B14686D566A81099288DD87F54ED3EC08427CE38BF33E449483C4F3B5140F"
+    },
+    {
+      "SourceEscaped": "ホープシティの噂",
+      "TargetEscaped": "Rumors about Hope City",
+      "SourceUtf8Sha256": "5E588C104F0A0CF2890788EFB56B9C702806A5F2C1439548C7F5E80D2DECED86"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 3000C$",
+      "TargetEscaped": "Poyeen: Pold Base: 3000C$",
+      "SourceUtf8Sha256": "930016C930B6033CA077085D5A790489EB36C85F9300FC785294AD6E020B4F20"
+    },
+    {
+      "SourceEscaped": "ネラ　：オールドシティ  ： 500C$",
+      "TargetEscaped": "Nera: Old City: 500C$",
+      "SourceUtf8Sha256": "00BE5E55707F59DC1CCA214F4C003022A96125B134025D2C2AC4340BB5912323"
+    },
+    {
+      "SourceEscaped": "ネラ　：ホープシティ    ： 500C$",
+      "TargetEscaped": "Nera: Hope City: 500C$",
+      "SourceUtf8Sha256": "1BB9848E4A00922FB65666556DCF613A2791B53CD1BF52F14EE858324AFBD6DE"
+    },
+    {
+      "SourceEscaped": "ネラ　：ヘイテッドシティ： 500C$",
+      "TargetEscaped": "Nera: Hated City: 500C$",
+      "SourceUtf8Sha256": "99B172A93AF316AF3F37A23043296D057BC988F9244920C9BAB1517A48F866DA"
+    },
+    {
+      "SourceEscaped": "ネラ　：ケーブル基地    ： 500C$",
+      "TargetEscaped": "Nera: Cable Base: 500C$",
+      "SourceUtf8Sha256": "DB49ADE6589C1B3207897A25BAD71A629BE7FB0F1E31EC999C83931BC70E00A0"
+    },
+    {
+      "SourceEscaped": "ネラ　：ヒル宇宙港      ： 500C$",
+      "TargetEscaped": "Nera: Hill Spaceport: 500C$",
+      "SourceUtf8Sha256": "D5F0E407D3FBC4B969AFD4E76E8685A706194F37B77FCCE7DC4D2E7475A5D7BE"
+    },
+    {
+      "SourceEscaped": "ネラ　：禁域の墓        ： 0C$",
+      "TargetEscaped": "Nera: Forbidden Tomb: 0C$",
+      "SourceUtf8Sha256": "052531299677418E41A0D686A74851F04E46E3462B6724C121179B45E1E0D502"
+    },
+    {
+      "SourceEscaped": "ネラ　：王室墓地        ： 500C$",
+      "TargetEscaped": "Nera: Royal Cemetery: 500C$",
+      "SourceUtf8Sha256": "C54ED7EF2FEAEE6600CE76163FE2648D4AEE9DD57F6AA7A83D59F2EAE811A12D"
+    },
+    {
+      "SourceEscaped": "ネラ　：スランバー洞窟  ： 500C$",
+      "TargetEscaped": "Nera: Slumber Cave: 500C$",
+      "SourceUtf8Sha256": "E5FF723A80DF0D88699A0389052A15675D0C75D26749BF650C76540861D3AE95"
+    },
+    {
+      "SourceEscaped": "ネラ　：ホープシティ本社： 500C$",
+      "TargetEscaped": "Nera: Hope City Headquarters: 500C$",
+      "SourceUtf8Sha256": "634C42925E77F29287CF025A1702BE97779CED96A1D3DAFBB1E85AAA898F74B8"
+    },
+    {
+      "SourceEscaped": "ネラ　：地下スクラップ場： 500C$",
+      "TargetEscaped": "Nera: Underground Scrapyard: 500C$",
+      "SourceUtf8Sha256": "D3FD88EADCE318DA8F6D1434EF46B07EED4AB1DA40E760A2B8C935C07B3F58D2"
+    },
+    {
+      "SourceEscaped": "ネラ　：ディザイア庭園  ： 500C$",
+      "TargetEscaped": "Nera: Desire Garden: 500C$",
+      "SourceUtf8Sha256": "056F29935CEBB63762761A6C571F94B706806ABE59AE37FAE9A1BC0157E0AFA7"
+    },
+    {
+      "SourceEscaped": "ネラ　：ベーゼ牢獄      ： 500C$",
+      "TargetEscaped": "Nera: Baise Prison: 500C$",
+      "SourceUtf8Sha256": "C970E021B7141C79FA0E00BFF2F47D3C72927368FAE94207541A28E9B555109D"
+    },
+    {
+      "SourceEscaped": "ネラ　：スランバー異空間： 500C$",
+      "TargetEscaped": "Nera: Slumber Otherworld: 500C$",
+      "SourceUtf8Sha256": "AFF844E868EEABDD6EADBC8F7B32DE149B3E3FF82768C7639FE7354ABE481D0F"
+    },
+    {
+      "SourceEscaped": "王室墓地について",
+      "TargetEscaped": "About the Royal Cemetery",
+      "SourceUtf8Sha256": "7127D7513CD73D26DDC7C90B5E3BA9A470085E32F9889AC1C28B0BAE869C9501"
+    },
+    {
+      "SourceEscaped": "王室墓地深部の行き方",
+      "TargetEscaped": "How to Reach the Royal Cemetery Depths",
+      "SourceUtf8Sha256": "321A8D5B77B941B6CA881CEC0F0B13DC3EA964A31FA6EC3776154F5F8D5C394D"
+    },
+    {
+      "SourceEscaped": "王室墓地には何がある？",
+      "TargetEscaped": "What's in the Royal Cemetery?",
+      "SourceUtf8Sha256": "0E3BD913627CC1A30E6C18E360E8A2C6040BE9FFBFBB82B7F60FA14D3ABCBF8F"
+    },
+    {
+      "SourceEscaped": "何か面白い話",
+      "TargetEscaped": "An interesting story",
+      "SourceUtf8Sha256": "25E45EF730D0380D55C1750B7C2C05B01D7391A93869C4C3E675DFE18978907A"
+    },
+    {
+      "SourceEscaped": "スランバー洞窟？",
+      "TargetEscaped": "Slumber Cave?",
+      "SourceUtf8Sha256": "31112EB390198A848933D83970D1CB5092B8635D78830143081D5095AAF89E22"
+    },
+    {
+      "SourceEscaped": "中に入るには？",
+      "TargetEscaped": "How do I get inside?",
+      "SourceUtf8Sha256": "A3B71976CBE1B6DE83AF7C413B3542DDF3E386E03921769717DD9A52E2829A12"
+    },
+    {
+      "SourceEscaped": "実はこの中って",
+      "TargetEscaped": "Actually, inside here...",
+      "SourceUtf8Sha256": "B79D84D8D51B5F602C22D5FFA62D7A16ABF28BE8ACC1C8BB59EE4E3F369CDEB3"
+    },
+    {
+      "SourceEscaped": "スランバー洞窟について",
+      "TargetEscaped": "About Slumber Cave",
+      "SourceUtf8Sha256": "50CACB0A9C19ECCB3E171434889AEFBB0DD2DCB51063ED5200DB87A4D005178D"
+    },
+    {
+      "SourceEscaped": "アドバイス",
+      "TargetEscaped": "Advice",
+      "SourceUtf8Sha256": "A3DCDD1BB13C176A1B0B3166340BAE17CE834164B9BEF50A7BD89A6B131A1003"
+    },
+    {
+      "SourceEscaped": "彗星戦争について",
+      "TargetEscaped": "About the Comet War",
+      "SourceUtf8Sha256": "8D9919EA44FA5E3605C3166C5EBD5E8068A2CA4CCFFA857537625D781F85E644"
+    },
+    {
+      "SourceEscaped": "天使軍について",
+      "TargetEscaped": "About the Angel Army",
+      "SourceUtf8Sha256": "942D3D8C0CCD445A5D35ADD1A7C8D8C771DE16261C35A82E0885AE6BFB86A2E8"
+    },
+    {
+      "SourceEscaped": "悪魔軍について",
+      "TargetEscaped": "About the Devil Army",
+      "SourceUtf8Sha256": "9A1905DD84B90336BFD00FC7CB2BAC2A467CB35512C4E7E9ECA222FF8D0ADFAE"
+    },
+    {
+      "SourceEscaped": "ガデル騎士団長",
+      "TargetEscaped": "ガデル騎士団長",
+      "SourceUtf8Sha256": "7AF717F34E9129D453E6C372B4BCD096E6294B8086D99E2BF98FBC2EEE984FA7"
+    },
+    {
+      "SourceEscaped": "惑星ネラ 戦争終結",
+      "TargetEscaped": "The End of the War on Planet Nera",
+      "SourceUtf8Sha256": "96A43561713218AE5E102B07CEB50A5199C8EA36D547366F62599EF835DF9532"
+    },
+    {
+      "SourceEscaped": "戦争終結後",
+      "TargetEscaped": "After the War",
+      "SourceUtf8Sha256": "5810E6DE00A9A3BDF12953075F16B238BAA0EF86848F1466DA815A44DC0EF2CF"
+    },
+    {
+      "SourceEscaped": "ロボAI研究",
+      "TargetEscaped": "Robot AI Research",
+      "SourceUtf8Sha256": "5EF4C23A3D3D4DD1C1A583BA228C7F0BB0AE84B83BA95E81F7AFBC915F099D28"
+    },
+    {
+      "SourceEscaped": "AI研究成果",
+      "TargetEscaped": "AI Research Results",
+      "SourceUtf8Sha256": "19D8020CBDB15B754DEB0CB89B12C0D5D2A9FFAE355CC38CF39A8C15DC2D302C"
+    },
+    {
+      "SourceEscaped": "ロボの子供",
+      "TargetEscaped": "Robot Children",
+      "SourceUtf8Sha256": "5786FF98C1EB9FA72AB19C5897C4CF431F51AD54649AB5604172E680131C506B"
+    },
+    {
+      "SourceEscaped": "育成計画",
+      "TargetEscaped": "The Development Plan",
+      "SourceUtf8Sha256": "E115919774EFC16C3381BBCCAE1F1D321A1B806CC5148EBB3B59ECEDF7880180"
+    },
+    {
+      "SourceEscaped": "（無視する）",
+      "TargetEscaped": "(Ignore them)",
+      "SourceUtf8Sha256": "49C4618ED824CEE9D9B5B24816FF39ADB81E6E8FEBBFBB6FB36AA9FEDFF62FD7"
+    },
+    {
+      "SourceEscaped": "手を貸す",
+      "TargetEscaped": "Lend a hand",
+      "SourceUtf8Sha256": "6C9BBCA662D8924738CA0B612517EC59B51C34C8BAD9FE259F2F7DFD667B3F30"
+    },
+    {
+      "SourceEscaped": "出さない",
+      "TargetEscaped": "Don't reach out",
+      "SourceUtf8Sha256": "26ABC2738B8A2F7C692FC9245CF0D1171EF3F15A4711C6EB9891F609418489F1"
+    },
+    {
+      "SourceEscaped": "手を出す",
+      "TargetEscaped": "Reach out",
+      "SourceUtf8Sha256": "2ED30B93D4B858291E5C3325E8D4E240B0FFDA37C7C9BE4AEAD1C2EFFC907FDC"
+    },
+    {
+      "SourceEscaped": "何で封鎖してるの？",
+      "TargetEscaped": "Why is it sealed off?",
+      "SourceUtf8Sha256": "1F60476EBB3A210094C69ADC9FD242E46863FE898284E326AFD41BA77D2D6DDE"
+    },
+    {
+      "SourceEscaped": "スランバーって何？",
+      "TargetEscaped": "What is Slumber?",
+      "SourceUtf8Sha256": "DC61B14DEB8C0AEBC4E83AB4BEF4300A3AB318D8DBD6F1D9AF3B9907DCADE5DD"
+    },
+    {
+      "SourceEscaped": "スランバーを倒す方法",
+      "TargetEscaped": "How to Defeat Slumber",
+      "SourceUtf8Sha256": "7FBD4D39C6C28421EC7D95DFE87ADE6E809C78F16AEE128D49FFBCE410BE7D9B"
+    },
+    {
+      "SourceEscaped": "オールドシティへ行きたい",
+      "TargetEscaped": "I want to go to Old City.",
+      "SourceUtf8Sha256": "A6176854DC71274F27BB2FF748BB3319A7B0BFB4CF437EF32FF5DAD01BD9B2AC"
+    },
+    {
+      "SourceEscaped": "いえ",
+      "TargetEscaped": "No.",
+      "SourceUtf8Sha256": "CEF7E4B1DD35429CB99E930929FBFE9CF4A5CB2DC1DB33E664C25AFD489A70DC"
+    },
+    {
+      "SourceEscaped": "そこまで",
+      "TargetEscaped": "Not that much.",
+      "SourceUtf8Sha256": "F5C7211E9F1FA9DCFE0DD48D829EEA777E750BFB47F1CF700E6376ED511941C1"
+    },
+    {
+      "SourceEscaped": "とても美しい",
+      "TargetEscaped": "Very beautiful",
+      "SourceUtf8Sha256": "6D3F3015AEE7F3888F022B73D4A12A032996895997F9D2F34A6C49A362413C19"
+    },
+    {
+      "SourceEscaped": "とてもカワイイ",
+      "TargetEscaped": "Very cute",
+      "SourceUtf8Sha256": "9F116512A6793CCD6B6047448BC49FF86B870D610563E8B434756760920D9DD2"
+    },
+    {
+      "SourceEscaped": "ネラの砂（50個）",
+      "TargetEscaped": "Nera Sand (50)",
+      "SourceUtf8Sha256": "62BEEAFD61C94D7B883B809EA9CEE032FFDD146053057E64D6719BF1192E79C6"
+    },
+    {
+      "SourceEscaped": "常闇の破片（50個）",
+      "TargetEscaped": "Everdark Fragments (50)",
+      "SourceUtf8Sha256": "BA668A43D1FEBAAC68A29E0C1DD15D00A7CA199988DE6EAC7A685639FCF661E1"
+    },
+    {
+      "SourceEscaped": "常闇装甲（50個）",
+      "TargetEscaped": "Everdark Armor (50)",
+      "SourceUtf8Sha256": "8F64A139C87B0B51613EA4EF78EA4D033A168B803086E6D60226852E105178DC"
+    },
+    {
+      "SourceEscaped": "常闇のトゲ（50個）",
+      "TargetEscaped": "Everdark Thorns (50)",
+      "SourceUtf8Sha256": "1F029196C251B403CC78F8F3984DE0D078604FD1929153393743FCA718315A99"
+    },
+    {
+      "SourceEscaped": "常闇のオイル（50個）",
+      "TargetEscaped": "Everdark Oil (50)",
+      "SourceUtf8Sha256": "CE6EEB4FCA710840FEE57F902F34C2B5A8998126026C3BC5F08AE1186F64AEA3"
+    },
+    {
+      "SourceEscaped": "常闇回路（50個）",
+      "TargetEscaped": "Everdark Circuits (50)",
+      "SourceUtf8Sha256": "A981BCE5A29E4950984C791E240D49F507852A0138DEA6BF785DB1B5A61363DD"
+    },
+    {
+      "SourceEscaped": "常闇のコイン（1個）",
+      "TargetEscaped": "Everdark Coin (1)",
+      "SourceUtf8Sha256": "1610099E0D9B2A1A9D3D883A61F3849AD1EBA0668033DE21E07B48D006D506EB"
+    },
+    {
+      "SourceEscaped": "全て集めた",
+      "TargetEscaped": "I've gathered everything.",
+      "SourceUtf8Sha256": "7A67D2A1FFBF1664594930658C84CFB568FC395933BADB86A1D06DB56AC12CE2"
+    },
+    {
+      "SourceEscaped": "はい（と考えた）",
+      "TargetEscaped": "Yes. (I thought.)",
+      "SourceUtf8Sha256": "1315BBC84A980C68156CB6B6F535502AC2945518C5EF2D07DAF103993BB0E9C1"
+    },
+    {
+      "SourceEscaped": "子供が？",
+      "TargetEscaped": "A child?",
+      "SourceUtf8Sha256": "B8BAD851CDF9BD3A159F10053D9CCBAEBAB6A78E3DCC41072FA930ECE9FD1A02"
+    },
+    {
+      "SourceEscaped": "娘？",
+      "TargetEscaped": "A daughter?",
+      "SourceUtf8Sha256": "F1E207E8B0CEE2E0DD518764D6C3D9FCA07A9244D91B37B12EF5A5800C7E91EC"
+    },
+    {
+      "SourceEscaped": "硬いマニモだ",
+      "TargetEscaped": "A tough Manimo.",
+      "SourceUtf8Sha256": "CA70D71632F3765A3EB9AAA07E9003421D5E2B9A869B61CAF248F8CB1C8DDA6E"
+    },
+    {
+      "SourceEscaped": "大丈夫ですか？",
+      "TargetEscaped": "Are you all right?",
+      "SourceUtf8Sha256": "4BFC48A77291EE72AF0571A34E387BF6A9C972B568328CFFFAB8EBA200CFB428"
+    },
+    {
+      "SourceEscaped": "白マニモに紹介された",
+      "TargetEscaped": "White Manimo sent me.",
+      "SourceUtf8Sha256": "4EDEAE58EC8330F1C81081D33E06AC42951D3C46485BF1348870E3EB54E4019E"
+    },
+    {
+      "SourceEscaped": "オールドシティについて",
+      "TargetEscaped": "About Old City",
+      "SourceUtf8Sha256": "DBC9923D96F5D29A27DD33BDBD0424E132B83F80D579F5CB92343D49A0E5004A"
+    },
+    {
+      "SourceEscaped": "ホープシティについて",
+      "TargetEscaped": "About Hope City",
+      "SourceUtf8Sha256": "317E5CAF37EE88F2E5F8649D98766FEA5A9747B8D57D564A01F35968E8C2916C"
+    },
+    {
+      "SourceEscaped": "惑星ネラの王族について",
+      "TargetEscaped": "About Planet Nera's Royal Family",
+      "SourceUtf8Sha256": "7064E9BAFB7518EBD8D77589E03278DEA2475ECEC3C7B2038CB17165DB254C6C"
+    },
+    {
+      "SourceEscaped": "君って悪魔軍？",
+      "TargetEscaped": "Are you in the Devil Army?",
+      "SourceUtf8Sha256": "EACF9FF8CD9136F612EB17F0004631A8D33DE3D8B1EA6F0FF28CE63E0A74DAFA"
+    },
+    {
+      "SourceEscaped": "壊れた転送装置について",
+      "TargetEscaped": "About the Broken Transport Device",
+      "SourceUtf8Sha256": "5A79A2002DF22A6975D208D369AE641DF34913F267057039BFA6A557EF19D953"
+    },
+    {
+      "SourceEscaped": "壊れた転送装置（渡す）",
+      "TargetEscaped": "Broken Transport Device (Hand Over)",
+      "SourceUtf8Sha256": "C69E1A1846F358D9E5C98D5E6DAB429D96E46D24003EF9CF37300C622B831459"
+    },
+    {
+      "SourceEscaped": "破片ガチャについて",
+      "TargetEscaped": "About Fragment Gacha",
+      "SourceUtf8Sha256": "72019C4CB22173023558AF1EAFE1A96CC0C1815515F666CD0C347B906C47749D"
+    },
+    {
+      "SourceEscaped": "特殊設計図について",
+      "TargetEscaped": "About Special Blueprints",
+      "SourceUtf8Sha256": "31AF4BCCD226ADAE498F0B2E582F732A2166F5FC727692BC5FBB98802811B91A"
+    },
+    {
+      "SourceEscaped": "ダッシュパーツについて",
+      "TargetEscaped": "About Dash Parts",
+      "SourceUtf8Sha256": "752D6A0A7C0207830154306E56746B0416DC61BD41098B4FE06777583006BBCF"
+    },
+    {
+      "SourceEscaped": "これからもネラを護って",
+      "TargetEscaped": "Keep protecting Nera.",
+      "SourceUtf8Sha256": "AF95935F2C22C90550E11793B5E983204A1E0808CE530230A3A3720955A97BCD"
+    },
+    {
+      "SourceEscaped": "何も言わない",
+      "TargetEscaped": "Say nothing",
+      "SourceUtf8Sha256": "5EE2CF435C6719E50244241A535D3234F2369B93F5BB48922DFD9FDD69D89C19"
+    },
+    {
+      "SourceEscaped": "安心したから",
+      "TargetEscaped": "Because I'm relieved.",
+      "SourceUtf8Sha256": "5DBA5E957179526D007EADBA42103FF0A9D044F0B920F3EA05B13383E2197294"
+    },
+    {
+      "SourceEscaped": "嬉しいから",
+      "TargetEscaped": "Because I'm happy.",
+      "SourceUtf8Sha256": "BD3FFEDA090A3933CD07A9D086890F4B9182F5029B21ADB4024EF97B2A227894"
+    },
+    {
+      "SourceEscaped": "もう一度会おう",
+      "TargetEscaped": "Let's meet again.",
+      "SourceUtf8Sha256": "2E0C9D85D264CEE5174A96E8C6D2D760B7F3E5605754A39D8EAF471525D3A0B4"
+    },
+    {
+      "SourceEscaped": "一緒にいるから",
+      "TargetEscaped": "Because I'm here with you.",
+      "SourceUtf8Sha256": "5F3D0A70B65F04FB082DF801A09EB62A37057A43A1EA840A4318DEE5CACE9576"
+    },
+    {
+      "SourceEscaped": "自分から言えって",
+      "TargetEscaped": "I'm telling you to say it yourself.",
+      "SourceUtf8Sha256": "FAF72D61765038DA72D9C50433CEBD9922E0D4CF16DAD1B992A0E1A19190E4CE"
+    },
+    {
+      "SourceEscaped": "心配だった",
+      "TargetEscaped": "I was worried.",
+      "SourceUtf8Sha256": "E2D3DF9392C168249432CD878D81A97D5C0C7704602A89FD7EF5B0C71CA4DF62"
+    },
+    {
+      "SourceEscaped": "オマエは誰？",
+      "TargetEscaped": "Who are you?",
+      "SourceUtf8Sha256": "DE80FE85BDE3781F4F0BBD76B3DF7956BE92524E4667AF5A31C8A50D1D85631C"
+    },
+    {
+      "SourceEscaped": "オマエは悪魔軍か？",
+      "TargetEscaped": "Are you in the Devil Army?",
+      "SourceUtf8Sha256": "AD72306E48DC9C516A3FD908F72D555FE9D29368B859F7F753140A5ABA5E31B9"
+    },
+    {
+      "SourceEscaped": "スランバーについて",
+      "TargetEscaped": "About Slumber",
+      "SourceUtf8Sha256": "F3914466BF20B6DE5C5B73DD8D5D2445334CF3E135EB85F5261EE376FB4E53AB"
+    },
+    {
+      "SourceEscaped": "母親を返せ",
+      "TargetEscaped": "Give our mother back.",
+      "SourceUtf8Sha256": "BF8054AEDB8B7CD671E7A3D34B59081491D767FCAFE900EC107D1127C52FF64F"
+    },
+    {
+      "SourceEscaped": "母親を治す方法",
+      "TargetEscaped": "How to Heal Their Mother",
+      "SourceUtf8Sha256": "FC7207D2813ADC1EA3311196934B29A109FA019F9E5DBD0C409DCB427F84962F"
+    },
+    {
+      "SourceEscaped": "記憶を覗く",
+      "TargetEscaped": "Look into the memories",
+      "SourceUtf8Sha256": "60393B9DF185AA4D5E1E5D44A00CD570C442BA5423FDECC2F95FE2F95D287D1C"
+    },
+    {
+      "SourceEscaped": "裁かない",
+      "TargetEscaped": "Don't judge",
+      "SourceUtf8Sha256": "A6E0ED9CDC8E0B384A4E4BF9286F28B98D40B9557563E1BEC9CBDC48C81360EF"
+    },
+    {
+      "SourceEscaped": "特性「常闇」について",
+      "TargetEscaped": "About the \"Everdark\" Trait",
+      "SourceUtf8Sha256": "A6BBFE2497FAF68553C220AABD9B862C9737B88A93AEC2DF7C4E2C5704A82D64"
+    },
+    {
+      "SourceEscaped": "スティッキーマシンガン",
+      "TargetEscaped": "Sticky Machine Gun",
+      "SourceUtf8Sha256": "CC02E01662BA71AA31C3BDAB6FD052600BFC768CD12D3ADEE69CDDE33A6AEF26"
+    },
+    {
+      "SourceEscaped": "ブラッディソード",
+      "TargetEscaped": "Bloody Sword",
+      "SourceUtf8Sha256": "B47822019D14E902E31A97264D542C5348EF04B42C6D5AACD9DA0D9294889805"
+    },
+    {
+      "SourceEscaped": "バーティカルミサイル",
+      "TargetEscaped": "Vertical Missile",
+      "SourceUtf8Sha256": "61B93550838DD0F3D93A37082AB8927455CF849D6CE2CF0D6E960E5AD9FD06C6"
+    },
+    {
+      "SourceEscaped": "アビスサイス",
+      "TargetEscaped": "Abyss Scythe",
+      "SourceUtf8Sha256": "9F2A08FB9E157E3A37107969AF78E6C736474B099EA4B6DBD2DB72F6A4283FA0"
+    },
+    {
+      "SourceEscaped": "「レーヴァ・ブレード★」入手について",
+      "TargetEscaped": "How to Obtain \"Laeva Blade★\"",
+      "SourceUtf8Sha256": "A4D66C85B1A66ECB4AF46DB2AD84B61501CA7093226BB428981D7AFFAD3FA6F9"
+    },
+    {
+      "SourceEscaped": "「スタック」について",
+      "TargetEscaped": "About \"Stack\"",
+      "SourceUtf8Sha256": "CE9A892D7E87423AC22647704D927CB2ABE9AF2157CB1D30C168C7A395C16A4F"
+    },
+    {
+      "SourceEscaped": "ビッグガデルセイバー",
+      "TargetEscaped": "Big Gadel Saber",
+      "SourceUtf8Sha256": "4996BC4268ADC5C5D227CA2D315AD21ADFC3D353D466B10C34FD6001A692EC8F"
+    },
+    {
+      "SourceEscaped": "エアスラッシャー",
+      "TargetEscaped": "Air Slasher",
+      "SourceUtf8Sha256": "23990F59391B6B26E0522A8164A456632D5AFC398EFA598617057FBE71930C1E"
+    },
+    {
+      "SourceEscaped": "シュレッドショットガン",
+      "TargetEscaped": "Shred Shotgun",
+      "SourceUtf8Sha256": "0580D603D7D37FBEC960DD0D9C3B4EC3D2E65E7DD0D149751972674159A418A0"
+    },
+    {
+      "SourceEscaped": "ペンシルボトルランチャー",
+      "TargetEscaped": "Pencil Bottle Launcher",
+      "SourceUtf8Sha256": "30281AAA9A470B1F265792538C42691DC2DF1D21A27F5381EF35CD9795A513B9"
+    },
+    {
+      "SourceEscaped": "ホープシティ本社について",
+      "TargetEscaped": "About Hope City Headquarters",
+      "SourceUtf8Sha256": "54A31B3747C6E907E41BF08AEC0EB9C3E952E0CA70894A280E26163A8698721D"
+    },
+    {
+      "SourceEscaped": "ホープシティ地下道について",
+      "TargetEscaped": "About Hope City's Underground Passage",
+      "SourceUtf8Sha256": "4A63F2C15B9B25557E13939EAAA5C82514F4B1D9285644182AAD604A61B09109"
+    },
+    {
+      "SourceEscaped": "ゲラ社長と絵描きロボについて",
+      "TargetEscaped": "About ゲラ社長 and the Painter Robot",
+      "SourceUtf8Sha256": "AB2A42269E0EE95C1C65B32EF33BBA1E8E715A0FD6CA4FED6FF5060BDB4C2EBD"
+    },
+    {
+      "SourceEscaped": "話す",
+      "TargetEscaped": "Talk",
+      "SourceUtf8Sha256": "EF622501F5942F95C412E4CF480592AAD77987F26CCA23A74BFA371D05143827"
+    },
+    {
+      "SourceEscaped": "パラノア集落にへ行きたい",
+      "TargetEscaped": "I want to go to Paranoa Settlement.",
+      "SourceUtf8Sha256": "76B5885B50091286E8EF6743A03E2A3AB1C65E7D08AF8CDE2B9086C20D43C18E"
+    },
+    {
+      "SourceEscaped": "この場所について",
+      "TargetEscaped": "About This Place",
+      "SourceUtf8Sha256": "4B58D3EAF85777E2D30FB112C279844133A642AC6570FBA2CE65E8FD3D28AF06"
+    },
+    {
+      "SourceEscaped": "絵描きロボ「ティナ」に会いたい",
+      "TargetEscaped": "I want to meet the painter robot ティナ.",
+      "SourceUtf8Sha256": "D3FAC539651B377C0562580DFE74A51BFF5F2552CFD7898CC0A040ED15F2705A"
+    },
+    {
+      "SourceEscaped": "セルピリスの妹を探したい",
+      "TargetEscaped": "I want to find セルピリス's younger sister.",
+      "SourceUtf8Sha256": "8BC65EA652D3AD208021E2130E5F0F060D65F56811D8C3C8239D07142EF4C655"
+    },
+    {
+      "SourceEscaped": "ゲラ社長について",
+      "TargetEscaped": "About ゲラ社長",
+      "SourceUtf8Sha256": "92BD9C2E26A8BA20AC6CF0B8FD3BFB2FCD1B597001C1A4FC77794F4149E453E1"
+    },
+    {
+      "SourceEscaped": "地下道について",
+      "TargetEscaped": "About the Underground Passage",
+      "SourceUtf8Sha256": "D75822129FD14FF95F08CAB1773A2F97C5D3DC3D4F96194FE7A9EC405C558EDB"
+    },
+    {
+      "SourceEscaped": "左の道について",
+      "TargetEscaped": "About the Left Path",
+      "SourceUtf8Sha256": "ACC8AD685CAE88355A3F9BD3A4321AE242DB1C1A075A138CA33F9E64064D42CB"
+    },
+    {
+      "SourceEscaped": "右の道について",
+      "TargetEscaped": "About the Right Path",
+      "SourceUtf8Sha256": "07357DCDAF27B2D63A7FF6347D7072C25F463E215ED825C3834732D5722C1991"
+    },
+    {
+      "SourceEscaped": "右の道から入る方法",
+      "TargetEscaped": "How to Enter from the Right Path",
+      "SourceUtf8Sha256": "C19365A9C3ECC5ADDFD6ADC0131381BC6D5FBE00E981D7FD73BE41B64AF2F0C3"
+    },
+    {
+      "SourceEscaped": "自信ないです",
+      "TargetEscaped": "I'm not confident.",
+      "SourceUtf8Sha256": "87E1B9900AA48A4CCD3A4F5BFC250CC25FA2017AFAE580951200C67678D775E6"
+    },
+    {
+      "SourceEscaped": "ラボに行きたい",
+      "TargetEscaped": "I want to go to the lab.",
+      "SourceUtf8Sha256": "917D673DE04917138769284D7A6D5AE839AC64822B2CFB4A58D3C220DFB85172"
+    },
+    {
+      "SourceEscaped": "受けます",
+      "TargetEscaped": "I'll accept.",
+      "SourceUtf8Sha256": "5AB7308A8AF03A2C5781CD039219CAE00C99B3ED24C379717498614DFAF8F01D"
+    },
+    {
+      "SourceEscaped": "結構です",
+      "TargetEscaped": "No, thank you.",
+      "SourceUtf8Sha256": "E6F68A448C866AE9FF14793A57B5EBEF3F95EC130C1FD3306E629956982FEB6C"
+    },
+    {
+      "SourceEscaped": " 聞かせて！",
+      "TargetEscaped": "Tell me!",
+      "SourceUtf8Sha256": "9F6794E8417E3C5AAD3363D4D45932BBEE60FA7CD8A42D92294F92EFA938CE43"
+    },
+    {
+      "SourceEscaped": " 任せろ！",
+      "TargetEscaped": "Leave it to me!",
+      "SourceUtf8Sha256": "340CB1CA4CE667B060FE62506747E596BE5C5A338F9C72BF93D8FB55836C2432"
+    },
+    {
+      "SourceEscaped": "LVを30以上に上げる方法(ラボの商品)について",
+      "TargetEscaped": "How to Raise LV to 30 or Higher (Lab Products)",
+      "SourceUtf8Sha256": "71C49A93A996FCD90E4E3A5D83E4771D3D4013C11AADDAC4BC61B4F96DA11F31"
+    },
+    {
+      "SourceEscaped": "ゴッドウェイについて",
+      "TargetEscaped": "About Godway",
+      "SourceUtf8Sha256": "9B8BE1947736E371996C22B40814AAFF9DBAED3B5751B185C6DA029D084DE2C3"
+    },
+    {
+      "SourceEscaped": "ダックス博士について",
+      "TargetEscaped": "About ダックス博士",
+      "SourceUtf8Sha256": "006ACF0BD16C44F0670C11310804CD421015372260D7ECA91B51DD120F37FA9B"
+    },
+    {
+      "SourceEscaped": "用はない",
+      "TargetEscaped": "I don't need anything.",
+      "SourceUtf8Sha256": "9729BC619639B954B70FB7145992C091B6ED8087F4603D1F686741E9DC1424FE"
+    },
+    {
+      "SourceEscaped": "デルタゲート入り口",
+      "TargetEscaped": "Delta Gate Entrance",
+      "SourceUtf8Sha256": "396C2DC8DC69F08F328DBC0DBD9CEB31DA77D4852BDEF2F1EF86E69EA80C0C66"
+    },
+    {
+      "SourceEscaped": "第2防衛ライン前（EASY）",
+      "TargetEscaped": "Before Defense Line 2 (EASY)",
+      "SourceUtf8Sha256": "E91402840D2A93AF3F5685E38E34068F47DB22F33D0E47FA1016C984E58F7B3C"
+    },
+    {
+      "SourceEscaped": "第3防衛ライン前（EASY）",
+      "TargetEscaped": "Before Defense Line 3 (EASY)",
+      "SourceUtf8Sha256": "E95F1D460D3825640EF8FE25C3DD926D8508CE0907B6081239952A03CBFA6EFA"
+    },
+    {
+      "SourceEscaped": "最終防衛ライン前（EASY）",
+      "TargetEscaped": "Before the Final Defense Line (EASY)",
+      "SourceUtf8Sha256": "BCA6C6053AD822BD3CD061D892364453F8ED5F105F677F00FC80FD7900CE0DC1"
+    },
+    {
+      "SourceEscaped": "デルタゲート中枢前（EASY）",
+      "TargetEscaped": "Before the Delta Gate Core (EASY)",
+      "SourceUtf8Sha256": "E24A22E7EABD9BF7F40122529874AE9F9294C64C4E93D40C7FEED7A8FA06BDD5"
+    },
+    {
+      "SourceEscaped": "終点（EASY）",
+      "TargetEscaped": "End Point (EASY)",
+      "SourceUtf8Sha256": "2B86B8431417A1D56FEF9056E8AA035BA167866E7750EDE8711CC1D93AF50C82"
+    },
+    {
+      "SourceEscaped": "第2防衛ライン前（NORMAL）",
+      "TargetEscaped": "Before Defense Line 2 (NORMAL)",
+      "SourceUtf8Sha256": "DBDB38669C06F8E1CB64931DE9068D934DDF535034D28095495AC2F2C6EF549E"
+    },
+    {
+      "SourceEscaped": "第3防衛ライン前（NORMAL）",
+      "TargetEscaped": "Before Defense Line 3 (NORMAL)",
+      "SourceUtf8Sha256": "86EBE7F0E74ED76C7328AD239E7282E2360C3A2D9D0EB5D94BB7940747DFB707"
+    },
+    {
+      "SourceEscaped": "最終防衛ライン前（NORMAL）",
+      "TargetEscaped": "Before the Final Defense Line (NORMAL)",
+      "SourceUtf8Sha256": "7A806567A0574B2673F7E8196E7D60B9ECBE487D86A00624780D8C8AF7353CBE"
+    },
+    {
+      "SourceEscaped": "デルタゲート中枢前（NORMAL）",
+      "TargetEscaped": "Before the Delta Gate Core (NORMAL)",
+      "SourceUtf8Sha256": "4508D3FE88474C19D28B4F2A65B9475EA48DD6608895E003E5A7BEDD4359DC53"
+    },
+    {
+      "SourceEscaped": "終点（NORMAL）",
+      "TargetEscaped": "End Point (NORMAL)",
+      "SourceUtf8Sha256": "CADB6A45248EC0362957DD57E236EA49A9DA1A56EA299500A1D5E64EED7EB3F4"
+    },
+    {
+      "SourceEscaped": "第2防衛ライン前（HARD）",
+      "TargetEscaped": "Before Defense Line 2 (HARD)",
+      "SourceUtf8Sha256": "533B2368D617F0938ADAE6FDD3AE7680F671CF2B9CDA8410E72A996BFCE6CC16"
+    },
+    {
+      "SourceEscaped": "第3防衛ライン前（HARD）",
+      "TargetEscaped": "Before Defense Line 3 (HARD)",
+      "SourceUtf8Sha256": "E46C1C2D339A12FE39FFC5B22E21968031C67E7E36DD6AAD35952F89BD76705C"
+    },
+    {
+      "SourceEscaped": "最終防衛ライン前（HARD）",
+      "TargetEscaped": "Before the Final Defense Line (HARD)",
+      "SourceUtf8Sha256": "A53810D25A802782323712D996C00108AA5F1518257C318EA9531CAF86344A73"
+    },
+    {
+      "SourceEscaped": "デルタゲート中枢前（HARD）",
+      "TargetEscaped": "Before the Delta Gate Core (HARD)",
+      "SourceUtf8Sha256": "CAAB1434707AF553F7BA68928EE337F7CF541A8860FF61B6B0EF8E838E40570A"
+    },
+    {
+      "SourceEscaped": "終点（HARD）",
+      "TargetEscaped": "End Point (HARD)",
+      "SourceUtf8Sha256": "569D65DC72AC4018DD18E5F9C206A7E59D6FD03BBD900474FAAA6FCBBA00C4C3"
+    },
+    {
+      "SourceEscaped": "第2防衛ライン前（MASTER）",
+      "TargetEscaped": "Before Defense Line 2 (MASTER)",
+      "SourceUtf8Sha256": "4187DFF2AEF250C7DFF6E844AED37F8CD59C2C6A7870F7D1051ECA5AE9A1F006"
+    },
+    {
+      "SourceEscaped": "第3防衛ライン前（MASTER）",
+      "TargetEscaped": "Before Defense Line 3 (MASTER)",
+      "SourceUtf8Sha256": "CC8700D2F881546A25B2B79B962A9940CED13B2A0C65B7B2B864810717926288"
+    },
+    {
+      "SourceEscaped": "最終防衛ライン前（MASTER）",
+      "TargetEscaped": "Before the Final Defense Line (MASTER)",
+      "SourceUtf8Sha256": "2E98FEF914498712660B6B971F7D1022743FC5A2BBBD80B6381CBD6BD3E764D1"
+    },
+    {
+      "SourceEscaped": "デルタゲート中枢前（MASTER）",
+      "TargetEscaped": "Before the Delta Gate Core (MASTER)",
+      "SourceUtf8Sha256": "9D2D201EC6063B7D9F1F3E79463C047EC5B3E463019305346A622935C60B7B57"
+    },
+    {
+      "SourceEscaped": "終点（MASTER）",
+      "TargetEscaped": "End Point (MASTER)",
+      "SourceUtf8Sha256": "B80F66001B6A29817C1AC22D2C540F71BDE226EE410CEC39F846C2F27B26660C"
+    },
+    {
+      "SourceEscaped": "だめ",
+      "TargetEscaped": "No.",
+      "SourceUtf8Sha256": "EB35945AD6458517F1341ACF6AF8D56B38CEE63D2EDFF674970249A9924ABBBC"
+    },
+    {
+      "SourceEscaped": "チャージする",
+      "TargetEscaped": "Charge",
+      "SourceUtf8Sha256": "486B53C87F8506ACD1BFD7C9E79EC02476154595892F2CA5825F3993A2279AAB"
+    },
+    {
+      "SourceEscaped": "いいや",
+      "TargetEscaped": "Nope.",
+      "SourceUtf8Sha256": "031C443C5DA87B9DD2E0A4F7BE97B4B0E6680C3A6028A1F43FEA57F128B37D80"
+    },
+    {
+      "SourceEscaped": "教えて！",
+      "TargetEscaped": "Tell me!",
+      "SourceUtf8Sha256": "3C872EE6057ABD6E536CB09E441BD0B077FC1700204FAAACFBBF6AC8AE018D75"
+    },
+    {
+      "SourceEscaped": "もういいや",
+      "TargetEscaped": "That's enough.",
+      "SourceUtf8Sha256": "D0554BD34C1319A7EDDF29263A97BECA51CA0B228CC9822EDDE17543C902FA22"
+    },
+    {
+      "SourceEscaped": "うん",
+      "TargetEscaped": "Yeah.",
+      "SourceUtf8Sha256": "8059F43B69DF9852539AFC1F29B566B7F4C42992BF4394D66DF37C2398729087"
+    },
+    {
+      "SourceEscaped": "アルモスってどんな所？",
+      "TargetEscaped": "What kind of place is Armos?",
+      "SourceUtf8Sha256": "6E24D3998907DECDA3723DAF725501A9891BED83727A8C52E352A19D881D0FC6"
+    },
+    {
+      "SourceEscaped": "プラネットマップについて",
+      "TargetEscaped": "About the Planet Map",
+      "SourceUtf8Sha256": "3EF07E92C2029EE9B98F0985034C15CE65B30862F84F7639ACF0A000636F4F7E"
+    },
+    {
+      "SourceEscaped": "パワーバランスってなに？",
+      "TargetEscaped": "What is the Balance of Power?",
+      "SourceUtf8Sha256": "A1B262F31DD1D60E2080E387DD4F625A35A609CBF7C9E5558C5BD4C1379EF320"
+    },
+    {
+      "SourceEscaped": "他のことを聞きたい",
+      "TargetEscaped": "I'd like to ask something else.",
+      "SourceUtf8Sha256": "BD204B528C934EBED2D650E0A1E38BD18164A47775FDBB863DF4D6F59B793AFD"
+    },
+    {
+      "SourceEscaped": "前線って？",
+      "TargetEscaped": "What are the front lines?",
+      "SourceUtf8Sha256": "52F74706B631F1E7AE614FD3AE1972640B887A8B7E37C5F28EA1F5BF54E6FEB1"
+    },
+    {
+      "SourceEscaped": "A.Re.Sってなんのこと？",
+      "TargetEscaped": "What is A.Re.S?",
+      "SourceUtf8Sha256": "08CD18097E67AF893EF98170223AF44A284ECCD016F7E2B4F70E30C49870E868"
+    },
+    {
+      "SourceEscaped": "他の惑星に移動したい",
+      "TargetEscaped": "I want to travel to another planet.",
+      "SourceUtf8Sha256": "A225B5401066CAE16B8557016935B2FBEC1A232A496A03BDFD1A0D7BD44C185C"
+    },
+    {
+      "SourceEscaped": "聞きたいことはもうない",
+      "TargetEscaped": "I have no more questions.",
+      "SourceUtf8Sha256": "35220E35815E8EA3DFE527AE299B4389C6186696F252CC476B895C5A41D2900C"
+    },
+    {
+      "SourceEscaped": "悪魔軍陣地の奥に進めない",
+      "TargetEscaped": "I can't go deeper into Devil Army territory.",
+      "SourceUtf8Sha256": "5FB1E4E9CFBBA4A0DEFA4E636958D6639812E2248BE268E5BCB9AAC4C0700EAF"
+    },
+    {
+      "SourceEscaped": "デルガニウムっての拾ったんだけど",
+      "TargetEscaped": "I picked up something called Delganium.",
+      "SourceUtf8Sha256": "E9FB95238BFE81D3D55048AE5AAA2502FED25196931D4F12AC012524CDFE2C92"
+    },
+    {
+      "SourceEscaped": "戦況で天使軍を優勢にするには？",
+      "TargetEscaped": "How can I give the Angel Army the advantage?",
+      "SourceUtf8Sha256": "D87A57930C94AFFAACF3E3F302763D07138BDC0548EE622DE02AFC28470D5CB3"
+    },
+    {
+      "SourceEscaped": "別にないよ",
+      "TargetEscaped": "Nothing in particular.",
+      "SourceUtf8Sha256": "E2B40DDFC0A7E9E506C61A6BCDAADFAC9E7C38BAB1FCC42A0F0057348D8D1690"
+    },
+    {
+      "SourceEscaped": "1個下さい",
+      "TargetEscaped": "I'd like 1.",
+      "SourceUtf8Sha256": "E55FEBBA8BB1ACCADAB866DE081C3DEAD0CBC13D6A79A9BFF8BE637B99ADA3A9"
+    },
+    {
+      "SourceEscaped": "いらない",
+      "TargetEscaped": "I don't want it.",
+      "SourceUtf8Sha256": "DF44919C9D5A26DB9AB8C86336119F04A8B56002567BE435CDAE971B8DE7C2CB"
+    },
+    {
+      "SourceEscaped": "だーめ",
+      "TargetEscaped": "Nooo.",
+      "SourceUtf8Sha256": "3868418B7D51F17C090DFF5686EC85FA7DB87AE58E7F91068379B02D838544BE"
+    },
+    {
+      "SourceEscaped": "リペアパック500×3と交換する[デルガニウムS]",
+      "TargetEscaped": "Exchange for Repair Pack 500×3 [Delganium S]",
+      "SourceUtf8Sha256": "6A41169BE59959F39A683C0406B970671F9DDB638BD435DCFF2A7FF3994401DD"
+    },
+    {
+      "SourceEscaped": "リペアパック1000×3と交換する[デルガニウムM]",
+      "TargetEscaped": "Exchange for Repair Pack 1000×3 [Delganium M]",
+      "SourceUtf8Sha256": "0B22A3AE6230E461F98D4B350FBB6AF000803404477C89CBEDA88CB7FD6591FE"
+    },
+    {
+      "SourceEscaped": "リペアパック2000×3と交換する[デルガニウムL]",
+      "TargetEscaped": "Exchange for Repair Pack 2000×3 [Delganium L]",
+      "SourceUtf8Sha256": "FECC65F7F8956A388AF643B9768ECB38D4BA9EEDAF0E903CD63A7E6BD4DF36D0"
+    },
+    {
+      "SourceEscaped": "交換しない",
+      "TargetEscaped": "Don't Exchange",
+      "SourceUtf8Sha256": "F39C35A3DA6100F6FC52E9D6F44837C0F760EAF23E659C48672E90AE3368C6D7"
+    },
+    {
+      "SourceEscaped": "頼んだ！",
+      "TargetEscaped": "I'm counting on you!",
+      "SourceUtf8Sha256": "3F20337DB098893B5C4084AE4F81DB75BC1F564E71DED42CD85483F26147D987"
+    },
+    {
+      "SourceEscaped": "止めておく",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "67F87911BA2A9ADD8199BABBBB7038A34C2E99449068F1816912DDD9CF541D4E"
+    },
+    {
+      "SourceEscaped": "持ってる！",
+      "TargetEscaped": "I have it!",
+      "SourceUtf8Sha256": "0D6535ED7944CAB1766528FCA68FCE188FBAB9641BB9F21799BBD3DEFC8ED616"
+    },
+    {
+      "SourceEscaped": "問題無い！",
+      "TargetEscaped": "No problem!",
+      "SourceUtf8Sha256": "6894377CD498C0A73F5401F63FBDE17F4CBF7EC900B921BCDF0488E4D943FA1F"
+    },
+    {
+      "SourceEscaped": "止めた",
+      "TargetEscaped": "I quit.",
+      "SourceUtf8Sha256": "68DE6D10AB9B9F40B150705EFB7111BD7D64165079C145D1F1429F42803C1F53"
+    },
+    {
+      "SourceEscaped": "プレゼント交換する[要10個]",
+      "TargetEscaped": "Exchange Gifts [Requires 10]",
+      "SourceUtf8Sha256": "80B17A57E559777D77681CECBFA34F3BD6FB1C86E22B36CDA0A9C0A57CEE1659"
+    },
+    {
+      "SourceEscaped": "やめとくよ",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "47D5EE80A29FFED293A6F5AB418EC82CC0B3516AEFE90FB9419347D43D937CCB"
+    },
+    {
+      "SourceEscaped": "引換する",
+      "TargetEscaped": "Redeem",
+      "SourceUtf8Sha256": "C38DFDD58D5505B362844870E4729E3CD69E6E39983DE471362972D3EC51DCF0"
+    },
+    {
+      "SourceEscaped": "交換する",
+      "TargetEscaped": "Exchange",
+      "SourceUtf8Sha256": "CC2F84A3CF89812F00769EA30A2CE2533FF01DB79D0FA69D6B51BBFB3D5A65E9"
+    },
+    {
+      "SourceEscaped": "　1個欲しい",
+      "TargetEscaped": "I want 1.",
+      "SourceUtf8Sha256": "A0BEDDA0AA40FA3A24829BD4FDBFC0E941218702553E444C623EFBBD4F7FEFA1"
+    },
+    {
+      "SourceEscaped": "　5個欲しい",
+      "TargetEscaped": "I want 5.",
+      "SourceUtf8Sha256": "36A4E8A486DE050EF48A4B96D74A3784938A28FE51BEE07E2BBF9774D8D0BB52"
+    },
+    {
+      "SourceEscaped": "10個欲しい",
+      "TargetEscaped": "I want 10.",
+      "SourceUtf8Sha256": "8CE613DA85BBE6F0C18BECFDEEB8D983D3D84D231EC4205A54E95C4AC81E7954"
+    },
+    {
+      "SourceEscaped": "ルボノスジャンプって何？",
+      "TargetEscaped": "What is Lubonos Jump?",
+      "SourceUtf8Sha256": "5648A45713B43A1F388649375C616450F503C185FF4AA55FF6A3C6DEFC28CE11"
+    },
+    {
+      "SourceEscaped": "ノカルブジャンプってなに？",
+      "TargetEscaped": "What is Nokarub Jump?",
+      "SourceUtf8Sha256": "D0346C6E5A93CE1EF35B663B1E07A21F2DE5EEAA5976A1E02071684B01439205"
+    },
+    {
+      "SourceEscaped": "アープルジャンプってなに？",
+      "TargetEscaped": "What is Aaple Jump?",
+      "SourceUtf8Sha256": "747A19EDC1B38DC2BD1C9173FDEFF7710313843BE439D47A6AD02D6E028C8FEE"
+    },
+    {
+      "SourceEscaped": "嫌だ",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "6C3A29F12B546C9E8EFF9ACD39948E7E9A657834FA03D1C63C5A03D262FA4EFB"
+    },
+    {
+      "SourceEscaped": "パンプキン達？",
+      "TargetEscaped": "パンプキン and the others?",
+      "SourceUtf8Sha256": "1B509F6D0CA644733B07D3470BED7E9D9A58B0D58D0FD00F3A6A2A052BCC0049"
+    },
+    {
+      "SourceEscaped": "ハロウィンクリスタル？",
+      "TargetEscaped": "Halloween Crystals?",
+      "SourceUtf8Sha256": "0EFBBF3AAF3BD29BE30095F91FD8EB78A2C34B9051BA0AD475539F33A275E111"
+    },
+    {
+      "SourceEscaped": "サウィン遺跡って？",
+      "TargetEscaped": "What are the Samhain Ruins?",
+      "SourceUtf8Sha256": "7A17A0030D1C96729B0851207810970F855E5817AA845B75FF4E81D21733B5E3"
+    },
+    {
+      "SourceEscaped": "キサマ何者だ！？",
+      "TargetEscaped": "Who ARE you!?",
+      "SourceUtf8Sha256": "D181DD8AA9C8DAAD8D50CA9B2DD4FD8905634511EB934DDB11F8BEC184BEC6F1"
+    },
+    {
+      "SourceEscaped": "聞くことは無い",
+      "TargetEscaped": "I have no questions.",
+      "SourceUtf8Sha256": "1C95F438F4DBAF0562F4FF75E7D1ED5B75DB8380893D649CE2596F69D5DC05CB"
+    },
+    {
+      "SourceEscaped": "何をしてるの？",
+      "TargetEscaped": "What are you doing?",
+      "SourceUtf8Sha256": "11A26C051BC9C4E888B56E00132B06BB7519E1D559A5469F82B7330D2820DDBE"
+    },
+    {
+      "SourceEscaped": "ここは一体？",
+      "TargetEscaped": "What is this place?",
+      "SourceUtf8Sha256": "8C5AABABC97F720A12BBA265140B9B20DB3A2BE4735B0A05BE9CADD5ABF2DB83"
+    },
+    {
+      "SourceEscaped": "どこに繋がっているの？",
+      "TargetEscaped": "Where does it lead?",
+      "SourceUtf8Sha256": "373F3F1045057BE910BE111AF74F4803D46FEB42F38E9BB36C1B65BBB6F0B796"
+    },
+    {
+      "SourceEscaped": "どうしたら入れるの？",
+      "TargetEscaped": "How do I get in?",
+      "SourceUtf8Sha256": "62E6F33E732CB56B3E10A338C079B528A65CAFF7293F6B9B6536AB481FDC4355"
+    },
+    {
+      "SourceEscaped": "クロコダイト？",
+      "TargetEscaped": "Crocodite?",
+      "SourceUtf8Sha256": "843A3456A6410B9C4114BA2AFB1FC0BE8C6DF4A44EBE486F3CF0D13CA38B2653"
+    },
+    {
+      "SourceEscaped": "クロコダガーBS★（消費：クロコダイト×１個、BS）",
+      "TargetEscaped": "Crocodagger BS★ (Cost: Crocodite×１, BS)",
+      "SourceUtf8Sha256": "B6752079E36B69005EB4658D4A42547BE1B9A6DBA8FDE024113452530E432E7E"
+    },
+    {
+      "SourceEscaped": "クロコダガーLG★（消費：クロコダイト×３個、LG）",
+      "TargetEscaped": "Crocodagger LG★ (Cost: Crocodite×３, LG)",
+      "SourceUtf8Sha256": "04361BE28538E5821700C2543085F294ADC3282E8E2F11CFA7758E020F907DB8"
+    },
+    {
+      "SourceEscaped": "クロコダガーBD★（消費：クロコダイト×５個、BD）",
+      "TargetEscaped": "Crocodagger BD★ (Cost: Crocodite×５, BD)",
+      "SourceUtf8Sha256": "63AD750CC9290BAE15587E6416FE0E683771D97265CC97D4BF7984303349CAC3"
+    },
+    {
+      "SourceEscaped": "クロコダガーAM★（消費：クロコダイト×１０個、AM）",
+      "TargetEscaped": "Crocodagger AM★ (Cost: Crocodite×１０, AM)",
+      "SourceUtf8Sha256": "725ABB6E245562C05581C1E1E3B732E276F00FD9648BE3B2E1CE1324B4050A77"
+    },
+    {
+      "SourceEscaped": "クロコダガーAM★（消費：クロコダイト×１５個、AM）",
+      "TargetEscaped": "Crocodagger AM★ (Cost: Crocodite×１５, AM)",
+      "SourceUtf8Sha256": "39FC0D97D610C5A423CFBAC8793994C16EEC532473FA9345C31FC48D73E0F1E0"
+    },
+    {
+      "SourceEscaped": "リペアパック250（消費：EVマシンガン×10個）",
+      "TargetEscaped": "Repair Pack 250 (Cost: EV Machine Gun×10)",
+      "SourceUtf8Sha256": "C514C3E76C5C07A8058689C0417C80031F4CD7DC833CA85C425002664A1397FC"
+    },
+    {
+      "SourceEscaped": "リペアパック250（消費：EVコンバットナイフ×10個）",
+      "TargetEscaped": "Repair Pack 250 (Cost: EV Combat Knife×10)",
+      "SourceUtf8Sha256": "788AAA07E59360A4230507036D6CA7E598D43310B3C50832563D1AC390B3E13C"
+    },
+    {
+      "SourceEscaped": "リペアパック250（消費：EVアイアンクラブ×10個）",
+      "TargetEscaped": "Repair Pack 250 (Cost: EV Iron Club×10)",
+      "SourceUtf8Sha256": "02A160E7DE34F4470D98925BDEAEA7C22CFC6BB646221CBCACEDABCFF57D5F6B"
+    },
+    {
+      "SourceEscaped": "リペアパック500（消費：EVブロードソード×2個）",
+      "TargetEscaped": "Repair Pack 500 (Cost: EV Broad Sword×2)",
+      "SourceUtf8Sha256": "A99B15C332C1578A3FB8303E98BE49EE3CE66DB61A3757BA0CEB531E4A5E044E"
+    },
+    {
+      "SourceEscaped": "リペアパック500（消費：EVビームランチャー×2個）",
+      "TargetEscaped": "Repair Pack 500 (Cost: EV Beam Launcher×2)",
+      "SourceUtf8Sha256": "D9D7B32F498E0A4533E32599DBAD294D238264618C9E38CD4E361FC80AA5D205"
+    },
+    {
+      "SourceEscaped": "リペアパック1000（消費：EVレーザードプラズマ×1個）",
+      "TargetEscaped": "Repair Pack 1000 (Cost: EV Lazard Plasma×1)",
+      "SourceUtf8Sha256": "CBDAB7DD45668B955F9CEDC5F9D1DD91E6B79D9401A934B3703A2BCE0992FF30"
+    },
+    {
+      "SourceEscaped": "今はやめておくよ",
+      "TargetEscaped": "I'll pass for now.",
+      "SourceUtf8Sha256": "3A40C924DB5F9552D12BFD75721CDBE90E42326C059E69E0AB9240CCD6744538"
+    },
+    {
+      "SourceEscaped": "イベントチケット2が欲しい",
+      "TargetEscaped": "I want Event Ticket 2.",
+      "SourceUtf8Sha256": "AA2EDE71D4EC2CBD6BDE68CD6D608C4CA9D8BE4AD86D8E87D59A55F379F32256"
+    },
+    {
+      "SourceEscaped": "アリバイを教えて",
+      "TargetEscaped": "Tell me your alibi.",
+      "SourceUtf8Sha256": "4CABF6CB1FFC9A6ECD908AD41ED5BA20EEF73BE381EAEF9B7A1E2BF710908626"
+    },
+    {
+      "SourceEscaped": "サウィン遺跡は？",
+      "TargetEscaped": "What about the Samhain Ruins?",
+      "SourceUtf8Sha256": "F893F45BC43166F7B48C06CC5FB2BCB32FB1031FFA9F781F61148923D9F0B939"
+    },
+    {
+      "SourceEscaped": "まとめ",
+      "TargetEscaped": "Summary",
+      "SourceUtf8Sha256": "7F7AD40BA94A2507FB7FE55EA8AFF92C6ECE28879685607E5EB7CC261A4ECD72"
+    },
+    {
+      "SourceEscaped": "落とし物って？",
+      "TargetEscaped": "What was lost?",
+      "SourceUtf8Sha256": "C599C1FDAD06BA7D8A88C8231F01D23219155D1F6CA9E1468622943DA36A3E78"
+    },
+    {
+      "SourceEscaped": "思い出したこと",
+      "TargetEscaped": "What I Remembered",
+      "SourceUtf8Sha256": "13A45E0BB9F279A59EBD381F628A2B70F3B9D3E7311AA099151FD7027AD7C927"
+    },
+    {
+      "SourceEscaped": "犯人の名前",
+      "TargetEscaped": "The Culprit's Name",
+      "SourceUtf8Sha256": "2AC152B9DC523E243E97CB61D0DAD224A46054CE91737283675333D41F47B5AA"
+    },
+    {
+      "SourceEscaped": "名前の手掛かり",
+      "TargetEscaped": "A Clue to the Name",
+      "SourceUtf8Sha256": "9778F4A791B0D615D8BEDAB0F7C201C5E96DF2ED70EF59D25FBEADC7643FBD09"
+    },
+    {
+      "SourceEscaped": "ダメ",
+      "TargetEscaped": "No.",
+      "SourceUtf8Sha256": "D366FB8E4E30D7C4E164D3F8771E5B65C7747AD5CCB4EFBC7FC5B40611C5B966"
+    },
+    {
+      "SourceEscaped": "A・ミラルHW",
+      "TargetEscaped": "A・ミラルHW",
+      "SourceUtf8Sha256": "16DAB3CD0823073D968B69408E322AFC1C38454618742C9AE6C294A2A775B75B"
+    },
+    {
+      "SourceEscaped": "P・モーナ",
+      "TargetEscaped": "P・モーナ",
+      "SourceUtf8Sha256": "B0E54FAE5C32ED26059AFCE8FEC16960095268718CAB94D533D4C639A716617B"
+    },
+    {
+      "SourceEscaped": "O・アシス",
+      "TargetEscaped": "O・アシス",
+      "SourceUtf8Sha256": "FC8458F00A16CF33C78373CC0F3A2CC0AB45F6B7D28A7741E1A8BC7816E561A1"
+    },
+    {
+      "SourceEscaped": "パラセクター",
+      "TargetEscaped": "パラセクター",
+      "SourceUtf8Sha256": "222E36042CFD0CED4432A773A7BA27C53F776B83210FB65CCECE7EE254080B34"
+    },
+    {
+      "SourceEscaped": "デルントリック",
+      "TargetEscaped": "デルントリック",
+      "SourceUtf8Sha256": "3C44969A9B8B1157298019DE182CD02AF071087C553B931AEC3D25AECEC36BA3"
+    },
+    {
+      "SourceEscaped": "自分",
+      "TargetEscaped": "Myself",
+      "SourceUtf8Sha256": "A83B8BC2853AB707DFD533FCC3E6A5B5B4EB1CDB523135AA28068B73331BDE59"
+    },
+    {
+      "SourceEscaped": "特にいない",
+      "TargetEscaped": "No one in particular.",
+      "SourceUtf8Sha256": "BDF75A3BE82657FA16B8F894B95DA683738E4DE61B66F1C5BD5D57EAC750AF0F"
+    },
+    {
+      "SourceEscaped": "メダロット ポータルサイト",
+      "TargetEscaped": "Medabots Portal Site",
+      "SourceUtf8Sha256": "8A66B907C9A9FE712D8B2DEC1B4CA59F1CA41038CEC21704DB816E3F4BD318CA"
+    },
+    {
+      "SourceEscaped": "メダロット×鋼鉄戦記C21 特設サイト",
+      "TargetEscaped": "Medabots x Steel Chronicles C21 Special Site",
+      "SourceUtf8Sha256": "D2340431303A6DAC43BCD2930E80143DB2BC14DE16EB8D96C8146759700AB4B0"
+    },
+    {
+      "SourceEscaped": "イベントダンジョンって？",
+      "TargetEscaped": "What is the Event Dungeon?",
+      "SourceUtf8Sha256": "4A21CD6A136FCDC4A471E611500A8811BA0A2640C745B2A71C0EAE3B0CB366EC"
+    },
+    {
+      "SourceEscaped": "忙しいので…",
+      "TargetEscaped": "I'm busy, so...",
+      "SourceUtf8Sha256": "CD0E25ADA0078839CEA6B870DB8AD0B90334492DB1245FFEB2F3FF2CAFE4F80B"
+    },
+    {
+      "SourceEscaped": "どうしたの？",
+      "TargetEscaped": "What's wrong?",
+      "SourceUtf8Sha256": "FADBC5D0D897940FFCF2111DDE60D5C2FA8162910ED987A226E91F1F64754FE9"
+    },
+    {
+      "SourceEscaped": "君はどこから来たの？",
+      "TargetEscaped": "Where did you come from?",
+      "SourceUtf8Sha256": "752D572EE543DE7F0032E8262B46EB2B135A1FD059FAE28AB5AC9701F2DDC8BD"
+    },
+    {
+      "SourceEscaped": "神喰いって？",
+      "TargetEscaped": "What is a God Eater?",
+      "SourceUtf8Sha256": "55465670815C88E1B0C6417107CB1997D7E9F7B05B0F009F7E2176BE0C28B060"
+    },
+    {
+      "SourceEscaped": "神喰いはどこにいるの？",
+      "TargetEscaped": "Where is the God Eater?",
+      "SourceUtf8Sha256": "F1EB37518031F1082E83F01C5D915E49977584B0ACEF056A61BEB916B64760AC"
+    },
+    {
+      "SourceEscaped": "帰り方見つかった？",
+      "TargetEscaped": "Have you found a way home?",
+      "SourceUtf8Sha256": "EFC09CB3E0A232BC12F33903C5DF9A965383B8DEECD19BC2EFE268E8E372937B"
+    },
+    {
+      "SourceEscaped": "ごめん、忙しいので。",
+      "TargetEscaped": "Sorry, I'm busy.",
+      "SourceUtf8Sha256": "44DF5742E404B875D82BCBCE70D61E752AA8BFF02D1A6A4BFB4929DC0C3FFE03"
+    },
+    {
+      "SourceEscaped": "どんなイベント？",
+      "TargetEscaped": "What kind of event?",
+      "SourceUtf8Sha256": "283D7DFA0ED655087D6FAABB8A21125BFE71DF7908C99EC7BF6EE20CB0369474"
+    },
+    {
+      "SourceEscaped": "交換のレートは？",
+      "TargetEscaped": "What are the exchange rates?",
+      "SourceUtf8Sha256": "B85B4295878130C3A0B54FE302DB4537CA87EC242544D05A0DFE73E1E849206C"
+    },
+    {
+      "SourceEscaped": "「15th記念硬貨」を「15th記念プラチナ硬貨」に交換",
+      "TargetEscaped": "Exchange \"15th Anniversary Coins\" for \"15th Anniversary Platinum Coins\"",
+      "SourceUtf8Sha256": "0EEF2E9F66B561EB8D593C56CB91C6CB9C8B672A8F71CAB06D569C1F7CEE0469"
+    },
+    {
+      "SourceEscaped": "「15th記念プラチナ硬貨」を「15th記念硬貨」に交換",
+      "TargetEscaped": "Exchange \"15th Anniversary Platinum Coins\" for \"15th Anniversary Coins\"",
+      "SourceUtf8Sha256": "6B528681226B404FCA65AD11D5CB5126019039210C8B409E8A1A1072D2BE80FE"
+    },
+    {
+      "SourceEscaped": "「メモリアル結晶」10個を「15th記念硬貨」1枚に交換",
+      "TargetEscaped": "Exchange \"Memorial Crystals\" x10 for \"15th Anniversary Coin\" x1",
+      "SourceUtf8Sha256": "609E3528D7368B4A3E2B53051328E60E72D24DD6C42B9DF395BC745B522A595B"
+    },
+    {
+      "SourceEscaped": "「メモリアル結晶」100個を「15th記念硬貨」10枚に交換",
+      "TargetEscaped": "Exchange \"Memorial Crystals\" x100 for \"15th Anniversary Coins\" x10",
+      "SourceUtf8Sha256": "68F41AEF679D40A0D9EBB29D9B92AAD7E0B5D8D41BAB39F24AD6B83C5F460289"
+    },
+    {
+      "SourceEscaped": "交換のボタンを選択できない…",
+      "TargetEscaped": "I can't select the exchange button...",
+      "SourceUtf8Sha256": "5AA7A0A21C6011BC0C03D5C8041F9A2BDEADCC4B70B11F9C82184A11BACD5EEA"
+    },
+    {
+      "SourceEscaped": "やっぱりやめる",
+      "TargetEscaped": "Actually, I'll pass.",
+      "SourceUtf8Sha256": "DFA3AAC35AB7D770FCFC50A5FA00499EA7C592FF086D400ECEF8906223CE836C"
+    },
+    {
+      "SourceEscaped": "他のロボに…",
+      "TargetEscaped": "For another robot...",
+      "SourceUtf8Sha256": "CA198F0E0B2F69C64BD95BDFAC51A6105AB642FB5E1FD7211137AB1944A12EFD"
+    },
+    {
+      "SourceEscaped": "アシス",
+      "TargetEscaped": "アシス",
+      "SourceUtf8Sha256": "F4C547E05F7C81C850D52719FE2E06B5894EAB7925A3B968BB87B16DBBCEEB12"
+    },
+    {
+      "SourceEscaped": "アシス以外",
+      "TargetEscaped": "Anyone except アシス",
+      "SourceUtf8Sha256": "21828E23783030BC47E8066B0E005A1B4A8C07BE8B8ADA6D2BD8E53DE67412DC"
+    },
+    {
+      "SourceEscaped": "君に投票したい",
+      "TargetEscaped": "I want to vote for you.",
+      "SourceUtf8Sha256": "1C73F7E8EF485FAC20B39E6881E6DFB6C62D3CE261005C7BA25B85F3CC5705C5"
+    },
+    {
+      "SourceEscaped": "他のロボに投票する",
+      "TargetEscaped": "Vote for another robot",
+      "SourceUtf8Sha256": "38BDA79563E3FB1F6DFD1E7AE9B88B3ECBB9E88D2101A19BE88150F84AD18BFC"
+    },
+    {
+      "SourceEscaped": "リズベッド様一択",
+      "TargetEscaped": "リズベッド is my only choice.",
+      "SourceUtf8Sha256": "4AEF006377DDF0F51C0C253435949C68F92BDDE6F26ACC523F1650C8C8BB4891"
+    },
+    {
+      "SourceEscaped": "も、もちろん…",
+      "TargetEscaped": "O-of course...",
+      "SourceUtf8Sha256": "FA0D1DEF1DA86ED43719CE7EFCC8AB67D61F338672455C60CD8949A1CB128C50"
+    },
+    {
+      "SourceEscaped": "なにをすればいいの？",
+      "TargetEscaped": "What should I do?",
+      "SourceUtf8Sha256": "C5B6D7225DAC6E71EE9F0E5E4DA0E65129FC7AF7F943B224DEA0FB701130AA20"
+    },
+    {
+      "SourceEscaped": "「記念硬貨」25枚を「プラチナ硬貨」1枚に交換",
+      "TargetEscaped": "Exchange \"Commemorative Coins\" x25 for \"Platinum Coin\" x1",
+      "SourceUtf8Sha256": "3991CBB730A5C6ED9BADCCCEB92CA81844A6CA3964BD1E457D261463CB465A18"
+    },
+    {
+      "SourceEscaped": "「プラチナ硬貨」1枚を「記念硬貨」10枚に交換",
+      "TargetEscaped": "Exchange \"Platinum Coin\" x1 for \"Commemorative Coins\" x10",
+      "SourceUtf8Sha256": "2302DD9D6555CCD00E0E42F3785169BF51232A3DF4EB4C3A7FC4DBE3395B02C6"
+    },
+    {
+      "SourceEscaped": "「記念硬貨」250枚を「プラチナ硬貨」10枚に交換",
+      "TargetEscaped": "Exchange \"Commemorative Coins\" x250 for \"Platinum Coins\" x10",
+      "SourceUtf8Sha256": "38CD0B82DDC014AD0AD6AC331FAAB05DFDC1D84A80FF1ABFA17B71B20821DD38"
+    },
+    {
+      "SourceEscaped": "「プラチナ硬貨」10枚を「記念硬貨」100枚に交換",
+      "TargetEscaped": "Exchange \"Platinum Coins\" x10 for \"Commemorative Coins\" x100",
+      "SourceUtf8Sha256": "EC0D9D9C24C6A6AF7CBE9BAEE63F2024E32974F76A0F61651CE6D8479058D259"
+    },
+    {
+      "SourceEscaped": "「武器の欠片」10個を「記念硬貨」1枚に交換",
+      "TargetEscaped": "Exchange \"Weapon Fragments\" x10 for \"Commemorative Coin\" x1",
+      "SourceUtf8Sha256": "EB40E548293EF17D1388023272B76DCCFB8DD8254434CC41C49087914DB3324F"
+    },
+    {
+      "SourceEscaped": "「武器の欠片」100個を「記念硬貨」10枚に交換",
+      "TargetEscaped": "Exchange \"Weapon Fragments\" x100 for \"Commemorative Coins\" x10",
+      "SourceUtf8Sha256": "C9C0FC498B00794139BC4D9D7C540C6A6CA56DCEF17881817BAE77C50992DC4A"
+    },
+    {
+      "SourceEscaped": "陸上自衛隊07式戦車 なっちんコラボ特設サイト",
+      "TargetEscaped": "JGSDF Type 07 Tank Nacchin Collaboration Special Site",
+      "SourceUtf8Sha256": "A5A27E89315C7A417675F2D84AB7D5303A9432A39861E38B73953090396736BB"
+    },
+    {
+      "SourceEscaped": "プリズムトークンロボストア１",
+      "TargetEscaped": "Prism Token Robot Store １",
+      "SourceUtf8Sha256": "0F54676249499CCDB0D2A4CA4EA1B9F62C024F1CD7EB55BFC6FE8F165161B081"
+    },
+    {
+      "SourceEscaped": "プリズムトークンロボストア２",
+      "TargetEscaped": "Prism Token Robot Store ２",
+      "SourceUtf8Sha256": "EA3C3C355D91A6F12D42E98E409117ECE36A5EE8E3D01D9DC1B41C35269124C9"
+    },
+    {
+      "SourceEscaped": "スペシャルチケットロボストア１",
+      "TargetEscaped": "Special Ticket Robot Store １",
+      "SourceUtf8Sha256": "6F6C08508F8B4FD797B44F92B7FA0B09022533BD55D1BCC657EA88DFFC509B01"
+    },
+    {
+      "SourceEscaped": "スペシャルチケットロボストア２",
+      "TargetEscaped": "Special Ticket Robot Store ２",
+      "SourceUtf8Sha256": "13CBABD619DB1D70D30C9E544C60D360DF9D5B8D6F00F7FB134A5634DD53A11F"
+    },
+    {
+      "SourceEscaped": "スペシャルチケットロボストア３",
+      "TargetEscaped": "Special Ticket Robot Store ３",
+      "SourceUtf8Sha256": "CC4AA002455E318CCE823C1BAED435C278E57C86C4575ADA8AB009402F7E5261"
+    },
+    {
+      "SourceEscaped": "スペシャルチケットロボストア４",
+      "TargetEscaped": "Special Ticket Robot Store ４",
+      "SourceUtf8Sha256": "2F741A2B9DE02FD00FF4FFF5E4EB10B97B7E0EA9449C0AD0EB4A9390D71A3DE7"
+    },
+    {
+      "SourceEscaped": "スペシャルチケットロボストア５",
+      "TargetEscaped": "Special Ticket Robot Store ５",
+      "SourceUtf8Sha256": "41AFB1CB2FBCB7EF4BBE2F7AF519EA65B391DB5127A96574EB29A767284490DA"
+    },
+    {
+      "SourceEscaped": "スペシャルチケット2ndロボストア",
+      "TargetEscaped": "Special Ticket 2nd Robot Store",
+      "SourceUtf8Sha256": "8716A553D1F39FD466AABAE57B8ED40EDC6EB96DCC4FC206B51BC28DF5FCF478"
+    },
+    {
+      "SourceEscaped": "ボーナスチケットロボストア１",
+      "TargetEscaped": "Bonus Ticket Robot Store １",
+      "SourceUtf8Sha256": "841ADF9A964FC79A329600CBFF2BF0AC1AFC2948CC19B7C0E0044B9C54D6D7BF"
+    },
+    {
+      "SourceEscaped": "ボーナスチケットロボストア２",
+      "TargetEscaped": "Bonus Ticket Robot Store ２",
+      "SourceUtf8Sha256": "9360E7D9A96CC2102CAE3AA9DA1894CAD42E508DD0E8F8451A9000B71A8AD0EB"
+    },
+    {
+      "SourceEscaped": "無視する",
+      "TargetEscaped": "Ignore",
+      "SourceUtf8Sha256": "F83CAE2E78C879BDA32246EF3505F37D4409C24633D1FBF6FE24877F5B770C34"
+    },
+    {
+      "SourceEscaped": "リペアパックを渡す",
+      "TargetEscaped": "Hand over a Repair Pack",
+      "SourceUtf8Sha256": "DFF1C3F7CFAA08C610486D36AC34667632B8B003F47CEB29F17B43E9393CBAE6"
+    },
+    {
+      "SourceEscaped": "イクスクレア コラボ特設サイト",
+      "TargetEscaped": "ExCreR Collaboration Special Site",
+      "SourceUtf8Sha256": "E32FB8D7C5670FF52ACFDFE20ADA81A2C0FA434A825DC25B30377B65B8FFA3F1"
+    },
+    {
+      "SourceEscaped": "CCGトークンストア",
+      "TargetEscaped": "CCG Token Store",
+      "SourceUtf8Sha256": "1B71FC9BA2D9948F0BCC965A3B852D565F22890EBEC49E0EF3DE25AEAE34EC21"
+    },
+    {
+      "SourceEscaped": "イグザイン コラボ特設サイト",
+      "TargetEscaped": "Iguzain Collaboration Special Site",
+      "SourceUtf8Sha256": "7FE98470B9421093088F068F14BD79E169930BCA722DD988ED62FCED5AA689A0"
+    },
+    {
+      "SourceEscaped": "レイドコインロボストア１",
+      "TargetEscaped": "Raid Coin Robot Store １",
+      "SourceUtf8Sha256": "2718676A2D85FD27D82DCE99B3B6AFC4253274031535D9043E05443FDAFB1932"
+    },
+    {
+      "SourceEscaped": "レイドコインロボストア２",
+      "TargetEscaped": "Raid Coin Robot Store ２",
+      "SourceUtf8Sha256": "06B4A2616578663999F1BF0B0300664B8D431F7144B117785BA4111FC42A1C23"
+    },
+    {
+      "SourceEscaped": "レイドコインアイテムストア",
+      "TargetEscaped": "Raid Coin Item Store",
+      "SourceUtf8Sha256": "49F7B74AA26F4C82E8FBDD183F88C9F5DE82FD24345460BC7C09F30DA6D84178"
+    },
+    {
+      "SourceEscaped": "プレミアムゲートチケットが欲しい",
+      "TargetEscaped": "I want a Premium Gate Ticket.",
+      "SourceUtf8Sha256": "498F70033EA905F77500A32FAEB401EC9F16EA934A139B26979BBAA64E9292FA"
+    },
+    {
+      "SourceEscaped": "プレミアムゲートチケットって何？",
+      "TargetEscaped": "What is a Premium Gate Ticket?",
+      "SourceUtf8Sha256": "7E8894362B84C233144BE783D9CAFC4ECAFBDCDCF41C2106C819D0D994822DBB"
+    },
+    {
+      "SourceEscaped": "とくにない",
+      "TargetEscaped": "Nothing in particular.",
+      "SourceUtf8Sha256": "9F5D1DB2A671B8C79E4A703C329940A376B7E9CF2EF84330F333A9A19A7CFD77"
+    },
+    {
+      "SourceEscaped": "ブロンズチケットSP",
+      "TargetEscaped": "Bronze Ticket SP",
+      "SourceUtf8Sha256": "CBD5EBFCB8CC91661D8EBC97F5982CB213F9180332F03D0AC8893E1C474C1E55"
+    },
+    {
+      "SourceEscaped": "シルバーチケットSP",
+      "TargetEscaped": "Silver Ticket SP",
+      "SourceUtf8Sha256": "62C6DC614351D229CA821CA3DF8C879C7275985062B287AC111A04F2D7B3DE7A"
+    },
+    {
+      "SourceEscaped": "ゴールドチケットSP",
+      "TargetEscaped": "Gold Ticket SP",
+      "SourceUtf8Sha256": "A4291077A887C84DBD25F027B90DA687575D2BAAB2A7F0ED298435B2455B4BB7"
+    },
+    {
+      "SourceEscaped": "メインパワー強化初級素材セット",
+      "TargetEscaped": "Beginner Main Power Enhancement Material Set",
+      "SourceUtf8Sha256": "E2ECF49428425806E7825ED93DC26D7AED9377E3C718D1679BE2EF117D7EC1A6"
+    },
+    {
+      "SourceEscaped": "サブパワー強化初級素材セット",
+      "TargetEscaped": "Beginner Sub Power Enhancement Material Set",
+      "SourceUtf8Sha256": "AD2658AA73251F7A79C771BDB3DF6BBEDB642BF61370F8D60CB8A372ADC07404"
+    },
+    {
+      "SourceEscaped": "メインレンジ強化初級素材セット",
+      "TargetEscaped": "Beginner Main Range Enhancement Material Set",
+      "SourceUtf8Sha256": "9D36F6033019E3A5A09FC029ADDCF3E4AA85E39667450DEF0AE03AFCE021A096"
+    },
+    {
+      "SourceEscaped": "メインマガジン強化初級素材セット",
+      "TargetEscaped": "Beginner Main Magazine Enhancement Material Set",
+      "SourceUtf8Sha256": "127CD25BB5F7385B2E48100893602AB89CF568F5908898655EF6A49C41DDE4C2"
+    },
+    {
+      "SourceEscaped": "メインパワー強化中級素材セット",
+      "TargetEscaped": "Intermediate Main Power Enhancement Material Set",
+      "SourceUtf8Sha256": "CC625FBE6C134656D4BA92DC728A03BD1C0999FC59CADAE0FAF625BCE21BDAE8"
+    },
+    {
+      "SourceEscaped": "サブパワー強化中級素材セット",
+      "TargetEscaped": "Intermediate Sub Power Enhancement Material Set",
+      "SourceUtf8Sha256": "7B217DAE821684DFC67245272C91D4698DA8FEE2620C50E0FBFB80C3413AB995"
+    },
+    {
+      "SourceEscaped": "メインレンジ強化中級素材セット",
+      "TargetEscaped": "Intermediate Main Range Enhancement Material Set",
+      "SourceUtf8Sha256": "D99A3729BFE3A4D2EF2A41728A3562828151D0806D7ED72393A3AA1EFA1BC220"
+    },
+    {
+      "SourceEscaped": "メインマガジン強化中級素材セット",
+      "TargetEscaped": "Intermediate Main Magazine Enhancement Material Set",
+      "SourceUtf8Sha256": "F31BD918BB175D5894CDB6085AE7E98506495B7823334D7DAB9D2B5F3BB6F1F1"
+    },
+    {
+      "SourceEscaped": "メインパワー強化上級素材セット",
+      "TargetEscaped": "Advanced Main Power Enhancement Material Set",
+      "SourceUtf8Sha256": "52BFA2A2CDA530506DAF74364CD0E860512D85B5FD157BF586BA22FD07064558"
+    },
+    {
+      "SourceEscaped": "サブパワー強化上級素材セット",
+      "TargetEscaped": "Advanced Sub Power Enhancement Material Set",
+      "SourceUtf8Sha256": "6F111E8A5834743F4899D0184961029875D764189BDA1BCB851B591125E99F22"
+    },
+    {
+      "SourceEscaped": "メインマガジン強化上級素材セット",
+      "TargetEscaped": "Advanced Main Magazine Enhancement Material Set",
+      "SourceUtf8Sha256": "FD6381823BD07433E68F480A23EA6C690E0DF534E22B2D70E96C963414AD47D1"
+    },
+    {
+      "SourceEscaped": "メインバレル強化素材セット",
+      "TargetEscaped": "Main Barrel Enhancement Material Set",
+      "SourceUtf8Sha256": "A3FBFF8264577E7490803E6F6D9051A953DE48E6F286ED32C2E3B9036BF1FF4E"
+    },
+    {
+      "SourceEscaped": "むしろ敵",
+      "TargetEscaped": "More like an enemy.",
+      "SourceUtf8Sha256": "41B6A69DC2E3AFE9D016BB15FBDFD70B4B594B4A7FD3A98EFB03D3E405C2C789"
+    },
+    {
+      "SourceEscaped": "仲間",
+      "TargetEscaped": "An ally.",
+      "SourceUtf8Sha256": "86E8DF92C1E929B28000C16A4455703BC53D5E5289ACC36FAD89D2645B25CEE1"
+    },
+    {
+      "SourceEscaped": "反対する",
+      "TargetEscaped": "Oppose",
+      "SourceUtf8Sha256": "641A5B8EEB6FAE18DABF4C82EC934C91FCF3B7B0DDA1ABBFC3B9398B2A0B4C93"
+    },
+    {
+      "SourceEscaped": "賛成する",
+      "TargetEscaped": "Agree",
+      "SourceUtf8Sha256": "1591509837A2D44D820D4B3C83F87E279C9914DCC051EF96D70B0A417E110CB0"
+    },
+    {
+      "SourceEscaped": "１８個：リーフエッジ　　　",
+      "TargetEscaped": "１８ pieces: Leaf Edge",
+      "SourceUtf8Sha256": "9722A32696660E181F0584651E9864782C7A2C842EE607DD546C4B7CF6775D97"
+    },
+    {
+      "SourceEscaped": "１個  ：リペアパック1000x2",
+      "TargetEscaped": "１ piece: Repair Pack 1000x2",
+      "SourceUtf8Sha256": "1E2E9824286B19385214D748C2F72DBC0F5CAEE82ADAAA6E476976B4E62BDB3A"
+    },
+    {
+      "SourceEscaped": "２個  ：リペアパック2000x2",
+      "TargetEscaped": "２ pieces: Repair Pack 2000x2",
+      "SourceUtf8Sha256": "29584099F15A0326737EC37D6CDAA69832EA23F63CD72FF603061415D09B0584"
+    },
+    {
+      "SourceEscaped": "ポココ",
+      "TargetEscaped": "ポココ",
+      "SourceUtf8Sha256": "ED4554AA4FA855354B777BDAF212F937B386D3DC85EF22566537A71B71FD89B3"
+    },
+    {
+      "SourceEscaped": "ポンポコ！",
+      "TargetEscaped": "ポンポコ!",
+      "SourceUtf8Sha256": "3FF2F8954C5EBC93EAA1ACFD6959398A53FB0B0F27870FE4A7A98A5C0EADCE23"
+    },
+    {
+      "SourceEscaped": "遠慮する",
+      "TargetEscaped": "Decline",
+      "SourceUtf8Sha256": "CB255958451AE9DFD05A1BA8EBF2AEC02EF61DD5705341EA52E59094952A7375"
+    },
+    {
+      "SourceEscaped": "お願いする",
+      "TargetEscaped": "Ask for help",
+      "SourceUtf8Sha256": "BC8DC393447D0D08917E3B2BBA3471D519B436933F0179461400DA035BFD61CB"
+    },
+    {
+      "SourceEscaped": "1個…あげる",
+      "TargetEscaped": "I'll give you... 1.",
+      "SourceUtf8Sha256": "5F90779DC7B87EA19E4C3F9EA0CDDC16AAD58218E13493CE92E2DBE4EF6C183D"
+    },
+    {
+      "SourceEscaped": "あげない",
+      "TargetEscaped": "I won't give it.",
+      "SourceUtf8Sha256": "EAB23DFCBDC9EE2A9C166FAABD353BF9D767BF6DEEAA944F0EE0CAF2BB4B3683"
+    },
+    {
+      "SourceEscaped": "ゲルニア地下について",
+      "TargetEscaped": "About Underground Gernia",
+      "SourceUtf8Sha256": "F86DB541AFE489171416D2EDBBCB779D21D4AE51B107B6979DF0C5A1C9D0E4B1"
+    },
+    {
+      "SourceEscaped": "ヴィクタニア教授について",
+      "TargetEscaped": "About ヴィクタニア教授",
+      "SourceUtf8Sha256": "4530F5D2710E3154BC3BEAAA65BAA4A8949F94219A04E00D088299D3A8555ECD"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 500C$",
+      "TargetEscaped": "Poyeen: Pold Base: 500C$",
+      "SourceUtf8Sha256": "5AB279DDDAD9316E88B3867C483BE24E4A29DE28CF28A23F9D4BECD83527988C"
+    },
+    {
+      "SourceEscaped": "パーツの入手元を教える",
+      "TargetEscaped": "Tell them where the parts came from",
+      "SourceUtf8Sha256": "64435E197B3923FA9F60E072006E695CBF3D8E874174ED85C6EE2DA11A080F11"
+    },
+    {
+      "SourceEscaped": "パーツの入手元を教えない",
+      "TargetEscaped": "Don't tell them where the parts came from",
+      "SourceUtf8Sha256": "91B4C34ABD2EEBA73E007732E70D2FB029FE181CFCAF90509B9E4DC7E2D2ECAE"
+    },
+    {
+      "SourceEscaped": "ヘブンズゲートについて話す",
+      "TargetEscaped": "Talk about Heavens Gate",
+      "SourceUtf8Sha256": "A5F8B830BAE9074DEA4F4D6F486697D9BE040F8E6CF4EA3C3B6C04039AB39F84"
+    },
+    {
+      "SourceEscaped": "観光です",
+      "TargetEscaped": "I'm sightseeing.",
+      "SourceUtf8Sha256": "6143C52C02136A1F3B49F35D31976CA9923738B53BD4544E49B4961A53A1A1A6"
+    },
+    {
+      "SourceEscaped": "嵐を止めたい",
+      "TargetEscaped": "I want to stop the storm.",
+      "SourceUtf8Sha256": "1E7AA4E5CA9623462F492857AB6994B8927D7047C0ABD8261A4FCDD05D604A08"
+    },
+    {
+      "SourceEscaped": "売却する",
+      "TargetEscaped": "Sell",
+      "SourceUtf8Sha256": "A5F431CCE0870FCF24174E350B2D5BD8EDEC7BEBC33113218AE042E48851DACB"
+    },
+    {
+      "SourceEscaped": "説明する",
+      "TargetEscaped": "Explain",
+      "SourceUtf8Sha256": "FB4BA0C3EA338442D15BA1C80937F4CA7D91D3852A85F1EBCF34CDCDAA88BDB0"
+    },
+    {
+      "SourceEscaped": "リペアパック2000  1個　：　10000C$",
+      "TargetEscaped": "Repair Pack 2000: 1 pack: 10000C$",
+      "SourceUtf8Sha256": "FDF0F2032FB21CF40CCD0703AFD391F92DC03D600521E70FCFBD16A52C941BB0"
+    },
+    {
+      "SourceEscaped": "リペアパック2000 10個　：　90000C$",
+      "TargetEscaped": "Repair Pack 2000: 10 packs: 90000C$",
+      "SourceUtf8Sha256": "A9961D6B35EC16EEAE642C372D0C3E1B6ACA9D307B7639A17820AD7417ACBF13"
+    },
+    {
+      "SourceEscaped": "買わない",
+      "TargetEscaped": "Don't Buy",
+      "SourceUtf8Sha256": "2E163E5207C60A95D369C448BA4473B2A07CAC3A56843D11E1EEFB90E1767D72"
+    },
+    {
+      "SourceEscaped": "他の惑星に戻るには？",
+      "TargetEscaped": "How do I return to another planet?",
+      "SourceUtf8Sha256": "22F939332FD48B9964A47C8A1F0A07C439D68A7F8143E0001A96C633789C72D0"
+    },
+    {
+      "SourceEscaped": "M.Cとその間のゲートは？",
+      "TargetEscaped": "What are the M.C and the gate between them?",
+      "SourceUtf8Sha256": "6582521CE734328397B18792BD5CB85D4F20EF66FB99EED69C16E21282A99E61"
+    },
+    {
+      "SourceEscaped": "新生・天使軍とは？",
+      "TargetEscaped": "What is the New Angel Army?",
+      "SourceUtf8Sha256": "4A54CD60F9538232059E005A6CBA7C69263B2EAE951CC63FF979E3F4D37C77E7"
+    },
+    {
+      "SourceEscaped": "超古代文明とは？",
+      "TargetEscaped": "What is the Super-Ancient Civilization?",
+      "SourceUtf8Sha256": "A4927FFB9A69E6C35AC811048B56FF96A4CD59BDC0D2E6D25234281BE3A4D3DC"
+    },
+    {
+      "SourceEscaped": "テストを受ける",
+      "TargetEscaped": "Take the Test",
+      "SourceUtf8Sha256": "7E11C37B86D9459AF7082CECED54A619734021C4F7B7F86A95FB79E85F6C45DD"
+    },
+    {
+      "SourceEscaped": "テストを受けない",
+      "TargetEscaped": "Decline the Test",
+      "SourceUtf8Sha256": "1DF43660B46D4395671EBFBE6823BD4AC2D83B910C360A9F488968733DE5ABAA"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ：   0C$",
+      "TargetEscaped": "Poyeen: Pold Base: 0C$",
+      "SourceUtf8Sha256": "FD0C618CC4E93E0C1039B95BD4F2EA4AA70ABE231FDCFEF8957F0573DFCAD963"
+    },
+    {
+      "SourceEscaped": "ゲルニア：イエルモ基地  ： 300C$",
+      "TargetEscaped": "Gernia: Ielmo Base: 300C$",
+      "SourceUtf8Sha256": "D2B3A4081B963CA38AF296F1A420F79B8DCDF8BE9B90BA7FBC3C16F4A190D4D1"
+    },
+    {
+      "SourceEscaped": "ガルド  ：テトロド基地  ： 600C$",
+      "TargetEscaped": "Gald: Tetrod Base: 600C$",
+      "SourceUtf8Sha256": "7DC8166E7F9772271A26A20B2743F516605BA72BE478FD3C650AE46D5E06BA1A"
+    },
+    {
+      "SourceEscaped": "デゴ    ：ボルスノ基地  ： 900C$",
+      "TargetEscaped": "Dego: Bolsno Base: 900C$",
+      "SourceUtf8Sha256": "017006AD1B5B924C31BE64EB5E0426FBCDF904C7345D6C3D42A6530C6D7F7573"
+    },
+    {
+      "SourceEscaped": "ベネブ  ：アトカラク基地：1700C$",
+      "TargetEscaped": "BeNeB: Atkarak Base: 1700C$",
+      "SourceUtf8Sha256": "93FEE328E968E63D62DAFDF0A4C163D8BEDD03E1D5F0E98B83BDDAEADC4C7320"
+    },
+    {
+      "SourceEscaped": "ダスド  ：ドコモール基地：1300C$",
+      "TargetEscaped": "Dasd: Docomol Base: 1300C$",
+      "SourceUtf8Sha256": "15E65D7D0838877174DFC3E6CA5679C089B9CE494126BC76A6D86971B91B9512"
+    },
+    {
+      "SourceEscaped": "ガスター：マンヤミ基地  ：1500C$",
+      "TargetEscaped": "Gaster: Manyami Base: 1500C$",
+      "SourceUtf8Sha256": "257154CD3D96C6AA4C87B25B20E838D8D7D4AC341BCCBDF6E86E8F04B65D24DC"
+    },
+    {
+      "SourceEscaped": "ネラ    ：ケーブル基地  ：3000C$",
+      "TargetEscaped": "Nera: Cable Base: 3000C$",
+      "SourceUtf8Sha256": "EF68A1B201803CCA82C452CDDF38C745854FFF3C5D1CADE774F4383B1168C750"
+    },
+    {
+      "SourceEscaped": "ヘブンズゲート    ：2000C$",
+      "TargetEscaped": "Heavens Gate: 2000C$",
+      "SourceUtf8Sha256": "D9CF93E49EABFA32F4A07A497AFD2B95D3D0E497E62A91B63ADEE8BA6A2C7EFF"
+    },
+    {
+      "SourceEscaped": "VDワープゲートキー(青)を要求する",
+      "TargetEscaped": "Request a VD Warp Gate Key (Blue)",
+      "SourceUtf8Sha256": "03BB89B8E8B32273172197861D50B9A3DDBF4722A4982E22949833FD95992394"
+    },
+    {
+      "SourceEscaped": "ログインカプセル(紫)1個",
+      "TargetEscaped": "Login Capsule (Purple): 1",
+      "SourceUtf8Sha256": "89CBF0599E991A47CAB40DD061E68B03B56456B0F856E299AEE1209109AEA5CD"
+    },
+    {
+      "SourceEscaped": "リーグフェザー・焔・集・得 各1個",
+      "TargetEscaped": "League Feathers - Flame, Gather, and Gain: 1 Each",
+      "SourceUtf8Sha256": "AEA5C86A97983F0CB97B5A7DE4A59491F6AFE9298908D625DE670A28400CEDCC"
+    },
+    {
+      "SourceEscaped": "VDワープゲートキー(赤)を要求する",
+      "TargetEscaped": "Request a VD Warp Gate Key (Red)",
+      "SourceUtf8Sha256": "A999049B03CFC3F83A8DA9AC40E70FAE2F6D912238B314D2DADF37B4D0A36915"
+    },
+    {
+      "SourceEscaped": "勅命クエストの確認",
+      "TargetEscaped": "Check Imperial Order Quests",
+      "SourceUtf8Sha256": "242A006DF8C2E0DD93B523149A94783086D126CECD76A84DD0DCD88ECF28418B"
+    },
+    {
+      "SourceEscaped": "ハンターの息子",
+      "TargetEscaped": "The Hunter's Son",
+      "SourceUtf8Sha256": "692654AC5359F56ED0F311E3B414B1357EBAD89CC8C093E0FF8727EAC9025129"
+    },
+    {
+      "SourceEscaped": "ヘブンズゲートとは",
+      "TargetEscaped": "What is Heavens Gate?",
+      "SourceUtf8Sha256": "6481C16B2794712F047E06053EEB820F7031796C99D2A65C5222E886C5A71782"
+    },
+    {
+      "SourceEscaped": "天使軍の目的",
+      "TargetEscaped": "The Angel Army's Objective",
+      "SourceUtf8Sha256": "01AA8766DE252F982E3E98E46104729BC928933155FEE9BCE150519B2672F90A"
+    },
+    {
+      "SourceEscaped": "悪魔軍の目的",
+      "TargetEscaped": "The Devil Army's Objective",
+      "SourceUtf8Sha256": "BFC3CAD9B0473028FA9794CF399C6D9DF39C604F1E2312C66A3EA3211E8C00A4"
+    },
+    {
+      "SourceEscaped": "ない",
+      "TargetEscaped": "None.",
+      "SourceUtf8Sha256": "599114CCBE642A74F24718C3BCC9A9C6388008FEE9131320FEB80ADA99B3EEA2"
+    },
+    {
+      "SourceEscaped": "ハインライン駅",
+      "TargetEscaped": "Heinlein Station",
+      "SourceUtf8Sha256": "6290F17EEE47CE0C8C21ED5F11D9F43A005937548362EDCCB22749B78AA3142D"
+    },
+    {
+      "SourceEscaped": "ウィルスン平地",
+      "TargetEscaped": "Wilson Plains",
+      "SourceUtf8Sha256": "84F05493C50D5A0643D56F7C2663E19321C3A9563DB8DE8FD24F2BF5AD678E2A"
+    },
+    {
+      "SourceEscaped": "キャンセル    ",
+      "TargetEscaped": "Cancel",
+      "SourceUtf8Sha256": "002C896CDE8A0B8C02F5EB20B844EE798A741ED2BF8F4ED0443B9E4773D7CC0C"
+    },
+    {
+      "SourceEscaped": "アシモフ野営地",
+      "TargetEscaped": "Asimov Camp",
+      "SourceUtf8Sha256": "C75963C854E5184AAE1B6B9BBADBE11C854E119144D19173C3647F6A149BE74A"
+    },
+    {
+      "SourceEscaped": "ハテック博士",
+      "TargetEscaped": "ハテック博士",
+      "SourceUtf8Sha256": "EA25568F8044E9B8680C58011B68AF937B157B571248F940347BC6C2A8E17858"
+    },
+    {
+      "SourceEscaped": "ルーク",
+      "TargetEscaped": "ルーク",
+      "SourceUtf8Sha256": "FE66A41FC6AB4527AA7C0DCFE47CD0A2579A880E7D792278DC82E92F3C032C38"
+    },
+    {
+      "SourceEscaped": "ポーン",
+      "TargetEscaped": "ポーン",
+      "SourceUtf8Sha256": "24DDBBA7C02C287CC4E8B8E2A7B98A089B7C3FD0171E5494C7239D5C45825750"
+    },
+    {
+      "SourceEscaped": "思いつかない",
+      "TargetEscaped": "I can't think of anything.",
+      "SourceUtf8Sha256": "D0E0F56AE1B99853986A8E7144725B786700AF4993ABCE6F866CB7459C278D4D"
+    },
+    {
+      "SourceEscaped": "自分が行く",
+      "TargetEscaped": "I'll go myself.",
+      "SourceUtf8Sha256": "4C4CD4D1FB96D9F9BFFB6312839872FA7AFC5B3D748F0F6B81D8DA42512FBC84"
+    },
+    {
+      "SourceEscaped": "待機させる",
+      "TargetEscaped": "Have them stand by",
+      "SourceUtf8Sha256": "A27ECC389E68BFBDBF3B8311F054A74DF349B37F75C90FFD46C628A32375206D"
+    },
+    {
+      "SourceEscaped": "ポイーン：ポルド基地    ： 2500C$",
+      "TargetEscaped": "Poyeen: Pold Base: 2500C$",
+      "SourceUtf8Sha256": "3B8F38BF10537AF15F66D63894AF628C003026B762E47A7A7D42D2B5117F8AC9"
+    },
+    {
+      "SourceEscaped": "受注する",
+      "TargetEscaped": "Accept the Quest",
+      "SourceUtf8Sha256": "646865BD65434B0B5B8E3D146BD93B44C993DA0D9FE6FDA31EA014A5F458AFBA"
+    },
+    {
+      "SourceEscaped": "忙しいので",
+      "TargetEscaped": "I'm busy.",
+      "SourceUtf8Sha256": "76E06631375947D8B3337AB71ABCCC0BFAB80DF2F3838E411BB3E26A4879B7CB"
+    },
+    {
+      "SourceEscaped": "やってやる",
+      "TargetEscaped": "I'll do it.",
+      "SourceUtf8Sha256": "F080E8ABA06558ED2B8F0C09B31A95F7A4DDC44BBC8ED544C801C3B7559E06A3"
+    },
+    {
+      "SourceEscaped": "参加する",
+      "TargetEscaped": "Participate",
+      "SourceUtf8Sha256": "D73150DE71B7BAFB7BE7E761C8A396C22B3137DC60348AD0DF05E5D6F100DA41"
+    },
+    {
+      "SourceEscaped": "嫌だよ",
+      "TargetEscaped": "No way.",
+      "SourceUtf8Sha256": "BD65870A5D2BA2BF469F4F76DBB8CA37F04D64CDB7795E8910C9A67DFD621B80"
+    },
+    {
+      "SourceEscaped": "ハロウィンクリスタル2021 1個",
+      "TargetEscaped": "Halloween Crystal 2021: 1",
+      "SourceUtf8Sha256": "E52495CA22D50D4A7812314AD7EE387C8796898D57C194B7F4C7FE3974B95B5A"
+    },
+    {
+      "SourceEscaped": "いやだよ",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "7B97C7DEC9E7772C7DA4077A0BADA9662B58F63F9F9FFA6023B75B6E12723E03"
+    },
+    {
+      "SourceEscaped": "ダメだ",
+      "TargetEscaped": "No.",
+      "SourceUtf8Sha256": "6D6119595E2BD35200748FB4400AC0D0D9F96509ABB5FC7D567AEED9E56D5607"
+    },
+    {
+      "SourceEscaped": "これだ",
+      "TargetEscaped": "This is it.",
+      "SourceUtf8Sha256": "C5DDF8421449D65A01846B2377DB01E342C98C33A7D7EE2B0F0B1AF1DD5C5777"
+    },
+    {
+      "SourceEscaped": "やろう",
+      "TargetEscaped": "Let's do it.",
+      "SourceUtf8Sha256": "0FB41C08615815EC803BA82E52E7A799511837EF9183AEF56A428B0BE5229662"
+    },
+    {
+      "SourceEscaped": "天使軍ではない",
+      "TargetEscaped": "I'm not in the Angel Army.",
+      "SourceUtf8Sha256": "093F94838D418AA05E3115047C3120B98525D5DA2FB56BDDEE6CE16D026DC367"
+    },
+    {
+      "SourceEscaped": "もちろん",
+      "TargetEscaped": "Of course.",
+      "SourceUtf8Sha256": "A33967B3FE4D92E08113BB6AD7B15B47C8FFB5FA8F47144C1B5E5C56E5D51720"
+    },
+    {
+      "SourceEscaped": "気が変わった",
+      "TargetEscaped": "I changed my mind.",
+      "SourceUtf8Sha256": "3991F392F9E608D9B6B54582CBB919FD5418B73C9D3E4525625DD5EBAE0EB18B"
+    },
+    {
+      "SourceEscaped": "こいつを見てくれ",
+      "TargetEscaped": "Take a look at this.",
+      "SourceUtf8Sha256": "5E29764C823FBBABBB34BB87BFEB54D6AF6C8E273164236B6E6C3E074AD4CE2E"
+    },
+    {
+      "SourceEscaped": "受け取らない",
+      "TargetEscaped": "Don't Accept",
+      "SourceUtf8Sha256": "F2484B15F4E1570D5A331ECC6CFBEF6C492AFB73CE38EC4D2C5BC46550220198"
+    },
+    {
+      "SourceEscaped": "受け取る",
+      "TargetEscaped": "Accept",
+      "SourceUtf8Sha256": "72581708F4A5C9F944F2121956FBFB746FD61B265CB305E76F64A4A968F4A7F8"
+    },
+    {
+      "SourceEscaped": "5回ガチャがしたい",
+      "TargetEscaped": "I want to roll Gacha 5 times.",
+      "SourceUtf8Sha256": "DD23ECF69C22E9FD61AED6144E7768A9176CB5B2A86255F7B133B4FDCFD0E305"
+    },
+    {
+      "SourceEscaped": "秘石が5個ずつほしい",
+      "TargetEscaped": "I want 5 of each Secret Stone.",
+      "SourceUtf8Sha256": "9EC2E4AF832A6A6A9E4FFCC7647F78FE869062E6208C08E9E8759D94E69A2917"
+    },
+    {
+      "SourceEscaped": "考え直す",
+      "TargetEscaped": "Reconsider",
+      "SourceUtf8Sha256": "9EF99531B0ADA2FA0578BD1820BB0D5D032A940CA671FAEE9F87390432EBD855"
+    },
+    {
+      "SourceEscaped": "150Mtがほしい",
+      "TargetEscaped": "I want 150Mt.",
+      "SourceUtf8Sha256": "8CE3A744296E506EFBE2AA4695924541C90D9F8508FDF8FA4EE769FE04EB1476"
+    },
+    {
+      "SourceEscaped": "500万EXPがほしい",
+      "TargetEscaped": "I want 5,000,000 EXP.",
+      "SourceUtf8Sha256": "042EA01A5615F4FFC7201FF52C694078AC503746EA0C17E76CB0EFF25280A6BB"
+    },
+    {
+      "SourceEscaped": "受けるよ",
+      "TargetEscaped": "I'll accept.",
+      "SourceUtf8Sha256": "4AA2D548EF7FA8E9D1208AFA9BF3F88DC11B00D4A6B8F1262F82F40F631932C8"
+    },
+    {
+      "SourceEscaped": "見つからない",
+      "TargetEscaped": "I can't find it.",
+      "SourceUtf8Sha256": "222FE8E24FC553296D076F6A91FDCC30B2875AA672D7078926BBBDA5BE23423D"
+    },
+    {
+      "SourceEscaped": "手伝うよ",
+      "TargetEscaped": "I'll help.",
+      "SourceUtf8Sha256": "57785D97AC1D0ED6260156E77D7C292389447A918F7F625D29EA54B08788AAF0"
+    },
+    {
+      "SourceEscaped": "知らないぜ",
+      "TargetEscaped": "I don't know.",
+      "SourceUtf8Sha256": "EF34A26AEE77AA255BE9054ECA8B1EB19DFFEC6B583AFF18908E4DD100557CC2"
+    },
+    {
+      "SourceEscaped": "注文する",
+      "TargetEscaped": "Place an Order",
+      "SourceUtf8Sha256": "84DE258837D4A016617CD0B527A1AC61DA706803FBB2CD4E216098C712F6DA07"
+    },
+    {
+      "SourceEscaped": "受ける",
+      "TargetEscaped": "Accept",
+      "SourceUtf8Sha256": "57D7AE69F052803A29145F2E9A940AD8280BD78B6525913483075C5BCF055AEF"
+    },
+    {
+      "SourceEscaped": "またですか？",
+      "TargetEscaped": "Again?",
+      "SourceUtf8Sha256": "29B181FFF888C56635490B85B2AEFEFD861DCEB612E5A0D0E2EF1562BE693488"
+    },
+    {
+      "SourceEscaped": "自分？",
+      "TargetEscaped": "Me?",
+      "SourceUtf8Sha256": "E06B95E7C24598F4BDE8DD34A409AF00C19275137601F3E12C6E8B38825B3CC0"
+    },
+    {
+      "SourceEscaped": "あれ？",
+      "TargetEscaped": "Huh?",
+      "SourceUtf8Sha256": "9830328C9B0B6E8827C87D0EE526AEB8268E41A95AC437040AEF741DC41747A2"
+    },
+    {
+      "SourceEscaped": "はーい",
+      "TargetEscaped": "Okaaay.",
+      "SourceUtf8Sha256": "8BF890E940965A9F4FBC1F6711F46DB7D03025660543F65D3ABF69BDBF08E385"
+    },
+    {
+      "SourceEscaped": "手伝おう",
+      "TargetEscaped": "Let's help.",
+      "SourceUtf8Sha256": "23A1C8D53645F4E9D804CB69E802D9CD51D1CA96D7986E3E0301F2E42D358CE6"
+    },
+    {
+      "SourceEscaped": "パラセクター？",
+      "TargetEscaped": "パラセクター?",
+      "SourceUtf8Sha256": "E48AA811668D6B503A3D7A9A89AA3ACD3BE95EE4406F05D4A4A2BEBA4B25293F"
+    },
+    {
+      "SourceEscaped": "誰ですか？",
+      "TargetEscaped": "Who are you?",
+      "SourceUtf8Sha256": "DB16A5A23E8425019996D047612F6CA7223805FCFA02ED4A72C7EB9924E51857"
+    },
+    {
+      "SourceEscaped": "都合が悪い",
+      "TargetEscaped": "It's a bad time.",
+      "SourceUtf8Sha256": "82A48C8F8789D143FF7F4972F3C53E33C36EB8870FAF1655821A3BE9567C7662"
+    },
+    {
+      "SourceEscaped": "分かった",
+      "TargetEscaped": "Got it.",
+      "SourceUtf8Sha256": "DD8F229B5B9642A1B601E7CE9EF4A9334958CACAE489B690370FE3D50F467EB7"
+    },
+    {
+      "SourceEscaped": "後で見る",
+      "TargetEscaped": "Look Later",
+      "SourceUtf8Sha256": "A690D8298BECF3CF34A630953814B0FCBACA37A64715D1FBB405D26AA03CC6C7"
+    },
+    {
+      "SourceEscaped": "見てくる",
+      "TargetEscaped": "Go Take a Look",
+      "SourceUtf8Sha256": "3BCBC6788A8493DC12BABC8FDF4C8B06E172720944C5F81C69300E0AA973BFDA"
+    },
+    {
+      "SourceEscaped": "やってみる",
+      "TargetEscaped": "Give it a try",
+      "SourceUtf8Sha256": "D21C5C6379FB05C91BF76C52ED82A0510EBABC93FD8CDC826E2AF3E9EFD7BE3A"
+    },
+    {
+      "SourceEscaped": "すまぬ",
+      "TargetEscaped": "Sorry.",
+      "SourceUtf8Sha256": "7493D54F99B5589A14A81DB328286B0BEB191E75BED2B90DFE5C1491DC64E194"
+    },
+    {
+      "SourceEscaped": "承知した",
+      "TargetEscaped": "Understood.",
+      "SourceUtf8Sha256": "EFDEBFA4DE5A58942158F42BC5BDE4B091C9BF653DBE6FF49BABEA2673D9AF6B"
+    },
+    {
+      "SourceEscaped": "集めておらぬ",
+      "TargetEscaped": "I haven't gathered them.",
+      "SourceUtf8Sha256": "F8563CF74C78E4C9003FA3B3A71070377AC0F6C9E1E013C3EF54E7E5DE8D0E75"
+    },
+    {
+      "SourceEscaped": "渡すでござる",
+      "TargetEscaped": "I shall hand it over.",
+      "SourceUtf8Sha256": "45A41CAD9C5D930B1DBA6D7624C668949D8B969D52DB67F93E72E1C85F698F20"
+    },
+    {
+      "SourceEscaped": "拒否スル",
+      "TargetEscaped": "Refuse",
+      "SourceUtf8Sha256": "82969E691AABC526E1749EECF04F9A8F1EB695CD9E2799C3C5D23620A81F7C0B"
+    },
+    {
+      "SourceEscaped": "了解スル",
+      "TargetEscaped": "Understood",
+      "SourceUtf8Sha256": "BE132B687F4E895F5583CE2B96A8C0329905E504F608196FA77F87925DDB1CEC"
+    },
+    {
+      "SourceEscaped": "渡サナイ",
+      "TargetEscaped": "Do Not Hand Over",
+      "SourceUtf8Sha256": "869D334EEF3EEC3C0FCB2AF8047CF847A4BD5DF16AAD1227723C8544D04CDFD0"
+    },
+    {
+      "SourceEscaped": "渡ス",
+      "TargetEscaped": "Hand Over",
+      "SourceUtf8Sha256": "DC474FB0452DEBEEC4BE6BB4164F36B220B2AA31A27A1393F4F544046B8253DC"
+    },
+    {
+      "SourceEscaped": "１．「メダルの集め方詳細」",
+      "TargetEscaped": "１. \"How to Collect Medals: Details\"",
+      "SourceUtf8Sha256": "46AF84AA80B8E475492C0312494B2814410B705A7C0F7D48A511467F1B02BB49"
+    },
+    {
+      "SourceEscaped": "２．「メダル詳細とドロップ箇所」",
+      "TargetEscaped": "２. \"Medal Details and Drop Locations\"",
+      "SourceUtf8Sha256": "CDB39606D21DB6B40CA0B9715C70E29D70AA80169A54639E908EFC8B6F149984"
+    },
+    {
+      "SourceEscaped": "３．「ガチャ限定ロボについて」",
+      "TargetEscaped": "３. \"About Gacha-Exclusive Robots\"",
+      "SourceUtf8Sha256": "A4413B8966E413DBA65EC9160BF0569988E5619526EBB07617AA6CAA305FC65C"
+    },
+    {
+      "SourceEscaped": "４．「初心者アドバイス」",
+      "TargetEscaped": "４. \"Beginner Advice\"",
+      "SourceUtf8Sha256": "4B9D7B9F91B5C22C20C988BA552842A1790CD5F16233BFEA84039193DE31CCC5"
+    },
+    {
+      "SourceEscaped": "５．「公式サイトで確認（詳細）」",
+      "TargetEscaped": "５. \"Check the Official Site (Details)\"",
+      "SourceUtf8Sha256": "A061A2D9083D5629FD9459BE4114BCC1DC7CA021A7C41CEB915C6C7DD0D0CC92"
+    },
+    {
+      "SourceEscaped": "６．「新しい情報について（12/5更新）」",
+      "TargetEscaped": "６. \"New Information (Updated 12/5)\"",
+      "SourceUtf8Sha256": "4B192B89A82676B4D7F2EDF3E3A85C8986D7680CEF3065489C1E14F227A220D3"
+    },
+    {
+      "SourceEscaped": "１．「調査の収集物と報酬」",
+      "TargetEscaped": "１. \"Research Collectibles and Rewards\"",
+      "SourceUtf8Sha256": "E2BB28A6B9FD3CE4CED36A060A81502592495E7EF42C9881736AE5A73C580FE3"
+    },
+    {
+      "SourceEscaped": "２．「メダルの集め方」",
+      "TargetEscaped": "２. \"How to Collect Medals\"",
+      "SourceUtf8Sha256": "F30CB3A0D3B136B60DECAEAA04299C9E6407A08A7A1049736CE30AA5D3E55260"
+    },
+    {
+      "SourceEscaped": "３．「メダルの注意点」",
+      "TargetEscaped": "３. \"Medal Precautions\"",
+      "SourceUtf8Sha256": "DEC13B2F962DCC050914901A618203DEBCE9C586C95659DEB3AA165F9A2BF6E0"
+    },
+    {
+      "SourceEscaped": "４．「レプリカメダルの入手」",
+      "TargetEscaped": "４. \"Obtaining Replica Medals\"",
+      "SourceUtf8Sha256": "D36E6F46D0EE6FDD1AC2903DC120F723D48D0EE1A43B538F826FBC6F78159279"
+    },
+    {
+      "SourceEscaped": "前の選択肢へ",
+      "TargetEscaped": "Previous Choices",
+      "SourceUtf8Sha256": "CF1DD63479347D8101AC744A5403E16ED99F876E6A229AB6F6C63625EE75C6D8"
+    },
+    {
+      "SourceEscaped": "１．メダル「キャット」・「ドッグ」",
+      "TargetEscaped": "１. \"Cat\" and \"Dog\" Medals",
+      "SourceUtf8Sha256": "3649A403671A26A4C78089815E5E0641B36A7DABACCC3310BFFDCF6E0B4D525B"
+    },
+    {
+      "SourceEscaped": "２．メダル「タートル」",
+      "TargetEscaped": "２. \"Turtle\" Medal",
+      "SourceUtf8Sha256": "C63674A7F10262B0EFAFCFF68D7D3FFC2DD6D466C33BA15CEA22D2067281732A"
+    },
+    {
+      "SourceEscaped": "３．メダル「ナイト」・「キング」",
+      "TargetEscaped": "３. \"Knight\" and \"King\" Medals",
+      "SourceUtf8Sha256": "6E9A768771CB4793C616FA1BD02586F0F914F5A2D5334DAE79058B6CE878E98C"
+    },
+    {
+      "SourceEscaped": "４．メダル「マーメイド」・「クイーン」",
+      "TargetEscaped": "４. \"Mermaid\" and \"Queen\" Medals",
+      "SourceUtf8Sha256": "6C6C770481D84599A8EC68B227EE185E9BF510122FE5108F201AC4B2E92C58BB"
+    },
+    {
+      "SourceEscaped": "１．「メタビー」について",
+      "TargetEscaped": "１. About \"メタビー\"",
+      "SourceUtf8Sha256": "06B6916F954FFFF9B72595B45A5398F26630D8EC4865F26351C1912DE7E24020"
+    },
+    {
+      "SourceEscaped": "２．「ロクショウ」について",
+      "TargetEscaped": "２. About \"ロクショウ\"",
+      "SourceUtf8Sha256": "EFF5BDB772F7EA48498908B669FB4B60E6526AF2991D1276A54CE439CF7C4F9B"
+    },
+    {
+      "SourceEscaped": "３．「セーラーマルチ」について",
+      "TargetEscaped": "３. About \"セーラーマルチ\"",
+      "SourceUtf8Sha256": "89A2DA116BEDDDD00382128C21B84CC83D2A24144D9523C08C9878B10075849B"
+    },
+    {
+      "SourceEscaped": "４．「メダフォース」について",
+      "TargetEscaped": "４. About \"Medaforce\"",
+      "SourceUtf8Sha256": "E0364947F8A9C18C0090AFC3E260B3F6BA309F874D113F8C2BA6BBC90B878791"
+    },
+    {
+      "SourceEscaped": "１．「ロボの動きが遅い」",
+      "TargetEscaped": "１. \"My Robot Moves Slowly\"",
+      "SourceUtf8Sha256": "E1A845C17C29C5F6F84BB7F69014081A9B28D3C0B32D0771F3B963C1EDEC0562"
+    },
+    {
+      "SourceEscaped": "２．「マップの方向が分からない」",
+      "TargetEscaped": "２. \"I Can't Find My Way on the Map\"",
+      "SourceUtf8Sha256": "0115243AC56EA1CDCAE2FC1BE4296AC9FAFB216FF312E5F03C02E6C220EB178A"
+    },
+    {
+      "SourceEscaped": "３．「何をすれば分からない」",
+      "TargetEscaped": "３. \"I Don't Know What to Do\"",
+      "SourceUtf8Sha256": "5E281187CB3D405875257396A9754D1970D65231E69153484AE3E9F98CF9BAAD"
+    },
+    {
+      "SourceEscaped": "４．「すぐ倒されてしまう」",
+      "TargetEscaped": "４. \"I Get Defeated Right Away\"",
+      "SourceUtf8Sha256": "5E56F19D55D05F39817C7D184A9880CD26C90A116B5DD9C509B769B9A945519A"
+    },
+    {
+      "SourceEscaped": "５．「レベルアップしたい」",
+      "TargetEscaped": "５. \"I Want to Level Up\"",
+      "SourceUtf8Sha256": "945A58273213B1992E814320E85DB0F7D9069A2918D90FFDB25C07053A277D63"
+    },
+    {
+      "SourceEscaped": "６．「強いロボを使いたい」",
+      "TargetEscaped": "６. \"I Want to Use a Strong Robot\"",
+      "SourceUtf8Sha256": "2D6927759F4FFE24693DFCE17005A9582564D89EC0A329A7B59825097831D719"
+    },
+    {
+      "SourceEscaped": "７．「強い武器がほしい」",
+      "TargetEscaped": "７. \"I Want a Strong Weapon\"",
+      "SourceUtf8Sha256": "E8682B3C2F9F015174E82DD8BBC313C2D1130FA0CE2CEB832A14DBC3DEB8FBD7"
+    },
+    {
+      "SourceEscaped": "８．「ガチャがしたい」",
+      "TargetEscaped": "８. \"I Want to Roll Gacha\"",
+      "SourceUtf8Sha256": "C74D4A857540B056379ABA8F49F645D3C1FEEF7C841C8214EFB5166D8AC5F49B"
+    },
+    {
+      "SourceEscaped": "９．「ガチャロボを選んでゲットしたい（一部）」",
+      "TargetEscaped": "９. \"I Want to Choose and Get a Gacha Robot (Selected Models)\"",
+      "SourceUtf8Sha256": "F2DCCD7415DC7B549D32B236273D7DBF5AFBA12779460500CB53BEA964A46695"
+    },
+    {
+      "SourceEscaped": "１０．「散らばるアイテムを簡単に集めたい」",
+      "TargetEscaped": "１０. \"I Want to Collect Scattered Items Easily\"",
+      "SourceUtf8Sha256": "90E976059057B2B5C1DEE68F8EF3CC474BCA230DC2B561EB0361A6916EFCF069"
+    },
+    {
+      "SourceEscaped": "１１．「すぐポルド基地に戻りたい」",
+      "TargetEscaped": "１１. \"I Want to Return to Pold Base Quickly\"",
+      "SourceUtf8Sha256": "DBCC43ECCC377E7A89A71DCAA7BBC1AC7746B2D1AA29B35E92770AEF46877F87"
+    },
+    {
+      "SourceEscaped": "１２．「ログインカプセル（紫）について」",
+      "TargetEscaped": "１２. \"About Login Capsule (Purple)\"",
+      "SourceUtf8Sha256": "87232A13FC2C931505D04E043AB35AD5C2CF073FC8160C4761EB3E2619E49179"
+    },
+    {
+      "SourceEscaped": "「メダロット×鋼鉄戦記C21コラボ特設サイト」",
+      "TargetEscaped": "\"Medabots x Steel Chronicles C21 Collaboration Special Site\"",
+      "SourceUtf8Sha256": "5A4947F57577ACFA22A970CF0E3ED50827B5D5B9ED98E0FBA425EEE44E9B5231"
+    },
+    {
+      "SourceEscaped": "「メダロットコラボイベント内容」",
+      "TargetEscaped": "\"Medabots Collaboration Event Details\"",
+      "SourceUtf8Sha256": "17D1CBE70ACD00A65A58E6204223D37747E72191042C7F7112F8B6DC9F6C53E1"
+    },
+    {
+      "SourceEscaped": "「初心者プレイガイド」",
+      "TargetEscaped": "\"Beginner's Play Guide\"",
+      "SourceUtf8Sha256": "A4F25710094DFE5734094F0572F7CFC69EBE0D2DE9AA6AAFAA2609091BB1BD15"
+    },
+    {
+      "SourceEscaped": "「メダロットコラボガチャ」",
+      "TargetEscaped": "\"Medabots Collaboration Gacha\"",
+      "SourceUtf8Sha256": "CC0CF1848D34A27B275D4F244744F2F53C8E3D8045905696A26C2E85ED467674"
+    },
+    {
+      "SourceEscaped": "１．新メダル追加エリア",
+      "TargetEscaped": "１. Areas with New Medals",
+      "SourceUtf8Sha256": "B2DE4BE7671B08DD47DE6FC3CCE6BED694A693F6C9BA0296DDAC8083466FE0E3"
+    },
+    {
+      "SourceEscaped": "２．メダリアについて",
+      "TargetEscaped": "２. About Medalia",
+      "SourceUtf8Sha256": "87D194AF23E4F5C07EB802D3E54F2CC76455B965FDCB045447B0EC80E76AE915"
+    },
+    {
+      "SourceEscaped": "３．メダル「ニンジャ」・「ドラゴン」・「ユニコーン」",
+      "TargetEscaped": "３. \"Ninja\", \"Dragon\", and \"Unicorn\" Medals",
+      "SourceUtf8Sha256": "F3B0F3DD6FBCB506CB94F093D1411B64E7FD7F53CEE0A9861ABFF6E69A9B3266"
+    },
+    {
+      "SourceEscaped": "４．メダル「ハンター」・「スナイパー」",
+      "TargetEscaped": "４. \"Hunter\" and \"Sniper\" Medals",
+      "SourceUtf8Sha256": "DB2A34E3153099CE9B91F0A7F2CBFB7C526116B0F0F8C7BD5655DF0E00E7EE60"
+    },
+    {
+      "SourceEscaped": "５．「アークビートルD」について",
+      "TargetEscaped": "５. About \"アークビートルD\"",
+      "SourceUtf8Sha256": "64D5B85DFDDCE6A98410BFA1117C57FA2F7B73DC3196DDF95D7C68ACB7B5E4F9"
+    },
+    {
+      "SourceEscaped": "６．「ティレルビートル」について",
+      "TargetEscaped": "６. About \"ティレルビートル\"",
+      "SourceUtf8Sha256": "C8224A0E9AE5513AD68538C0FD15D03434852A83574F5706FAD7A5E0099F9FCB"
+    },
+    {
+      "SourceEscaped": "７．調査員「コレクト」について",
+      "TargetEscaped": "７. About Researcher \"コレクト\"",
+      "SourceUtf8Sha256": "35921C23B12159DF9F513D0158A1BC34C4E7021880ECCD595A37ECDA7AA6F4F0"
+    },
+    {
+      "SourceEscaped": "見せない",
+      "TargetEscaped": "Don't Show",
+      "SourceUtf8Sha256": "C4B749C2407FE421CC7CCA09CAB3B056A8C5EE466A51DA402F8281D00D153574"
+    },
+    {
+      "SourceEscaped": "見せる",
+      "TargetEscaped": "Show",
+      "SourceUtf8Sha256": "A6CA488216F0D0BB7AB8BE420066BE13CFA509AD38F6B9A781B4AFC93DA750F2"
+    },
+    {
+      "SourceEscaped": "キングメダル：キャットメダル（15個）",
+      "TargetEscaped": "King Medal: Cat Medals (15)",
+      "SourceUtf8Sha256": "CF2E3DCF33F2F5B39F3C1B356615956F9F2C5D9FEE413E178528013B9C914187"
+    },
+    {
+      "SourceEscaped": "キングメダル：ドッグメダル（15個）",
+      "TargetEscaped": "King Medal: Dog Medals (15)",
+      "SourceUtf8Sha256": "BC6A5A741ED72A51AD992A6A008445F38BDAE4E1B61B2491A66CC7713F0759BB"
+    },
+    {
+      "SourceEscaped": "クイーンメダル：タートルメダル（15個）",
+      "TargetEscaped": "Queen Medal: Turtle Medals (15)",
+      "SourceUtf8Sha256": "5A4B7A76132099E2F8CA4E9ECF4052239D53ECDB3847586E004448092B779C68"
+    },
+    {
+      "SourceEscaped": "クイーンメダル：ナイトメダル（15個）",
+      "TargetEscaped": "Queen Medal: Knight Medals (15)",
+      "SourceUtf8Sha256": "97E582DBDFA167D3C926CFF14055C484EC2318E1256FC0C0097F3E1ABAF7162F"
+    },
+    {
+      "SourceEscaped": "ハンターメダル：マーメイドメダル（15個）",
+      "TargetEscaped": "Hunter Medal: Mermaid Medals (15)",
+      "SourceUtf8Sha256": "63391B47876632B980FBAE55BF8FD052CD00713EA304B42968B58D25F33F456E"
+    },
+    {
+      "SourceEscaped": "ハンターメダル：ニンジャメダル（15個）",
+      "TargetEscaped": "Hunter Medal: Ninja Medals (15)",
+      "SourceUtf8Sha256": "9A9E513C9A0B236FC8006FB7A246273709A23019EB681CC2D9A35856A93932F8"
+    },
+    {
+      "SourceEscaped": "スナイパーメダル：ドラゴンメダル（15個）",
+      "TargetEscaped": "Sniper Medal: Dragon Medals (15)",
+      "SourceUtf8Sha256": "3F7C295FF1464C024F5320D47FB583BD7966DCD29A7697CBF4B6F5B97C121A67"
+    },
+    {
+      "SourceEscaped": "スナイパーメダル：ユニコーンメダル（15個）",
+      "TargetEscaped": "Sniper Medal: Unicorn Medals (15)",
+      "SourceUtf8Sha256": "A822E992D5DAB2328DC3AFB71A7F2D74619D606746D9FEFBFE4558025BC35FE3"
+    },
+    {
+      "SourceEscaped": "14周年SPクエストについて",
+      "TargetEscaped": "About the 14th Anniversary SP Quest",
+      "SourceUtf8Sha256": "1B0A8E171DF08217AA5B960C1089EC2AE2353177910699EEA4C6C04B4244FF13"
+    },
+    {
+      "SourceEscaped": "「14周年記念クエスト クリア」",
+      "TargetEscaped": "\"14th Anniversary Quest Cleared\"",
+      "SourceUtf8Sha256": "70B10BE582986A2164FE75A77B0678CAFA840B7558E84B6DCFDD656133ECEA2F"
+    },
+    {
+      "SourceEscaped": "「14周年サタコのフィアンセ クリア」",
+      "TargetEscaped": "\"14th Anniversary サタコ's Fiance Cleared\"",
+      "SourceUtf8Sha256": "F110D45F975CC130D90A0660D7314E6B06DB8BA1D113EE0729056EDC1207B198"
+    },
+    {
+      "SourceEscaped": "「14周年ロボストア店長 クリア」",
+      "TargetEscaped": "\"14th Anniversary Robot Store Manager Cleared\"",
+      "SourceUtf8Sha256": "E1551BADEF0F24DDF31E12729BBB51624695765113ADE11F71FA84FC4209845C"
+    },
+    {
+      "SourceEscaped": "「14周年パーツ収集 クリア」",
+      "TargetEscaped": "\"14th Anniversary Parts Collection Cleared\"",
+      "SourceUtf8Sha256": "C477104644D59926D4F877A942EA56A6673F253160C1CF038182D6348594E1FD"
+    },
+    {
+      "SourceEscaped": "全てクリアした",
+      "TargetEscaped": "I've cleared everything.",
+      "SourceUtf8Sha256": "4756A03B44560B9CC5C7DD71B99224F8DECC3D2A41B7F9C14A0B22BF9F339B06"
+    },
+    {
+      "SourceEscaped": "もう一度説明を聞く",
+      "TargetEscaped": "Hear the explanation again",
+      "SourceUtf8Sha256": "B8239DBF605602E808E7E4739CB34FF6700207EBB79CECEA5ADAAA511000518D"
+    },
+    {
+      "SourceEscaped": "『大結晶 黄虎』1個入手（黄虎99個渡す）",
+      "TargetEscaped": "Get \"Great Crystal: Yellow Tiger\" x1 (Hand over Yellow Tiger x99)",
+      "SourceUtf8Sha256": "89FCFDBCADBC1FD833C70D9B806C305DD78E713363106760DD571651AAA04EDA"
+    },
+    {
+      "SourceEscaped": "『虎咆拳』を入手（黄虎10個渡す）",
+      "TargetEscaped": "Get \"Tiger Roar Fist\" (Hand over Yellow Tiger x10)",
+      "SourceUtf8Sha256": "1C3DE8D8D262CE54826785D965768A8FC8FF06842E35BC5A5DE69D7A932472F8"
+    },
+    {
+      "SourceEscaped": "『大結晶 紫龍』1個入手（紫龍99個渡す）",
+      "TargetEscaped": "Get \"Great Crystal: Purple Dragon\" x1 (Hand over Purple Dragon x99)",
+      "SourceUtf8Sha256": "0717CC5344D735D9221BC6B1951D828BE1AB17CDB5A8670C76CCD2A77B69A353"
+    },
+    {
+      "SourceEscaped": "『龍天撃』を入手（紫龍10個渡す）",
+      "TargetEscaped": "Get \"Heavenly Dragon Strike\" (Hand over Purple Dragon x10)",
+      "SourceUtf8Sha256": "C6640CB492DB720FA5BDEAC8428A857F06161F8C030BF1090179E98B93B1F4A0"
+    },
+    {
+      "SourceEscaped": "『ムルルガルα』入手（1回限定：ムルルガルαの爪50個）",
+      "TargetEscaped": "Get \"ムルルガルα\" (Limited to 1 time: ムルルガルα Claws x50)",
+      "SourceUtf8Sha256": "3616EF7C6A0EBAFDA7EF98BC13DA874C764D9F630EA7600A098F943D32857B1E"
+    },
+    {
+      "SourceEscaped": "『ムルルガルβ』入手（1回限定：ムルルガルβの爪50個）",
+      "TargetEscaped": "Get \"ムルルガルβ\" (Limited to 1 time: ムルルガルβ Claws x50)",
+      "SourceUtf8Sha256": "7A50980C0676C1DBF471930CC6B30CA8F4D1D3B4B8A5D25BD4110C1DC2EE5773"
+    },
+    {
+      "SourceEscaped": "やだ",
+      "TargetEscaped": "Nope.",
+      "SourceUtf8Sha256": "EE0893B0119A7CB94759E437B59FBFB08C4CF8E302423A27465553F3BD2AD91F"
+    },
+    {
+      "SourceEscaped": "嫌よ",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "60D69B0E3C267007D2A1C039DB6840CF9EBE66240FD6C9DEDC541D2348A1DA07"
+    },
+    {
+      "SourceEscaped": "いいわよ",
+      "TargetEscaped": "All right.",
+      "SourceUtf8Sha256": "C21F91517ABBA37713DB7A6F0BAF40BFED672ECA58D6E0FD8651AA680E4E516D"
+    },
+    {
+      "SourceEscaped": "渡さないわ",
+      "TargetEscaped": "I won't hand it over.",
+      "SourceUtf8Sha256": "8D0BF4F8F86D692194B5EF32CBCE5FB573DDC300DE746A0DE3B69D4379AA0F5B"
+    },
+    {
+      "SourceEscaped": "渡すわ",
+      "TargetEscaped": "I'll hand it over.",
+      "SourceUtf8Sha256": "5B661DE958D2AAF3226F8AECBDB13142829A0A3E8E418D78BEF413F154DBF557"
+    },
+    {
+      "SourceEscaped": "今忙しいので…",
+      "TargetEscaped": "I'm busy right now...",
+      "SourceUtf8Sha256": "389948074F1AF919C136C660C823878CE5B3F8C1CA3E92DA7A8A7C8127E07506"
+    },
+    {
+      "SourceEscaped": "交換所へ行く",
+      "TargetEscaped": "Go to the Exchange Counter",
+      "SourceUtf8Sha256": "204BCF3F7750B9DC4C97A7A2541DDA7EF2DF19C3E2FBED006353ABA4ACADFF52"
+    },
+    {
+      "SourceEscaped": "今はちょっと…",
+      "TargetEscaped": "Now isn't a good time...",
+      "SourceUtf8Sha256": "1E28B1A726D6C0A780F3748DD9DCA076BEF19665B5206485A24421C4CABF8E9B"
+    },
+    {
+      "SourceEscaped": "いいよ！",
+      "TargetEscaped": "Sure!",
+      "SourceUtf8Sha256": "071C0388A82168F4F6CF0B9F59EAC8A3DC9BF75F8F0110796F332816FB494E35"
+    },
+    {
+      "SourceEscaped": "よくないぜ",
+      "TargetEscaped": "That's not good.",
+      "SourceUtf8Sha256": "A267CAC1DCB8F885FB32CB64382B79C984A597B3295CE7313EA15B082510DAB9"
+    },
+    {
+      "SourceEscaped": "いいぜ",
+      "TargetEscaped": "All right.",
+      "SourceUtf8Sha256": "CD1C7B1B6DB1A5A0A9FAC83C7077DE7E6A42A6936210D562626875DCDB54EE3A"
+    },
+    {
+      "SourceEscaped": "そっとしておこう",
+      "TargetEscaped": "Let's leave them alone.",
+      "SourceUtf8Sha256": "95549579D33AD8601D81BBCFA02C8CA6C1474800995FF3A56F053E7F8A03A92E"
+    },
+    {
+      "SourceEscaped": "あ、あのぉ…",
+      "TargetEscaped": "U-um...",
+      "SourceUtf8Sha256": "CF2D657A7EC6CDCC28CCA389BDAC8E5587E94E45E9716B1ADAD1F592F2DD83FA"
+    },
+    {
+      "SourceEscaped": "ロボ違いです",
+      "TargetEscaped": "You've got the wrong robot.",
+      "SourceUtf8Sha256": "46663DF594D1395D3105E6CFB7A5562B5ADFC92DE191F0A24D05525EAB9AA92F"
+    },
+    {
+      "SourceEscaped": "1～10階層へ挑戦する（1日1回無料挑戦可）",
+      "TargetEscaped": "Challenge Floors 1～10 (1 Free Attempt per 1 Day)",
+      "SourceUtf8Sha256": "1DE882FD69B69CEBBD1B90F33801B98D72817444D1EFEF7CC3004A18D07412EB"
+    },
+    {
+      "SourceEscaped": "階層をスキップする（1日1回無料挑戦可）",
+      "TargetEscaped": "Skip Floors (1 Free Attempt per 1 Day)",
+      "SourceUtf8Sha256": "77661803B45D4ADA4AA0046FAFD468556CC66668188989145201BC174C791219"
+    },
+    {
+      "SourceEscaped": "1～10階層の説明を聞く",
+      "TargetEscaped": "Hear about Floors 1～10",
+      "SourceUtf8Sha256": "1E0419B0D84FE521160DA3AEC232D7AA6B567F84A9D6E72DE020437A2D900A4A"
+    },
+    {
+      "SourceEscaped": "VRミッションタワーの説明を聞く",
+      "TargetEscaped": "Hear about the VR Mission Tower",
+      "SourceUtf8Sha256": "F5FCC372F7EC6C473F44D28BB27755222B5973A1E99BD631EC23CDC6CC6AA7B6"
+    },
+    {
+      "SourceEscaped": "ガレージへ行く",
+      "TargetEscaped": "Go to the Garage",
+      "SourceUtf8Sha256": "DCE7C88DCE7DE9AB808F86664A510456FF2845FEE3C87D905B3526D63BAFE084"
+    },
+    {
+      "SourceEscaped": "ショップへ行く",
+      "TargetEscaped": "Go to the Shop",
+      "SourceUtf8Sha256": "DC92D1556DD0AF9A52F35A8C61BAD0D9366DD0CC2648B1574AFECA7EF4A39C1D"
+    },
+    {
+      "SourceEscaped": "ランキングを見る",
+      "TargetEscaped": "View Rankings",
+      "SourceUtf8Sha256": "87BC786B7DBC2CAB09DD4FD3120FD1C74D90E5D167860ADE13F0C9B57A0C1ADF"
+    },
+    {
+      "SourceEscaped": "なんでもない",
+      "TargetEscaped": "It's nothing.",
+      "SourceUtf8Sha256": "BCB68F62041840304E083DA298E60662DD64FABC466A46FCDB73953B37699CC9"
+    },
+    {
+      "SourceEscaped": "10Fのインターバルエリアへ移動する",
+      "TargetEscaped": "Go to the 10F Interval Area",
+      "SourceUtf8Sha256": "C8B125B5C3A620EF17437DCFA79596D31AB931735B8889088478BE3AAE7164C7"
+    },
+    {
+      "SourceEscaped": "20Fのインターバルエリアへ移動する",
+      "TargetEscaped": "Go to the 20F Interval Area",
+      "SourceUtf8Sha256": "5F5EBEB278C4424FC17297588301FEEE773B0E4DE76CC0E942079BF55470F600"
+    },
+    {
+      "SourceEscaped": "30Fのインターバルエリアへ移動する",
+      "TargetEscaped": "Go to the 30F Interval Area",
+      "SourceUtf8Sha256": "D013E82A1270CA13C6D5E012B825DE2EEA9C96314706DFEC99D4D38C21C98780"
+    },
+    {
+      "SourceEscaped": "40Fのインターバルエリアへ移動する",
+      "TargetEscaped": "Go to the 40F Interval Area",
+      "SourceUtf8Sha256": "5FC65608A921C878AAC7761B2D08C5917969899F2DDF12A29938E116BF24D8B9"
+    },
+    {
+      "SourceEscaped": "50Fのインターバルエリアへ移動する",
+      "TargetEscaped": "Go to the 50F Interval Area",
+      "SourceUtf8Sha256": "735B357CE5D905D088DE0630ECC6B1C033EE689435F65798717DCB8F18DD4F65"
+    },
+    {
+      "SourceEscaped": "やっぱやめる",
+      "TargetEscaped": "Actually, I'll pass.",
+      "SourceUtf8Sha256": "7B9CD00E49E5C349FC66D5798A757E042E524D8BFB5A1EF459D6152E059060D3"
+    },
+    {
+      "SourceEscaped": "1～10階層へ挑戦する（1日無料分終了 30Mt必要）",
+      "TargetEscaped": "Challenge Floors 1～10 (Free Allowance for 1 Day Used; Requires 30Mt)",
+      "SourceUtf8Sha256": "445CA96736746738B6E9406CABC3E483A815B6B9810BAB9A91C0DAA8287BB48C"
+    },
+    {
+      "SourceEscaped": "階層をスキップする（1日無料分終了 30Mt必要）",
+      "TargetEscaped": "Skip Floors (Free Allowance for 1 Day Used; Requires 30Mt)",
+      "SourceUtf8Sha256": "D9B2FE6F9A3C3456E73E2A82A9B5080A1279799B0E6CFFC0A4B5C544BED00BD0"
+    },
+    {
+      "SourceEscaped": "挑戦を諦める",
+      "TargetEscaped": "Abandon the Challenge",
+      "SourceUtf8Sha256": "4393A5A7B30801A83D5F09DF77C017377E7A423857E61406B3C7182CCEE9C95C"
+    },
+    {
+      "SourceEscaped": "本当に諦める",
+      "TargetEscaped": "Really Give Up",
+      "SourceUtf8Sha256": "765641AF67A96811B72A0AFA7D01C5F84CA9DB6513C3C8DD528C10BB1DB577D8"
+    },
+    {
+      "SourceEscaped": "11～20階層へ挑戦する",
+      "TargetEscaped": "Challenge Floors 11～20",
+      "SourceUtf8Sha256": "BBF963BC60C0A7FA3C6ABC75A0402329D53AA89FFE2968441517FEC07484E171"
+    },
+    {
+      "SourceEscaped": "11～20階層の説明を聞く",
+      "TargetEscaped": "Hear about Floors 11～20",
+      "SourceUtf8Sha256": "3502269348758B4277677F297A4E25638D3039CBD63D0EA50278810ACB7DCAA5"
+    },
+    {
+      "SourceEscaped": "中断する",
+      "TargetEscaped": "Pause",
+      "SourceUtf8Sha256": "F213307D0FC519E61C380082751E5CE086B456EFCAC72BF863C17C6496B8DEAA"
+    },
+    {
+      "SourceEscaped": "21～30階層へ挑戦する",
+      "TargetEscaped": "Challenge Floors 21～30",
+      "SourceUtf8Sha256": "D3BAF8B927FD6892431ABDDEED1B2A5420C0269CCE32D9469BDAF6ADE9D60071"
+    },
+    {
+      "SourceEscaped": "21～30階層の説明を聞く",
+      "TargetEscaped": "Hear about Floors 21～30",
+      "SourceUtf8Sha256": "7D3583667E46F15C45E3414E62983FCDF517CB9C25B72961B70DE9D25834A7BE"
+    },
+    {
+      "SourceEscaped": "31～40階層へ挑戦する",
+      "TargetEscaped": "Challenge Floors 31～40",
+      "SourceUtf8Sha256": "38939F2ABD765505C597EB328E4C143530CE10B7EFF68916D869222353A5A424"
+    },
+    {
+      "SourceEscaped": "31～40階層の説明を聞く",
+      "TargetEscaped": "Hear about Floors 31～40",
+      "SourceUtf8Sha256": "AB34CD2365E2E438D7FD7C2DB62260D814BF3052E6279A7DB90EA2D44BBB3807"
+    },
+    {
+      "SourceEscaped": "41～50階層へ挑戦する",
+      "TargetEscaped": "Challenge Floors 41～50",
+      "SourceUtf8Sha256": "F239BF9B55C3F1B8E367A1408185925EE604522311D6967D1747A5739796DADA"
+    },
+    {
+      "SourceEscaped": "41～50階層の説明を聞く",
+      "TargetEscaped": "Hear about Floors 41～50",
+      "SourceUtf8Sha256": "22697FE9F31032C5A30F2108E141C8B3085EE890B726806852373661EA3C44BF"
+    },
+    {
+      "SourceEscaped": "51～60階層へ挑戦する",
+      "TargetEscaped": "Challenge Floors 51～60",
+      "SourceUtf8Sha256": "8B0F30DBA370795C2DB7EDD566A569A7526DFF42127DC5A5145A22598B8D2EB1"
+    },
+    {
+      "SourceEscaped": "51～60階層の説明を聞く",
+      "TargetEscaped": "Hear about Floors 51～60",
+      "SourceUtf8Sha256": "30BB3B0045C31AB45FBC446A22865CE73E91268CB2F931314669F40BC439FE38"
+    },
+    {
+      "SourceEscaped": "戻らない",
+      "TargetEscaped": "Don't Return",
+      "SourceUtf8Sha256": "610B4925A89B032413D47D58FCEE5EDE88EC1CB3C07C00B126EDF8C6529BED57"
+    },
+    {
+      "SourceEscaped": "戻る",
+      "TargetEscaped": "Return",
+      "SourceUtf8Sha256": "8FC7F899161B2076651A211A123CCBAD0F7AD032C023F59AA3FFD06983E887B8"
+    },
+    {
+      "SourceEscaped": "行かない",
+      "TargetEscaped": "Don't Go",
+      "SourceUtf8Sha256": "004352800429313CCBEFD2E8B0DDE2A7B24939B77230FBA7BFF3DD8010611102"
+    },
+    {
+      "SourceEscaped": "い～やですよ",
+      "TargetEscaped": "Nooo, thank you.",
+      "SourceUtf8Sha256": "0F35C89FCF6E5555C878F1FC796167E0547E76D53CA4615207791431069E4761"
+    },
+    {
+      "SourceEscaped": "い～いですよ",
+      "TargetEscaped": "Suuure.",
+      "SourceUtf8Sha256": "9468587769982E43A2D014716008ACEFBBADAE4BFB0DF1E9042FC8BBB646AFFB"
+    },
+    {
+      "SourceEscaped": "ここは『コズミック・ルネッサンス』の惑星ポイーンです。",
+      "TargetEscaped": "This is Planet Poyeen in the \"Cosmic Renaissance\".",
+      "SourceUtf8Sha256": "8A65AB9EF5F81F7F62459D5547CBFBA4705C38757364D97672EE4EFEFCAF0A46"
+    },
+    {
+      "SourceEscaped": "自分は天使軍の…",
+      "TargetEscaped": "I'm with the Angel Army...",
+      "SourceUtf8Sha256": "205EF068C7FF3B8D36C96C24CED3C3059A8A902C0F64C2DB62C81E4C660B5182"
+    },
+    {
+      "SourceEscaped": "もちろん協力します。",
+      "TargetEscaped": "Of course I'll help.",
+      "SourceUtf8Sha256": "9A3085E8A812BCA245D53F00B09A5539A181F770C7BB210FAA561C42AFB1ADC8"
+    },
+    {
+      "SourceEscaped": "そうだよ。",
+      "TargetEscaped": "That's right.",
+      "SourceUtf8Sha256": "9955FFA4ED46B43E180B5E45B34F4570408216C2188D75C8782B807376F9C5BC"
+    },
+    {
+      "SourceEscaped": "誰のせいだと思っているんだ。",
+      "TargetEscaped": "Whose fault do you think it is?",
+      "SourceUtf8Sha256": "9D361D02C99CB7E8ABC6DF5195A76DB1CBE1D0276CE1F4F5F837F592BA635BFA"
+    },
+    {
+      "SourceEscaped": "自分も休みたい",
+      "TargetEscaped": "I want a rest too.",
+      "SourceUtf8Sha256": "FF67DA3E959ABFEABF97E13A1274C322238555F7EC6FA4D721C7296CFEFB4273"
+    },
+    {
+      "SourceEscaped": "イヤイヤのイヤ",
+      "TargetEscaped": "No, no, and NO!",
+      "SourceUtf8Sha256": "5A0EB9EBBD23084328FDA39747572EA2D4D707FB637EB3F91F55D08701308695"
+    },
+    {
+      "SourceEscaped": "良き良きの良き",
+      "TargetEscaped": "Good, good, and GREAT!",
+      "SourceUtf8Sha256": "A01787D27B9961DC2A782F07483040B77AFD9054127B9981B4EA9078E7D5D210"
+    },
+    {
+      "SourceEscaped": "流行らない",
+      "TargetEscaped": "It won't catch on.",
+      "SourceUtf8Sha256": "5755BC4EFCED5D1C2E9DE4065B1F062CECB8B4B4552DA2A2E9C929C8B1C4478D"
+    },
+    {
+      "SourceEscaped": "流行る",
+      "TargetEscaped": "It'll catch on.",
+      "SourceUtf8Sha256": "0F447134C5BA999F75A291468839545D666171B3AB11E11330DE8E1EC9A1BA60"
+    },
+    {
+      "SourceEscaped": "声をかけない",
+      "TargetEscaped": "Don't call out",
+      "SourceUtf8Sha256": "E27C70069602D21E5E5F248BF641857EA6A006BD097408EA47DE2EEB4C4F8A6E"
+    },
+    {
+      "SourceEscaped": "助けてあげる",
+      "TargetEscaped": "Help them",
+      "SourceUtf8Sha256": "A047619C6B68273C30CB0349389AB17EFEAE4717B0BFE98C77D731AFBBCA4D22"
+    },
+    {
+      "SourceEscaped": "何故ここに？",
+      "TargetEscaped": "Why are you here?",
+      "SourceUtf8Sha256": "B13DC0A0115C08C2359D7A155B021BB8EEBBA1A5EFF4A730A1659CDA39C9BE06"
+    },
+    {
+      "SourceEscaped": "MASTER難易度について",
+      "TargetEscaped": "About MASTER Difficulty",
+      "SourceUtf8Sha256": "20541543F9C45CB6D9A76F952945E12D4C9C576ECC62ED665CCC8FD2F1F483D1"
+    },
+    {
+      "SourceEscaped": "スクラップ場について",
+      "TargetEscaped": "About the Scrapyard",
+      "SourceUtf8Sha256": "3E9101433581655E4CB801030B6A13B0F4D40DDF2C7AF0D9380B18933CFF6F22"
+    },
+    {
+      "SourceEscaped": "ゴウツクラボについて",
+      "TargetEscaped": "About Goutsuku Laboratory",
+      "SourceUtf8Sha256": "75B9A996DFADD3F7ADCF73478CCF0249EB7FD69AF06FA0DCED253F221082C082"
+    },
+    {
+      "SourceEscaped": "セルピリス達の母親はどこだ",
+      "TargetEscaped": "Where is セルピリス and the others' mother?",
+      "SourceUtf8Sha256": "71DF12BDCCE2E6DCC23EF0BB6DD0D6BFFA4F91BA9AECBA2EB5B9D7C0A274852E"
+    },
+    {
+      "SourceEscaped": "イヤです",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "00AA41BB5BB5BE012D5F42E49A9B5988A351198FAF35887D908653972B502865"
+    },
+    {
+      "SourceEscaped": "は、はい…",
+      "TargetEscaped": "Y-yes...",
+      "SourceUtf8Sha256": "8CDA7C370A92CA9352B8F3C68EC6682DE815CDC36ADB69DB1388A681DD6D33A1"
+    },
+    {
+      "SourceEscaped": "ディザイア庭園について",
+      "TargetEscaped": "About Desire Garden",
+      "SourceUtf8Sha256": "5036BBCCDBACB81585D6A248880C39CDC2010269A8C7E4D85083A263FBC96FF3"
+    },
+    {
+      "SourceEscaped": "さっき戦ったのは…？",
+      "TargetEscaped": "The one we just fought was...?",
+      "SourceUtf8Sha256": "CEDED57BCA2E40F2256C22BB3DE0B493CE6A63D47F42792C2EFBEF7759D1C508"
+    },
+    {
+      "SourceEscaped": "スランバーとはなんだ？",
+      "TargetEscaped": "What is Slumber?",
+      "SourceUtf8Sha256": "B1613F6EFADF2822D059D7863F9B87231F0FDD35239ADB92BE905F551EDFCA9F"
+    },
+    {
+      "SourceEscaped": "オマエは何者だ",
+      "TargetEscaped": "Who are you?",
+      "SourceUtf8Sha256": "B3686865415D4C9ACA3D30A781EDF3B8CD2BAA2BC47FD8CB11EBD8A93D8C5C77"
+    },
+    {
+      "SourceEscaped": "セルピリス！",
+      "TargetEscaped": "セルピリス!",
+      "SourceUtf8Sha256": "06EBF5671E528258E35A1600FB8C1C1871EAF37F22039D4F85FA22258BAEEB8B"
+    },
+    {
+      "SourceEscaped": "許せない、でも！",
+      "TargetEscaped": "I can't forgive that, but!",
+      "SourceUtf8Sha256": "D379210180E8B951826863B05E5F0C687D3BC398D5BC608D3F8864BA00ADFD54"
+    },
+    {
+      "SourceEscaped": "お父さんはそんな事望んでるの？",
+      "TargetEscaped": "Is that what your father wants?",
+      "SourceUtf8Sha256": "68B8D98A258D28C1142571814462DDC3DE89B0F0756FC6C334FF9902347D7198"
+    },
+    {
+      "SourceEscaped": "あってる",
+      "TargetEscaped": "That's correct.",
+      "SourceUtf8Sha256": "28FAD756717201EF5CB8C0722108B21663C386FE86F4F2247E4CB0C2CC1F522C"
+    },
+    {
+      "SourceEscaped": "無事で良かった、今は休んで",
+      "TargetEscaped": "I'm glad you're safe. Rest now.",
+      "SourceUtf8Sha256": "9787EAD7926DC0D4FA2FFA41AD5672F6E40422202FAA18C51437EDBF5F0BE272"
+    },
+    {
+      "SourceEscaped": "入ってみる",
+      "TargetEscaped": "Try Going In",
+      "SourceUtf8Sha256": "B6848A0A7A2765A208D7D4AF42D69D5F8F574DB06FC049E32E0D33B4E5A6C732"
+    },
+    {
+      "SourceEscaped": "託された物がある",
+      "TargetEscaped": "I was entrusted with something.",
+      "SourceUtf8Sha256": "B0A115C1CE626053DF714D8529E46A20A5673CA2BF3731D1491BDE31F593D454"
+    },
+    {
+      "SourceEscaped": "スランバーとは？",
+      "TargetEscaped": "What is Slumber?",
+      "SourceUtf8Sha256": "6FFCB89F1257F642CB77A8A739F50725DE5A6A1DC3767EE28FE14D02FC7C63D9"
+    },
+    {
+      "SourceEscaped": "スランバーの対処方法は？",
+      "TargetEscaped": "How do we deal with Slumber?",
+      "SourceUtf8Sha256": "FBDABD9B99BBA59DEC9F6CEACD3D4710741964730F571D22B3D62D9350451189"
+    },
+    {
+      "SourceEscaped": "悪魔軍が使用しているスランバーについて",
+      "TargetEscaped": "About the Slumber Used by the Devil Army",
+      "SourceUtf8Sha256": "45526FC29DF4C14113B89988A99A0B17D4A49AE131BF5E6DCB50EF5F60CC2DFF"
+    },
+    {
+      "SourceEscaped": "現在の状況は？",
+      "TargetEscaped": "What's the current situation?",
+      "SourceUtf8Sha256": "FFE050C30FE37DDC42A3DCA2838334B2F25B56DC36F47939616977DF9F2797D2"
+    },
+    {
+      "SourceEscaped": "ベーゼ牢獄について",
+      "TargetEscaped": "About Baise Prison",
+      "SourceUtf8Sha256": "F960796B84EB7CCF19ACBE9A6CE3F1626CDB7FA27AA1CA521108AA0EF71C0423"
+    },
+    {
+      "SourceEscaped": "スランバー異空間について",
+      "TargetEscaped": "About the Slumber Otherworld",
+      "SourceUtf8Sha256": "125EC41E4A09E4B3FEDC909D6593582460CD99F89C073DA8D195F84465CA7B34"
+    },
+    {
+      "SourceEscaped": "この先はどうなってる？",
+      "TargetEscaped": "What's farther ahead?",
+      "SourceUtf8Sha256": "8B2142E3FC64EC7C1290C4CBAD753F78A051381E56FE4A9CB1307D124E0A90FF"
+    },
+    {
+      "SourceEscaped": "ガレージ",
+      "TargetEscaped": "Garage",
+      "SourceUtf8Sha256": "661F84D0F4487AD38B096CD8CE0057125E011A93C9D3E3DDD1B631553A943AB5"
+    },
+    {
+      "SourceEscaped": "ライトクラス",
+      "TargetEscaped": "Light Class",
+      "SourceUtf8Sha256": "F90AFF7316A323A7AE81D5C956FD2182BE30D4301F0D8151041FE96AF66A3ECD"
+    },
+    {
+      "SourceEscaped": "ミドルクラス",
+      "TargetEscaped": "Middle Class",
+      "SourceUtf8Sha256": "6808792487420EE98F005550FAD9D21AF6E83E6D81B165302E2879C443C0598D"
+    },
+    {
+      "SourceEscaped": "オープンクラス",
+      "TargetEscaped": "Open Class",
+      "SourceUtf8Sha256": "6747933862F2C4FE00578FA11DD67719BFF5B1BF105A089ECF093BA053BCDF06"
+    },
+    {
+      "SourceEscaped": "ここは何する所？",
+      "TargetEscaped": "What do you do here?",
+      "SourceUtf8Sha256": "76A3AC23FAA6B1A698DBC31746B3DAF70735BBE58A590337C675432DDE1663B8"
+    },
+    {
+      "SourceEscaped": "どうすれば優勝できるの？",
+      "TargetEscaped": "How do I win the championship?",
+      "SourceUtf8Sha256": "7258E9013922277B7CD863896D4C6DC661AC6E06DF93A4BD33DF02D7F1E1ECEA"
+    },
+    {
+      "SourceEscaped": "どうすればScoreを稼げるの？",
+      "TargetEscaped": "How do I earn Score?",
+      "SourceUtf8Sha256": "9261C4A0B3DFC8C1F2C4BF4E33259D60057A66DA0337FA3EE138F43F0851B4BC"
+    },
+    {
+      "SourceEscaped": "次の項目",
+      "TargetEscaped": "Next Topic",
+      "SourceUtf8Sha256": "B48493345BA0FAEA9E2D74B25905C4955E2B5DEE2C3F10FA509A2006B72E9727"
+    },
+    {
+      "SourceEscaped": "敵ロボはどんなのがいるの？",
+      "TargetEscaped": "What kinds of enemy robots are there?",
+      "SourceUtf8Sha256": "ADF93BB7BFCD03C7D8E6FBBEA6E516168CA8BE17E21348BE8CCB8C80BF181E60"
+    },
+    {
+      "SourceEscaped": "基地ってなに？",
+      "TargetEscaped": "What is a Base?",
+      "SourceUtf8Sha256": "EDC91B88C96E698AA9A31AED4589225A11A91E0416E9828CBF38CA1006D333B3"
+    },
+    {
+      "SourceEscaped": "エトロシウムってなに？",
+      "TargetEscaped": "What is Etrocium?",
+      "SourceUtf8Sha256": "4D8819A4D3518C0AB89DA4B53DC0DC014FAB2C13B0CBF06589CF37F0BC3EFA3B"
+    },
+    {
+      "SourceEscaped": "本拠地ってなに？",
+      "TargetEscaped": "What is a Headquarters?",
+      "SourceUtf8Sha256": "1C8068B6AF934AA31551EEFB8B6AA43919549B64867E8A122B2C420642E61E4C"
+    },
+    {
+      "SourceEscaped": "ラストバトルってなに？",
+      "TargetEscaped": "What is the Last Battle?",
+      "SourceUtf8Sha256": "52281C5E27B10B6044BA954F40000986B343365607C6083E8530B5C83DC576DC"
+    },
+    {
+      "SourceEscaped": "ペンチョ軍の歴史",
+      "TargetEscaped": "History of the Pencho Army",
+      "SourceUtf8Sha256": "0B3381E42E615C69CC2AEA2FC3258F864A5B7CBA3D6C925F0ADF17E7FBA40FA8"
+    },
+    {
+      "SourceEscaped": "もう用はないです",
+      "TargetEscaped": "I don't need anything else.",
+      "SourceUtf8Sha256": "4BB6766AE7A78ACA274E89C685B0167BBED58E8DB07051C7101C03B7DFBA6A79"
+    },
+    {
+      "SourceEscaped": "ドレザロ軍の歴史",
+      "TargetEscaped": "History of the Dorezaro Army",
+      "SourceUtf8Sha256": "61EAF5A25088B006F55F3EE5DE52FB7942432ACFB2F344D510D979B6ADDBA47D"
+    },
+    {
+      "SourceEscaped": "ブザーク軍の歴史",
+      "TargetEscaped": "History of the Buzark Army",
+      "SourceUtf8Sha256": "9A1EC289BBE0595AB5D5CB71AC45548B6D027B16EAAA60BFD6ABC62C2CA82788"
+    },
+    {
+      "SourceEscaped": "マニマニモ軍の歴史",
+      "TargetEscaped": "History of the Manimanimo Army",
+      "SourceUtf8Sha256": "925C71D11F2F98AD52A2043E2BB2304DECE85E6525142B371AB58E1CDB2B58CC"
+    }
+  ]
+}

@@ -1,0 +1,3009 @@
+{
+  "Entries": [
+    {
+      "SourceEscaped": "ようこそランタナ村へ",
+      "TargetEscaped": "Welcome to Lantana Village.",
+      "SourceUtf8Sha256": "6F72423EEE81B85ED4CCA353325503500B21A1E045772BAE6F8AFD34F8CA0767"
+    },
+    {
+      "SourceEscaped": "ここにたどりつくまで、道中大変だったでしょう",
+      "TargetEscaped": "The journey here must have been difficult.",
+      "SourceUtf8Sha256": "ED74C4F4BCF9FE27058897AA3ED62A285BA78319862ADFD542F4241AFA3A87B5"
+    },
+    {
+      "SourceEscaped": "たいしたものはありませんが、ゆっくりしていってください",
+      "TargetEscaped": "We don't have much, but please stay and rest.",
+      "SourceUtf8Sha256": "2DB380DD2EEC2CED2E489002FC5EC8F00D14F6598F059BBA56127266A81DF0AB"
+    },
+    {
+      "SourceEscaped": "ここから先は魔境と呼ばれる地帯",
+      "TargetEscaped": "Beyond here lies a region known as the Demon Realm.",
+      "SourceUtf8Sha256": "F561D15D01CFAD465729CA73CAABB6C7D4B1A5331375FFB714804D656394FBD8"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡を探索できる程度の実力がないと入る事もできないだろう。\\nしっかりとした準備が必要だな",
+      "TargetEscaped": "Unless you are strong enough to explore the Pold Ruins, you probably cannot even enter.\\nYou will need to prepare thoroughly.",
+      "SourceUtf8Sha256": "121439404F221E561A63DD674590C482AC2DAFDBC933C08EDFDF181A083F2FF9"
+    },
+    {
+      "SourceEscaped": "お前に頼みたいことがあったんだが…アイテムがいっぱいのようだな",
+      "TargetEscaped": "I had a request for you... but your inventory seems full.",
+      "SourceUtf8Sha256": "20E07BF3A5F7D0D952B062120DAFE91EC599C364CE355E59805E422ED1302520"
+    },
+    {
+      "SourceEscaped": "キャリーを整理してから来てくれ",
+      "TargetEscaped": "Come back after making some space in your Carry.",
+      "SourceUtf8Sha256": "0FC8774EE553992773B2390E4597C240C8B0DAAA61909EFF62813E45CD68EC5C"
+    },
+    {
+      "SourceEscaped": "ピノからのメール、ありがとうな",
+      "TargetEscaped": "Thanks for the email from ピノ.",
+      "SourceUtf8Sha256": "CEB7A7B3D8E5E6B86F018687D7AE2302B286ADE69888B2A0F7F46D8108468EF0"
+    },
+    {
+      "SourceEscaped": "最近、魔境のモンスターの行動が怪しくてな。\\n監視が忙しくてメールの返事ができなかったんだ",
+      "TargetEscaped": "The monsters in the Demon Realm have been acting strangely lately.\\nI've been too busy keeping watch to reply.",
+      "SourceUtf8Sha256": "D7458E508073C1A1A708C40CC348463704AF13BAE20DA4BF6C1F169E2263D6A8"
+    },
+    {
+      "SourceEscaped": "ピノには俺からも連絡するよ",
+      "TargetEscaped": "I'll contact ピノ myself too.",
+      "SourceUtf8Sha256": "49AEDE0FC1014B3D0882EFC8B3C105A7F123BA97D150EC9D299F6953CD1305DC"
+    },
+    {
+      "SourceEscaped": "こいつはほんの礼だ",
+      "TargetEscaped": "This is just a small thank-you.",
+      "SourceUtf8Sha256": "7AA1E556BB0AE1C12B169105720F99EDE06383FBD9F90910391ECEEA8483BB5C"
+    },
+    {
+      "SourceEscaped": "お前に頼みたいことがある",
+      "TargetEscaped": "I have a request for you.",
+      "SourceUtf8Sha256": "2331E31E15FCC65024D450E98F65C5EF45637C8E90B3BC10E249F2A9374C0596"
+    },
+    {
+      "SourceEscaped": "\\u001b5ポルド基地\\u001b0にいる\\u001b5ノックス\\u001b0に、\\n\\u001b5リペアパック500\\u001b0を\\u001b55つ\\u001b0届けて欲しい",
+      "TargetEscaped": "Please deliver supplies to \\u001b5ノックス\\u001b0 at \\u001b5Pold Base\\u001b0:\\n\\u001b5Repair Pack 500\\u001b0, \\u001b55 packs\\u001b0.",
+      "SourceUtf8Sha256": "626111BFB7DD42907E230A7D5C09A06873D1DEE81070C119A540EA1DDC911652"
+    },
+    {
+      "SourceEscaped": "悪魔軍との戦いで傷ついた仲間が待ってるだろうからな",
+      "TargetEscaped": "Our comrades wounded in the fighting against the Devil Army must be waiting for them.",
+      "SourceUtf8Sha256": "D2612A8919A1713841DA395B38B20B7D322A42815CFACE570BFF11072E556B08"
+    },
+    {
+      "SourceEscaped": "断る",
+      "TargetEscaped": "I refuse.",
+      "SourceUtf8Sha256": "92767B16344FD1E20A376CD03EFA03325546E5A614826A17A6A0D37E3CA2C341"
+    },
+    {
+      "SourceEscaped": "引き受けた！",
+      "TargetEscaped": "I'll do it!",
+      "SourceUtf8Sha256": "96E6301E4A2BE517476E94852DACE1B731B3B6D1EFDD42143EEEDA2A27434BE6"
+    },
+    {
+      "SourceEscaped": "頼めるか？",
+      "TargetEscaped": "Can I count on you?",
+      "SourceUtf8Sha256": "D2CF7AC5021AB7C2CF0DE378A3E3186A693FB495BDC0CE6EE879E7CE3AC58031"
+    },
+    {
+      "SourceEscaped": "すまんな。\\n\\u001b5ポルド基地\\u001b0はランタナ村の北東だ。\\n頼んだぞ",
+      "TargetEscaped": "Thanks.\\n\\u001b5Pold Base\\u001b0 is northeast of Lantana Village.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "690A734FA8A1B51CFDDE1A5160193A6431E25ED7F94C5DF46F46AA8BD968837D"
+    },
+    {
+      "SourceEscaped": "一応断っておくが、俺が渡したアイテムは\\u001b4自分で使うなよ\\u001b0",
+      "TargetEscaped": "Just to be clear, \\u001b4don't use the items I gave you yourself\\u001b0.",
+      "SourceUtf8Sha256": "726E9CC997018D989FAE204FBA18372BF988B7AE9A1D5B624F7F4F4F506A09E2"
+    },
+    {
+      "SourceEscaped": "そうか、残念だ",
+      "TargetEscaped": "I see. That's a shame.",
+      "SourceUtf8Sha256": "8153A0FD121D4815BFF15CC606C9840D56FAE060B2E236FE2D9E0221C1AE3D8A"
+    },
+    {
+      "SourceEscaped": "\\u001b5ポルド基地\\u001b0の\\u001b5ノックス\\u001b0に、\\n\\u001b5リペアパック500\\u001b0を\\u001b05つ\\u001b0届けてくれ。\\nポルド基地はランタナ村の北東だ",
+      "TargetEscaped": "Deliver to \\u001b5ノックス\\u001b0 at \\u001b5Pold Base\\u001b0:\\n\\u001b5Repair Pack 500\\u001b0, \\u001b05 packs\\u001b0.\\nPold Base is northeast of Lantana Village.",
+      "SourceUtf8Sha256": "62D59B607D89E83B067E3D9EFAD0C6EF11F80005D80C3ED0A04712BA33F23B66"
+    },
+    {
+      "SourceEscaped": "…念のため言っておくが、俺が渡したアイテムは\\u001b4自分で使うなよ\\u001b0",
+      "TargetEscaped": "...Just in case, \\u001b4don't use the items I gave you yourself\\u001b0.",
+      "SourceUtf8Sha256": "0626AE0F628186DAB5E4E5DDA0DB3B54F761B6076142B5A7C65E6831F491A43B"
+    },
+    {
+      "SourceEscaped": "惑星ゲルニアから無事に戻ってこられたようだな",
+      "TargetEscaped": "Looks like you made it back safely from Planet Gernia.",
+      "SourceUtf8Sha256": "62DBAF2DA3048CFA4AD98307FC9CB69B29F441F73FA82F4C2C2216C5F578B989"
+    },
+    {
+      "SourceEscaped": "報告書は後でじっくり読ませてもらうぞ",
+      "TargetEscaped": "I'll read the report carefully later.",
+      "SourceUtf8Sha256": "6F6419D0CFDE70D503F7C0C8A42735510C0F89AC787B149064B7FA5D9CCBF39D"
+    },
+    {
+      "SourceEscaped": "惑星ゲルニアではご苦労だったな",
+      "TargetEscaped": "Good work on Planet Gernia.",
+      "SourceUtf8Sha256": "D177C161E069C0E250C22244C19E3C2B31660F4919032308890E1D05A39D6CF0"
+    },
+    {
+      "SourceEscaped": "さて本題だが、謎のロボが魔境に潜んでいるらしい",
+      "TargetEscaped": "Now, to the point: a mysterious robot is apparently lurking in the Demon Realm.",
+      "SourceUtf8Sha256": "B15E8CEB6F5F6A808A96A8A7F2765E065532A39228504056549B44DFBEE6AD9D"
+    },
+    {
+      "SourceEscaped": "その名も“\\u001b5魔術師ダークサバス\\u001b0”",
+      "TargetEscaped": "His name is \"\\u001b5魔術師ダークサバス\\u001b0\".",
+      "SourceUtf8Sha256": "CBBF444EF15717274C0F2271280FDF60E7678C3256AB47DB566AF849898B743C"
+    },
+    {
+      "SourceEscaped": "\\u001b5ポルド基地\\u001b0でこいつを撃退するミッションの参加者を募っているそうだ。\\n詳細は\\u001b5ポルド基地\\u001b0の\\u001b5ノックス\\u001b0に聞いてくれ",
+      "TargetEscaped": "\\u001b5Pold Base\\u001b0 is apparently recruiting participants for a mission to defeat him.\\nAsk \\u001b5ノックス\\u001b0 at \\u001b5Pold Base\\u001b0 for details.",
+      "SourceUtf8Sha256": "ADADF50ED98B88D12912FFFFAFF5F83BA2275609EA1CCF41C70FC96D5B192596"
+    },
+    {
+      "SourceEscaped": "…おっと、ついでに\\u001b5リペアパック1000\\u001b0を\\u001b53つ\\u001b0、ノックスに差し入れてやってくれよ",
+      "TargetEscaped": "...Oh, while you're at it, take \\u001b5Repair Pack 1000\\u001b0, \\u001b53 packs\\u001b0, to ノックス too.",
+      "SourceUtf8Sha256": "342FE60D4D28025A545D40D52CFC1E843BFCD122D49F9D26860EF2D100CCDECD"
+    },
+    {
+      "SourceEscaped": "助かる。\\n\\u001b5ポルド基地\\u001b0はランタナ村の北東だ。\\n頼んだぞ",
+      "TargetEscaped": "That helps.\\n\\u001b5Pold Base\\u001b0 is northeast of Lantana Village.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "5283BFEB798B622F5C3B498FC1909C19EF467A82874F6064FC88BEA028695EDB"
+    },
+    {
+      "SourceEscaped": "…くどいようだが、俺が渡したアイテムは\\u001b4自分で使うなよ\\u001b0",
+      "TargetEscaped": "...I know I'm repeating myself, but \\u001b4don't use the items I gave you yourself\\u001b0.",
+      "SourceUtf8Sha256": "1D907E11CB51468523BBB440DA85DC5CD111F2CB9CECE7F98E1ACBE17503502F"
+    },
+    {
+      "SourceEscaped": "\\u001b5ポルド基地\\u001b0の\\u001b5ノックス\\u001b0に、\\u001b5リペアパック1000を3つ\\u001b0届けてくれ\\nポルド基地はランタナ村の北東だ",
+      "TargetEscaped": "Deliver to \\u001b5ノックス\\u001b0 at \\u001b5Pold Base\\u001b0: \\u001b5Repair Pack 1000, 3 packs\\u001b0.\\nPold Base is northeast of Lantana Village.",
+      "SourceUtf8Sha256": "49E96C9DB5EA672534FFCC8BE2A9E50BAAB15929CDF15554C2E2901F779C1457"
+    },
+    {
+      "SourceEscaped": "フム…何かあるかと奥まで入ってみたんだが…",
+      "TargetEscaped": "Hmm... I went deeper in to see if there was anything there, but...",
+      "SourceUtf8Sha256": "E899C9D5E34E15CC3A072BE37E57AC07CB0543CB00F7C3B0422A871858E53ACC"
+    },
+    {
+      "SourceEscaped": "暗いよ！狭いよ！怖いよぉぉ！！",
+      "TargetEscaped": "It's dark! It's cramped! It's scaaary!!",
+      "SourceUtf8Sha256": "E10CC99D39C013C0DF7D9ED6AF8F71DB07ACEAEDB2EA14B3610F215D614FA3F6"
+    },
+    {
+      "SourceEscaped": "ガレージなら、この川を越えた丘の上にあるぞ",
+      "TargetEscaped": "The garage is on the hill across this river.",
+      "SourceUtf8Sha256": "A2EB01B0197B8EB8230D69CEBC21D3E21F418C87BA930100F6FB7CA340B140CB"
+    },
+    {
+      "SourceEscaped": "そういえば、あそこ足元から声が聞こえてくることがあるんだよな…",
+      "TargetEscaped": "Come to think of it, I sometimes hear voices from beneath my feet there...",
+      "SourceUtf8Sha256": "29BB7DAF56E6A2780CD25D47114EBF2725D21D73443884B62780F651BB325F8C"
+    },
+    {
+      "SourceEscaped": "見晴らしいいだろ？",
+      "TargetEscaped": "Great view, isn't it?",
+      "SourceUtf8Sha256": "7D8E76E3DFC7A30F23B666347AD307999253F1B127BB9D30D76EE1760D8526B2"
+    },
+    {
+      "SourceEscaped": "魔境を眺めながら、準備を整えるといい",
+      "TargetEscaped": "Get ready while you look out over the Demon Realm.",
+      "SourceUtf8Sha256": "92407FF4D78DCC0BFB1BD901EF2237B313FC2AA0173707212A950EE404698B22"
+    },
+    {
+      "SourceEscaped": "ポンジャバ魔境のどこかに宇宙港があるようなんだが、なかなか見つからねぇ",
+      "TargetEscaped": "Apparently there's a spaceport somewhere in the Ponjava Demon Realm, but I can't find it.",
+      "SourceUtf8Sha256": "F33C34CACDE0B5A263607F87F1C7B4348B69C75F293B00281DDD085AE9A638EA"
+    },
+    {
+      "SourceEscaped": "その宇宙港からだとデゴへ一気に行けるって話だ",
+      "TargetEscaped": "I hear you can go straight to Dego from that spaceport.",
+      "SourceUtf8Sha256": "7F02353EAD0115236D1B16EB5701340E7DD14CDC6C410C7CBE08448B42151230"
+    },
+    {
+      "SourceEscaped": "ん、俺か？",
+      "TargetEscaped": "Hmm, me?",
+      "SourceUtf8Sha256": "D0C5F72DE5FF4A97C287368A8119753B244BDAFCFC6CD7EBB877B6D8A42E5DD3"
+    },
+    {
+      "SourceEscaped": "俺はここでパーティーの勧誘を待っているのさ",
+      "TargetEscaped": "I'm waiting here for a party invitation.",
+      "SourceUtf8Sha256": "6AED8632509658CD780C5901BFA4FA8F55DE16CF115CEC0B5DED43F9A960E66F"
+    },
+    {
+      "SourceEscaped": "しかし、誰も声をかけてくれねぇ…",
+      "TargetEscaped": "But nobody's asking me...",
+      "SourceUtf8Sha256": "49762B370F47CB4B0D3B9CBAF69EE67FD013D78F573F18434EA9A2D6F1EF5599"
+    },
+    {
+      "SourceEscaped": "いいえ",
+      "TargetEscaped": "No",
+      "SourceUtf8Sha256": "48EF2B674823D03D45863E46E4706682F9588EF1D13921134AE3A8508483FFB5"
+    },
+    {
+      "SourceEscaped": "はい",
+      "TargetEscaped": "Yes",
+      "SourceUtf8Sha256": "8F90D85EC13A0B1B12D81203F2F3262CA156028A94AEAF91AE52FCD5A9DE4170"
+    },
+    {
+      "SourceEscaped": "お前、パーティーの作り方を知っているか？",
+      "TargetEscaped": "Do you know how to create a party?",
+      "SourceUtf8Sha256": "8CFEDA6B765ED4F81A3BDB3534B4B63C50747B0BF603C70B935808F2D9C93E10"
+    },
+    {
+      "SourceEscaped": "そうか、そのうちオレも誘ってくれよ",
+      "TargetEscaped": "I see. Invite me sometime, then.",
+      "SourceUtf8Sha256": "0F5AFA3E04BDA9AC81DEDA56CB1A78E0141751F8D618F0AD8498FF5A0DCB8670"
+    },
+    {
+      "SourceEscaped": "お？知らなかったのか ではこの際だ、教えてやろう",
+      "TargetEscaped": "Oh? You didn't know? Then let me teach you.",
+      "SourceUtf8Sha256": "C2437905DF6541D5B53BFE5DDBD0DAD2B9322329A799228E7C67D5271324B4BC"
+    },
+    {
+      "SourceEscaped": "パーティーを作成するには、まず画面左下の人形のようなアイコンを押すんだ",
+      "TargetEscaped": "To create a party, first click the person-shaped icon at the bottom left of the screen.",
+      "SourceUtf8Sha256": "84353F7902A56509AE860E7F7BC3BBFAB54DE1BAD11A9CDC6A8C79C3BC8EAB91"
+    },
+    {
+      "SourceEscaped": "ウィンドウが表示されたら、『パーティー機能』を選択して\\nパーティー名称、分配ルールを決定する",
+      "TargetEscaped": "When the window opens, select \"Party Functions\",\\nthen choose a party name and loot distribution rules.",
+      "SourceUtf8Sha256": "0B8F9C8E3549E40D8574B611669AEC947CB5367550E275EFEDDE0FB7E2732348"
+    },
+    {
+      "SourceEscaped": "ルールを決定し、『パーティー作成』を押すとパーティー作成完了だ",
+      "TargetEscaped": "Once you've set the rules, press \"Create Party\" and you're done.",
+      "SourceUtf8Sha256": "320267B8231A0818923448BA510481CE3BE38306BED4450020F18351815F26CA"
+    },
+    {
+      "SourceEscaped": "あとは仲間を集めるんだな",
+      "TargetEscaped": "All that's left is to gather some allies.",
+      "SourceUtf8Sha256": "FF984616A11C1F3753FC4E9C22D0A6771938795FE0B17B77888844F86991BDE9"
+    },
+    {
+      "SourceEscaped": "この村から先の森は異常な磁場が発生していてプラネットマップが正常に表示されないのだ",
+      "TargetEscaped": "Abnormal magnetic fields in the forest beyond this village prevent the Planet Map from displaying correctly.",
+      "SourceUtf8Sha256": "85876F0266808F48FA372F2E07A296F99011B0AD578913BAD8735A6222213382"
+    },
+    {
+      "SourceEscaped": "そのため森の中では方角を見失い、迷うものも多数出ているとか…",
+      "TargetEscaped": "Many people reportedly lose their bearings and get lost in the forest...",
+      "SourceUtf8Sha256": "5AD02C5627EA11505B01588D63365946AF0031B7AAA72D38D3B5FBE430F483F6"
+    },
+    {
+      "SourceEscaped": "魔境といわれる所以だな",
+      "TargetEscaped": "That's why it's called the Demon Realm.",
+      "SourceUtf8Sha256": "86A2D2BE347E02978C3F7623AFFC040F8B09D1C12A1221BCC0B311773DBD7EC5"
+    },
+    {
+      "SourceEscaped": "これより先は\\u001b5ポンジャバ魔境\\u001b0と呼ばれる深い森が広がっておる",
+      "TargetEscaped": "Beyond here stretches a deep forest called the \\u001b5Ponjava Demon Realm\\u001b0.",
+      "SourceUtf8Sha256": "06A1F668F0D30C5EFBE0BA08A1BB8D82907844058BB2ED29B47FF600384FEB6C"
+    },
+    {
+      "SourceEscaped": "天使軍もいまだ全容を把握できておらん未開の地じゃ",
+      "TargetEscaped": "It is an unexplored land that even the Angel Army has yet to fully chart.",
+      "SourceUtf8Sha256": "8BB5E526DC2CEBE39B415381910ACDD41E8B53F04696356C65D89F43E58A3508"
+    },
+    {
+      "SourceEscaped": "ワシが解読した古文書によると、魔境の奥地には「太古の木」が住まうというが…",
+      "TargetEscaped": "According to ancient documents I deciphered, an \"Ancient Tree\" lives deep within the Demon Realm, but...",
+      "SourceUtf8Sha256": "EC6226A0D69B6C1BDBF0ED8FE58D1FFAF0D282ECDCF785C124121275935625B5"
+    },
+    {
+      "SourceEscaped": "軍の若いモンにはその影すらも発見できない始末じゃ",
+      "TargetEscaped": "The army's youngsters have not found even a glimpse of it.",
+      "SourceUtf8Sha256": "B629A5991D119FBF97BD7D0B05353B4AB91AD967486206AEAFF4DA871AC0EB1A"
+    },
+    {
+      "SourceEscaped": "…ワシの研究もここまでかのう",
+      "TargetEscaped": "...Perhaps this is as far as my research will go.",
+      "SourceUtf8Sha256": "B3F2D319979F3158527421F936F4AE407EA6857414E4D580A78A1D3FB5308947"
+    },
+    {
+      "SourceEscaped": "コールタールが研究資料として必要じゃ！",
+      "TargetEscaped": "I need coal tar for my research!",
+      "SourceUtf8Sha256": "479733B249A1D7E2342EDF33BC25419DC0C6A179202B299B638834E62170AB6C"
+    },
+    {
+      "SourceEscaped": "ワシの弟子が\\u001b5ノボル山脈\\u001b0に採取に向かっているんじゃが中々帰ってこないのじゃ…",
+      "TargetEscaped": "My apprentice went to collect some in the \\u001b5Noboru Mountains\\u001b0, but has not returned...",
+      "SourceUtf8Sha256": "E75EFE02467F2874A1A4957BF3B8DA1F5F204CF4643277CAB428C9984EB16A3F"
+    },
+    {
+      "SourceEscaped": "自分で行け",
+      "TargetEscaped": "Go yourself.",
+      "SourceUtf8Sha256": "22298DD3230512BC0A61F175874526C2CEBB18006F75AF97F2F62BF585486C87"
+    },
+    {
+      "SourceEscaped": "分かりました",
+      "TargetEscaped": "Understood.",
+      "SourceUtf8Sha256": "B3DF45F43DF9402FC682B09553ACC4F33E4A94BF98984C2590D0B895D81D6208"
+    },
+    {
+      "SourceEscaped": "ワシの弟子を探してきて欲しいんじゃが、頼めるかの…？",
+      "TargetEscaped": "Could you find my apprentice for me...?",
+      "SourceUtf8Sha256": "27D970771A6BE21D39BDFD70D45169ADE8C70941BE6A15DBF2D0DB047541F823"
+    },
+    {
+      "SourceEscaped": "\\u001b5圧縮されたコールタール\\u001b0を\\u001b51個\\u001b0受け取ってきてくれ",
+      "TargetEscaped": "Bring back \\u001b5Compressed Coal Tar\\u001b0, \\u001b51 piece\\u001b0.",
+      "SourceUtf8Sha256": "6158CDA22742D44E016ECFE3433F19D2B41589493B837A49DA7067C60FF7A3FE"
+    },
+    {
+      "SourceEscaped": "\\u001b5ノボル山脈\\u001b0のどこかにいるはずじゃ\\nよろしく頼んだぞい",
+      "TargetEscaped": "My apprentice should be somewhere in the \\u001b5Noboru Mountains\\u001b0.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "5B36D1C42B50FF2073328C6EAB8685A1E16BE2622DF34FB0763DA4C282DAA8D0"
+    },
+    {
+      "SourceEscaped": "酷いのぅ…",
+      "TargetEscaped": "How cruel...",
+      "SourceUtf8Sha256": "DB47E084DDBC1A7D5219307A4596C09F9483BC4E7466718AB9E4E6AB0C3A7154"
+    },
+    {
+      "SourceEscaped": "ワシの弟子は\\u001b5ノボル山脈\\u001b0のどこかにいるはずじゃ\\nよろしく頼んだぞい",
+      "TargetEscaped": "My apprentice should be somewhere in the \\u001b5Noboru Mountains\\u001b0.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "9F246D88808208DD3D1719B084BEDF18813C31E8B2566BE61BC5207166476A9A"
+    },
+    {
+      "SourceEscaped": "ちゃんと持ってきたようじゃな…",
+      "TargetEscaped": "You brought it, I see...",
+      "SourceUtf8Sha256": "1389CB9200C1BEF3E8218F349FB1A374A9DD375A6710BA0653D922E6F45DF571"
+    },
+    {
+      "SourceEscaped": "報酬じゃ\\n少ないが、お金と経験値を授けよう",
+      "TargetEscaped": "Here is your reward.\\nIt isn't much, but I'll give you some money and experience.",
+      "SourceUtf8Sha256": "3D9726074B2861020AFACDCD72BCAABB737DC002AC8AF262703BAEC94C4C5836"
+    },
+    {
+      "SourceEscaped": "先程\\u001b5ポルドシティ\\u001b0にいる\\u001b5教官\\u001b0から連絡を受けたんじゃが…",
+      "TargetEscaped": "I just heard from \\u001b5教官\\u001b0 in \\u001b5Pold City\\u001b0...",
+      "SourceUtf8Sha256": "D58FF789AB568442C978BB52771B90A3D7B4FDB566596B96CA3C338D39300ED3"
+    },
+    {
+      "SourceEscaped": "すぐ来るように言っておったの",
+      "TargetEscaped": "He said to come right away.",
+      "SourceUtf8Sha256": "B30D84620B489909170611EB207C8FC12C080CEC4488277C0E8AA9D07A0626B2"
+    },
+    {
+      "SourceEscaped": "待っておったぞ",
+      "TargetEscaped": "I've been waiting for you.",
+      "SourceUtf8Sha256": "D3976D5CF0D7955BCAD18E63345ADAE21948247DF3CE8EC8B2A7C3F2B3946EC2"
+    },
+    {
+      "SourceEscaped": "持ってきてもらった\\u001b5圧縮されたコールタール\\u001b0を元に\\u001b5コールタールソード\\u001b0が完成したんじゃ！",
+      "TargetEscaped": "Using the \\u001b5Compressed Coal Tar\\u001b0 you brought, I've completed the \\u001b5Coal Tar Sword\\u001b0!",
+      "SourceUtf8Sha256": "941DE8F1C04E757938DB340C70039437896FF13EEB72B7CE4EF69B3AE88A0DE4"
+    },
+    {
+      "SourceEscaped": "この剣を持つに値するか、試験をさせてもらうぞい",
+      "TargetEscaped": "I'll test whether you are worthy of wielding this sword.",
+      "SourceUtf8Sha256": "1265C5A66E328FA8D7EB017C73E6C7A445D9517A401325E344842D7DDA3A36CD"
+    },
+    {
+      "SourceEscaped": "やりません",
+      "TargetEscaped": "I won't do it.",
+      "SourceUtf8Sha256": "2521E64DCEB6FCF9D55A154FCC2C063F3217C583A0B5AA011D1214026C59EE9B"
+    },
+    {
+      "SourceEscaped": "やります",
+      "TargetEscaped": "I'll do it.",
+      "SourceUtf8Sha256": "C2A92793C55635E2AC40ADBD4EEAFEBE08250C85698026A5B2FE6D4588B7FF7D"
+    },
+    {
+      "SourceEscaped": "受けてくれるかの？",
+      "TargetEscaped": "Will you take the test?",
+      "SourceUtf8Sha256": "389C52137B9AF2681E27A46BB259B1462247C76C51E15D5B0154609D370988F0"
+    },
+    {
+      "SourceEscaped": "\\u001b5ジオ遺跡\\u001b0へ行き、\\u001b5小市民クパ\\u001b0から\\u001b5傷ついたダイヤモンド\\u001b0を貰ってきて欲しいのじゃ",
+      "TargetEscaped": "Go to the \\u001b5Geo Ruins\\u001b0 and get a \\u001b5Scratched Diamond\\u001b0 from \\u001b5小市民クパ\\u001b0.",
+      "SourceUtf8Sha256": "CEC9A363008F23FF45D9A5333866DB9D76E876C6C87068CFB7441E43BE121A36"
+    },
+    {
+      "SourceEscaped": "\\u001b5ジオ遺跡\\u001b0のどこにいるかは秘密じゃ！",
+      "TargetEscaped": "Where to find him in the \\u001b5Geo Ruins\\u001b0 is a secret!",
+      "SourceUtf8Sha256": "1270AF8C5F186702B969B7F36DB767CD822246FC7285A46FD35C262AC61535C7"
+    },
+    {
+      "SourceEscaped": "頑張って来るんじゃぞ！",
+      "TargetEscaped": "Do your best!",
+      "SourceUtf8Sha256": "48FCBB3E3C8D303D3746BCCEB51871783B23D310620FC893ABE913495EF0122F"
+    },
+    {
+      "SourceEscaped": "残念じゃのう…",
+      "TargetEscaped": "What a shame...",
+      "SourceUtf8Sha256": "D9F534C43DDFEC4925F35D723DA1993AA14A7008C46394D25E6F9BB05ED75CF5"
+    },
+    {
+      "SourceEscaped": "\\u001b5傷ついたダイヤモンド\\u001b0はまだかの？",
+      "TargetEscaped": "Have you brought the \\u001b5Scratched Diamond\\u001b0 yet?",
+      "SourceUtf8Sha256": "B304EB7AF49FF19728FF2851E24F7045A1A64F7DB8A98330ABA82E869F1F23A0"
+    },
+    {
+      "SourceEscaped": "\\u001b5小市民クパ\\u001b0は惑星デゴの\\u001b5ジオ遺跡\\u001b0にいるぞい",
+      "TargetEscaped": "\\u001b5小市民クパ\\u001b0 is in the \\u001b5Geo Ruins\\u001b0 on Planet Dego.",
+      "SourceUtf8Sha256": "25999357BB3F712323219AF17E4334F0A5B2A8656BEEAE0A68B8F4D6281DA4C1"
+    },
+    {
+      "SourceEscaped": "待ってるぞい",
+      "TargetEscaped": "I'll be waiting.",
+      "SourceUtf8Sha256": "18290CDE2E5DAD064B21BB02BCE8621535601E3DB31C22D978ACB5825F346383"
+    },
+    {
+      "SourceEscaped": "\\u001b5傷ついたダイヤモンド\\u001b0を持ってきたようじゃな",
+      "TargetEscaped": "I see you brought the \\u001b5Scratched Diamond\\u001b0.",
+      "SourceUtf8Sha256": "E56EE398BE44198677705BB001AB2E7D6E1209A555B41E28899BA901A4C91202"
+    },
+    {
+      "SourceEscaped": "…これ以上パーツを持てんようじゃのぅ",
+      "TargetEscaped": "...It seems you cannot carry any more parts.",
+      "SourceUtf8Sha256": "9BBBF20544C3EBBA13A3BB6D89BC335FACB376CFB3F7026B5C03D3D0B5C7C06B"
+    },
+    {
+      "SourceEscaped": "キャリーの中を整理してからまた来てくれるかの",
+      "TargetEscaped": "Could you make some space in your Carry and come back?",
+      "SourceUtf8Sha256": "023058F67EEEE6CE57C5B681E2106A7E42C4596C99AC475125E63DA98D5B8A1D"
+    },
+    {
+      "SourceEscaped": "これが\\u001b5コールタールソード\\u001b0じゃ",
+      "TargetEscaped": "Here is the \\u001b5Coal Tar Sword\\u001b0.",
+      "SourceUtf8Sha256": "47FF1782CBDC9FE4B68F259F3554191215FCAD9EA2EE2E5A2DADB44CC0313AB0"
+    },
+    {
+      "SourceEscaped": "また研究資料が必要になったら言うからの",
+      "TargetEscaped": "I'll let you know when I need more research materials.",
+      "SourceUtf8Sha256": "1963CEF8EA7A5FD7050D09E33B9ED39856AE5B62869DF0DF22FC96E862CF08E2"
+    },
+    {
+      "SourceEscaped": "その時は、よろしく頼んだぞい",
+      "TargetEscaped": "I'll be counting on you then.",
+      "SourceUtf8Sha256": "40FA7F03ECFE56F5BE73833728284DBA18BE2FF297A469C0B956D7F4E83B822C"
+    },
+    {
+      "SourceEscaped": "今度はウラニウムが研究資料として必要になったんじゃ！",
+      "TargetEscaped": "This time, I need uranium for my research!",
+      "SourceUtf8Sha256": "0B907E03FA6286340EA3784FB9D31B8372325CD3358A008BC6EBBDFA3923D9DB"
+    },
+    {
+      "SourceEscaped": "ワシの弟子が\\u001b5惑星ゲルニア\\u001b0の\\u001b5フルビ遺跡\\u001b0に採取に向かっているんじゃが中々帰ってこないのじゃ…",
+      "TargetEscaped": "My apprentice went to collect some in the \\u001b5Fulbi Ruins\\u001b0 on \\u001b5Planet Gernia\\u001b0, but has not returned...",
+      "SourceUtf8Sha256": "801C15D3C1AD34B82E09DED7072D7030545B4CD3F4AAAB1010B69E6B0845C37F"
+    },
+    {
+      "SourceEscaped": "\\u001b5圧縮されたウラニウム\\u001b0を\\u001b52個\\u001b0受け取ってきてくれ",
+      "TargetEscaped": "Bring back \\u001b5Compressed Uranium\\u001b0, \\u001b52 pieces\\u001b0.",
+      "SourceUtf8Sha256": "FB1909DBB44471184F02F4EFCCF8AD5ABE16EBE9C93C7CAE123D9176492B2A6F"
+    },
+    {
+      "SourceEscaped": "\\u001b5フルビ遺跡\\u001b0のどこかにいるはずじゃ\\nよろしく頼んだぞい",
+      "TargetEscaped": "My apprentice should be somewhere in the \\u001b5Fulbi Ruins\\u001b0.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "8B2E5CA609683B429AE302A647E41048130811BCB82CD7C07DAF0F38FD4F58E8"
+    },
+    {
+      "SourceEscaped": "ワシの弟子は\\u001b5フルビ遺跡\\u001b0のどこかにいるはずじゃ\\nよろしく頼んだぞい",
+      "TargetEscaped": "My apprentice should be somewhere in the \\u001b5Fulbi Ruins\\u001b0.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "43DDF393A963EA4A17294CB5C36784196457A5F7820A27E2C7AB2A9261487310"
+    },
+    {
+      "SourceEscaped": "また何かあったのかの？",
+      "TargetEscaped": "Has something else happened?",
+      "SourceUtf8Sha256": "80726A8837D7EC16BE70310744A528FEB55D4825FBC118505B94F703E3AEA3B5"
+    },
+    {
+      "SourceEscaped": "持ってきてもらった\\u001b5圧縮されたウラニウム\\u001b0を元に\\u001b5ウラニウムガン\\u001b0が完成したんじゃ！",
+      "TargetEscaped": "Using the \\u001b5Compressed Uranium\\u001b0 you brought, I've completed the \\u001b5Uranium Gun\\u001b0!",
+      "SourceUtf8Sha256": "C48920BDEDB6A6DEDF1994F93BF3CB4AF3E004FB870A4073A982B62AE1A78D35"
+    },
+    {
+      "SourceEscaped": "この銃を持つに値するか、試験をさせてもらうぞい",
+      "TargetEscaped": "I'll test whether you are worthy of wielding this gun.",
+      "SourceUtf8Sha256": "F49E7F54D76A0D656398E91B4B96BE6EF2CD955422B26B6AB82E6584A6A5B065"
+    },
+    {
+      "SourceEscaped": "\\u001b5ジオ遺跡\\u001b0へ行き、\\u001b5小市民グバ\\u001b0から\\u001b5濁ったダイヤモンド\\u001b0を貰ってきて欲しいのじゃ",
+      "TargetEscaped": "Go to the \\u001b5Geo Ruins\\u001b0 and get a \\u001b5Cloudy Diamond\\u001b0 from \\u001b5小市民グバ\\u001b0.",
+      "SourceUtf8Sha256": "FEE38B734E22BFE4559437212370B16A4C69F621E384869D4A5994DD3128BBD6"
+    },
+    {
+      "SourceEscaped": "頑張ってくるんじゃぞ！",
+      "TargetEscaped": "Do your best out there!",
+      "SourceUtf8Sha256": "B919D7EB53F5B3621CA0AD261CFAEF0B6E62FC8BA94440850D46D2B1A8142937"
+    },
+    {
+      "SourceEscaped": "\\u001b5濁ったダイヤモンド\\u001b0はまだかの？",
+      "TargetEscaped": "Have you brought the \\u001b5Cloudy Diamond\\u001b0 yet?",
+      "SourceUtf8Sha256": "924C82CE708FDEA3B67B5D2FE2A18020269B87F26C77429F1DD14F7545CAED17"
+    },
+    {
+      "SourceEscaped": "\\u001b5小市民グバ\\u001b0は惑星デゴの\\u001b5ジオ遺跡\\u001b0にいるぞい",
+      "TargetEscaped": "\\u001b5小市民グバ\\u001b0 is in the \\u001b5Geo Ruins\\u001b0 on Planet Dego.",
+      "SourceUtf8Sha256": "76BF05A1F7FEB8E11050011679367EAFFF35D2B5F93B1C09811EBAB3F85FA401"
+    },
+    {
+      "SourceEscaped": "\\u001b5濁ったダイヤモンド\\u001b0を持ってきたようじゃな",
+      "TargetEscaped": "I see you brought the \\u001b5Cloudy Diamond\\u001b0.",
+      "SourceUtf8Sha256": "DA1920F5D278EF95122327D57B6890E97F607D0712E52A0DC426AEED2A7D0F68"
+    },
+    {
+      "SourceEscaped": "これが\\u001b5ウラニウムガン\\u001b0じゃ",
+      "TargetEscaped": "Here is the \\u001b5Uranium Gun\\u001b0.",
+      "SourceUtf8Sha256": "CC22CFE0149C3ED3E51243EA591265BB5DE5CB1758E19B7EEAFD4E26DF54D6E6"
+    },
+    {
+      "SourceEscaped": "はっ！ワシとしたことが…",
+      "TargetEscaped": "Ah! Where are my manners...",
+      "SourceUtf8Sha256": "8974F7A80A267E9B883028179531EA516579DC67EA4A63A4FA06E06B8CA008F7"
+    },
+    {
+      "SourceEscaped": "少し考え事をしとったわい…",
+      "TargetEscaped": "I was lost in thought...",
+      "SourceUtf8Sha256": "009C20BF0FDAF5888E848CD1E7EED484283C78B7A33D6D2402978ECD0D286AF1"
+    },
+    {
+      "SourceEscaped": "何も…",
+      "TargetEscaped": "Nothing...",
+      "SourceUtf8Sha256": "4211A1AA8A37FE833607B1FC5E8482C1515F029F7C695F38F20F3B54267B4D32"
+    },
+    {
+      "SourceEscaped": "どうしました？",
+      "TargetEscaped": "What's wrong?",
+      "SourceUtf8Sha256": "AD469E298F39BD28FD3610ED3D6D045FA313968B90AE9067E38CBB4BDF6D6283"
+    },
+    {
+      "SourceEscaped": "どうかしたのかの？",
+      "TargetEscaped": "Is something the matter?",
+      "SourceUtf8Sha256": "39044BEAFBDC41AC808EB5D8A4A8C3E6ACA6C243EEF9744BBAB28F5F24165CF2"
+    },
+    {
+      "SourceEscaped": "それがの…\\n困った事があったのじゃ…",
+      "TargetEscaped": "Well...\\nI have a problem...",
+      "SourceUtf8Sha256": "2BEA9A5D60A3A3DF29AF4233BDDAF2881E3254CA06C14A94EEC23CA13D50EB1D"
+    },
+    {
+      "SourceEscaped": "ワシの弟子が一人、どこにもおらんのじゃよ",
+      "TargetEscaped": "One of my apprentices is nowhere to be found.",
+      "SourceUtf8Sha256": "C6E8B9B3FE78490DB244D9171E4CC88B0874258BA547E5989C9E4ED2FFB8870E"
+    },
+    {
+      "SourceEscaped": "名前を\\u001b5レキ\\u001b0と言ってな、ワシの弟子の中では一番優秀なんじゃが放浪癖があって困っておるんじゃ",
+      "TargetEscaped": "His name is \\u001b5レキ\\u001b0. He's my best apprentice, but his wandering habits are a constant headache.",
+      "SourceUtf8Sha256": "8AE84440B46BE986E267C4D4502AF4B76524C71C0BA19D9396DEAA2373F74A07"
+    },
+    {
+      "SourceEscaped": "最後に見かけられたのがポインドラ宇宙港なんじゃが、ポインドラ宇宙港で消息を絶っておるんじゃ…",
+      "TargetEscaped": "He was last seen at Poindra Spaceport, but the trail ends there...",
+      "SourceUtf8Sha256": "5AA85D821B9A4079175A7C6CBFA6D5C3942C43170142880407CCF2C40E4860D2"
+    },
+    {
+      "SourceEscaped": "\\u001b5ポインドラ宇宙港から行ける惑星\\u001b0のどこかにいるはずなんじゃが…",
+      "TargetEscaped": "He should be somewhere on \\u001b5a planet reachable from Poindra Spaceport\\u001b0...",
+      "SourceUtf8Sha256": "869DB7E0E5BB297C990C2832628FF090C405D7B6F8A60028B8E2073073E4230A"
+    },
+    {
+      "SourceEscaped": "任せて",
+      "TargetEscaped": "Leave it to me.",
+      "SourceUtf8Sha256": "83322BEEAEF6855BD35329CDA733B92CF618D013E729D6A9C9B151B3FF80CB4D"
+    },
+    {
+      "SourceEscaped": "お主が探してきてくれんかのう？",
+      "TargetEscaped": "Could you look for him?",
+      "SourceUtf8Sha256": "80B2EE999866682C0A63405A05B8C6428B3EB07C197F8D6F6C48C9ADDD86B2D6"
+    },
+    {
+      "SourceEscaped": "もしかしたら\\u001b5ターミナルガイド\\u001b0が知ってるかも知れんのう…",
+      "TargetEscaped": "Perhaps \\u001b5ターミナルガイド\\u001b0 knows something...",
+      "SourceUtf8Sha256": "439108EDBB10A91B8B3B4020ED2A172A1B0C92022E83B0D87B7A992C3606BC99"
+    },
+    {
+      "SourceEscaped": "ワシの知ってる情報はこれだけじゃ…\\nあとはお主に任せたぞい！",
+      "TargetEscaped": "That's all I know...\\nThe rest is up to you!",
+      "SourceUtf8Sha256": "DC88F516E3C50B96B0984A26907F545DF7C4B33EF30A666461DA9B0F3667BE86"
+    },
+    {
+      "SourceEscaped": "この老いぼれに酷い仕打ちをするのう…",
+      "TargetEscaped": "How cruelly you treat this old man...",
+      "SourceUtf8Sha256": "C7AA824F59A9D6030BCF427DEBE9E198854F65A7726A4F2D7109016E9BDBD99D"
+    },
+    {
+      "SourceEscaped": "言い忘れておったが、レキに会ったら\\u001b510個\\u001b0必要だと言っておいてくれんかのう",
+      "TargetEscaped": "I forgot to mention: when you see レキ, tell him I need \\u001b510 pieces\\u001b0.",
+      "SourceUtf8Sha256": "889E43A8FBBC07375FD02B4398F3BA8DA5015C6E8F36A0CD7D7289D789ED4964"
+    },
+    {
+      "SourceEscaped": "言えば分かると思うぞい",
+      "TargetEscaped": "He should understand when you tell him.",
+      "SourceUtf8Sha256": "75699C0DB1F3D92B79D33AB5D6EF681DC27F867293FB20876A8BF274A0AC1C4B"
+    },
+    {
+      "SourceEscaped": "\\u001b5ポインドラ宇宙港から行ける惑星\\u001b0のどこかにいるはずなんじゃ",
+      "TargetEscaped": "He should be somewhere on \\u001b5a planet reachable from Poindra Spaceport\\u001b0.",
+      "SourceUtf8Sha256": "15D03F8D3D046F0E826C47CE5DB111D54A1D5F9EB060799ACB8B5FC28CCCFD6A"
+    },
+    {
+      "SourceEscaped": "数は\\u001b510個\\u001b0じゃぞ\\n早く行ってくるんじゃ！",
+      "TargetEscaped": "The quantity is \\u001b510 pieces\\u001b0.\\nHurry along!",
+      "SourceUtf8Sha256": "552EA982EFA3D1F1AD9352F7F80F73AA1F77A2D1AEFAEDA385F5278C9FFCBE6E"
+    },
+    {
+      "SourceEscaped": "よろしく頼んだぞい",
+      "TargetEscaped": "I'm counting on you.",
+      "SourceUtf8Sha256": "5DFE8297090A127A8D65C2218279E5B21B8249874E579F5A6E8BA548853F9CF6"
+    },
+    {
+      "SourceEscaped": "特に何も…",
+      "TargetEscaped": "Nothing in particular...",
+      "SourceUtf8Sha256": "CBB20281359D6300AFC213D99C39A554C59DAD813BA3BD9BBCC0C75064D9AE30"
+    },
+    {
+      "SourceEscaped": "レキさんを…",
+      "TargetEscaped": "About レキ...",
+      "SourceUtf8Sha256": "5D9B77E8C1755CC41B2BA07CB8270F71BB412781795E0A0EB83B57B79CB2E7B6"
+    },
+    {
+      "SourceEscaped": "どうしたんじゃ？",
+      "TargetEscaped": "What's the matter?",
+      "SourceUtf8Sha256": "3EC38937A1053C87314B90B7429BC1687E98F2680BDC28C4D99A7E6E3DF8B397"
+    },
+    {
+      "SourceEscaped": "見つけてくれたか",
+      "TargetEscaped": "You found him?",
+      "SourceUtf8Sha256": "C33161A33E7301537D39DC7A40C5549F1EB3E5A4D7D1777403A819A5775FC05E"
+    },
+    {
+      "SourceEscaped": "言えません",
+      "TargetEscaped": "I can't tell you.",
+      "SourceUtf8Sha256": "23E4BF528ADB3CE57AD29655C7D93836F5C3A9932375FD4E74957CB8B60D240F"
+    },
+    {
+      "SourceEscaped": "それが…",
+      "TargetEscaped": "Well...",
+      "SourceUtf8Sha256": "A8D4C5FFB139C6EC9F1019EB3925FA480091BE09F09898496DC0011AA5B55B83"
+    },
+    {
+      "SourceEscaped": "それでレキはどこなんじゃ？",
+      "TargetEscaped": "So where is レキ?",
+      "SourceUtf8Sha256": "3ED4702346A6ACA78E3A7B623D6AC5F8F41A6475C10E74E0031BE4D4CC584A98"
+    },
+    {
+      "SourceEscaped": "なんと！",
+      "TargetEscaped": "What!",
+      "SourceUtf8Sha256": "BDDFE80FE1ABDF7B795F9CBBDF191EC0A44CE49D80D6FFE523CD64D47F591C1D"
+    },
+    {
+      "SourceEscaped": "ヤバコニオアシスにいて、動きたくないから戻りたくないとな",
+      "TargetEscaped": "He's at Yabakoni Oasis, and he doesn't want to return because he can't be bothered to move?",
+      "SourceUtf8Sha256": "37EBFB7040D5C8D8AEF7950DAF70FB33D7A597FCBF1CAB188394102B5BE7A6F6"
+    },
+    {
+      "SourceEscaped": "それで…",
+      "TargetEscaped": "And then...",
+      "SourceUtf8Sha256": "1AAF5427C79FFC4AFCAF660259681D9A44610BB33AB17FD3A3579ABFE80C18A1"
+    },
+    {
+      "SourceEscaped": "ぬぬぬぬ",
+      "TargetEscaped": "Grrrr...",
+      "SourceUtf8Sha256": "C01BA6DED4FF6D535613DE2FDE18A0E07DCB3E95B18CD79BE84AA9AA6B74E16C"
+    },
+    {
+      "SourceEscaped": "個数が知りたい？",
+      "TargetEscaped": "You want to know the quantity?",
+      "SourceUtf8Sha256": "B5E770FC673004E5677F0DAD3E3C626E44DD0280F185001A434B35957B59794C"
+    },
+    {
+      "SourceEscaped": "すまんかったのう…\\n言い忘れておったぞい",
+      "TargetEscaped": "Sorry...\\nI forgot to tell you.",
+      "SourceUtf8Sha256": "D6D011A49EAAAF6DDCE79956E7265EE92F69212C9F829FBCA805C6AB09501DBA"
+    },
+    {
+      "SourceEscaped": "レキに\\u001b510個\\u001b0必要だと言っておいてくれ",
+      "TargetEscaped": "Tell レキ I need \\u001b510 pieces\\u001b0.",
+      "SourceUtf8Sha256": "511435CAE8B75763AB5D04B6A3029ADAFF7E2721AE7DEF170C27F50FFD4D8A0C"
+    },
+    {
+      "SourceEscaped": "そうか…",
+      "TargetEscaped": "I see...",
+      "SourceUtf8Sha256": "9EB962C2CEC068CAA25363D6F67B92F083B060B0BB84B1CAE5C1EE6BCF1197AA"
+    },
+    {
+      "SourceEscaped": "何で教えられないんじゃ？",
+      "TargetEscaped": "Why can't you tell me?",
+      "SourceUtf8Sha256": "AAAD0016092B727429214FF9B22AB83F2E53399110BBDF8C1B2517F9C85623E5"
+    },
+    {
+      "SourceEscaped": "何か理由があるのかえ？",
+      "TargetEscaped": "Is there some reason?",
+      "SourceUtf8Sha256": "E6F17B473A4F6339D2E966A0EBE3AAE38F254423D09243B00C33BA8731E75C2C"
+    },
+    {
+      "SourceEscaped": "これは連れ戻して説教せんといかんのう",
+      "TargetEscaped": "I'll have to drag him back and give him a talking-to.",
+      "SourceUtf8Sha256": "0FFEDF97C68D4339234CDD5B609C9FD6B9EC2DAEE5E794B828C3FC819E668022"
+    },
+    {
+      "SourceEscaped": "持ってきたようじゃな…",
+      "TargetEscaped": "You brought it, I see...",
+      "SourceUtf8Sha256": "10D326D150700C892457BBADF86CE05826A5046FC901B4C7DA4E4A40067780D6"
+    },
+    {
+      "SourceEscaped": "今度はなんじゃろうか？",
+      "TargetEscaped": "What could it be this time?",
+      "SourceUtf8Sha256": "24BC9E464CFD4AA8B8873B592B0662449789A5302E41C98C5A45EABE1E6600CF"
+    },
+    {
+      "SourceEscaped": "また異変が起こったんじゃろうか…",
+      "TargetEscaped": "Has another strange incident occurred...?",
+      "SourceUtf8Sha256": "F079ABA0714889A4AF9C1B41040C7839DB21FAA9635A473E81D818530C3400A7"
+    },
+    {
+      "SourceEscaped": "早く行って原因を究明するんじゃ",
+      "TargetEscaped": "Go quickly and find the cause.",
+      "SourceUtf8Sha256": "780508F4868AFF5940271CE89F13C064AD94C5DDBE495E692EC65B9A58CD047B"
+    },
+    {
+      "SourceEscaped": "まだかのう…",
+      "TargetEscaped": "Is it ready yet...?",
+      "SourceUtf8Sha256": "628E304C5F597F2E44406FDE351BB96C8E37E67A40DC3170BFF8279DD3716406"
+    },
+    {
+      "SourceEscaped": "早くレキから\\u001b5圧縮されたゴールド\\u001b0を\\u001b510個\\u001b0貰ってきておくれ",
+      "TargetEscaped": "Hurry and get \\u001b5Compressed Gold\\u001b0, \\u001b510 pieces\\u001b0, from レキ.",
+      "SourceUtf8Sha256": "AB4475FAF75FD3895CC70B5B6A018F3A4F51E32072E490FC12DCA043D060C033"
+    },
+    {
+      "SourceEscaped": "持ってきてもらった\\u001b5圧縮されたゴールド\\u001b0を元に\\u001b5ゴールド製のロボ\\u001b0がもう少しで完成するぞい！",
+      "TargetEscaped": "Using the \\u001b5Compressed Gold\\u001b0 you brought, my \\u001b5gold robot\\u001b0 is nearly complete!",
+      "SourceUtf8Sha256": "52A095AB6CA02010C1106BC98F5A8E25D6418817A47DD608C1A4E1E40EF0EBD5"
+    },
+    {
+      "SourceEscaped": "このロボを持つに値するか、試験をさせてもらうぞい",
+      "TargetEscaped": "I'll test whether you are worthy of owning this robot.",
+      "SourceUtf8Sha256": "4C3C79173223A8D5055412221FD2E1B0D38E34A11B30A03B4088C09802847376"
+    },
+    {
+      "SourceEscaped": "\\u001b5ジオ遺跡\\u001b0へ行き、\\u001b5小市民グパ\\u001b0から\\u001b5欠けたダイヤモンド\\u001b0を貰ってきて欲しいのじゃ",
+      "TargetEscaped": "Go to the \\u001b5Geo Ruins\\u001b0 and get a \\u001b5Chipped Diamond\\u001b0 from \\u001b5小市民グパ\\u001b0.",
+      "SourceUtf8Sha256": "BD88215960339DA85F36C252FD4984FB0C2E516B8DF1627197FE7CA270A8595E"
+    },
+    {
+      "SourceEscaped": "\\u001b5欠けたダイヤモンド\\u001b0はまだかの？",
+      "TargetEscaped": "Have you brought the \\u001b5Chipped Diamond\\u001b0 yet?",
+      "SourceUtf8Sha256": "26C0AE8E01F14A198E0C0439400EF410E12B2FF6008942A25037BCF792B33B84"
+    },
+    {
+      "SourceEscaped": "\\u001b5小市民グパ\\u001b0は惑星デゴの\\u001b5ジオ遺跡\\u001b0にいるぞい",
+      "TargetEscaped": "\\u001b5小市民グパ\\u001b0 is in the \\u001b5Geo Ruins\\u001b0 on Planet Dego.",
+      "SourceUtf8Sha256": "06F369FB0BAFCBCEE85679D76DC2123E1612026274C1E209AD9670F65A23C579"
+    },
+    {
+      "SourceEscaped": "\\u001b5欠けたダイヤモンド\\u001b0を持ってきたようじゃな",
+      "TargetEscaped": "I see you brought the \\u001b5Chipped Diamond\\u001b0.",
+      "SourceUtf8Sha256": "93A54ED3651318958245689D3E0A8A6E2DB57B207666AEBC2484B06C78387204"
+    },
+    {
+      "SourceEscaped": "…これ以上パーツを持てんようじゃのう",
+      "TargetEscaped": "...It seems you cannot carry any more parts.",
+      "SourceUtf8Sha256": "F90ABCC723D20AD1D5BF2E623E8C1973BAC8E7386E7C46AF275B5C1A68999F05"
+    },
+    {
+      "SourceEscaped": "ゴールド製のロボを開発していたんじゃが、開発途中でシルバーに変換する方法分かったんじゃ！",
+      "TargetEscaped": "While developing the gold robot, I discovered a way to convert it to silver!",
+      "SourceUtf8Sha256": "EB6C76DC53216C65742112EF458F749CB3F414F02FB5E6A96C331F6D85FDE91B"
+    },
+    {
+      "SourceEscaped": "あと少しで完成なんじゃが、一度作ってしまったらもう直せないからのう…",
+      "TargetEscaped": "It's nearly complete, but once it's finished, I won't be able to change it...",
+      "SourceUtf8Sha256": "303AABCEA9952B22153EBE8E1E2BF9DE8F0DCFC7E5EC2835BAF86B1FD3F15F00"
+    },
+    {
+      "SourceEscaped": "どちらか選んで欲しいんじゃが…",
+      "TargetEscaped": "So I'd like you to choose one...",
+      "SourceUtf8Sha256": "7775C31F4454C5C7FCC7B8C71643E1B1EF65BBC3D484BE9B53262C43F51201DF"
+    },
+    {
+      "SourceEscaped": "待って下さい",
+      "TargetEscaped": "Please wait.",
+      "SourceUtf8Sha256": "2A9CF3D4D0C752470E09DE205827E02BE36D3E12F7610DA4F99F2ED8AB7924BA"
+    },
+    {
+      "SourceEscaped": "大丈夫です",
+      "TargetEscaped": "I'm ready.",
+      "SourceUtf8Sha256": "2E4511C79DD301BD751212CA916D4ECB6803D0F2FE2FE7F710A166E18D934922"
+    },
+    {
+      "SourceEscaped": "いきなり決めろと言っても酷かの…？",
+      "TargetEscaped": "Perhaps it's unfair to ask you to decide so suddenly...?",
+      "SourceUtf8Sha256": "B053280D2FF74502E951209C798597697A88DEF7C2541C35482E0258E9E2D449"
+    },
+    {
+      "SourceEscaped": "と言っても、何も分からんのに決めるのはできないからのう…\\nワシが予想した結果を教えるぞい",
+      "TargetEscaped": "Still, you can't choose without knowing anything...\\nI'll tell you what I expect the results to be.",
+      "SourceUtf8Sha256": "41D857B6D62AB0B0AC21322961388D0A92132DFF67FBE8769F1A61A5F81D307A"
+    },
+    {
+      "SourceEscaped": "あくまでワシの予想なんじゃが、ゴールドロボは格闘能力に秀でていて、シルバーロボは射撃能力に秀でている機体になりそうじゃ…",
+      "TargetEscaped": "This is only my prediction, but the gold robot should excel at melee combat, while the silver robot should excel at shooting...",
+      "SourceUtf8Sha256": "B26755F5C26545205D0442246ED12E5095D53D9F7156624824E5801FD2E0C717"
+    },
+    {
+      "SourceEscaped": "シルバー",
+      "TargetEscaped": "Silver",
+      "SourceUtf8Sha256": "E54388B7DC55DDD5F657A109E63D0C336020C9FA4EBBA87D2E564FEB46139836"
+    },
+    {
+      "SourceEscaped": "ゴールド",
+      "TargetEscaped": "Gold",
+      "SourceUtf8Sha256": "738321C578DCB8AD121988832F952ADA7267CC20EADEE55B9C62F097EC5CDEB2"
+    },
+    {
+      "SourceEscaped": "どちらがいいかの？",
+      "TargetEscaped": "Which would you prefer?",
+      "SourceUtf8Sha256": "E9B849A22A6F3B664327AA4DFC8D9E43C3E3A2F7A31EA781C16D5847932FD13F"
+    },
+    {
+      "SourceEscaped": "これが\\u001b5ゴルダート\\u001b0じゃ",
+      "TargetEscaped": "Here is \\u001b5Goldart\\u001b0.",
+      "SourceUtf8Sha256": "784E9A6ACBD97A01804799C227034C89358C452BC72730B32F2531826148C46E"
+    },
+    {
+      "SourceEscaped": "これが\\u001b5ジルバート\\u001b0じゃ",
+      "TargetEscaped": "Here is \\u001b5Silvart\\u001b0.",
+      "SourceUtf8Sha256": "CAD47B10FE69D9024350CB02CA294CBE49253D499815030FC088B9141385A083"
+    },
+    {
+      "SourceEscaped": "少し考える時間をやろうかの",
+      "TargetEscaped": "I'll give you some time to think.",
+      "SourceUtf8Sha256": "35221188850D5CFF680AEECB72C48A07CEBA161FDFD51B734B3FB706F6F58088"
+    },
+    {
+      "SourceEscaped": "そういえば、ロボのヒントをあげてなかったかのう…",
+      "TargetEscaped": "Come to think of it, I haven't given you any hints about the robots...",
+      "SourceUtf8Sha256": "2D332CDB7F48E84A5157C6DBD29DC5BB743BC33876125A0E8EB21FA70A3D6B71"
+    },
+    {
+      "SourceEscaped": "ワシの予想なんじゃが、ゴールドロボは格闘能力に秀でていて、シルバーロボは射撃能力に秀でている機体になりそうじゃ…",
+      "TargetEscaped": "I predict that the gold robot will excel at melee combat, while the silver robot will excel at shooting...",
+      "SourceUtf8Sha256": "47B1C5A659195900F66679084DB62F46501DAC07BA29871B4ADD01F35CC5923B"
+    },
+    {
+      "SourceEscaped": "決まったら話しかけてくれ",
+      "TargetEscaped": "Talk to me when you've decided.",
+      "SourceUtf8Sha256": "8A1D45C7649E58D12E4E4F08A2E8D63A7D8A3896BDA552E83CC3942082903415"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡を探索できるくらいの実力がないと、ここから先への侵入許可は出ないだろうな",
+      "TargetEscaped": "You probably won't get permission to go farther unless you are strong enough to explore the Pold Ruins.",
+      "SourceUtf8Sha256": "8B5B50AB3C521FE6F53E907613A4101BDD6538B4B63462EB24E10F2F23E296FC"
+    },
+    {
+      "SourceEscaped": "このトンネルは魔境へのショートカットだ",
+      "TargetEscaped": "This tunnel is a shortcut into the Demon Realm.",
+      "SourceUtf8Sha256": "12304394898F94582135809E61FAAEEC56C634DB104276A6166450B900E6FBB2"
+    },
+    {
+      "SourceEscaped": "魔境の奥地を探索したいなら、このトンネルを利用しろ",
+      "TargetEscaped": "Use this tunnel if you want to explore deep inside the Demon Realm.",
+      "SourceUtf8Sha256": "E511C748F18F2B927E7622B46534EF386EA304DF8C47963331D107D2973AC271"
+    },
+    {
+      "SourceEscaped": "ポンジャバ宇宙港へようこそ",
+      "TargetEscaped": "Welcome to Ponjava Spaceport.",
+      "SourceUtf8Sha256": "7E7BF8AAA439808FD793F94CEE5EB1BAA2CC8B705A88C6E3973B2ECD3D923B85"
+    },
+    {
+      "SourceEscaped": "魔境にスペースターミナルがあるとは驚いたでしょう？",
+      "TargetEscaped": "Surprised to find a space terminal in the Demon Realm?",
+      "SourceUtf8Sha256": "4EEB6E25AA2D6FF9669A5D11A1C740CC103E984A4D4C78D48D9C178BE0BD5037"
+    },
+    {
+      "SourceEscaped": "この辺りは妙な磁場が発生していて、悪魔軍も迷っちまう",
+      "TargetEscaped": "Strange magnetic fields occur around here. Even the Devil Army gets lost.",
+      "SourceUtf8Sha256": "5E50FF908452336D06723A5F530F1837ED4326B555B7A16CEBD856169F26EB20"
+    },
+    {
+      "SourceEscaped": "防衛策も兼ねて、魔境にスペースターミナルの建設が行われたんだ",
+      "TargetEscaped": "The space terminal was built in the Demon Realm partly for defensive reasons.",
+      "SourceUtf8Sha256": "4AF25E3D3D454D36E0FB11DE2EBF24C8D61997A698CF1F84E7DF144CF4ACDE57"
+    },
+    {
+      "SourceEscaped": "もっとも、オレ等が迷っちまったらおしまいだがな！がっはっは！！",
+      "TargetEscaped": "Of course, we'd be done for if we got lost too! Gahahaha!!",
+      "SourceUtf8Sha256": "79263C07D0C4E99FFD64D11D7F11732243830F10D9826FE1D53C976A49F9CC24"
+    },
+    {
+      "SourceEscaped": "うーん、登れない…どうやったら登れるんだろう？",
+      "TargetEscaped": "Hmm, I can't climb up... How am I supposed to get up there?",
+      "SourceUtf8Sha256": "4295F2519B4FD0EEF96AFF053E1A3F75FD3496360C16AA702C1841F89D13FE11"
+    },
+    {
+      "SourceEscaped": "さっきそこのダムツリーを倒したら、奇妙な色のゲートが出たんだ",
+      "TargetEscaped": "When I defeated that ダムツリー just now, a strangely colored gate appeared.",
+      "SourceUtf8Sha256": "4A23E2DE1344906989BD961D7F895F48921B61555E863EDB755E5AA89B15519A"
+    },
+    {
+      "SourceEscaped": "ゲートの行き先は運まかせみたいだから、どこへ行くかはお楽しみだね",
+      "TargetEscaped": "The destination seems to be random, so where you'll go is a surprise.",
+      "SourceUtf8Sha256": "1438EA0CA428489AE920D571B3C1408621B769B5A726805A74073470EC5C9A5F"
+    },
+    {
+      "SourceEscaped": "お疲れ様です！\\nわたくし、ハテック博士のもとで研究員として働いている者です",
+      "TargetEscaped": "Hello there!\\nI work as a researcher under ハテック博士.",
+      "SourceUtf8Sha256": "A000BD1DF4E7B2E1CFFD3DC248DF6198439D74046AD20C83509727DA8F5AC9DC"
+    },
+    {
+      "SourceEscaped": "わたくしは現在、モンスターたちのパーツを使って、武器を製作できないかと研究しているのです",
+      "TargetEscaped": "I'm currently researching whether weapons can be made from monster parts.",
+      "SourceUtf8Sha256": "449EDA6379D99917CE27FF1D5D3D1DED376B2B58660AE0FA6D9A91F7BF11164B"
+    },
+    {
+      "SourceEscaped": "わたくしは現在、モンスターたちのパーツを使って、新たな武器を製作できないかと研究しているのです",
+      "TargetEscaped": "I'm currently researching whether new weapons can be made from monster parts.",
+      "SourceUtf8Sha256": "8A85307682E4109D1B6EE86F09A2A5ACFF1886E542C761677D8D1A29E018EBF1"
+    },
+    {
+      "SourceEscaped": "ですが1人では戦闘も厳しく、なかなかはかどらなくて…",
+      "TargetEscaped": "But fighting alone, with just 1 person, is difficult, so progress has been slow...",
+      "SourceUtf8Sha256": "3E4D87A5B514F657E919E20CC2A046279218CEC3143AAD87D5DD76977E211B34"
+    },
+    {
+      "SourceEscaped": "よろしければ、わたくしの研究にご協力いただけませんか？",
+      "TargetEscaped": "Would you be willing to help with my research?",
+      "SourceUtf8Sha256": "FB9BF605BFE94611CBB4A8A8AF3CCE4A245688E4EB75BE72285A3756D64D6AF8"
+    },
+    {
+      "SourceEscaped": "遠慮します",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "6C359F4B6162EC7BEC9086C8242DA1D6FCA3F770578AFCECE8FF06B6D36168ED"
+    },
+    {
+      "SourceEscaped": "協力します！",
+      "TargetEscaped": "I'll help!",
+      "SourceUtf8Sha256": "AEF911689F592594B091DC56DB611AAC2C0469FD9F5914EAAF3C0532F531FD82"
+    },
+    {
+      "SourceEscaped": "もちろんお礼はいたします！",
+      "TargetEscaped": "Of course, I'll reward you!",
+      "SourceUtf8Sha256": "48264586516C0DAF225B76B88E73DC7706B6C10ECC0DEEEDBF9BE92B97B7A4B5"
+    },
+    {
+      "SourceEscaped": "ありがとうございます！\\nでは、\\u001b5マニモBD2を8つ\\u001b0と、\\n\\u001b5マニモナイフを5つ\\u001b0、収集してきてください",
+      "TargetEscaped": "Thank you!\\nPlease collect \\u001b5Manimo BD2, 8 pieces\\u001b0,\\nand \\u001b5Manimo Knife, 5 pieces\\u001b0.",
+      "SourceUtf8Sha256": "B56A94D4C4AEC4798A3EBBA7CDA84CB70EC376CEDEA14EB48718E26321463713"
+    },
+    {
+      "SourceEscaped": "さようですか…",
+      "TargetEscaped": "I see...",
+      "SourceUtf8Sha256": "4F70C9A0F54E61D677C4C147D023B755B5B0ABF10FFEF034CFDE40FC71B178CE"
+    },
+    {
+      "SourceEscaped": "おぉ…ありがとうございます！\\nこれだけの数を集めてきてくださるとは！",
+      "TargetEscaped": "Oh... Thank you!\\nI can't believe you gathered so many!",
+      "SourceUtf8Sha256": "9F9592AB99B102EEAE1085E626625299E64F07DCB5BCCADA4A21A0E414BB9A5A"
+    },
+    {
+      "SourceEscaped": "それでは早速、収集していただいたパーツで武器を製作いたします",
+      "TargetEscaped": "I'll get straight to work making a weapon from the parts you collected.",
+      "SourceUtf8Sha256": "99A1CC0884C5F3C3B0C135FED8B8EB7836C1713D583329FCF90FF1F2A0878080"
+    },
+    {
+      "SourceEscaped": "少々お待ちください",
+      "TargetEscaped": "Please wait a moment.",
+      "SourceUtf8Sha256": "6D3397312A61FEA33512190FAA62BD93C105495141F154775D2FE758B459DF88"
+    },
+    {
+      "SourceEscaped": "……\\n（製作している）",
+      "TargetEscaped": "...\\n(Working on the weapon.)",
+      "SourceUtf8Sha256": "064BC6C29710936144C0A913F33627846499E3BFCB767F9022ABFBABA3C24F69"
+    },
+    {
+      "SourceEscaped": "…………\\n（製作している！）",
+      "TargetEscaped": "......\\n(Working on the weapon!)",
+      "SourceUtf8Sha256": "C8270E78CBC2D9BCACA19EE2E2CB0E62E009C2714C7A3E7ECEBF585B9FFE6131"
+    },
+    {
+      "SourceEscaped": "……………………\\n（一生懸命製作している！）",
+      "TargetEscaped": "............\\n(Working hard on the weapon!)",
+      "SourceUtf8Sha256": "7E446A2F5DC061F300B5B08D9B41D1B4C9CF679E7FEB5F2DFEFEA4E728BE2F36"
+    },
+    {
+      "SourceEscaped": "完成いたしました！",
+      "TargetEscaped": "It's complete!",
+      "SourceUtf8Sha256": "899B0B639E31E2E0CCED918116388DAB6962386171F76FEAF7EB654C813A9D71"
+    },
+    {
+      "SourceEscaped": "\\u001b5マニモBD2を8つ\\u001b0と、\\n\\u001b5マニモナイフを5つ\\u001b0、収集してきてください",
+      "TargetEscaped": "Please collect \\u001b5Manimo BD2, 8 pieces\\u001b0,\\nand \\u001b5Manimo Knife, 5 pieces\\u001b0.",
+      "SourceUtf8Sha256": "A4EA92A230C3E6E3BBF25C28040A8718BFA05819F0431EF46C701F5FDD7FEEF0"
+    },
+    {
+      "SourceEscaped": "ありがとうございました。\\nわたくしはこれからも研究を続けていきます！",
+      "TargetEscaped": "Thank you very much.\\nI'll continue my research!",
+      "SourceUtf8Sha256": "10FB253731072B85FA8AD6BACA644DCE48CC55820CBE10A0656AE40B3AE3FDDB"
+    },
+    {
+      "SourceEscaped": "このプラネットのモンスターは\\nこちらから手を出さなければ比較的おとなしい性格なんだよ",
+      "TargetEscaped": "The monsters on this planet\\nare relatively docile if you don't attack them first.",
+      "SourceUtf8Sha256": "859BBA7A645239895D6E02B04016388F6DA6007008A7EF7FD32B44FEDDD4A85A"
+    },
+    {
+      "SourceEscaped": "ポイーンほどとは言わないがね…",
+      "TargetEscaped": "Not as docile as on Poyeen, though...",
+      "SourceUtf8Sha256": "6B8C19D815F5B99CC65C713D273621AB4779F66DE71A7160286308800DF057EE"
+    },
+    {
+      "SourceEscaped": "遠路はるばるごくろうさん！",
+      "TargetEscaped": "Thanks for coming all this way!",
+      "SourceUtf8Sha256": "0970BC07DEE248A79017BEBF0580C2804A3AD02A4D0A8E551767A8E29A061793"
+    },
+    {
+      "SourceEscaped": "そいつがノックスからの報告書か…",
+      "TargetEscaped": "So that's the report from ノックス...",
+      "SourceUtf8Sha256": "9FC3EBAB9DF08FEA0D8524DF77455AD1DB08224C5E9651CAD0371C7EFD29113F"
+    },
+    {
+      "SourceEscaped": "嫌です",
+      "TargetEscaped": "I don't want to.",
+      "SourceUtf8Sha256": "FDCF1B5331F2BD51008A4BEF0BE79392779B55D4B39AD43D732F55F435BE88C0"
+    },
+    {
+      "SourceEscaped": "どうぞ",
+      "TargetEscaped": "Here you go.",
+      "SourceUtf8Sha256": "5041F23AECC8158431EB4824F78775F846067CCD029F5ADC531C2354914B33B4"
+    },
+    {
+      "SourceEscaped": "それをこちらに渡してくれ",
+      "TargetEscaped": "Hand it over, please.",
+      "SourceUtf8Sha256": "16B361E5FD4BA55D78C22446948432DA85E493FE38CE468C4A2CCB7E290C03C7"
+    },
+    {
+      "SourceEscaped": "ありがとうな！",
+      "TargetEscaped": "Thanks!",
+      "SourceUtf8Sha256": "34BB061878629BFFA6E7E78283875B5A06E956F41CA3DD43669E28ED935731A8"
+    },
+    {
+      "SourceEscaped": "少ないが報酬を受け取ってくれ",
+      "TargetEscaped": "It isn't much, but please accept this reward.",
+      "SourceUtf8Sha256": "DFFC06F6EBEED47C65D03BB12A212DB59D0A28DEB2F0DCD84F450FD43BD894B2"
+    },
+    {
+      "SourceEscaped": "何故だ！！！！",
+      "TargetEscaped": "WHY!!!!",
+      "SourceUtf8Sha256": "E82F958D1621580BE4684AF7A67D17A6C70566C1DA17ADE9B094A7A06E025379"
+    },
+    {
+      "SourceEscaped": "お前さんに頼みたいことがあったんだけど…アイテムがいっぱいだな",
+      "TargetEscaped": "I had a request for you... but your inventory is full.",
+      "SourceUtf8Sha256": "EC26CE53573E5FB7EED9D4C7DF9FF8C19776014E5CEF07E78A18B328434D721A"
+    },
+    {
+      "SourceEscaped": "キャリーの中を整理してきてくれないか？",
+      "TargetEscaped": "Could you make some space in your Carry?",
+      "SourceUtf8Sha256": "C3327FAA039164CD058E6A0D5E16EE7471E1E7F92DCAD7F0AA3A6534E321BCD3"
+    },
+    {
+      "SourceEscaped": "よう！\\n報告書を届けてくれてありがとうな",
+      "TargetEscaped": "Hey!\\nThanks for delivering the report.",
+      "SourceUtf8Sha256": "7569EEAD405C0064E0DE47A3383B1BBB01662B91A9A27D47AC0D15C4A1591FFF"
+    },
+    {
+      "SourceEscaped": "こっちも大変だが、惑星ポイーンも大変そうだな。\\nおっと、報告書報告書！",
+      "TargetEscaped": "Things are tough here, but Planet Poyeen seems to be having a hard time too.\\nOh, right, the report!",
+      "SourceUtf8Sha256": "A70B16E397B5152FC4CAAD8E6F4EDF91D2FDDE26F1FC99080DDF325517D6C60E"
+    },
+    {
+      "SourceEscaped": "ふむふむ…………なるほど",
+      "TargetEscaped": "Hmm, hmm... I see.",
+      "SourceUtf8Sha256": "6DD7A5B25C67B31C4A1669BA1B302AC25E13675373F13F0532761DD19E25B2D9"
+    },
+    {
+      "SourceEscaped": "……………………。\\nよし、決めた！",
+      "TargetEscaped": "...\\nRight, I've decided!",
+      "SourceUtf8Sha256": "FBB58624DB37B72FD74B8DB0F9DA813B01909D3FB8FDEA5D7123CBF02C72D195"
+    },
+    {
+      "SourceEscaped": "いきなりで悪いが俺からの\\u001b5メール\\u001b0を\\n\\u001b5ソルシティ\\u001b0の\\u001b5ゴーグ\\u001b0まで届けてくれ",
+      "TargetEscaped": "Sorry to spring this on you, but deliver my \\u001b5email\\u001b0\\nto \\u001b5ゴーグ\\u001b0 in \\u001b5Sol City\\u001b0.",
+      "SourceUtf8Sha256": "6BD4149C6AF772D4F37914B6FFBAC9C68A56511065E715CDF11F70FC7C06BCBC"
+    },
+    {
+      "SourceEscaped": "お前さんだから頼むんだ。\\n届けてくれるな？",
+      "TargetEscaped": "I'm asking because it's you.\\nYou'll deliver it, right?",
+      "SourceUtf8Sha256": "65E4FACE0261FCBD25078F43470A46FB2940A429C470D214F85F38A01F3FC2C9"
+    },
+    {
+      "SourceEscaped": "よろしくな！",
+      "TargetEscaped": "I'm counting on you!",
+      "SourceUtf8Sha256": "0941B84389696A848F3E9320B31BDCA5B4DD32F13B6216341AA5335AC81A2D17"
+    },
+    {
+      "SourceEscaped": "聞いてくれると思ったんだが…",
+      "TargetEscaped": "I thought you'd agree...",
+      "SourceUtf8Sha256": "9B9721D51C858A4C89133EE21AAA29C4427B3EEF41FB084018A4184731647CA7"
+    },
+    {
+      "SourceEscaped": "俺の\\u001b5メール\\u001b0を無くしたのか？",
+      "TargetEscaped": "You lost my \\u001b5email\\u001b0?",
+      "SourceUtf8Sha256": "5FD6D00BCC9CAA54A5C69A443468F546BAA2980A212E559C69C88671D1AE145E"
+    },
+    {
+      "SourceEscaped": "今度は\\u001b4無くすなよ！\\u001b0",
+      "TargetEscaped": "\\u001b4Don't lose it this time!\\u001b0",
+      "SourceUtf8Sha256": "4B4666F9CB6B3B5656C73843F751A0CE7969818CEA6058C36CADE32C1B979A0F"
+    },
+    {
+      "SourceEscaped": "俺の\\u001b5メール\\u001b0を\\u001b5ソルシティ\\u001b0にいる\\u001b5ゴーグ\\u001b0まで届けてくれ",
+      "TargetEscaped": "Deliver my \\u001b5email\\u001b0 to \\u001b5ゴーグ\\u001b0 in \\u001b5Sol City\\u001b0.",
+      "SourceUtf8Sha256": "855F43E6C0D8B0BFDB78A4BB196BF9EC4B02D7EE7F0A35DD1FBD603A2F4EEC48"
+    },
+    {
+      "SourceEscaped": "\\u001b5ソルシティ\\u001b0はここからずっと西にあるぞ",
+      "TargetEscaped": "\\u001b5Sol City\\u001b0 is far west of here.",
+      "SourceUtf8Sha256": "521009B046FD399259551473B28C840DCE1DE1E26DE238F3A9DC05294E3ED3EC"
+    },
+    {
+      "SourceEscaped": "報告書を届けてくれてありがとうな！",
+      "TargetEscaped": "Thanks for delivering the report!",
+      "SourceUtf8Sha256": "CABF96C479E9484FB3E880E9402891A5D68F60BA9F28D14256B9F12C213934E2"
+    },
+    {
+      "SourceEscaped": "こいつはほんの気持ちだ。\\n受け取ってくれ",
+      "TargetEscaped": "This is just a small token of thanks.\\nTake it.",
+      "SourceUtf8Sha256": "31D9CAC2799D9FED0AD6882D36207AC6FBD1EFC50CE68D612B0753D59EDBEB28"
+    },
+    {
+      "SourceEscaped": "報告書、読ませてもらったよ。\\nありがとうな！",
+      "TargetEscaped": "I've read the report.\\nThanks!",
+      "SourceUtf8Sha256": "B339E4D82EF60FAECFE930A5FA213EA0132F7102034306757B0E622DC6733F9E"
+    },
+    {
+      "SourceEscaped": "しかしなんだな…ポイーンも最近、物騒らしいな",
+      "TargetEscaped": "Still... Poyeen seems dangerous lately too.",
+      "SourceUtf8Sha256": "27A1CA274618409F3983C2F94373FA8EEB1AB008AF98A3CEAD13FFEB4D141423"
+    },
+    {
+      "SourceEscaped": "\\u001b5ラムタ村\\u001b0の\\u001b5ピノ\\u001b0は無事にやってるかな？",
+      "TargetEscaped": "I wonder if \\u001b5ピノ\\u001b0 in \\u001b5Ramta Village\\u001b0 is doing all right.",
+      "SourceUtf8Sha256": "9013179DC86462B442AA52CCEF692ABD4F61F916973EB2950AACE57C8608D894"
+    },
+    {
+      "SourceEscaped": "すまないが、俺からの\\u001b5メール\\u001b0を\\n\\u001b5ピノ\\u001b0に届けてくれないか？",
+      "TargetEscaped": "Sorry to ask, but could you deliver my \\u001b5email\\u001b0\\nto \\u001b5ピノ\\u001b0?",
+      "SourceUtf8Sha256": "4490F21B69EA867824FDB27BC6F4E6140C01E254ED03B8D594FD6F64B1B173EA"
+    },
+    {
+      "SourceEscaped": "ありがとうな！\\nそれじゃよろしく頼むぜ",
+      "TargetEscaped": "Thanks!\\nI'm counting on you, then.",
+      "SourceUtf8Sha256": "D173CFF2E76B7AA8ACF316EE2E138293372691B1971D5317A015E1B995FDA7FA"
+    },
+    {
+      "SourceEscaped": "\\u001b5ラムタ村\\u001b0に行くなら、ソロネッツ宇宙港が近いぞ",
+      "TargetEscaped": "If you're going to \\u001b5Ramta Village\\u001b0, Solonets Spaceport is nearby.",
+      "SourceUtf8Sha256": "F4EBD85C19D043FC39B82C90B00E54B06207261B7BA279091737034C1D985C2C"
+    },
+    {
+      "SourceEscaped": "宇宙港はソロネッツシティの東だ。\\nシャトルに乗って\\u001b5惑星ポイーン\\u001b0に向かってくれ",
+      "TargetEscaped": "The spaceport is east of Solonets City.\\nTake the shuttle to \\u001b5Planet Poyeen\\u001b0.",
+      "SourceUtf8Sha256": "03FC5B5703D024CDF67BD3FFC0531E8F1E274ACEA78084BAD5BB8E8B87376678"
+    },
+    {
+      "SourceEscaped": "\\u001b5ラムタ村\\u001b0の\\u001b5ピノ\\u001b0に、俺の\\u001b5メール\\u001b0を渡してくれ",
+      "TargetEscaped": "Give my \\u001b5email\\u001b0 to \\u001b5ピノ\\u001b0 in \\u001b5Ramta Village\\u001b0.",
+      "SourceUtf8Sha256": "2A4448D2C2EEEC8E51BF8E48F68C30CA8AAF2F14C1280C8AC3DC7FFC0AAD1B52"
+    },
+    {
+      "SourceEscaped": "ちなみに\\u001b5ラムタ村\\u001b0に行くなら、ソロネッツ宇宙港が近いぞ",
+      "TargetEscaped": "By the way, if you're going to \\u001b5Ramta Village\\u001b0, Solonets Spaceport is nearby.",
+      "SourceUtf8Sha256": "A3CE05697EB5B252E20136F678F93F6D5BF034F013649706B902D9CB3F785AB6"
+    },
+    {
+      "SourceEscaped": "報告書、届けてくれてありがとうな！",
+      "TargetEscaped": "Thanks for bringing the report!",
+      "SourceUtf8Sha256": "87494E0672FC55CA10B9EB758A9822B3984E4129935D07270486A07FEC4A0AF6"
+    },
+    {
+      "SourceEscaped": "…っと思いきや、アイテムがいっぱいだな。\\nキャリーの中を整理してきてくれないか？",
+      "TargetEscaped": "...Wait, your inventory is full.\\nCould you make some space in your Carry?",
+      "SourceUtf8Sha256": "461DF3B64470413657D8FC8B7702C74174BFA57DBD95DE5708A869565BA4BB6D"
+    },
+    {
+      "SourceEscaped": "報告書、確かに受け取ったぜ！",
+      "TargetEscaped": "Report received!",
+      "SourceUtf8Sha256": "DA406999DB1ADDBE46EF2D83DAEEFB16094D71BC43D193555EEA09E5BEC86AC9"
+    },
+    {
+      "SourceEscaped": "ポイーンにいる悪魔軍がゲルニアへ攻めてこないとも限らないからなぁ",
+      "TargetEscaped": "There's no guarantee the Devil Army on Poyeen won't attack Gernia.",
+      "SourceUtf8Sha256": "F374EF3B034105E354557FAD0544151C4B4C131A691270A1C9A837A28E0844D4"
+    },
+    {
+      "SourceEscaped": "今後も警戒しないと…",
+      "TargetEscaped": "We'll have to stay on our guard...",
+      "SourceUtf8Sha256": "E632BF46F8801F4AB88F3B665AD053FCB59339ED756708E2C31A56E513823111"
+    },
+    {
+      "SourceEscaped": "…おっと、すまん。\\nこれが今回の報酬だ",
+      "TargetEscaped": "...Oh, sorry.\\nHere's your reward this time.",
+      "SourceUtf8Sha256": "4EA2A453521EA9E43CAC312BDC6E68BEFE69689BC51BF61C4ABE1564FD25EEEC"
+    },
+    {
+      "SourceEscaped": "この前連絡があったんだが、\\n\\u001b5ソルシティ\\u001b0にいる\\u001b5ゴーグ\\u001b0がお前さんに用があるらしい",
+      "TargetEscaped": "I heard recently\\nthat \\u001b5ゴーグ\\u001b0 in \\u001b5Sol City\\u001b0 needs something from you.",
+      "SourceUtf8Sha256": "901C1E5D84F674222F8722CA6643087565D7656E76AF10E453DC114913732001"
+    },
+    {
+      "SourceEscaped": "あいつのところまで行ってやってくれないか？",
+      "TargetEscaped": "Could you go see him?",
+      "SourceUtf8Sha256": "9CB2D235991196532D28BA26A6DA98E549B7EEC394599E6F11E47DE977E12394"
+    },
+    {
+      "SourceEscaped": "毎度ありがとうな！",
+      "TargetEscaped": "Thanks as always!",
+      "SourceUtf8Sha256": "6D0410126F5506251282E2259C7B0E18D79D948F00851A9AAA4A4C481FDA7481"
+    },
+    {
+      "SourceEscaped": "ついでにこの\\u001b5ENパック1000\\u001b0を\\u001b53つ\\u001b0、差し入れてやってくれ",
+      "TargetEscaped": "While you're at it, take these \\u001b5EN Pack 1000\\u001b0, \\u001b53 packs\\u001b0, as supplies for him.",
+      "SourceUtf8Sha256": "F2C55DCFE0819BAB3A9C9C5BBC07205D873D55039C1F98818D767DCC559A85E3"
+    },
+    {
+      "SourceEscaped": "\\u001b5ソルシティ\\u001b0にいる\\u001b5ゴーグ\\u001b0に\\u001b5ENパック1000\\u001b0を\\u001b53つ\\u001b0届けてやってくれ",
+      "TargetEscaped": "Deliver to \\u001b5ゴーグ\\u001b0 in \\u001b5Sol City\\u001b0: \\u001b5EN Pack 1000\\u001b0, \\u001b53 packs\\u001b0.",
+      "SourceUtf8Sha256": "AEE82BB546F771FB72140B3891D00464C528F05F38AD8632A5C438CD5C820F5D"
+    },
+    {
+      "SourceEscaped": "…俺が渡したアイテムは\\u001b4自分で使っちゃダメだぞ\\u001b0",
+      "TargetEscaped": "...\\u001b4Don't use the items I gave you yourself\\u001b0.",
+      "SourceUtf8Sha256": "387D28F06E8A6996075F1AD1C5D4D1DA93AFA1C581CC7770349B5C2C63AAFFD7"
+    },
+    {
+      "SourceEscaped": "よう、久し振りだな！惑星ガルドでも大活躍だったそうじゃないか。\\n報告書、読ませてもらうぞ",
+      "TargetEscaped": "Hey, long time no see! I hear you did great things on Planet Gald too.\\nLet me read the report.",
+      "SourceUtf8Sha256": "779C8DA8A8688BB6AF11C5F74849C4212B74C0B5F32506BCCDFAD77426C6902F"
+    },
+    {
+      "SourceEscaped": "…え、これからすぐ惑星デゴに行くって？大変だなぁ…",
+      "TargetEscaped": "...What, you're heading straight to Planet Dego? You sure have it tough...",
+      "SourceUtf8Sha256": "8C36C03D2E13D788F8F8849A48DE3D2432953B68F8996D7505C1ED6A84C888E8"
+    },
+    {
+      "SourceEscaped": "とりあえず報酬だ。受け取ってくれ",
+      "TargetEscaped": "Here's your reward for now. Take it.",
+      "SourceUtf8Sha256": "CB2DFAC7E175D3D225A4A87C1544F147BFF628A8013F36D402DFAD73B450CCD6"
+    },
+    {
+      "SourceEscaped": "急ぎのところ悪いんだが、お前さんに頼みごとが…",
+      "TargetEscaped": "Sorry to hold you up, but I have a favor to ask...",
+      "SourceUtf8Sha256": "B81662495248829CC825A0C20E93C1DF59609CDDFC512DEF3BDC961AD27BCAA3"
+    },
+    {
+      "SourceEscaped": "…と思ったが、キャリーのアイテムがいっぱいみたいだな",
+      "TargetEscaped": "...Wait, your Carry's item section seems full.",
+      "SourceUtf8Sha256": "8715F5E4C86BBF2006091A5B069E8E801329F3AD8A68D95EE9056AC4CC014207"
+    },
+    {
+      "SourceEscaped": "急ぎのところ悪いんだが、お前さんに頼みごとがあるんだ",
+      "TargetEscaped": "Sorry to hold you up, but I have a favor to ask.",
+      "SourceUtf8Sha256": "2DCE3EA2AB9DF4B9D5DEC949DBD07D823350E2CD9EE853383A8D15FB4E1F46BE"
+    },
+    {
+      "SourceEscaped": "\\u001b5リペアパック2000\\u001b0を\\u001b55つ\\u001b0、\\u001b5ソルシティ\\u001b0にいる\\u001b5ゴーグ\\u001b0に渡してくれないか？",
+      "TargetEscaped": "Could you take \\u001b5Repair Pack 2000\\u001b0, \\u001b55 packs\\u001b0, to \\u001b5ゴーグ\\u001b0 in \\u001b5Sol City\\u001b0?",
+      "SourceUtf8Sha256": "E6B65F030AF5F0BE179C0BD4E21589BA12C8FFC5E3FBD9F05CD52E001336B36E"
+    },
+    {
+      "SourceEscaped": "惑星デゴ行きのシャトルはアクリル宇宙港から出てるし、ちょうど通り道だろう？",
+      "TargetEscaped": "The shuttle to Planet Dego leaves from Acryl Spaceport, so it's on your way, right?",
+      "SourceUtf8Sha256": "EFE7CC9148D9A1B2A8FC8913CAD32255F9233303683341F03D7A5FF161B9BCD8"
+    },
+    {
+      "SourceEscaped": "ついでに頼むよ",
+      "TargetEscaped": "Please do it while you're passing through.",
+      "SourceUtf8Sha256": "E89FED4FB6A952F2831A7417138EA1A253A4BF87EC447FB9ED1B67452F422D94"
+    },
+    {
+      "SourceEscaped": "すまんな。よろしく頼む",
+      "TargetEscaped": "Thanks. I'm counting on you.",
+      "SourceUtf8Sha256": "55BAA3083305087432C6B2F3F6A6596CACDC58780A5BC98D3BC034AFB10229CF"
+    },
+    {
+      "SourceEscaped": "…お約束だが、俺が渡したアイテムは\\u001b4自分で使うな\\u001b0よ",
+      "TargetEscaped": "...As always, \\u001b4don't use the items I gave you yourself\\u001b0.",
+      "SourceUtf8Sha256": "89F6AB582A9D59FA83770E13A8BD0B86C32B8E1037EA1ADF180C93535FE51792"
+    },
+    {
+      "SourceEscaped": "\\u001b5リペアパック2000\\u001b0を\\u001b55つ\\u001b0、\\u001b5ソルシティ\\u001b0にいる\\u001b5ゴーグ\\u001b0に渡してくれ",
+      "TargetEscaped": "Take \\u001b5Repair Pack 2000\\u001b0, \\u001b55 packs\\u001b0, to \\u001b5ゴーグ\\u001b0 in \\u001b5Sol City\\u001b0.",
+      "SourceUtf8Sha256": "A76C6BD8B3DA74A0FEC9179F56A0EF878DA2338E94F5F203CBCCC55F1D2566F0"
+    },
+    {
+      "SourceEscaped": "よう、元気してたか？",
+      "TargetEscaped": "Hey, how have you been?",
+      "SourceUtf8Sha256": "4DC39D66B5688649905A83FC5F59186810D713D3F8381A6CFAB02A7B215CB13D"
+    },
+    {
+      "SourceEscaped": "無事にサファイアを届けてくれて\\n何よりだ！",
+      "TargetEscaped": "I'm glad you delivered the sapphires\\nsafely!",
+      "SourceUtf8Sha256": "66E089F5153B619DB670D10429B5511C801D9BA250476EAFE68A82F2C3A0C0A9"
+    },
+    {
+      "SourceEscaped": "ゆっくりできないかもしれないが、\\nシティでダメージを回復していってくれよな",
+      "TargetEscaped": "You may not have time to relax,\\nbut repair your damage here in the city before you go.",
+      "SourceUtf8Sha256": "6B801F896E5F7A0AB219223B49BED7F7C058DB7EFF3727B57531EF9D430C9925"
+    },
+    {
+      "SourceEscaped": "お前さんに頼みたいことがあるんだ",
+      "TargetEscaped": "I have a favor to ask you.",
+      "SourceUtf8Sha256": "8B0B8F3A46B43D2287DFCE20E2C5010776BB7FF33C103EF4D20B913E6D6FB501"
+    },
+    {
+      "SourceEscaped": "\\u001b5惑星ガルド\\u001b0の\\u001b5カクタス村\\u001b0に俺の友人がいるんだが、実は最近連絡が取れなくてな",
+      "TargetEscaped": "I have a friend in \\u001b5Cactus Village\\u001b0 on \\u001b5Planet Gald\\u001b0, but I haven't been able to reach them lately.",
+      "SourceUtf8Sha256": "A452F46D8A4E51E79DDF61DD9E53E92101D1B2C8973A87FC4BEDF50F52F47BFE"
+    },
+    {
+      "SourceEscaped": "厄介なことになってなければ\\n良いんだが…",
+      "TargetEscaped": "I hope they haven't gotten\\ninto trouble...",
+      "SourceUtf8Sha256": "2D974D784637378A153F324D97853781769222DE7693293EFBA926B9A56CF1C7"
+    },
+    {
+      "SourceEscaped": "もしものことを考えて、俺からの調査依頼の\\u001b5メール\\u001b0を\\u001b5クロゴケシティ\\u001b0の\\n\\u001b5サビア\\u001b0に渡してほしい",
+      "TargetEscaped": "Just in case, take my \\u001b5email\\u001b0 requesting an investigation to \\u001b5Kurogoke City\\u001b0,\\nto \\u001b5サビア\\u001b0.",
+      "SourceUtf8Sha256": "3A3531EFC1D38B3B3DFE664F8879C0541B86A80D61605D685208983416247CF4"
+    },
+    {
+      "SourceEscaped": "引き受けてくれるか？",
+      "TargetEscaped": "Will you do it?",
+      "SourceUtf8Sha256": "E95F7AEA863350C33C7E3DA214B7B6C6CC882AA20F6C1002699D2E950282B108"
+    },
+    {
+      "SourceEscaped": "本当に助かるよ、ありがとう！",
+      "TargetEscaped": "That really helps. Thank you!",
+      "SourceUtf8Sha256": "735FF1592F1446F6179E96001E6E1C5CD3BC21B50A9DA2F907E4ADB7ABB2CC8E"
+    },
+    {
+      "SourceEscaped": "シティの南東にあるリンクポイントからソロネッツ宇宙港に行ける",
+      "TargetEscaped": "The Link Point southeast of the city leads to Solonets Spaceport.",
+      "SourceUtf8Sha256": "2E9B1421290DDA7BBB965A1F6F22DB7FD23E9EF7B663C7BFCCC5F978458AB183"
+    },
+    {
+      "SourceEscaped": "シャトルに乗って、\\u001b5惑星ガルド\\u001b0を\\n目指してくれ",
+      "TargetEscaped": "Take the shuttle to \\u001b5Planet Gald\\u001b0\\nfrom there.",
+      "SourceUtf8Sha256": "9029C5BC6453ABAF2A35F57728ADA4730A6F0CFA0F7BB915405BDD44FF850045"
+    },
+    {
+      "SourceEscaped": "俺の\\u001b5メール\\u001b0を\\u001b5クロゴケシティ\\u001b0の\\n\\u001b5サビア\\u001b0に渡してほしい",
+      "TargetEscaped": "Take my \\u001b5email\\u001b0 to \\u001b5Kurogoke City\\u001b0,\\nto \\u001b5サビア\\u001b0.",
+      "SourceUtf8Sha256": "44865945D0FD296DB87C576605BCEDC3A079472F2A65A1991956132E8C84BF2A"
+    },
+    {
+      "SourceEscaped": "よう、お前さんを待ってたぜ！",
+      "TargetEscaped": "Hey, I've been waiting for you!",
+      "SourceUtf8Sha256": "F482ABB31FDCEA06014F922EAC96852DEE7E3A63496A94A00B45908D364AF32C"
+    },
+    {
+      "SourceEscaped": "少し前に通信が入ってな。\\nカクタス村の友人が無事だっていう報せが届いたんだ",
+      "TargetEscaped": "I received a message a little while ago.\\nMy friend in Cactus Village is safe.",
+      "SourceUtf8Sha256": "FBA44D91C92E4EE09AAEC703C07E180F9E2E9BFE5CEC0DC8668768B74C801AD0"
+    },
+    {
+      "SourceEscaped": "お前さんには感謝するぜ。\\nありがとうな！",
+      "TargetEscaped": "I'm grateful to you.\\nThank you!",
+      "SourceUtf8Sha256": "A41C1CC028C4FB41FA7855BD7D6E26B72697B288409C15FFB8C54DC1266589A1"
+    },
+    {
+      "SourceEscaped": "さて、お前さんの武勇伝は後でじっくり読ませてもらうよ",
+      "TargetEscaped": "Now, I'll read about your exploits carefully later.",
+      "SourceUtf8Sha256": "A266E879A573F7DC80E65D0F1DF92670708F54A195A122F414BB696998349C29"
+    },
+    {
+      "SourceEscaped": "少ないが、俺からの心ばかりの\\nお礼だ。\\n受け取ってくれ",
+      "TargetEscaped": "It isn't much, but this is\\na small token of my thanks.\\nPlease take it.",
+      "SourceUtf8Sha256": "3E29464F7029628E8BC7DD04C06AA752B230F07273513AF3D09D0638A9133372"
+    },
+    {
+      "SourceEscaped": "カクタス村の件ではありがとうな！",
+      "TargetEscaped": "Thanks for your help with Cactus Village!",
+      "SourceUtf8Sha256": "66E4F3DA468A60D58BE524AA1D7781AA9B6B753110EDDABA26BB8342903ADAD7"
+    },
+    {
+      "SourceEscaped": "ところでこの前の話なんだが、お前さんにサファイアを届けてもらったろ？",
+      "TargetEscaped": "By the way, remember how you delivered those sapphires for me?",
+      "SourceUtf8Sha256": "AF31276887E4F4EDF5176E8B3BF3E7CCB7E31417975448B2A7119BE2D1958C1E"
+    },
+    {
+      "SourceEscaped": "惑星ゲルニアの遺跡を調査しているロボたちが今も頑張ってくれてるんだが、遺跡内部のモンスターが手ごわいらしくてな",
+      "TargetEscaped": "The robots investigating the ruins on Planet Gernia are still working hard, but the monsters inside are apparently tough.",
+      "SourceUtf8Sha256": "BA6C1B64CF78A97502F074638A0631DB350AC053B38ED78B54B9863884CFF89A"
+    },
+    {
+      "SourceEscaped": "補給物資が不足がちらしいんだ",
+      "TargetEscaped": "They seem to be running short of supplies.",
+      "SourceUtf8Sha256": "20319F20EE339E809A2BD8C98569EB7C2C8A80D86FA39BF368912A61FB2E13F0"
+    },
+    {
+      "SourceEscaped": "そこでお前さんに\\u001b5ENパック2000\\u001b0を\\u001b55つ\\u001b0、\\u001b5ゴーグ\\u001b0に届けてやってほしい。\\n\\u001b5ソルシティ\\u001b0なら2つの遺跡にも近いからな",
+      "TargetEscaped": "So I'd like you to take \\u001b5EN Pack 2000\\u001b0, \\u001b55 packs\\u001b0, to \\u001b5ゴーグ\\u001b0.\\n\\u001b5Sol City\\u001b0 is close to both of the 2 ruins.",
+      "SourceUtf8Sha256": "6AC262FCD78AB0F453108F9735E415ABC2476AB45BB2E857F02B6EF76DD56DE0"
+    },
+    {
+      "SourceEscaped": "ありがとう！いつもすまんな",
+      "TargetEscaped": "Thanks! Sorry to keep asking.",
+      "SourceUtf8Sha256": "CDDD254F10BCE490C8F1C8AA7DDBF9B210A8CE582F1CB9058F6C81F81AFA89D0"
+    },
+    {
+      "SourceEscaped": "\\u001b5ソルシティ\\u001b0はここからずっと西だ",
+      "TargetEscaped": "\\u001b5Sol City\\u001b0 is far west of here.",
+      "SourceUtf8Sha256": "41A1B372A2C34EE6DFC4CB25CBF47A82AEBFFBD82BBC92BD9A3ED413B65DBA51"
+    },
+    {
+      "SourceEscaped": "あ、俺が渡したアイテムは\\n\\u001b4自分で使うな\\u001b0よ。\\n遺跡の調査ロボたちの分だからな",
+      "TargetEscaped": "Oh, about the items I gave you:\\n\\u001b4don't use them yourself\\u001b0.\\nThey're for the robots investigating the ruins.",
+      "SourceUtf8Sha256": "236CD4BEBE0962DABE10D227E3AB596FA1CD527D97F296CBB32499900E5B7638"
+    },
+    {
+      "SourceEscaped": "\\u001b5ENパック2000\\u001b0を\\u001b55つ\\u001b0、\\u001b5ソルシティ\\u001b0に\\nいる\\u001b5ゴーグ\\u001b0に届けてやってほしい。\\n\\u001b5ソルシティ\\u001b0はここからずっと西だぞ",
+      "TargetEscaped": "I'd like you to take \\u001b5EN Pack 2000\\u001b0, \\u001b55 packs\\u001b0, to \\u001b5Sol City\\u001b0,\\nto \\u001b5ゴーグ\\u001b0.\\n\\u001b5Sol City\\u001b0 is far west of here.",
+      "SourceUtf8Sha256": "D40971B04A2B8411FBE9BA92D864BDE1D56CB92495D06DA9D8338E2C5A578126"
+    },
+    {
+      "SourceEscaped": "レスト山へ行ってきたのですか？",
+      "TargetEscaped": "Have you been to Mount Rest?",
+      "SourceUtf8Sha256": "037CDB7242157B7BC15E9992F16E1A3D8355745DCA56CF9B73FFEEC86D092D50"
+    },
+    {
+      "SourceEscaped": "乾燥した赤い大地が広がっていたでしょう",
+      "TargetEscaped": "You must have seen the dry red landscape.",
+      "SourceUtf8Sha256": "B6B1115C064515077B0CE1DB57D1B903AA68C762765EF2EAA7C1846B82FEF40B"
+    },
+    {
+      "SourceEscaped": "植物もなかなか生えず、荒涼とした大地が広がっているんです",
+      "TargetEscaped": "Plants struggle to grow there, leaving vast barren stretches of land.",
+      "SourceUtf8Sha256": "25229AD6D01B4B917CCAD4D1D490D20F7AF5B14AA067053660FDFD2F0C6F5B51"
+    },
+    {
+      "SourceEscaped": "この先にはより強いモンスターが待ち構えています",
+      "TargetEscaped": "Stronger monsters await you ahead.",
+      "SourceUtf8Sha256": "C2F71B801C1BBF6C568C5A751B6255E94822119E606FB96FE61AC0FBDC0CF9E3"
+    },
+    {
+      "SourceEscaped": "ポイーンのようにはいきませんよ",
+      "TargetEscaped": "It won't be like Poyeen.",
+      "SourceUtf8Sha256": "04B3899F59907B654789E1E13FDE8CB3F1D1B8C77C46533FEDFBCD1E44E0DBE1"
+    },
+    {
+      "SourceEscaped": "ソロネッツシティへようこそ",
+      "TargetEscaped": "Welcome to Solonets City.",
+      "SourceUtf8Sha256": "FC5CD3FE628FA50BBCC41A41D91A7C1A424BCB75A9AEB254C8147F524689F871"
+    },
+    {
+      "SourceEscaped": "ゲルニアは他にはない、星空が非常に美しいプラネットなのです",
+      "TargetEscaped": "Gernia is a planet with uniquely beautiful starry skies.",
+      "SourceUtf8Sha256": "44D71C55413138C898FC5B4A6E161C0F5695F7026525B7B2E7E6EDEAEBB805B6"
+    },
+    {
+      "SourceEscaped": "この先はブラノ岬だ",
+      "TargetEscaped": "Cape Burano lies ahead.",
+      "SourceUtf8Sha256": "2D1275AAE446587F0AE826D8A50F289219D8903D37E811AB97CD39D23419D3C1"
+    },
+    {
+      "SourceEscaped": "中央部に台地が残る、高低差のある地形が特徴だ",
+      "TargetEscaped": "Its terrain has large changes in elevation, with a plateau remaining in the center.",
+      "SourceUtf8Sha256": "6E419912A5658F0861626AEE822F8A27BE89FAD3721EE72CCF65BC9380A27551"
+    },
+    {
+      "SourceEscaped": "今は低いところが通り道として使われているんだ",
+      "TargetEscaped": "The lower areas are used as routes now.",
+      "SourceUtf8Sha256": "D22E55331369F7A7769C7E5A82D37374DD363DFD60345B2BAE6BB457FCC403FF"
+    },
+    {
+      "SourceEscaped": "よく来たな",
+      "TargetEscaped": "Welcome.",
+      "SourceUtf8Sha256": "4F889D874375316388EC29FC407A69351C57BEC123382F959E0C258D36047A23"
+    },
+    {
+      "SourceEscaped": "荒涼な大地を駆け抜ける、\\nそんな屈強なロボを見せてくれよ！",
+      "TargetEscaped": "Show me a tough robot\\nthat can race across the barren land!",
+      "SourceUtf8Sha256": "C8097ACDB59033399501475A850C69C9D5008479849BA5D64EFB459240CC9AC2"
+    },
+    {
+      "SourceEscaped": "フム…なかなか屈強そうなロボだが、まだまだだな",
+      "TargetEscaped": "Hmm... That robot looks pretty tough, but it's still not enough.",
+      "SourceUtf8Sha256": "8FA9E309BDE446BB74770E09DC7465105E2002071D5830055D03FB78D1F72EFE"
+    },
+    {
+      "SourceEscaped": "このままで十分",
+      "TargetEscaped": "It's good enough as it is.",
+      "SourceUtf8Sha256": "F68EEC356F715843591A5C30DC276876E9DE40FB4A55F9551984F0EC81798422"
+    },
+    {
+      "SourceEscaped": "頑張ります！",
+      "TargetEscaped": "I'll do my best!",
+      "SourceUtf8Sha256": "CE668C40F253D10781168301572643428E336FA5787539B1A44CDADBEF25CEC7"
+    },
+    {
+      "SourceEscaped": "お前も新生天使軍の端くれなら、HPを\\u001b510000以上\\u001b0にしてみろ！",
+      "TargetEscaped": "If you're any kind of New Angel Army soldier, get your HP to \\u001b510000 or more\\u001b0!",
+      "SourceUtf8Sha256": "C6614F3F93EB19FDAD3E5FB307F8BE1C46FED715FEEC468BCF8D760D11A95261"
+    },
+    {
+      "SourceEscaped": "待っているぞ。精進しろよ！",
+      "TargetEscaped": "I'll be waiting. Train hard!",
+      "SourceUtf8Sha256": "AE9B88988665911371A80D226822A01BDB36D1B113F15625D4B9E1A465B858AF"
+    },
+    {
+      "SourceEscaped": "なんだよ、軟弱者だなぁ…",
+      "TargetEscaped": "What? You're a weakling...",
+      "SourceUtf8Sha256": "46E611C241ABEB16993FD1D44B690C73313B0C95E7C457586BAFDAD4BE84E159"
+    },
+    {
+      "SourceEscaped": "ほぅ…見事HPを\\u001b510000以上\\u001b0にしてきたようだな",
+      "TargetEscaped": "Oh... I see you've successfully raised your HP to \\u001b510000 or more\\u001b0.",
+      "SourceUtf8Sha256": "E85DAA344D25CC8E8F5306B88EC12B28E9E55A42BCE7B018A71555CAB1855DFB"
+    },
+    {
+      "SourceEscaped": "だがHPが多けりゃ強いってもんじゃない。\\nこれからも\\u001b5お前だけの強さ\\u001b0を追及しろよ！",
+      "TargetEscaped": "But more HP doesn't automatically mean more strength.\\nKeep pursuing \\u001b5your own kind of strength\\u001b0!",
+      "SourceUtf8Sha256": "1864D68245B5968C0852D7895F04405845A218E319408C0EA64DEB65EDAF0A27"
+    },
+    {
+      "SourceEscaped": "\\u001b510000\\u001b0を超えるには、まだまだHPが足りないぞ！\\nもっと鍛えて来い！",
+      "TargetEscaped": "Your HP is still too low to exceed \\u001b510000\\u001b0!\\nGo train some more!",
+      "SourceUtf8Sha256": "89A9196C130FC6CD9CE94C49298729DA2D63DCE911E34B2BC37055FED84033D1"
+    },
+    {
+      "SourceEscaped": "このプラネットは寒くて乾燥した大地が特徴なんだ",
+      "TargetEscaped": "This planet is known for its cold, dry landscape.",
+      "SourceUtf8Sha256": "C1A77383AA124BD066590D438D7CCB8CAC92291B8E37C207F7B14884112EDA97"
+    },
+    {
+      "SourceEscaped": "前線になることも多いから、オレたちみたいな物好きしか住んでないんだよ",
+      "TargetEscaped": "It's often on the front lines, so only eccentrics like us live here.",
+      "SourceUtf8Sha256": "DA04208A3097F6939C4A5BC02379C84D73A347B9386B7D2DCA62AEA58ABC34FF"
+    },
+    {
+      "SourceEscaped": "二足歩行なんて邪道だ！",
+      "TargetEscaped": "Walking on two legs is all wrong!",
+      "SourceUtf8Sha256": "340D1EA771C7EAE93991D595123D2AB393C28552D4D4CB6EF214BE9F83A7132D"
+    },
+    {
+      "SourceEscaped": "やっぱ時代はキャタピラだよな！",
+      "TargetEscaped": "Tank treads are the way of the future!",
+      "SourceUtf8Sha256": "A4A7F82428AE48FEA97B983D9257D5B95204E8C98A83A244EB1E0ADC6A1EAAB9"
+    },
+    {
+      "SourceEscaped": "そうだろう！漢ならやっぱキャタピラだろ！",
+      "TargetEscaped": "Exactly! A real man uses tank treads!",
+      "SourceUtf8Sha256": "4558C7C4CF0A0058BDDAF81C43292F764B69689EFEA0F1E77F9821AE68DAFC58"
+    },
+    {
+      "SourceEscaped": "おまえにはキャタピラの良さがわからないようだな！",
+      "TargetEscaped": "You just don't understand how great tank treads are!",
+      "SourceUtf8Sha256": "BDDC68726AA61C44D364B1665BB141B0B7BE04ED908150A16A9DEB78AFBF7838"
+    },
+    {
+      "SourceEscaped": "ゲルニアには、雨がたまってできた湖が所々にある",
+      "TargetEscaped": "Here and there on Gernia are lakes formed by accumulated rainwater.",
+      "SourceUtf8Sha256": "2CBB0FBC96978F62E17702C3BD03F69D801D2F513A5841606402F6B92E1863CE"
+    },
+    {
+      "SourceEscaped": "湖から流れ出た水は、やがて川となり大地を浸食していった",
+      "TargetEscaped": "Water flowing from the lakes eventually became rivers and eroded the land.",
+      "SourceUtf8Sha256": "25BD2F8E3F1BF2DA6C8C935B61B7C2B0A827EF97BA188D1AD1B42DDB9442219B"
+    },
+    {
+      "SourceEscaped": "現在の地形は、そういった自然作用によって出来上がったといわれているんだ",
+      "TargetEscaped": "They say these natural processes created the terrain we see today.",
+      "SourceUtf8Sha256": "F416687C4B605A3E19AB511E94EA967EC653797D2C6916CA69BF7B5A7EE3B14B"
+    },
+    {
+      "SourceEscaped": "なぁ、モーレって愛嬌あると思わないか？",
+      "TargetEscaped": "Hey, don't you think モーレ is charming?",
+      "SourceUtf8Sha256": "F28922963540D2B4C4A32D573ECF4F30D86576727DA797E98BA210674CA911CD"
+    },
+    {
+      "SourceEscaped": "そうだろ、あのコロッとしてるところがなんともいえないんだよなぁ",
+      "TargetEscaped": "Right? There's something irresistible about that round little body.",
+      "SourceUtf8Sha256": "8B983DB068DB060F62E5E131B72D0B12744A85FB64D4F9F48474EDED6EE2FCDF"
+    },
+    {
+      "SourceEscaped": "見つけたら、よく観察してみろよ！",
+      "TargetEscaped": "Take a good look if you find one!",
+      "SourceUtf8Sha256": "093F99C89F25A6DA0E58F9A63E792D1E8FD1FAC2CCF074F35DA1AD10C7673DFD"
+    },
+    {
+      "SourceEscaped": "ゲルニアに来たならグレイゼム地溝の大穴を一度は見てみるといい",
+      "TargetEscaped": "If you're visiting Gernia, you should see the great pit in the Greizem Rift at least once.",
+      "SourceUtf8Sha256": "0A16D4F87576677BB39CB6A2F795B64917FB8AA389E4BB7AC56C6914AC0C9CE8"
+    },
+    {
+      "SourceEscaped": "なんていうか…鍋みたいな形してんだよな",
+      "TargetEscaped": "How should I put it... It's shaped like a cooking pot.",
+      "SourceUtf8Sha256": "64FB17A2B1C0F5CB12C940C899E08E75EDF9859E63F86313A2651188DD60F98A"
+    },
+    {
+      "SourceEscaped": "最近、そこから北に遺跡も発見されたらしいな、知ってたか？",
+      "TargetEscaped": "Apparently some ruins were recently discovered north of there. Did you know?",
+      "SourceUtf8Sha256": "04DCEE8F2D56D8AFC51B49515C914197BD21BE88693766D59EE74854C620863A"
+    },
+    {
+      "SourceEscaped": "このプラネットの天使軍基地の場所だって？",
+      "TargetEscaped": "Where's the Angel Army base on this planet?",
+      "SourceUtf8Sha256": "03641FA7317B4049588E86B8079D889CE93732B88476EB04135F17054945F1D2"
+    },
+    {
+      "SourceEscaped": "グレイゼム大陸の中央くらいだったと思うよ",
+      "TargetEscaped": "I think it's around the middle of the Greizem continent.",
+      "SourceUtf8Sha256": "ADF93C5225E8B81990A3A10CD6B7B1BDCB893B8CCB3CAE61A30B4CA33AF4B3B6"
+    },
+    {
+      "SourceEscaped": "このリンクポイントはイエルモ基地へ直通しているリンクポイントです",
+      "TargetEscaped": "This Link Point goes directly to Ielmo Base.",
+      "SourceUtf8Sha256": "DD6D7B2A41F9D88A2C4E645B32833FB0E7BAC9E41AFBFA3BDF9438E0FC326B6A"
+    },
+    {
+      "SourceEscaped": "これも先任していた新生・天使軍の活躍のおかげですね",
+      "TargetEscaped": "We owe this to the efforts of the New Angel Army soldiers who served here before us.",
+      "SourceUtf8Sha256": "25B953ACE00D1891B8F90D692E91A0B12D0841540364CEB7B3B2B22EF52A6DAC"
+    },
+    {
+      "SourceEscaped": "任務お疲れさまであります！",
+      "TargetEscaped": "Thank you for your service!",
+      "SourceUtf8Sha256": "96859777BC13B91E811DBB2CEC35FA22D6DE1FB6519013C38877D2DA3116BC49"
+    },
+    {
+      "SourceEscaped": "本基地がゲルニアの拠点、イエルモ基地であります！",
+      "TargetEscaped": "This is Ielmo Base, our stronghold on Gernia!",
+      "SourceUtf8Sha256": "4A94BAC04FB131F36874B0D3C74F0D0201D587EC14C4B6DD4FAEECF9AFAC3B43"
+    },
+    {
+      "SourceEscaped": "コマンドー内ロボの回復は済んでいるか？",
+      "TargetEscaped": "Have you repaired the robots in your Commando?",
+      "SourceUtf8Sha256": "0CFCE74A41DE2D8D96EDF0D92A6BE2CB1F2157F38F86E84B16CD2954AA7D29CF"
+    },
+    {
+      "SourceEscaped": "いかなる時も準備を怠らぬことだ",
+      "TargetEscaped": "Never neglect your preparations.",
+      "SourceUtf8Sha256": "295577EC1BCF424AEE9F2EE254D4A0C09C5BB28A825AB0E1738D840F3802311C"
+    },
+    {
+      "SourceEscaped": "確かな情報ではないのですが、ゲルニア悪魔軍は自らの手を汚すことなく我々を攻撃しようとしているようですよ",
+      "TargetEscaped": "This information is unconfirmed, but the Devil Army on Gernia seems to be trying to attack us without getting its own hands dirty.",
+      "SourceUtf8Sha256": "0E4B93C0571B6F7F2709F248A92FAE0FEEB498F88DDE6D4176AD1C7EB9E00E71"
+    },
+    {
+      "SourceEscaped": "お待ちしておりました！",
+      "TargetEscaped": "We've been waiting for you!",
+      "SourceUtf8Sha256": "DD0E416F6A1B5B1EE7047BB5A8D5A00F2715FA1E062F1A3BD67096548EF2C4B3"
+    },
+    {
+      "SourceEscaped": "ゲルニア天使軍よりミッションの依頼が入っております！！",
+      "TargetEscaped": "The Gernia Angel Army has sent a mission request!!",
+      "SourceUtf8Sha256": "E58514876170CF87F582653FD6F0502689FCE130AA7DF90289F93153D991AE1D"
+    },
+    {
+      "SourceEscaped": "報告書、ありがとうございます！\\nさっそく確認いたしますね",
+      "TargetEscaped": "Thank you for the report!\\nI'll review it right away.",
+      "SourceUtf8Sha256": "5AD0371CCB2F75D6BDFD02A317089374388ECF17D03C781CD073DEEFCA600E9A"
+    },
+    {
+      "SourceEscaped": "少ないですが報酬です。\\n受け取ってください",
+      "TargetEscaped": "It isn't much, but here is your reward.\\nPlease accept it.",
+      "SourceUtf8Sha256": "1314B1D2F531798E40EF7E8A367820ABC2798FB1D5ACCAB552EDE472A11133D9"
+    },
+    {
+      "SourceEscaped": "突然ですが、私どもの頼みごとを聞いてください",
+      "TargetEscaped": "Forgive the sudden request, but please hear us out.",
+      "SourceUtf8Sha256": "E2A816C33FD4C26F28E50FF34DF86DC06B6B00F32D5C33F22A58258E98FACE6B"
+    },
+    {
+      "SourceEscaped": "諜報部の情報によると、多数の敵がこの天使軍基地に攻めてくるとのことです！",
+      "TargetEscaped": "According to our intelligence division, a large enemy force is about to attack this Angel Army base!",
+      "SourceUtf8Sha256": "73B24371BDBDD7C6D0EA28816AA8CDEFD69F19AD9766D47819649CF53F738C4A"
+    },
+    {
+      "SourceEscaped": "どうやら、悪魔軍がモンスターをけしかけている模様です",
+      "TargetEscaped": "It seems the Devil Army is driving monsters against us.",
+      "SourceUtf8Sha256": "83EB0EF7FC5C1C9463152707913629F58C496F51CA898A725E4D5187A651085E"
+    },
+    {
+      "SourceEscaped": "あなたには\\u001b5モンスターの大群\\u001b0から\\n\\u001b5基地を防衛\\u001b0し、裏で糸を引いている\\u001b5悪魔軍を撃退\\u001b0してほしいのです",
+      "TargetEscaped": "We need you to confront the \\u001b5monster horde\\u001b0,\\n\\u001b5defend the base\\u001b0, and \\u001b5repel the Devil Army\\u001b0 pulling the strings.",
+      "SourceUtf8Sha256": "9459ACFBE9E456083F40A6D8D96CA9F33DA2DB5163BD53AA440A304303492415"
+    },
+    {
+      "SourceEscaped": "お願いできますか？",
+      "TargetEscaped": "Could you do that?",
+      "SourceUtf8Sha256": "C648C35BE86B6BC429304DB680B147AA7DC243DB7BE8698634CA2419224C0100"
+    },
+    {
+      "SourceEscaped": "ありがとうございます！\\n対象となるミッションは\\n\\u001b5「天空より来るもの」\\u001b0です",
+      "TargetEscaped": "Thank you!\\nThe mission in question is\\n\\u001b5\"Those Who Come from the Sky\"\\u001b0.",
+      "SourceUtf8Sha256": "609C01879E4FF6F6E56C4443D1089F30487F997E809522097246D3BCB38B7341"
+    },
+    {
+      "SourceEscaped": "\\u001b5「天空より来るもの」\\u001b0の達成後、引き続き\\u001b5【ストーリーミッション】\\u001b0を受けてください",
+      "TargetEscaped": "After completing \\u001b5\"Those Who Come from the Sky\"\\u001b0, please continue taking \\u001b5【Story Mission】\\u001b0 entries.",
+      "SourceUtf8Sha256": "751E269B59749353BA03CBD7F4061C8CC537381AD3F58A7F3E65D0942F0C8750"
+    },
+    {
+      "SourceEscaped": "よろしくお願いしますね！",
+      "TargetEscaped": "We're counting on you!",
+      "SourceUtf8Sha256": "055DD24598E883332ABAE22E5C37042FB00AAEF081EF6C576DBC0EB7D40C5CFD"
+    },
+    {
+      "SourceEscaped": "そうですか…",
+      "TargetEscaped": "I see...",
+      "SourceUtf8Sha256": "6CB85936C74EA8B3A756BE322D4AFEC381A5F710A756925B66A990DD11C084EF"
+    },
+    {
+      "SourceEscaped": "モンスターたちを撃退されたようですね！ご無事でなによりです",
+      "TargetEscaped": "You drove off the monsters! I'm glad you're safe.",
+      "SourceUtf8Sha256": "A80012B27451100F1443B94EAE934F3572523975145E10E761321A44F86D4944"
+    },
+    {
+      "SourceEscaped": "こちらは天使軍司令部からの謝礼です。\\n受け取ってください",
+      "TargetEscaped": "This is a reward from Angel Army Headquarters.\\nPlease accept it.",
+      "SourceUtf8Sha256": "02BDA737BFEB533A9848B6F2ED1CD37EEC68B46C94E65038688E064AEED88329"
+    },
+    {
+      "SourceEscaped": "対象となるミッションには\\n\\u001b5【ストーリーミッション】\\u001b0と書かれています",
+      "TargetEscaped": "The relevant missions are marked\\n\\u001b5【Story Mission】\\u001b0.",
+      "SourceUtf8Sha256": "1809AFB61B41EDF63B2A2BC6F345EC861FC2FC4BC07C80749CADA27BC372F320"
+    },
+    {
+      "SourceEscaped": "まずはまだクリアしていない\\n\\u001b5【ストーリーミッション】\\u001b0に挑戦してみてください！",
+      "TargetEscaped": "First, try a\\n\\u001b5【Story Mission】\\u001b0 you have not yet cleared!",
+      "SourceUtf8Sha256": "285BF76C72A55646EFF007BBEF768B590419E86D3CD2AC650001B3C19EB55FC8"
+    },
+    {
+      "SourceEscaped": "あなたにお願いごとがあったのですが…アイテムがいっぱいのようですね",
+      "TargetEscaped": "I had a request for you... but your inventory seems full.",
+      "SourceUtf8Sha256": "68F371FA195DB7587EF50CC4037D5B5D97E35CA9E6BEC4ED4232E5E7088E8544"
+    },
+    {
+      "SourceEscaped": "キャリーを整理されてから、再びわたしのところに来ていただけますか？",
+      "TargetEscaped": "Could you make some space in your Carry and return to me?",
+      "SourceUtf8Sha256": "83E30D16C9B81F77EB67EB1E22E890ED050A1FA5970D78A817FA1CF769B73746"
+    },
+    {
+      "SourceEscaped": "あなたのご活躍を、こちらの\\u001b5報告書\\u001b0にまとめておきました",
+      "TargetEscaped": "I've compiled your achievements in this \\u001b5report\\u001b0.",
+      "SourceUtf8Sha256": "0F3BB0F230D775E32A3911FF78E59D3B9BA30108EC7DD7854DCD860A982D6704"
+    },
+    {
+      "SourceEscaped": "了解です",
+      "TargetEscaped": "Understood.",
+      "SourceUtf8Sha256": "A23D5D3D2F3FAA5ABCEF711D5EFD4693B7DA6516716E4B9A2621BC98E748EFEB"
+    },
+    {
+      "SourceEscaped": "これを\\u001b5ソロネッツシティ\\u001b0の\\u001b5バリー\\u001b0まで届けていただけませんか？",
+      "TargetEscaped": "Could you deliver this to \\u001b5バリー\\u001b0 in \\u001b5Solonets City\\u001b0?",
+      "SourceUtf8Sha256": "CF41E02D3AC3C80966320082BC4021BB3B8921C8F5E53F8F441B55AB7703CD58"
+    },
+    {
+      "SourceEscaped": "よろしくお願いします！\\n報告書を\\u001b4紛失しないよう\\u001b0、注意してくださいね",
+      "TargetEscaped": "Thank you!\\nTake care \\u001b4not to lose\\u001b0 the report.",
+      "SourceUtf8Sha256": "2D361185226B9FDE473ACD956C970F96087BA16578F30A6D9E5444FB589CEDA9"
+    },
+    {
+      "SourceEscaped": "\\u001b5ソロネッツシティ\\u001b0は基地の東にあります",
+      "TargetEscaped": "\\u001b5Solonets City\\u001b0 is east of the base.",
+      "SourceUtf8Sha256": "16D0A7F18E469AB8F2A9F1B6A8C8654B20134297068036BE36E8F3F0EBF608ED"
+    },
+    {
+      "SourceEscaped": "南東側にあるリンクポイントから行けますよ！",
+      "TargetEscaped": "You can get there through the Link Point on the southeast side!",
+      "SourceUtf8Sha256": "BD50E84BB88D7875C022F01FAE078E612B86C8501D05F0409FA8A77AA2B3C590"
+    },
+    {
+      "SourceEscaped": "そうですか。あなたにお願いしたいのですが…",
+      "TargetEscaped": "I see. I was hoping to ask you, though...",
+      "SourceUtf8Sha256": "61C19A3463ECCC7FBBC25F82176D83E721875A9734EBA6867D2E0FFFC1C393CE"
+    },
+    {
+      "SourceEscaped": "わたしの\\u001b5報告書\\u001b0を紛失されたのですか？",
+      "TargetEscaped": "Did you lose my \\u001b5report\\u001b0?",
+      "SourceUtf8Sha256": "264C61FEBC818B03AFFF8E3296A9DE2EF8114A9F354E45E248ECAB7AF3012B05"
+    },
+    {
+      "SourceEscaped": "今度は\\u001b4無くさないよう\\u001b0、気をつけてくださいね！",
+      "TargetEscaped": "Please take care \\u001b4not to lose it\\u001b0 this time!",
+      "SourceUtf8Sha256": "F60674E4603EEB8E4E426398ABE0D9A7E8126B6DD4C7F68C2B3F8AF6A6A7461F"
+    },
+    {
+      "SourceEscaped": "わたしの\\u001b5報告書\\u001b0を\\u001b5ソロネッツシティ\\u001b0にいる\\u001b5バリー\\u001b0まで届けてください",
+      "TargetEscaped": "Please deliver my \\u001b5report\\u001b0 to \\u001b5バリー\\u001b0 in \\u001b5Solonets City\\u001b0.",
+      "SourceUtf8Sha256": "6CCF1B40D1977DA491CBFD0D561EBAC565B8D09AF0F36B08DAECBEFD82C8D7DA"
+    },
+    {
+      "SourceEscaped": "お待ちしておりました！\\n報告書、ありがとうございます！",
+      "TargetEscaped": "We've been waiting for you!\\nThank you for the report!",
+      "SourceUtf8Sha256": "CBEA56B4979C7615668B67C4808AEDACD95A3F6B00B3DB3D831E680B4AA13719"
+    },
+    {
+      "SourceEscaped": "いただいた報告書は拝見しました！",
+      "TargetEscaped": "I've read the report you brought!",
+      "SourceUtf8Sha256": "C2E576C3563F07C68350507338F9FDC8425DCF6F49C80B2CE2EB8B7ED3C9E01E"
+    },
+    {
+      "SourceEscaped": "惑星ゲルニアでご活躍いただいた\\nあなたに、折り入って相談がございます",
+      "TargetEscaped": "After your achievements on Planet Gernia,\\nthere is something I would especially like to discuss with you.",
+      "SourceUtf8Sha256": "97F0AE6DEB0A0C70595406D760DB4B9A1F046E2FEB6201D19F702A09B3706131"
+    },
+    {
+      "SourceEscaped": "実は最近、悪魔軍による襲撃が\\n惑星内で頻繁に起こっています",
+      "TargetEscaped": "The Devil Army has recently been launching\\nfrequent attacks across the planet.",
+      "SourceUtf8Sha256": "9F49EBD2BF36EA59797167F8121938932C68FC0D8C117F05F9F8FD96A52C2B7F"
+    },
+    {
+      "SourceEscaped": "対処にあたる天使ロボも不足していて、あなたにも任務を受けていただきたいのです",
+      "TargetEscaped": "We are short of Angel Army robots to respond, so we would like you to take on a mission too.",
+      "SourceUtf8Sha256": "24083B90811E7FEF9B998F203581F07B76DB0FF092B8CBDB40140983726FFCE9"
+    },
+    {
+      "SourceEscaped": "ミッションに挑戦されますか？",
+      "TargetEscaped": "Will you attempt the mission?",
+      "SourceUtf8Sha256": "1F50C31644177DB4845DDDE6BFF324BD74F60A06D3B821543E321D323737FD56"
+    },
+    {
+      "SourceEscaped": "さすがです…！",
+      "TargetEscaped": "Just as I'd hoped...!",
+      "SourceUtf8Sha256": "11A6B3C1A2169434DB3B9652C3FC5F73D1213F7D4FF93EA5AC34B07C4044ED20"
+    },
+    {
+      "SourceEscaped": "対象となるミッションは\\u001b5「危険地帯を脱出せよ」\\u001b0です",
+      "TargetEscaped": "The mission in question is \\u001b5\"Escape the Danger Zone\"\\u001b0.",
+      "SourceUtf8Sha256": "7EEB859A412E1FED5E3A4E11B1BEFF8DFEA538E98F9CCB6EC892DA2BA07EB0FE"
+    },
+    {
+      "SourceEscaped": "\\u001b5「危険地帯を脱出せよ」\\u001b0達成後も、引き続き\\u001b5【ストーリーミッション】\\u001b0の受注をお願いします",
+      "TargetEscaped": "After completing \\u001b5\"Escape the Danger Zone\"\\u001b0, please continue accepting \\u001b5【Story Mission】\\u001b0 entries.",
+      "SourceUtf8Sha256": "1325DEA5C5ED4B6A7A1F1770B6295C5B98F5A087C15B1CA1BF9118E6A8D6BF58"
+    },
+    {
+      "SourceEscaped": "心して戦ってくださいね！",
+      "TargetEscaped": "Stay alert in battle!",
+      "SourceUtf8Sha256": "6783F7F2A17EEB83099EE0C2D7E192D9CE3900F06E9B90A98BE048B4B44D3AF3"
+    },
+    {
+      "SourceEscaped": "ミッションセンターでの任務、お疲れ様でした！",
+      "TargetEscaped": "Good work on your assignment at the Mission Center!",
+      "SourceUtf8Sha256": "791E2F19F223EFD45A70E699D7CBB4799FB0EC3BE7B6B7C45D3DC60F146E9913"
+    },
+    {
+      "SourceEscaped": "ミッション報酬の中に\\u001b5クロットM82ライフル\\u001b0という武器がありませんでしたか？",
+      "TargetEscaped": "Wasn't there a weapon called the \\u001b5Clot M82 Rifle\\u001b0 among your mission rewards?",
+      "SourceUtf8Sha256": "85D77AB93B5EC5244E16A0554320B3F4D9F057B1C3FBE17EF78DCF1E1CAB4D2F"
+    },
+    {
+      "SourceEscaped": "この武器は\\u001b5ラボラトリー\\u001b0で強化することができます！",
+      "TargetEscaped": "You can upgrade this weapon at the \\u001b5Laboratory\\u001b0!",
+      "SourceUtf8Sha256": "127047810A31433B6DB4A06830EA6D8F6999582744E5AA89363065EFFBCF08F2"
+    },
+    {
+      "SourceEscaped": "強化して\\u001b5クロットM82ライフル★\\u001b0にすることをおすすめします！",
+      "TargetEscaped": "I recommend upgrading it to the \\u001b5Clot M82 Rifle★\\u001b0!",
+      "SourceUtf8Sha256": "F5F2A3C955D4C83189945F6C0F3C76C715F226BCC6967021902BFE717751C3A2"
+    },
+    {
+      "SourceEscaped": "さらに、鋼の魔神の試練を乗り越えられたあなたに、天使軍司令部から報奨が届いていますよ",
+      "TargetEscaped": "Also, Angel Army Headquarters has sent a reward for overcoming the trial of 鋼の魔神.",
+      "SourceUtf8Sha256": "E9D9B0DCAECD452A2DF1A33A2F0D002E538FEE760B371D7A22640A2178A070A4"
+    },
+    {
+      "SourceEscaped": "\\u001b5スペシャルロボストア\\u001b0でロボがもらえる\\u001b5スペシャルチケット\\u001b0です",
+      "TargetEscaped": "It's a \\u001b5Special Ticket\\u001b0 that lets you receive a robot at the \\u001b5Special Robot Store\\u001b0.",
+      "SourceUtf8Sha256": "EE9BBD5685FA7B168508732646C4F019864E0FFEAF7DFC4AF26C9E3B9D3822E2"
+    },
+    {
+      "SourceEscaped": "お店には\\u001b5惑星ポイーン\\u001b0の\\u001b5フクシアシティ\\u001b0から行けますよ！",
+      "TargetEscaped": "You can reach the store from \\u001b5Fuchsia City\\u001b0 on \\u001b5Planet Poyeen\\u001b0!",
+      "SourceUtf8Sha256": "97E3B603420E97C8D82713FA53E0F92CF099322770A806BE13B84741B7F9472B"
+    },
+    {
+      "SourceEscaped": "ぜひお受け取りください！",
+      "TargetEscaped": "Please accept it!",
+      "SourceUtf8Sha256": "E9B420A4FC4FC98358D92E3215F9F1C196FBD02AD19EA189A6F27C832EBD680C"
+    },
+    {
+      "SourceEscaped": "天使軍司令部から報奨が届いていますが、アイテムが一杯のようです",
+      "TargetEscaped": "Angel Army Headquarters has sent a reward, but your inventory seems full.",
+      "SourceUtf8Sha256": "68850773A151D0E334D796A195C7C177F8205B9D2679C18D011EF034389578F8"
+    },
+    {
+      "SourceEscaped": "キャリーを整理してからまた来ていただけますか？",
+      "TargetEscaped": "Could you make some space in your Carry and come back?",
+      "SourceUtf8Sha256": "42A486A89441D37EE30A5A3229038C395C46D382FFC29353BFDC815A5EA0F34D"
+    },
+    {
+      "SourceEscaped": "まずはまだクリアしていない\\n\\u001b5【ストーリーミッション】\\u001b0に挑戦してください！",
+      "TargetEscaped": "First, attempt a\\n\\u001b5【Story Mission】\\u001b0 you have not yet cleared!",
+      "SourceUtf8Sha256": "7173F87ED005090948C0C2396A95934B13DEDD63351672A32A72E582EBEF5401"
+    },
+    {
+      "SourceEscaped": "全ての\\u001b5【ストーリーミッション】\\u001b0をクリアすれば、\\u001b5【昇格ミッション】\\u001b0が受けられます",
+      "TargetEscaped": "Clear all the \\u001b5【Story Mission】\\u001b0 entries to unlock the \\u001b5【Promotion Mission】\\u001b0.",
+      "SourceUtf8Sha256": "38D5522B316921751E99E585FED6D01CF52948A852C2BF77BA8420ED4912DBC8"
+    },
+    {
+      "SourceEscaped": "惑星ゲルニアでの任務、お疲れ様でした！",
+      "TargetEscaped": "Thank you for your service on Planet Gernia!",
+      "SourceUtf8Sha256": "F1AB77FE63F8E1CCB1142F5DC9C43E94B56D06F3DFF3F17E2F7A1707CE606DE5"
+    },
+    {
+      "SourceEscaped": "これから別の惑星に向かわれるかと思いますが、その前にもう1つ、あなたにお願いごとがあります",
+      "TargetEscaped": "You are probably about to head to another planet, but before you go, I have 1 more request.",
+      "SourceUtf8Sha256": "E7FF929ADF62C65697CDCB3AA870EE686554D62B8E115EF3CCA31D2CB2C878F5"
+    },
+    {
+      "SourceEscaped": "よろしいでしょうか？",
+      "TargetEscaped": "Would that be all right?",
+      "SourceUtf8Sha256": "EE93ACA0A3590F65C2A67CB3861A160FB2B3F513D39882F5ED8E0707752020DC"
+    },
+    {
+      "SourceEscaped": "ありがとうございます！",
+      "TargetEscaped": "Thank you!",
+      "SourceUtf8Sha256": "E7E8266A78304C6ACC523897738228BA5AEAFEDF9DBC31F8042CD8B7897EF1E8"
+    },
+    {
+      "SourceEscaped": "\\u001b5惑星ガルド\\u001b0へ向かい\\u001b5クロゴケシティ\\u001b0にいる\\u001b5サビア\\u001b0さんにお話を伺ってください",
+      "TargetEscaped": "Go to \\u001b5Planet Gald\\u001b0, to \\u001b5Kurogoke City\\u001b0, and speak with \\u001b5サビア\\u001b0.",
+      "SourceUtf8Sha256": "33D2446F3D448B984768A2521D5690DFAD7B162D40A8A5A884409DC08D3FB5F1"
+    },
+    {
+      "SourceEscaped": "宇宙港から\\u001b5惑星ガルド\\u001b0行きのシャトルが出ています。お気をつけて！",
+      "TargetEscaped": "A shuttle to \\u001b5Planet Gald\\u001b0 departs from the spaceport. Take care!",
+      "SourceUtf8Sha256": "353E0D0DA45FA79D54162591626332D565A658E6346696EA5689C0F8A7378F57"
+    },
+    {
+      "SourceEscaped": "ここは転送エレベーターだ",
+      "TargetEscaped": "This is the transport elevator.",
+      "SourceUtf8Sha256": "5047B1EF329140CB8FB01B5CD700CA7F313EF24BC6111C7ED8D82056A18D937D"
+    },
+    {
+      "SourceEscaped": "ゲルニアでは現地で生息しているモンスターとの戦闘がしきりに起こっている",
+      "TargetEscaped": "Fighting with native monsters occurs frequently on Gernia.",
+      "SourceUtf8Sha256": "D176D2809DFD82A2FDBC789C2AF991D79CDE2F8BB03BF5741E257A6DC3DB827C"
+    },
+    {
+      "SourceEscaped": "そのきっかけを作っているのは、どうも悪魔軍のようだ",
+      "TargetEscaped": "It seems the Devil Army is provoking it.",
+      "SourceUtf8Sha256": "7E7335736AF5AABFBA4DB3E985E64B4A7DC5A30B83010A5A7AB69E07738A99EF"
+    },
+    {
+      "SourceEscaped": "ゲルニアの山中で黄金が発掘されたらしいぞ！",
+      "TargetEscaped": "Apparently gold has been found in Gernia's mountains!",
+      "SourceUtf8Sha256": "5C4594685F0F67EE16800FF63D58821B2E0666D8EFE8B9C11DDB552ECFAC31D7"
+    },
+    {
+      "SourceEscaped": "我々が調査した時にはセンサーにそんな反応はなかったんだがなぁ…",
+      "TargetEscaped": "Our sensors didn't pick up anything like that when we surveyed the area...",
+      "SourceUtf8Sha256": "6EFA275A2020B6ACDF66A83A5C988D6AFED17103E639EE99A1A58F4054CE9E13"
+    },
+    {
+      "SourceEscaped": "最近発見された遺跡への行き方だって？",
+      "TargetEscaped": "How do you get to the recently discovered ruins?",
+      "SourceUtf8Sha256": "E8FCC9A9B5E2F6C7BD06B2A3D3408BA0C97107C8FBFC9F7602B0554BEA811550"
+    },
+    {
+      "SourceEscaped": "アレノ草原から北へ北へ進めば着くよ",
+      "TargetEscaped": "Keep heading north from Areno Grassland and you'll reach them.",
+      "SourceUtf8Sha256": "EB1A994FB2B3EEC0AA51DF2E0A9479C1323952CB6B8BA34754E099C431D2F62E"
+    },
+    {
+      "SourceEscaped": "ここから西にあるアレノ草原からカンビ遺跡へつながるリンクポイントが建設されたぞ",
+      "TargetEscaped": "A Link Point to the Kambi Ruins has been built in Areno Grassland, west of here.",
+      "SourceUtf8Sha256": "4290170F52F13A8E36704E0F030160D891BB021A72C2F12FF3B0573FA024E47D"
+    },
+    {
+      "SourceEscaped": "上層部もようやく古代文明の解明に力を入れ始めたか",
+      "TargetEscaped": "Looks like the higher-ups are finally getting serious about uncovering ancient civilization.",
+      "SourceUtf8Sha256": "FF19A490CE8501CE7D92A572E18CB84D6B92F99E747C9A2D0E68C1F0A738AE87"
+    },
+    {
+      "SourceEscaped": "この先はソロネッツシティだ",
+      "TargetEscaped": "Solonets City lies ahead.",
+      "SourceUtf8Sha256": "686C890650822C5E63C528A382C80F3130543A1041C60CEF84C6A6938B44E00E"
+    },
+    {
+      "SourceEscaped": "まずはシティで旅の疲れを取っていくといい",
+      "TargetEscaped": "First, rest in the city and recover from your journey.",
+      "SourceUtf8Sha256": "B86798BAA763035D02D21A097E04C91831A5411FABABAE129214D790BBCB4839"
+    },
+    {
+      "SourceEscaped": "この先はルノ峡谷ですぞ",
+      "TargetEscaped": "Runo Gorge lies ahead.",
+      "SourceUtf8Sha256": "BD387AEE46B28302FD0528CD1ED445EC002E3D03E74DBC74ECCD4FFF5E826738"
+    },
+    {
+      "SourceEscaped": "ゲルニアへ到着したばかりだというのに戦闘へおもむくとは…\\n勇ましいですなぁ",
+      "TargetEscaped": "You have only just arrived on Gernia, yet you're already heading into battle...\\nHow brave.",
+      "SourceUtf8Sha256": "F5353BE4A369171D3A20E340EACF0104B30F5C63A21A2206CBD503CACA025B87"
+    },
+    {
+      "SourceEscaped": "ああ？ここで空を眺めているのが不思議か？",
+      "TargetEscaped": "Huh? Wondering why I'm watching the sky here?",
+      "SourceUtf8Sha256": "817327957021F170BA1CAAB7583FF0E11053EC5C22E2D06DFCB42520096CF692"
+    },
+    {
+      "SourceEscaped": "シャトルで旅立つ仲間をここで見送っているのさ",
+      "TargetEscaped": "I'm seeing off my comrades as they leave by shuttle.",
+      "SourceUtf8Sha256": "167DDD3D110487B3C551673C937C963D5CF93A599576753966D57D5FF2168564"
+    },
+    {
+      "SourceEscaped": "スペースターミナルと間違ったわけじゃないからな！",
+      "TargetEscaped": "It's not because I mistook this for the space terminal!",
+      "SourceUtf8Sha256": "71FA61A95A31506614C2F9CBA9FC95364B142C5F9121ADE99860C28D8A66554F"
+    },
+    {
+      "SourceEscaped": "ソロネッツ宇宙港へようこそ",
+      "TargetEscaped": "Welcome to Solonets Spaceport.",
+      "SourceUtf8Sha256": "1F32B364BEFECDCEC9C3DBD7D19EB27AF8E5F3ACA5D4E545DA610DA3BAAB1CC2"
+    },
+    {
+      "SourceEscaped": "現在、定時どおり運行されています",
+      "TargetEscaped": "Services are currently running on schedule.",
+      "SourceUtf8Sha256": "4A9B0A051F556E27529F7E00F3ABFFA197F08AA30C2ABBC7788CEC4E6D7F7FDC"
+    },
+    {
+      "SourceEscaped": "詳細なフライトスケジュールについては、スペースターミナル内でご確認ください",
+      "TargetEscaped": "Please check inside the space terminal for the detailed flight schedule.",
+      "SourceUtf8Sha256": "6DF4A0DF609903E5B89E628FF6F71BA66B871EBB95EED83F86E3FC356EC87E42"
+    },
+    {
+      "SourceEscaped": "こういう段差はただ『飛行』ボタンを押しても登れないぜ",
+      "TargetEscaped": "You can't get up a ledge like this just by pressing \"Fly\".",
+      "SourceUtf8Sha256": "23C6857790EFBD271AB72804FA131F223CF2A1A833151B9A3B233BEFA619BE24"
+    },
+    {
+      "SourceEscaped": "『飛行』ボタンを押しながら、『後退』ボタンを押してみな",
+      "TargetEscaped": "Try pressing \"Move Backward\" while holding \"Fly\".",
+      "SourceUtf8Sha256": "E5EC10E3C43D63555695124637365EDA54D12194E7F2684D9FEE965590B2BA69"
+    },
+    {
+      "SourceEscaped": "すこしだけ高い場所を飛ぶことが出来るぜ",
+      "TargetEscaped": "You'll be able to fly a little higher.",
+      "SourceUtf8Sha256": "E3FDDE4DDAEC736B4FA52C5ABCB940A5836260C28D92D0383D4696AD57B2E4F9"
+    },
+    {
+      "SourceEscaped": "それと！\\nホバリングがONになっていたら\\nオプションからOFFにしてくれ",
+      "TargetEscaped": "And one more thing!\\nIf Hovering is ON,\\nturn it OFF in Options.",
+      "SourceUtf8Sha256": "CC296BE9E03ED6C45455D47A44471A5EACA421AD532D2E4090E38E670F7FE4A5"
+    },
+    {
+      "SourceEscaped": "この後ろにあるのは毒沼だ",
+      "TargetEscaped": "Behind me is a poisonous swamp.",
+      "SourceUtf8Sha256": "ABA1010EFA8282DA63EA0A3190B9CE739E4101135F5BA10E3233AD1C9D3A327E"
+    },
+    {
+      "SourceEscaped": "入っている間はずっとダメージを受けちまうぜ",
+      "TargetEscaped": "You'll keep taking damage as long as you're in it.",
+      "SourceUtf8Sha256": "16DC318D9A80FA6475395199800F259DC9536D7C38F55028CD0A9030BB65B10F"
+    },
+    {
+      "SourceEscaped": "お互いこの毒沼には入らないように気をつけようぜ",
+      "TargetEscaped": "Let's both be careful to stay out of this poisonous swamp.",
+      "SourceUtf8Sha256": "AB156A744D904B8956FC58D7EB2970808C4D9A3728C24EB9CC4A31A8989FC187"
+    },
+    {
+      "SourceEscaped": "次の階に見たことも無いモンスターがいて、いきなり突進してきたんだ",
+      "TargetEscaped": "There was a monster I'd never seen before on the next floor, and it suddenly charged at me.",
+      "SourceUtf8Sha256": "A612F0169906EB35BC45B2A23C1CBD54897D04379962699998775AF2987BD167"
+    },
+    {
+      "SourceEscaped": "なんだか嫌な予感がしてここまで逃げてきたんだけど、次の階へ進むなら気をつけたほうが良いよ",
+      "TargetEscaped": "I had a bad feeling and fled here. Be careful if you're going to the next floor.",
+      "SourceUtf8Sha256": "78900503668C35570F3CDE4ABA2BDE1C8985292C75BD2870BF6CD27BC86158AA"
+    },
+    {
+      "SourceEscaped": "う～ん",
+      "TargetEscaped": "Hmm...",
+      "SourceUtf8Sha256": "5A8702D1CE1297A9224D59902C1082ABBB862F9A2DE6F13573E6C5A4036DE732"
+    },
+    {
+      "SourceEscaped": "何でこっちは水がたくさんあって、\\nこっちには何もないんだろう…",
+      "TargetEscaped": "Why is there so much water on this side,\\nbut nothing on that side...?",
+      "SourceUtf8Sha256": "B619446F058F11200FF28C2B70AB598392350E44E2A28C24549DDBBCB8433EF4"
+    },
+    {
+      "SourceEscaped": "こんにちは、私はこのダンジョンの連絡員です",
+      "TargetEscaped": "Hello, I'm the liaison for this dungeon.",
+      "SourceUtf8Sha256": "AD0B214B9F1DC3CEA3F42EA146815E6242764EDB49D65F6B8F51CECB87C1394D"
+    },
+    {
+      "SourceEscaped": "どうやったら入れるの？",
+      "TargetEscaped": "How do I get in?",
+      "SourceUtf8Sha256": "90C3C7D36BA52F5A811F90D87292514EFD1CBBB9DB9038A09B57F164CB64FCB4"
+    },
+    {
+      "SourceEscaped": "適正レベルはどれくらい？",
+      "TargetEscaped": "What level is recommended?",
+      "SourceUtf8Sha256": "9BE936DFFF5994379B0BFDBCDF9C8E1AB2E33B648F516DEF62E784C2E4BC86A7"
+    },
+    {
+      "SourceEscaped": "この先はどうなってるの？",
+      "TargetEscaped": "What's farther ahead?",
+      "SourceUtf8Sha256": "F374C6C42BC65EF2FCF920015A616E11C55F6B90C87670E0D4669829B2CD3ADB"
+    },
+    {
+      "SourceEscaped": "どうやって地上に戻るの？",
+      "TargetEscaped": "How do I return to the surface?",
+      "SourceUtf8Sha256": "F8A6EEE8E7E7DC931B58AF07E5FE7B1B078142FBE81C847E285FDAA2F853CC7B"
+    },
+    {
+      "SourceEscaped": "やめる",
+      "TargetEscaped": "Cancel",
+      "SourceUtf8Sha256": "A9C9C456A0FA707CE8E393B7B576D17D4203BE083E8F3C2877E7BF9A76F00C87"
+    },
+    {
+      "SourceEscaped": "この先のダンジョンで、何か聞きたい事はありますか？",
+      "TargetEscaped": "Is there anything you'd like to ask about the dungeon ahead?",
+      "SourceUtf8Sha256": "2FBB114626C0FDF1CB881D5473CD39487C8B79D91790AA5D99E37D65BF276C71"
+    },
+    {
+      "SourceEscaped": "ゲートを起動出来る階級は\\u001b5「軍曹」\\u001b0ですね",
+      "TargetEscaped": "You need the rank of \\u001b5\"Sergeant\"\\u001b0 to activate the gate.",
+      "SourceUtf8Sha256": "2BBB49AF10316F7EEC332D0DF2A372F3A8FDBFCFE0F416B74867725E8A2CF915"
+    },
+    {
+      "SourceEscaped": "起動出来ない方は、もう少し後になってから来て下さい",
+      "TargetEscaped": "If you cannot activate it, please return later.",
+      "SourceUtf8Sha256": "9B7E165C4340E9478BAC36ACBA0BA895EB7CAFEBCB737076DF045783A1D68F9C"
+    },
+    {
+      "SourceEscaped": "ここのダンジョンは\\u001b5「Lv35～Lv45」\\u001b0がおススメですよ",
+      "TargetEscaped": "The recommended level for this dungeon is \\u001b5\"Lv35～Lv45\"\\u001b0.",
+      "SourceUtf8Sha256": "0021000CFBBA180034ED55B6ED8AE916FC262ABF51680FFA97BDAF0F4BA30190"
+    },
+    {
+      "SourceEscaped": "それ以外のレベルですと、\\nちょっと厳しいかと思います",
+      "TargetEscaped": "At other levels,\\nit may be a little difficult.",
+      "SourceUtf8Sha256": "A40308C7644B4A4299361A597D56B8405EEE08EDAF4B1ED6CBA3D07CF469D926"
+    },
+    {
+      "SourceEscaped": "探索隊の話によると、謎の銅像があるみたいです",
+      "TargetEscaped": "According to the exploration team, there seems to be a mysterious statue inside.",
+      "SourceUtf8Sha256": "4D138F1A33E6DFBF15879B0CCEFFC48606459CD3C39E27AC86B2D041F674EA4B"
+    },
+    {
+      "SourceEscaped": "内部にいるモンスターは\\n何らかの影響で凶暴化しているようです",
+      "TargetEscaped": "The monsters inside\\nseem to have become more aggressive due to some influence.",
+      "SourceUtf8Sha256": "F78CA86FACAC007E772CACEF2B4193D7CB05A803CF571259D81D3969572A25D6"
+    },
+    {
+      "SourceEscaped": "銅像…？うーん何かあるんでしょうか",
+      "TargetEscaped": "A statue...? Hmm, could there be something to it?",
+      "SourceUtf8Sha256": "2FCAA4D661540DA6DE40C4E80E55C67F8BA35B341E8FFE76102E35B0BBE2D023"
+    },
+    {
+      "SourceEscaped": "後ろにあるリンクポイントから地上へ戻れますよ",
+      "TargetEscaped": "You can return to the surface through the Link Point behind me.",
+      "SourceUtf8Sha256": "666CF917BD170E2D88A4FCD8BF6F9478883B9D33512975D2463F91BCA46C2A82"
+    },
+    {
+      "SourceEscaped": "ただ、一度戻るとカンビ遺跡B1Fからなのでご注意を！",
+      "TargetEscaped": "But once you return, you will have to start from Kambi Ruins B1F again, so be careful!",
+      "SourceUtf8Sha256": "908D6588725449795FBD32E6456ED57B4D332A083CB162876320A3647B09FAE5"
+    },
+    {
+      "SourceEscaped": "お疲れ様です！",
+      "TargetEscaped": "Good work!",
+      "SourceUtf8Sha256": "DC0667E167F3CE47343E4888DE0096BA99A2A9297F3F13B6D50B5FF603092F10"
+    },
+    {
+      "SourceEscaped": "読まない",
+      "TargetEscaped": "Don't Read",
+      "SourceUtf8Sha256": "07617780CD65D413ED413394AD04BA5DE7C9D6578C7BC5817E5A1B7F714823A0"
+    },
+    {
+      "SourceEscaped": "読む",
+      "TargetEscaped": "Read",
+      "SourceUtf8Sha256": "818417A13955F3A116CFB32E8D311D2A958241771381D8B1D5B02354016F90EF"
+    },
+    {
+      "SourceEscaped": "何か文字が書いてある",
+      "TargetEscaped": "Something is written here.",
+      "SourceUtf8Sha256": "EB03BB98D82B52F941F05ABC66217DEA47AB0AEDD744C28DCF13C4BFF5045C55"
+    },
+    {
+      "SourceEscaped": "水…浸し…封印…解け",
+      "TargetEscaped": "Water... flood... seal... break.",
+      "SourceUtf8Sha256": "31DBCEC5FE656E4D0EC59BE25C5515151354A1DED437960710CD961128165CE2"
+    },
+    {
+      "SourceEscaped": "下層…黒き倒せ…此処へ…戻る",
+      "TargetEscaped": "Lower level... defeat the black one... return... here.",
+      "SourceUtf8Sha256": "80658837113EBC7A413D82EEE74BA77FE9EA60FEC5A2265FF3FF44EDA09EE76F"
+    },
+    {
+      "SourceEscaped": "遺跡の封印が解けたボーン！",
+      "TargetEscaped": "The ruins' seal has been broken, bone!",
+      "SourceUtf8Sha256": "58569309A7691A67BC7FD03B995682AA20809384E84A178C2D9565A1AC1B60C1"
+    },
+    {
+      "SourceEscaped": "上の階層でゴゴゴゴ！\\n…って大きな音がしたボーン！",
+      "TargetEscaped": "There was a huge RUMBLE!\\n...from the floor above, bone!",
+      "SourceUtf8Sha256": "3611A264AAC4EF892E773EC19A43BAEB354942052312E5F34F7FED31B6125CEA"
+    },
+    {
+      "SourceEscaped": "でも少ししたら、また封印戻るんだボーン…",
+      "TargetEscaped": "But after a little while, the seal comes back, bone...",
+      "SourceUtf8Sha256": "547CF28B69DFDF218EC9795347A753A2A5005DAE5EFFF223AE0632B63076AB71"
+    },
+    {
+      "SourceEscaped": "貴様が封印を解いた者か",
+      "TargetEscaped": "So you are the one who broke the seal.",
+      "SourceUtf8Sha256": "B3FC12192EF314ABBA54E056C0AD7EE75F46F144CA601FB6BAA1DEA5E53D7C81"
+    },
+    {
+      "SourceEscaped": "なるほど、認めてやろう…\\nこの地に貴様のデータを刻んでやる",
+      "TargetEscaped": "I see. I will acknowledge you...\\nI shall engrave your data upon this place.",
+      "SourceUtf8Sha256": "98751DABBBEA10C04388D65643668E5B2C11F7A8EBFD9EE548A52DFFC003A867"
+    },
+    {
+      "SourceEscaped": "入口の銅像も貴様を認識してくれるだろうよ",
+      "TargetEscaped": "The statue at the entrance should recognize you as well.",
+      "SourceUtf8Sha256": "304CB883F3DD79A2AC01F6AF24C90524D73FF9447775E4B4E5AAB9962639E94C"
+    },
+    {
+      "SourceEscaped": "この先に我が主が待っているはずだ",
+      "TargetEscaped": "My master should be waiting beyond here.",
+      "SourceUtf8Sha256": "43E80534CC2C11A21DCF06667FEB1F02565EF379C509615CA1BF935B6244F2AA"
+    },
+    {
+      "SourceEscaped": "だが…、\\n貴様に我が主が倒せるかな？",
+      "TargetEscaped": "But...\\ncan you defeat my master?",
+      "SourceUtf8Sha256": "F605BB56621759B185FD3DCA8CACA0E8315FDDC92F7440A685987E0CB004E05C"
+    },
+    {
+      "SourceEscaped": "貴様か",
+      "TargetEscaped": "It's you.",
+      "SourceUtf8Sha256": "2413D3DD99C133CB12B276728C725EA80A3A15742D2CF9F51E262BE5B7A8D60B"
+    },
+    {
+      "SourceEscaped": "リペアパック500 10個 2,000C$",
+      "TargetEscaped": "Repair Pack 500: 10 packs: 2,000C$",
+      "SourceUtf8Sha256": "DBD2F8A9CEF69958E298AC7D7E7CB287F16FBB60DE58DE0EF163B08208369D39"
+    },
+    {
+      "SourceEscaped": "エスケープゲート 1個 4,500C$",
+      "TargetEscaped": "Escape Gate: 1 gate: 4,500C$",
+      "SourceUtf8Sha256": "17F88FBA1288B0DF7BE34276CB9DD3BD6350C68B2D601CC7067BE2970CBBBAC0"
+    },
+    {
+      "SourceEscaped": "封印を解いたことへ敬意を表して\\nアイテムを売ってやろう",
+      "TargetEscaped": "In recognition of your breaking the seal,\\nI shall sell you some items.",
+      "SourceUtf8Sha256": "0D51BA1B4186B66C3D17DF7CF0CF5313B91F17AF9CC8BF6634B17136976F6056"
+    },
+    {
+      "SourceEscaped": "さあ、受け取るがよい",
+      "TargetEscaped": "Here, take them.",
+      "SourceUtf8Sha256": "24BBD6DE2EA1476336DB22CD9BC7B14FEAE56039AD2A64960F9200F8ACA5D95C"
+    },
+    {
+      "SourceEscaped": "この遺跡にさっき入ったんだけど、\\nなかなか高い場所へ移動できないんだ",
+      "TargetEscaped": "I entered these ruins earlier,\\nbut I couldn't reach the high places easily.",
+      "SourceUtf8Sha256": "BE7041DB522E8BD979806747CC113F7A3738875E8B98C62B6CC332CAD77E5FC7"
+    },
+    {
+      "SourceEscaped": "おかげで迷っちゃって、泣く泣くエスケープゲートで逃げ出して来たよ",
+      "TargetEscaped": "I got lost and had to flee using an Escape Gate, much to my regret.",
+      "SourceUtf8Sha256": "A19BC70DC7A5E73C91DE908347CBEDE5DF327FD821A3AC83DA121FFCF39F1EA9"
+    },
+    {
+      "SourceEscaped": "君もこれからこの遺跡に入るなら、段差に気をつけなよ",
+      "TargetEscaped": "If you're about to enter these ruins too, watch out for the ledges.",
+      "SourceUtf8Sha256": "9B9BEB2B70AC99B52C79D3825E4CE2AE4BBE99F3E37A69D120B7BE75A2A4542D"
+    },
+    {
+      "SourceEscaped": "あなたは何なんですか？",
+      "TargetEscaped": "Who are you?",
+      "SourceUtf8Sha256": "180BB7F9BD7783FA0F1C6477A2738DE3EDC7747054037D6D784A26FF2DF267DB"
+    },
+    {
+      "SourceEscaped": "忙しいから私に話しかけないでください",
+      "TargetEscaped": "I'm busy. Please don't talk to me.",
+      "SourceUtf8Sha256": "BCF4FC88ECE2D552D546A27FBA9711AFB67D687B41CCD4CAB2E7C0FB2070537D"
+    },
+    {
+      "SourceEscaped": "何ですか？",
+      "TargetEscaped": "What is it?",
+      "SourceUtf8Sha256": "997F1E9630E474187D6FDC437A09F7F2872EFD5949C6D1F7E4A70256D3A26ED5"
+    },
+    {
+      "SourceEscaped": "特に用は…",
+      "TargetEscaped": "Nothing in particular...",
+      "SourceUtf8Sha256": "31BA97CDA422DF947ABDD74BB89A2044BEA5CB4BC9B0BE14486AA9BAC5B7018A"
+    },
+    {
+      "SourceEscaped": "ハテック博士が…",
+      "TargetEscaped": "ハテック博士 said...",
+      "SourceUtf8Sha256": "AD90A5AF71D6EB395A22F3FC15C00CFF366E8260A1BA80F768EB3147A5B841CB"
+    },
+    {
+      "SourceEscaped": "忙しいから私に話しかけないで欲しいんですが…",
+      "TargetEscaped": "I'm busy, so I'd rather you didn't talk to me...",
+      "SourceUtf8Sha256": "E2E201402E41D1B85719C3960ACBFE4C5D99088336DF21DAD91F0BEE75547ECB"
+    },
+    {
+      "SourceEscaped": "博士がそんなことを…",
+      "TargetEscaped": "The doctor said that...?",
+      "SourceUtf8Sha256": "3A4609B711B4C874A60C2FB67D1122B84218B10E641E16AA4EDF61D19A5B6638"
+    },
+    {
+      "SourceEscaped": "時間が経ってるから当然かも知れませんね…",
+      "TargetEscaped": "Well, a lot of time has passed, so perhaps that's only natural...",
+      "SourceUtf8Sha256": "F05259724EF548553C1B1D2626FC656E9CCD9C96C822D504F3AEA9B48790DB8E"
+    },
+    {
+      "SourceEscaped": "実は\\u001b5ウラニウム\\u001b0の圧縮方法が分かったんですが、肝心の\\u001b5ウラニウム\\u001b0がどこで取れるか分かりませんでした…",
+      "TargetEscaped": "Actually, I worked out how to compress \\u001b5Uranium\\u001b0, but I didn't know where to obtain the \\u001b5Uranium\\u001b0 itself...",
+      "SourceUtf8Sha256": "EECE0D00E6964C0F6084E0D425B2BD89EB2930B12EF76164ABD41633A6250470"
+    },
+    {
+      "SourceEscaped": "ついに\\u001b5フルビ遺跡\\u001b0で採れるということだけはつきとめたんですが、中には獰猛な\\u001b5奴\\u001b0がいたんです…",
+      "TargetEscaped": "I finally discovered that it can be collected in the \\u001b5Fulbi Ruins\\u001b0, but there was a ferocious \\u001b5creature\\u001b0 inside...",
+      "SourceUtf8Sha256": "7BDE31FD021A7215EA5EAEA52F07C662C454CF1A8DD2E4F9C24A72B15181A1DE"
+    },
+    {
+      "SourceEscaped": "却下で…",
+      "TargetEscaped": "No thanks...",
+      "SourceUtf8Sha256": "F8213453A3C9E5FA5871FF326C9EF1C0736168243061812C9E444B75380FEF3C"
+    },
+    {
+      "SourceEscaped": "任せてよ",
+      "TargetEscaped": "Leave it to me.",
+      "SourceUtf8Sha256": "09C407F5E49C9CE414FDFB9799E1A423B1158EC56C271E3400A77016DE9DABD7"
+    },
+    {
+      "SourceEscaped": "私の変わりに\\u001b5ウラニウム\\u001b0を\\u001b510個\\u001b0程度持ってきてくれませんか？",
+      "TargetEscaped": "Could you bring me \\u001b5Uranium\\u001b0, about \\u001b510 pieces\\u001b0, in my place?",
+      "SourceUtf8Sha256": "C2F6AE304E935116933DC3C7B16491E0EE9D2DEA1152FE8AE25AEDF292B4C50E"
+    },
+    {
+      "SourceEscaped": "頼みましたよ！",
+      "TargetEscaped": "I'm counting on you!",
+      "SourceUtf8Sha256": "B42E2E3FFD71D27469A336145E1CBB12752E063D7631D83615C46D6576D13717"
+    },
+    {
+      "SourceEscaped": "ふざけないでいただきたい！",
+      "TargetEscaped": "Don't be ridiculous!",
+      "SourceUtf8Sha256": "72E722D94EC72A92FCBBE37E223871BF55CED64572B4D79E7971833F7448662E"
+    },
+    {
+      "SourceEscaped": "早く\\u001b5ウラニウム\\u001b0を\\u001b510個\\u001b0持ってきてください",
+      "TargetEscaped": "Please hurry and bring \\u001b5Uranium\\u001b0, \\u001b510 pieces\\u001b0.",
+      "SourceUtf8Sha256": "F69E1574C605DFDA51B960A3A1DC6E2CF788795840838A9A4DEB61F48FAF266A"
+    },
+    {
+      "SourceEscaped": "持ってきましたね！",
+      "TargetEscaped": "You brought it!",
+      "SourceUtf8Sha256": "13BA1287FAF9EE7E8D0556514ACCFB4E617B410D46A8CB1285307058A09A0802"
+    },
+    {
+      "SourceEscaped": "私が華麗に作って差し上げます",
+      "TargetEscaped": "I'll craft it for you with my usual elegance.",
+      "SourceUtf8Sha256": "1F4C3625927A4C0CCAE7391EA39F16AEB2AF583B5C6074235BB0F5F470397BF7"
+    },
+    {
+      "SourceEscaped": "私に不可能という文字は無い！",
+      "TargetEscaped": "The word \"impossible\" isn't in my vocabulary!",
+      "SourceUtf8Sha256": "9CEC894C7CA88AA8EF64D356D3B820C25D1BF4FAE9C7DB2552EB07F4647B9F22"
+    },
+    {
+      "SourceEscaped": "これだと1個しか作れませんね…",
+      "TargetEscaped": "This is only enough to make 1 piece...",
+      "SourceUtf8Sha256": "F3F8425D7BAD3BB926D483D5BD246EC5FC879CF8F60FB34DF765C009841ACCD3"
+    },
+    {
+      "SourceEscaped": "もう1個作らなければなりませんので\\u001b5ウラニウム\\u001b0をあと\\u001b510個\\u001b0持ってきてください",
+      "TargetEscaped": "I need to make 1 more, so bring another batch of \\u001b5Uranium\\u001b0, \\u001b510 pieces\\u001b0.",
+      "SourceUtf8Sha256": "ACEB5B66E41BBD881BF52FD788CCCA4338BF525F212B8F2DCCD14B239474CBD4"
+    },
+    {
+      "SourceEscaped": "まだですか？",
+      "TargetEscaped": "Is it ready yet?",
+      "SourceUtf8Sha256": "08D8F794FF2FC6DA17B4EED20E7D1C8137C5B9A1DCE84823B1B6EB24086EC040"
+    },
+    {
+      "SourceEscaped": "待っていましたよ",
+      "TargetEscaped": "I've been waiting for you.",
+      "SourceUtf8Sha256": "32EB41751047EE99383875C5453DBCDE1C37B95841101DC4CAC9C113C157A5DA"
+    },
+    {
+      "SourceEscaped": "やめときます",
+      "TargetEscaped": "I'll pass.",
+      "SourceUtf8Sha256": "4A4589DC770083E8389E93D66F76B97B5369BA67DE08990BD26B009929F7321F"
+    },
+    {
+      "SourceEscaped": "お願いします",
+      "TargetEscaped": "Please do.",
+      "SourceUtf8Sha256": "C5C3DF248EAAA492712E0F65960E8E3F3BAE2552EE807A4132574534C88F64C7"
+    },
+    {
+      "SourceEscaped": "\\u001b5圧縮されたウラニウム\\u001b0に変えて差し上げますが、よろしいですか？",
+      "TargetEscaped": "I'll turn it into \\u001b5Compressed Uranium\\u001b0. Is that all right?",
+      "SourceUtf8Sha256": "81EDF173B8F3A7BDA91712B6AB4FA1ECB899A61DB70C41818CD26DBB35129DE4"
+    },
+    {
+      "SourceEscaped": "ちょっと待っててください",
+      "TargetEscaped": "Please wait a moment.",
+      "SourceUtf8Sha256": "86C630490BA69412A3AF2DBF6C431E640DA8085273430070B053FB5667D2EF70"
+    },
+    {
+      "SourceEscaped": "出来ましたよ",
+      "TargetEscaped": "It's ready.",
+      "SourceUtf8Sha256": "AD3F0735503C90F1A402217EEE1AFAB4368B154F1C3A064FA371C3DF990ED215"
+    },
+    {
+      "SourceEscaped": "これをもって博士の所に行ってください",
+      "TargetEscaped": "Take this to the doctor.",
+      "SourceUtf8Sha256": "D86CAACF862FCA689C0DFE67EE4C0B0A89B780B903A3555EF11D568FC07F028F"
+    },
+    {
+      "SourceEscaped": "え？\\u001b5奴\\u001b0って何かって？",
+      "TargetEscaped": "Huh? What \\u001b5creature\\u001b0 was I talking about?",
+      "SourceUtf8Sha256": "B62AC5A4CF169F1CAA5A4962CA6BBAB3D58364163D196351FB421210BB990BCE"
+    },
+    {
+      "SourceEscaped": "\\u001b5パタパタ\\u001b0のことですよ！",
+      "TargetEscaped": "\\u001b5パタパタ\\u001b0, of course!",
+      "SourceUtf8Sha256": "245A1D6BB32B843B4A1C39D3826C7BB1DEDA98DF8B548368DF7A5266FFE95C05"
+    },
+    {
+      "SourceEscaped": "私はあのおぞましいモンスターが嫌いなのですよ！",
+      "TargetEscaped": "I hate those hideous monsters!",
+      "SourceUtf8Sha256": "20A361E65B4C493B721887A6E18864E310DABA5AABB25DE6A754DD0A28956F7F"
+    },
+    {
+      "SourceEscaped": "あぁ！\\n奴のことを考えただけで…",
+      "TargetEscaped": "Aah!\\nJust thinking about them...",
+      "SourceUtf8Sha256": "B74D5890DB87A8D467F1DFEEC41FA152F64301504BF9F9EE8158921AB162BB93"
+    },
+    {
+      "SourceEscaped": "そんなことはどうでもいいからさっさと行ってください！",
+      "TargetEscaped": "Never mind that. Just get going!",
+      "SourceUtf8Sha256": "AA45BB4C367A52507E912D3FF259B99794A64A791298E4C1CD2E08AFD0504C37"
+    },
+    {
+      "SourceEscaped": "また来ましたね",
+      "TargetEscaped": "You're back again.",
+      "SourceUtf8Sha256": "2B7D7E84E703A25CD7B38E34AC199F858C27F8BB4051FF72C712471939BA9AFA"
+    },
+    {
+      "SourceEscaped": "\\u001b5ウラニウム\\u001b0を\\u001b510個\\u001b0持ってきていただければ何度でも作って差し上げますよ",
+      "TargetEscaped": "Bring me \\u001b5Uranium\\u001b0, \\u001b510 pieces\\u001b0, and I'll make it for you as often as you like.",
+      "SourceUtf8Sha256": "B31625F0834194B04A8B872FE02CDF1BBCF37B8FFA5FA1E883A2776231469ABE"
+    },
+    {
+      "SourceEscaped": "\\u001b5圧縮されたウラニウム\\u001b0に変えて欲しいですか？",
+      "TargetEscaped": "Would you like me to turn it into \\u001b5Compressed Uranium\\u001b0?",
+      "SourceUtf8Sha256": "0D505A89E3CA86E973EBF73D2C3E080BC9C4A7473E8F9C307C00F38F037AD3E2"
+    },
+    {
+      "SourceEscaped": "少しだけ待っていてください",
+      "TargetEscaped": "Please wait just a moment.",
+      "SourceUtf8Sha256": "C7028D405CF927CC6CC8C3D6A08EB4F946FCAA4121C696C2E146E81ED22E8F83"
+    },
+    {
+      "SourceEscaped": "また私の華麗な技が見たいのなら来てください",
+      "TargetEscaped": "Come back if you'd like to see my magnificent skills again.",
+      "SourceUtf8Sha256": "FCC17D6731A527268D51AD62B93222222C1064FC3E2306FE2145ECDCD819D829"
+    },
+    {
+      "SourceEscaped": "何度でも\\u001b5圧縮されたウラニウム\\u001b0を作って差し上げますよ！",
+      "TargetEscaped": "I'll make \\u001b5Compressed Uranium\\u001b0 for you as often as you like!",
+      "SourceUtf8Sha256": "951D9F9473B244A4AF161473BA9F73C09DC385ACDCA2B7379EE6AD46AF9DF93C"
+    },
+    {
+      "SourceEscaped": "なんかこの奥は\\nいやな感じがするなぁ…",
+      "TargetEscaped": "I've got a bad feeling\\nabout what's farther inside...",
+      "SourceUtf8Sha256": "708281233AF719B1B8549D299904436C6916412C547B7D88F359E2349E99F74B"
+    },
+    {
+      "SourceEscaped": "自信がなかったら\\n1回引き返した方がいいかもね",
+      "TargetEscaped": "If you're not confident,\\nperhaps you should turn back 1 time and regroup.",
+      "SourceUtf8Sha256": "37A92615CFD37BC1332245481EED54AF0F9145D964722696265683CD4E549838"
+    },
+    {
+      "SourceEscaped": "この先はゲルニア第2のターミナル、アクリル宇宙港だ",
+      "TargetEscaped": "Ahead is Gernia's terminal number 2, Acryl Spaceport.",
+      "SourceUtf8Sha256": "FB20ABB60C587E51E7A90485A0BE47047A3FC254D44257000B9B411215D1E3FD"
+    },
+    {
+      "SourceEscaped": "アクリル宇宙港からはデゴへ行くことが可能だ",
+      "TargetEscaped": "You can travel to Dego from Acryl Spaceport.",
+      "SourceUtf8Sha256": "7412A73B47EAEF36B3EF133BF82EF14EF20DBFF9D5504878EA51940763CFE864"
+    },
+    {
+      "SourceEscaped": "ソルシティまでよく来たな",
+      "TargetEscaped": "Welcome to Sol City.",
+      "SourceUtf8Sha256": "F4EC093CCEC1A2460B8E86E28BC18A0F48C27348FEADD95CE965EA0E49F885E7"
+    },
+    {
+      "SourceEscaped": "アクリル宇宙港から旅立つ前に十分準備を整えていくんだぞ！",
+      "TargetEscaped": "Prepare thoroughly before setting off from Acryl Spaceport!",
+      "SourceUtf8Sha256": "40B9178822AB9CB927E4B4C5B6098A51F160D4100042A5F6BA5F487877C72004"
+    },
+    {
+      "SourceEscaped": "あのグランダムとかいうヤツ…",
+      "TargetEscaped": "That thing called グランダム...",
+      "SourceUtf8Sha256": "29338F182C2FCF723BCADA896EA1ED87A7DAB6C9A7966C457C038321087A0F5B"
+    },
+    {
+      "SourceEscaped": "離れた場所にいるオレばかり攻撃しやがって！",
+      "TargetEscaped": "It keeps attacking me, even though I'm far away!",
+      "SourceUtf8Sha256": "1336D3602D6F738434A38AA7D6047C0FEE2D3A2078ABE0CBBE15A17CF47CF6AE"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡へはもう行ったかい？",
+      "TargetEscaped": "Have you been to the Kambi Ruins yet?",
+      "SourceUtf8Sha256": "06EE987F5A87D4A989DE0FED446E8B15E156F1796DB8D0D637E7B9032304105A"
+    },
+    {
+      "SourceEscaped": "無事戻ってくるなんて、さすが天使軍の一員だね！",
+      "TargetEscaped": "Coming back safely... That's an Angel Army soldier for you!",
+      "SourceUtf8Sha256": "499032313E55C228FD7D5D9D57D72AB8B7C0846544DEA6DDE013B7B3AA678499"
+    },
+    {
+      "SourceEscaped": "とても危険な場所だけど、C21文明の一端に触れることができるらしいよ",
+      "TargetEscaped": "It's a very dangerous place, but apparently you can glimpse a part of C21 civilization there.",
+      "SourceUtf8Sha256": "19F7977D303EC90BCB517C6DB762F3943ECCE759214D371C8C2837B3985E94BA"
+    },
+    {
+      "SourceEscaped": "ゲルニアは形状に特徴があるモンスターロボが多い",
+      "TargetEscaped": "Gernia has many monster robots with distinctive shapes.",
+      "SourceUtf8Sha256": "B1958AEF81D4EF9877C173B7883144A937EA24F702E7C9C52B5E1E0523FBBC41"
+    },
+    {
+      "SourceEscaped": "モンスターのパーツを入手することができたら、是非カスタマイズに取り入れてみてくれ",
+      "TargetEscaped": "If you obtain monster parts, try using them in your customization.",
+      "SourceUtf8Sha256": "DCFD5A565F2202C8236060A9FA84987992A4FF9C04A39B9ADBE726320864E119"
+    },
+    {
+      "SourceEscaped": "ここはシティを作るときに掘られた坑道なんだ",
+      "TargetEscaped": "This tunnel was dug when the city was built.",
+      "SourceUtf8Sha256": "3DAA1DA1026A1D537204A18B41D63C316E24701BC6C1D6E1648265584020C8E7"
+    },
+    {
+      "SourceEscaped": "今はもう使われていないけどね",
+      "TargetEscaped": "It's no longer used, though.",
+      "SourceUtf8Sha256": "7BCE2EDA83B3207D675F0607F9576D491B2B1EFD8FF83F64A1BEA2197AED6345"
+    },
+    {
+      "SourceEscaped": "天使軍の研究者達はC21文明解明のためカンビ遺跡へ出入りしている",
+      "TargetEscaped": "Angel Army researchers go in and out of the Kambi Ruins to uncover C21 civilization.",
+      "SourceUtf8Sha256": "4D7FC92E6129FEE6C8774D52C1AD7FB4D5AAA7D0E6C7F570EF2E1839CFA4BCB0"
+    },
+    {
+      "SourceEscaped": "その最深部で踊る民を見たとか…\\nいささか信じがたいがな",
+      "TargetEscaped": "They claim to have seen dancing people in the deepest part...\\nThough that's rather hard to believe.",
+      "SourceUtf8Sha256": "F205F10F01243C77F9A95798F785E1C064C56E29C4673EC0E6F000B6E25F3C1A"
+    },
+    {
+      "SourceEscaped": "バリーが言っていたのはお前か",
+      "TargetEscaped": "So you're the one バリー mentioned.",
+      "SourceUtf8Sha256": "DFA7C3FBDC39955E6B39FF3E65DDF02F98BE567C662EE3059DE7D76E2ACC0344"
+    },
+    {
+      "SourceEscaped": "…ん？\\nアイテムがいっぱいだな",
+      "TargetEscaped": "...Hmm?\\nYour inventory is full.",
+      "SourceUtf8Sha256": "CF2C2F9BB46E3195997164EF4B3282FF00A40FC5FE8D55855AF8C4BEACE7C6D4"
+    },
+    {
+      "SourceEscaped": "メールを届けてくれてありがとうな",
+      "TargetEscaped": "Thanks for delivering the email.",
+      "SourceUtf8Sha256": "97702A9F5C35BDFA52FECC38C086DD317C1910253E28014C361286E20D209903"
+    },
+    {
+      "SourceEscaped": "これはわざわざゲルニアまで足を運んでくれた礼だ。受け取ってくれ",
+      "TargetEscaped": "This is to thank you for coming all the way to Gernia. Take it.",
+      "SourceUtf8Sha256": "DA702B94F8C1D16EFDB8C2EB797CBBA2DDEDA87F1363407864250CFFF106B8D4"
+    },
+    {
+      "SourceEscaped": "バリーからお前のことは聞いていた",
+      "TargetEscaped": "バリー told me about you.",
+      "SourceUtf8Sha256": "A5D61649136373D0908AFDA963AE3A0FCC86CE32BC5B539F246E8498DCA5A33A"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡の調査や悪魔軍の撃退任務もやすやすとクリアしたっていう凄い兵士がいるってな…",
+      "TargetEscaped": "He said there's an amazing soldier who easily cleared the Pold Ruins investigation and missions to repel the Devil Army...",
+      "SourceUtf8Sha256": "99EBE79C3691DD4030224074A3B4F9DF02E152CFD2AB196FFB095CAB79091D4F"
+    },
+    {
+      "SourceEscaped": "そこでぜひ、お前に\\u001b5カンビ遺跡\\u001b0の調査をお願いしたい",
+      "TargetEscaped": "So I'd really like you to investigate the \\u001b5Kambi Ruins\\u001b0.",
+      "SourceUtf8Sha256": "E5C17186E793E3BD09B7543F03B34B4B169CF2FB4F1B936D241CC64AE44A1D8B"
+    },
+    {
+      "SourceEscaped": "お前なら\\u001b5カンビ遺跡\\u001b0も無事に調査できるだろう",
+      "TargetEscaped": "I'm sure you can investigate the \\u001b5Kambi Ruins\\u001b0 safely too.",
+      "SourceUtf8Sha256": "4FC9D879843B4E959CB44BBA8DE8457F36677CDD95B586D5B85C7061C3CC2F0B"
+    },
+    {
+      "SourceEscaped": "よろしく頼んだぞ",
+      "TargetEscaped": "I'm counting on you.",
+      "SourceUtf8Sha256": "B7800C10FB60D801A0F52CD59FC1AD39557E243D8FEEC3DA85342E5D7E9BDBFB"
+    },
+    {
+      "SourceEscaped": " お前にしかできないことなんだが…",
+      "TargetEscaped": "But you're the only one who can do this...",
+      "SourceUtf8Sha256": "F6963730A8B44B9E85357577C017613DD95732BDB8E454048EB8886507F9B76C"
+    },
+    {
+      "SourceEscaped": "無事に遺跡から帰ってきたようだな。さすがだ",
+      "TargetEscaped": "You made it back safely from the ruins. Impressive.",
+      "SourceUtf8Sha256": "643EAE8E4CDFA8A06E3B9D3639AFCE3DBB0E68F5C778B1E34C9750040F1D9E88"
+    },
+    {
+      "SourceEscaped": "これは報酬だ。受け取ってくれ",
+      "TargetEscaped": "Here's your reward. Take it.",
+      "SourceUtf8Sha256": "BB1379824CA84EBE8573A312B9FE205A6619CADA3F125D9CB1EE38540C0E22F1"
+    },
+    {
+      "SourceEscaped": "\\u001b5カンビ遺跡\\u001b0の調査に向かってくれ",
+      "TargetEscaped": "Go investigate the \\u001b5Kambi Ruins\\u001b0.",
+      "SourceUtf8Sha256": "88E4E924E2C6FCEAE0DACFE1A180926E9017BC812193D7FFCD8BC8C85C93124B"
+    },
+    {
+      "SourceEscaped": "…もしかして、場所が分からないのか？",
+      "TargetEscaped": "...Do you perhaps not know where they are?",
+      "SourceUtf8Sha256": "53588EAA08CC1EBAF16E23D102E0A99F5B675617A65C5EA520DF3EA1894B3289"
+    },
+    {
+      "SourceEscaped": "\\u001b5カンビ遺跡\\u001b0はソルシティの南だ。\\nシティを出て、レンジナ渓谷を超えた先にあるぞ",
+      "TargetEscaped": "The \\u001b5Kambi Ruins\\u001b0 are south of Sol City.\\nLeave the city and go beyond Renjina Valley.",
+      "SourceUtf8Sha256": "E6D6A6AC5F19529F27BD8D6B4EDB9EC838666756A527514403C36A1943A17EF6"
+    },
+    {
+      "SourceEscaped": "ん？\\nアイテムがいっぱいだな",
+      "TargetEscaped": "Hmm?\\nYour inventory is full.",
+      "SourceUtf8Sha256": "3FF5AC376B5985BB4F691C483A0872494390B06C0B4DDBD21A2635C8B706AD63"
+    },
+    {
+      "SourceEscaped": "お前に用があったんだが…キャリーを整理してからまた来てくれ",
+      "TargetEscaped": "I needed something from you... Make some space in your Carry and come back.",
+      "SourceUtf8Sha256": "BA5C441773617F8F2CF93B7370E2D4D85476896B339AA5B650452BE3004D41B3"
+    },
+    {
+      "SourceEscaped": "お前に調査してもらったカンビ遺跡の調査内容を、この\\u001b5報告書\\u001b0にまとめておいた",
+      "TargetEscaped": "I've compiled the results of your Kambi Ruins investigation in this \\u001b5report\\u001b0.",
+      "SourceUtf8Sha256": "18D5B5E65B2F811233D777066CA738D60E4070E088A8F296866CA45C8C6B1115"
+    },
+    {
+      "SourceEscaped": "一休みしたらこいつを\\n\\u001b5イエルモ基地\\u001b0にいる\\u001b5マット\\u001b0に届けて欲しいんだが…",
+      "TargetEscaped": "Once you've rested, I'd like you to deliver it\\nto \\u001b5マット\\u001b0 at \\u001b5Ielmo Base\\u001b0...",
+      "SourceUtf8Sha256": "EC01D401AF5ED0F71107F994202DBB531F536687C91FA40D5686E905A778E4EC"
+    },
+    {
+      "SourceEscaped": "これが\\u001b5報告書\\u001b0だ",
+      "TargetEscaped": "Here is the \\u001b5report\\u001b0.",
+      "SourceUtf8Sha256": "F6CD24E7994BA48FA2011DDCDAC24CF8DFA70D938E4B4C9208766A8D32E9EDA3"
+    },
+    {
+      "SourceEscaped": "よろしく頼んだぞ！",
+      "TargetEscaped": "I'm counting on you!",
+      "SourceUtf8Sha256": "BF67372EB2E106550B8AD9562FF1955BD90AF454A9E3875024CDFD3B0077B9FE"
+    },
+    {
+      "SourceEscaped": "お前に届けて欲しいんだが…",
+      "TargetEscaped": "I was hoping you'd deliver it...",
+      "SourceUtf8Sha256": "84050162C630082B3F75A0080850596E0504DED54CE4FBBF034484284B71D948"
+    },
+    {
+      "SourceEscaped": "俺が書いた\\u001b5報告書\\u001b0を無くしたのか？",
+      "TargetEscaped": "You lost the \\u001b5report\\u001b0 I wrote?",
+      "SourceUtf8Sha256": "43E089224CE00B9C94B35FBDE2A4F22A56ED0E9F2073ECE5609C2BB43BA5D83B"
+    },
+    {
+      "SourceEscaped": "今度は\\u001b4無くすなよ！\\u001b5",
+      "TargetEscaped": "\\u001b4Don't lose it this time!\\u001b5",
+      "SourceUtf8Sha256": "63D108F6016FE002651EA86C18EE6B5F53F05EA9B7F7D8AB24641E333E396E80"
+    },
+    {
+      "SourceEscaped": "\\u001b5報告書\\u001b0をまだ届けてないのか？",
+      "TargetEscaped": "You haven't delivered the \\u001b5report\\u001b0 yet?",
+      "SourceUtf8Sha256": "CC14B50E6115DD230342DCBFC7FE33BF9D229EE91F4F7F2B34F83543819CCE64"
+    },
+    {
+      "SourceEscaped": "\\u001b5イエルモ基地\\u001b0にいる\\u001b5マット\\u001b0に届けてくれよ",
+      "TargetEscaped": "Take it to \\u001b5マット\\u001b0 at \\u001b5Ielmo Base\\u001b0.",
+      "SourceUtf8Sha256": "B95D838DA2BBF82927BBEF524AABCF1C21460E8DB1A555D0F02108609B1DC050"
+    },
+    {
+      "SourceEscaped": "\\u001b5イエルモ基地\\u001b0はソルシティの東にあるぞ",
+      "TargetEscaped": "\\u001b5Ielmo Base\\u001b0 is east of Sol City.",
+      "SourceUtf8Sha256": "E23C6D1E7035FF157302CDCBF3F475BD38054A387486B9E8699BAA7C78BCECF4"
+    },
+    {
+      "SourceEscaped": "おう、バリーからの差し入れありがとうな",
+      "TargetEscaped": "Hey, thanks for bringing the supplies from バリー.",
+      "SourceUtf8Sha256": "C8241D00B1E09EA4AA4E24B48357A62AC52585A7149DDDD4847295EDF4C61486"
+    },
+    {
+      "SourceEscaped": "少ないが受け取ってくれ",
+      "TargetEscaped": "It isn't much, but take this.",
+      "SourceUtf8Sha256": "621672F880C795450A3F95099CDA66CF72676C82C3F186C4AE25947FFFA9D270"
+    },
+    {
+      "SourceEscaped": "惑星ゲルニアにはカンビ遺跡の他にも遺跡があるのを知ってるだろ？",
+      "TargetEscaped": "You know Gernia has ruins besides the Kambi Ruins, right?",
+      "SourceUtf8Sha256": "E884645FAB2786ADD85AF2428A4C26CAAD3BF0334A26427E6102EE81E5A8B7FC"
+    },
+    {
+      "SourceEscaped": "もう1つの遺跡、\\u001b5フルビ遺跡\\u001b0をお前に調査してもらいたい",
+      "TargetEscaped": "I'd like you to investigate 1 other site, the \\u001b5Fulbi Ruins\\u001b0.",
+      "SourceUtf8Sha256": "BA3039E9D5CF0F88BB617E0F7A7F6DE560C7DB2B114B599E4BEEB6921365052E"
+    },
+    {
+      "SourceEscaped": "\\u001b5フルビ遺跡\\u001b0はソルシティの北東だ",
+      "TargetEscaped": "The \\u001b5Fulbi Ruins\\u001b0 are northeast of Sol City.",
+      "SourceUtf8Sha256": "8F5F8E7C69BD35A8E8F97AA46E2A55C03EDA6A0147196545AED527B5EDAD1B23"
+    },
+    {
+      "SourceEscaped": "無事に帰ってこられたようだな",
+      "TargetEscaped": "Looks like you made it back safely.",
+      "SourceUtf8Sha256": "996F8A3E91AE4FE1E7DDBBF7B255ABDBB035DB4A447CC48B21212CB940C43B41"
+    },
+    {
+      "SourceEscaped": "天使軍司令部からお前に謝礼が出ている。受け取ってくれ",
+      "TargetEscaped": "Angel Army Headquarters has sent you a reward. Take it.",
+      "SourceUtf8Sha256": "84AFF5FCCE3193CF175E211E5A21ED5E8712E89B2A78484BE98F932E23F317CC"
+    },
+    {
+      "SourceEscaped": "1人で行くのが怖かったら仲間を連れて行くんだな",
+      "TargetEscaped": "If going alone as 1 person scares you, bring some allies.",
+      "SourceUtf8Sha256": "655C7F4B829B37D21A408343223CBA7B41D24C2A7FE56724CD354E613C47F673"
+    },
+    {
+      "SourceEscaped": "お前に頼みたいことがあったんだが、アイテムがいっぱいだな",
+      "TargetEscaped": "I had a request for you, but your inventory is full.",
+      "SourceUtf8Sha256": "DA925B0C4A45411667FB22D973385CBDC3E92CDF175AF4C1C3DF898FA210A178"
+    },
+    {
+      "SourceEscaped": "キャリーを整理してからもう一度来てくれ",
+      "TargetEscaped": "Make some space in your Carry and come back.",
+      "SourceUtf8Sha256": "7808D2066FBEB832DEE23E73EC5BF760D7F1B467C10D21C2E0008AB194BAA5A2"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡でのお前のデータはこの\\u001b5報告書\\u001b0にまとめておいた",
+      "TargetEscaped": "I've compiled your data from the Fulbi Ruins in this \\u001b5report\\u001b0.",
+      "SourceUtf8Sha256": "D47D4217BE39AB25276199BC5B86B75D2E71E329E7BD35D2C470DEA3575E93E0"
+    },
+    {
+      "SourceEscaped": "こいつを\\u001b5イエルモ基地\\u001b0の\\u001b5マット\\u001b0に渡してもらいたい",
+      "TargetEscaped": "I'd like you to give this to \\u001b5マット\\u001b0 at \\u001b5Ielmo Base\\u001b0.",
+      "SourceUtf8Sha256": "B54B619CD1D1B05973571A4728A0994ED5DCD3FF136D0917329DB9720D7B8772"
+    },
+    {
+      "SourceEscaped": "あいつもちょうどお前に頼みごとがあるらしいからな",
+      "TargetEscaped": "Apparently he has a request for you too.",
+      "SourceUtf8Sha256": "47CDD94CB54762AD122BBF5622FBF4B6CB45ADD71A2919947EF293706405654E"
+    },
+    {
+      "SourceEscaped": "頼んだぞ。\\n\\u001b5イエルモ基地\\u001b0はソルシティを出て東だ",
+      "TargetEscaped": "I'm counting on you.\\n\\u001b5Ielmo Base\\u001b0 is east, outside Sol City.",
+      "SourceUtf8Sha256": "B9CD86C27153DDEAA54EC2D45133DF24AF78277883D508424630613FA04B67FB"
+    },
+    {
+      "SourceEscaped": "俺の\\u001b5報告書\\u001b0を無くした？",
+      "TargetEscaped": "You lost my \\u001b5report\\u001b0?",
+      "SourceUtf8Sha256": "E7FD52F27C9362E3FBB505EF6A6E858A3DBA56817CBE87AC33AE88E9E9287F1F"
+    },
+    {
+      "SourceEscaped": "今度は\\u001b4無くさないよう\\u001b0、気をつけろよ！",
+      "TargetEscaped": "Take care \\u001b4not to lose it\\u001b0 this time!",
+      "SourceUtf8Sha256": "8138252B0F24544AFD796A8F7E7CB36FA8B8A8D618853B62B52C8054F973BFB0"
+    },
+    {
+      "SourceEscaped": "\\u001b5イエルモ基地\\u001b0の\\u001b5マット\\u001b0に、\\n俺の\\u001b5報告書\\u001b0を渡してくれ",
+      "TargetEscaped": "Go to \\u001b5マット\\u001b0 at \\u001b5Ielmo Base\\u001b0\\nand give him my \\u001b5report\\u001b0.",
+      "SourceUtf8Sha256": "AF1EBC5A43678F1ABAD3DA668795CF53BE18C961FED543AA58E232A68BBF3897"
+    },
+    {
+      "SourceEscaped": "\\u001b5イエルモ基地\\u001b0はソルシティを出て東だ。\\n頼んだぞ",
+      "TargetEscaped": "\\u001b5Ielmo Base\\u001b0 is east, outside Sol City.\\nI'm counting on you.",
+      "SourceUtf8Sha256": "89BDDE36E584D0E2E8B266C58EA9187E6181753F5A4728B37354EDB76A640DBA"
+    },
+    {
+      "SourceEscaped": "待っていたぞ。わざわざすまんな",
+      "TargetEscaped": "I've been waiting. Thanks for coming all this way.",
+      "SourceUtf8Sha256": "583D57AD4D1F5AA86EC6BA440127A41C990E53EA7B9B359E1E33A1299A9A3429"
+    },
+    {
+      "SourceEscaped": "報酬だ。受け取ってくれ",
+      "TargetEscaped": "Here's your reward. Take it.",
+      "SourceUtf8Sha256": "52AB4873A4A04B85AE22FBBF9418888FF1CEBA397D368AAE7D9E2B7C63939BF8"
+    },
+    {
+      "SourceEscaped": "ん？アイテムがいっぱいだな",
+      "TargetEscaped": "Hmm? Your inventory is full.",
+      "SourceUtf8Sha256": "4AC5822340CDDAC08407ADA38090F97107401FDC6F11E7704D8E469A688D3605"
+    },
+    {
+      "SourceEscaped": "これから\\u001b5惑星デゴ\\u001b0に向かうんだってな。バリーから聞いたぞ",
+      "TargetEscaped": "I hear you're heading to \\u001b5Planet Dego\\u001b0 now. バリー told me.",
+      "SourceUtf8Sha256": "A237E83A5958D5A08CFAFB33BF2A88F87C682CAE88EF45D9E8B13D2C6808C473"
+    },
+    {
+      "SourceEscaped": "ついでに俺の\\u001b5メール\\u001b0を\\u001b5ルボノスシティ\\u001b0の\\u001b5ニーブ\\u001b0に渡してくれ",
+      "TargetEscaped": "While you're at it, give my \\u001b5email\\u001b0 to \\u001b5ニーブ\\u001b0 in \\u001b5Lubonos City\\u001b0.",
+      "SourceUtf8Sha256": "D8011E5FBD1491949A3C96308F70FC7AEDB738104AFE7A9BF2B162CE16CFADE0"
+    },
+    {
+      "SourceEscaped": "アクリル宇宙港から\\u001b5惑星デゴ\\u001b0行きのシャトルが出ている",
+      "TargetEscaped": "A shuttle to \\u001b5Planet Dego\\u001b0 departs from Acryl Spaceport.",
+      "SourceUtf8Sha256": "DE0AE89EF7041241365D573F34FD0DFC406A5F4EBF2C2CE737EFC11B7AE0AC46"
+    },
+    {
+      "SourceEscaped": "アクリル宇宙港へはシティの北西にあるリンクポイントから行けるぞ",
+      "TargetEscaped": "You can reach Acryl Spaceport through the Link Point northwest of the city.",
+      "SourceUtf8Sha256": "EB93B2996B2CD54963672E9EF68B1D0330D431161A8F8CC6BEBF4B980A715D3F"
+    },
+    {
+      "SourceEscaped": "今度は\\u001b4無くすなよ！",
+      "TargetEscaped": "\\u001b4Don't lose it this time!",
+      "SourceUtf8Sha256": "CCFA6F203AD2C30504AB958BDBFAE77DB7580EE7044C535DCE6E4172A09B38D1"
+    },
+    {
+      "SourceEscaped": "俺の\\u001b5メール\\u001b0を\\u001b5ルボノスシティ\\u001b0の\\u001b5ニーブ\\u001b0に渡してくれ",
+      "TargetEscaped": "Give my \\u001b5email\\u001b0 to \\u001b5ニーブ\\u001b0 in \\u001b5Lubonos City\\u001b0.",
+      "SourceUtf8Sha256": "529820B70533770B10DAA816F820E735F25AFB5D90DAA48910EAA0F2A2286F66"
+    },
+    {
+      "SourceEscaped": "コールドバズーカ…悪魔軍やモンスターと戦うには役に立つ武器になりそうだな",
+      "TargetEscaped": "A Cold Bazooka... Looks like a useful weapon for fighting the Devil Army and monsters.",
+      "SourceUtf8Sha256": "14BED1960C5546CFF95041582D3FC7C3571C9C92971BB1EFC317EE9A683344B3"
+    },
+    {
+      "SourceEscaped": "存分に使わせてもらうぞ",
+      "TargetEscaped": "I'll put it to good use.",
+      "SourceUtf8Sha256": "DF91FFB948754E2082058D2C63FA3DEFE09467926B167F69B0AAC5F4D807F8EB"
+    },
+    {
+      "SourceEscaped": "そしてこれは報酬だ。受け取ってくれ",
+      "TargetEscaped": "And here's your reward. Take it.",
+      "SourceUtf8Sha256": "E0FFDB79464A4966893FEBFE4D9F5053B9D27998630B251E3A2660B9DE54CADD"
+    },
+    {
+      "SourceEscaped": "ゲルニアの遺跡に向かった調査員が採掘した時、\\u001b5サファイア\\u001b0が採れたんだ",
+      "TargetEscaped": "Researchers sent to Gernia's ruins found \\u001b5Sapphires\\u001b0 while excavating.",
+      "SourceUtf8Sha256": "95C5F5587E941C6FFCC0E24A49406997861685C3C7EEA9DF48592E68D0774C94"
+    },
+    {
+      "SourceEscaped": "\\u001b5サファイア\\u001b0といえば宝石…と思うのは安直だぞ。産業的な価値もあるんだ。電子部品とかな",
+      "TargetEscaped": "If you think \\u001b5Sapphires\\u001b0 are just gemstones, you're oversimplifying. They have industrial uses too, such as electronic components.",
+      "SourceUtf8Sha256": "8FADB0A230178DB910A6A5352EACEC90567886E60B51DB7081F8ED779A047130"
+    },
+    {
+      "SourceEscaped": "そこでこいつを\\u001b55つ\\u001b0、\\u001b5ソロネッツシティ\\u001b0の\\u001b5バリー\\u001b0まで届けてやって欲しい",
+      "TargetEscaped": "So I'd like you to deliver \\u001b55 of these\\u001b0 to \\u001b5バリー\\u001b0 in \\u001b5Solonets City\\u001b0.",
+      "SourceUtf8Sha256": "B3DBC1B50F84FF492CF0471208E3601C08FEF5745C5F634C6C800B5C452A9B03"
+    },
+    {
+      "SourceEscaped": "\\u001b5ソロネッツシティ\\u001b0はゲルニアの東だ",
+      "TargetEscaped": "\\u001b5Solonets City\\u001b0 is in eastern Gernia.",
+      "SourceUtf8Sha256": "CA9DD97E311A72881536506523FDC074D4D2A60581F19F77013A3D7B8D30A233"
+    },
+    {
+      "SourceEscaped": "…俺が渡したアイテムは\\u001b4売ったり\\n捨てたり\\u001b0するなよ",
+      "TargetEscaped": "...\\u001b4Don't sell or\\nthrow away\\u001b0 the items I gave you.",
+      "SourceUtf8Sha256": "50949C35BB9B26F2DB9C4B23E94F33389C9AC5DD3F592F99A7CBC64DF4FDA2FE"
+    },
+    {
+      "SourceEscaped": "\\u001b5サファイア\\u001b0を\\u001b55つ\\u001b0、\\u001b5ソロネッツシティ\\u001b0の\\n\\u001b5バリー\\u001b0まで届けてやって欲しい",
+      "TargetEscaped": "Deliver \\u001b5Sapphires\\u001b0, \\u001b55 pieces\\u001b0, to \\u001b5Solonets City\\u001b0,\\nto \\u001b5バリー\\u001b0.",
+      "SourceUtf8Sha256": "4EEC960C96FCDE94C239E9845F624BBDD42DB8A595FC6D08193702344BEB81BF"
+    },
+    {
+      "SourceEscaped": "早いな。さすがだ。\\n遺跡の調査ロボたちも喜ぶだろう",
+      "TargetEscaped": "That was quick. Impressive.\\nThe robots investigating the ruins will be pleased too.",
+      "SourceUtf8Sha256": "465DE903249AB7CCA59F687885AF1513EE327CF211F273E64DCD9BC95212078A"
+    },
+    {
+      "SourceEscaped": "ん？パーツがいっぱいだな",
+      "TargetEscaped": "Hmm? Your parts inventory is full.",
+      "SourceUtf8Sha256": "B9D6CD780F8DDE521CE823BE40FAFDE173BB0D02CC135A501B4B84C19CA5062C"
+    },
+    {
+      "SourceEscaped": "この前お前に、コールドバズーカを届けてもらっただろう？",
+      "TargetEscaped": "You delivered a Cold Bazooka to me earlier, right?",
+      "SourceUtf8Sha256": "3A2CB2E07B7C04FC1A1D1EC11D916FA4435830D34CECF16F57090C1BC555C530"
+    },
+    {
+      "SourceEscaped": "あれは敵を凍らせる武器だが、\\n惑星ゲルニアには\\u001b5敵の動きを\\n遅くする\\u001b0武器があるんだ",
+      "TargetEscaped": "That weapon freezes enemies,\\nbut Gernia has a weapon that \\u001b5slows\\nenemies down\\u001b0.",
+      "SourceUtf8Sha256": "DD05F824B3C3D7D1A51701DE6888E796EC2B628FAF87FFC4AF462AF921EEE3FC"
+    },
+    {
+      "SourceEscaped": "その名も\\u001b5ネットマグ\\u001b0",
+      "TargetEscaped": "It's called the \\u001b5Net Mag\\u001b0.",
+      "SourceUtf8Sha256": "590750DE38227239BBB72662C6B5C23A291FD925102857C0EEDDDC3CE4DEF2F6"
+    },
+    {
+      "SourceEscaped": "コールドバズーカ同様、\\u001b5惑星デゴ\\u001b0でこいつのデータ収集してもらいたいんだ",
+      "TargetEscaped": "As with the Cold Bazooka, I'd like data on its use on \\u001b5Planet Dego\\u001b0.",
+      "SourceUtf8Sha256": "49B606C0EEA2587BD276EA1658BA34C9DCB08C7DD81A90B709760BAD8B6B62AF"
+    },
+    {
+      "SourceEscaped": "そうだな…とりあえず、\\u001b5ルボノスシティ\\u001b0にいる\\u001b5ニーブ\\u001b0にこいつを渡してほしい",
+      "TargetEscaped": "Let's see... For now, give it to \\u001b5ニーブ\\u001b0 in \\u001b5Lubonos City\\u001b0.",
+      "SourceUtf8Sha256": "B1606F1CE5F35BB3AE72CADECF1BD7F460A12C449F74B4A20D54B5000288C46D"
+    },
+    {
+      "SourceEscaped": "ちゃんと届けてくれるなら、この武器を装備して使ってもらっても構わない",
+      "TargetEscaped": "As long as you deliver it properly, you may equip and use this weapon along the way.",
+      "SourceUtf8Sha256": "656BE99C9C8D7993F0EAE9744DFEC23633D9E03629B25993D07A218221F11124"
+    },
+    {
+      "SourceEscaped": "ただし、\\u001b4売ったり捨てたり\\u001b0するなよ",
+      "TargetEscaped": "But \\u001b4don't sell it or throw it away\\u001b0.",
+      "SourceUtf8Sha256": "2CCCD7893A0DBA77604B2193CBBF8B33A09471587CD301118E9EFCE30653DFBD"
+    },
+    {
+      "SourceEscaped": "\\u001b5ネットマグ\\u001b0を\\u001b5ルボノスシティ\\u001b0の\\u001b5ニーブ\\u001b0に渡してくれ",
+      "TargetEscaped": "Give the \\u001b5Net Mag\\u001b0 to \\u001b5ニーブ\\u001b0 in \\u001b5Lubonos City\\u001b0.",
+      "SourceUtf8Sha256": "920B0E141EFCC5935F945107A08AC313133E25E2ACA99AB49B1CEA7BCC546F17"
+    },
+    {
+      "SourceEscaped": "ソルシティから見る星空もまた一興",
+      "TargetEscaped": "The starry sky seen from Sol City has its own charm.",
+      "SourceUtf8Sha256": "8E5839283B79B7483933614969DE5144EFD7D6EA21510781D50EBD1ACAB2E7BF"
+    },
+    {
+      "SourceEscaped": "ソロネッツシティとは違う印象を受けるね",
+      "TargetEscaped": "It feels different from the view in Solonets City.",
+      "SourceUtf8Sha256": "13D465326711B99422BA138F6CB81207968555394DA509F95328E802BB24B96F"
+    },
+    {
+      "SourceEscaped": "このトンネルはフルビ遺跡につながっているんだな",
+      "TargetEscaped": "This tunnel leads to the Fulbi Ruins.",
+      "SourceUtf8Sha256": "3B93A7D564662C9B2590FE851BFF551995E722E61C221D167F2E3B5582DE920B"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡へ行くなら、仲間はたくさんいたほうがいいんだな",
+      "TargetEscaped": "If you're going to the Fulbi Ruins, the more allies you bring, the better.",
+      "SourceUtf8Sha256": "1A330C43E58A3AB69F3286830E43F3B6488481B709E30DE5092FCF3D2C51E58F"
+    },
+    {
+      "SourceEscaped": "この先はソルシティだ！",
+      "TargetEscaped": "Sol City lies ahead!",
+      "SourceUtf8Sha256": "9E83824149826B04E4658D3F84DA06030E8F7863EE5221DC7B2BF490EB07FE58"
+    },
+    {
+      "SourceEscaped": "こんなところで油を売ってないで、一匹でも多くの悪魔軍をぶっ潰せ！",
+      "TargetEscaped": "Stop wasting time here and smash as many Devil Army troops as you can!",
+      "SourceUtf8Sha256": "1AE2EC80035ADEA8C20C3BB6CDCE7CEFEDAC52C1D25D847A8DA6ED9F2C5C60D3"
+    },
+    {
+      "SourceEscaped": "この宇宙港からガルドへ向かうシャトルは出ていない",
+      "TargetEscaped": "No shuttles to Gald depart from this spaceport.",
+      "SourceUtf8Sha256": "A3B4FE7304D20CC7F1520BE08E68E8CC8542A447FB616CAD5A87747FC68B951B"
+    },
+    {
+      "SourceEscaped": "ガルドへ行きたいならソロネッツ宇宙港へ戻るんだな",
+      "TargetEscaped": "If you want to go to Gald, return to Solonets Spaceport.",
+      "SourceUtf8Sha256": "F0A84D3EE44E4F1308746929E9C5BBE7F4F3DA2F6763043F52C1D73809F1A264"
+    },
+    {
+      "SourceEscaped": "アクリル宇宙港へようこそ！",
+      "TargetEscaped": "Welcome to Acryl Spaceport!",
+      "SourceUtf8Sha256": "E1769DF064026BD23C83A1F1B81F3D29794C5BCCB964DB551D505800EB121232"
+    },
+    {
+      "SourceEscaped": "本宇宙港はポイーン行き、およびデゴ行きのシャトルを運航しています",
+      "TargetEscaped": "This spaceport operates shuttles to Poyeen and Dego.",
+      "SourceUtf8Sha256": "D24C74874C59C2CDA8DBB620BA95CE251C3410A3EB61EBD7A9A99465398E7E26"
+    },
+    {
+      "SourceEscaped": "ルボノスシティに向かうのであれば、こちらから惑星デゴ行きのシャトルにご搭乗ください",
+      "TargetEscaped": "If you're going to Lubonos City, board the shuttle to Planet Dego here.",
+      "SourceUtf8Sha256": "4CC6315AED7C616B8EE9A17EFB132BF349BBCE6195B75B6D0F1AC28D5F6BAFCC"
+    },
+    {
+      "SourceEscaped": "宇宙港のすぐ隣の町がルボノスシティです",
+      "TargetEscaped": "Lubonos City is the town right next to the spaceport.",
+      "SourceUtf8Sha256": "C7D83B17E67C2D3409AB7B84C2F86C6691699B286C7B2D2EB428CF8DF24780BA"
+    }
+  ]
+}

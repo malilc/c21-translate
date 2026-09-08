@@ -1,0 +1,19 @@
+{
+  "Description": "UI-only arena announcement template read before player/team substitution. Excludes null checks, serialization, gameplay models and event production.",
+  "Classes": [
+    {
+      "Class": "cosmic/ui/ArenaMissionPanel",
+      "SourceSha256": "AEF2D212E060569774745A8E3AF82E6D861086C741369EAA10AC7FA6786DE876",
+      "Sites": [
+        {
+          "Method": "settleRoulette",
+          "Descriptor": "(IILcosmic/ui/arena/ItemRoulettePane;Lcosmic/ui/arena/ItemRoulettePane;)V",
+          "Offset": 29,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "message",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    }
+  ]
+}

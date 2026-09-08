@@ -1,0 +1,668 @@
+[
+  {
+    "source": "全ての敵をレーダーで捕捉できる「ブロードレーダー」が使用可能",
+    "target": "Enables \"Broad Radar\": detects all enemies on radar.",
+    "acceptedAlternatives": [
+      "Enables \"Broad Radar\": detects all enemies on radar.",
+      "Enables Broad Radar, which detects all enemies"
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "ピコピコハンマー",
+    "target": "Squeaky Hammer",
+    "acceptedAlternatives": [
+      "Squeaky Hammer",
+      "Squeaky hammer"
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "実験剣",
+    "target": "Experimental Sword",
+    "acceptedAlternatives": [
+      "Experimental Sword",
+      "Experimental sword"
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "キツネ実験剣",
+    "target": "Experimental Fox Sword",
+    "acceptedAlternatives": [
+      "Experimental Fox Sword",
+      "Fox experimental sword"
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "受けるダメージを40%軽減し、スタン状態にならなくなります。 ※～ガード、ライザー、レジスト、アーマー系との重複不可",
+    "target": "Reduces damage taken by 40% and grants stun immunity. * Cannot stack with Guard, Riser, Resist, or Armor effects",
+    "acceptedAlternatives": [
+      "Reduces damage taken by 40% and grants stun immunity. * Cannot stack with Guard, Riser, Resist, or Armor effects",
+      "Reduces damage taken by 40% and prevents stun. Cannot stack with Guard, Riser, Resist, or Armor items."
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "桜ボール",
+    "target": "Sakura Ball",
+    "acceptedAlternatives": [
+      "Sakura Ball",
+      "Cherry Blossom Ball."
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "雨ボール",
+    "target": "Rain Ball",
+    "acceptedAlternatives": [
+      "Rain Ball",
+      "Rain Ball."
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "12th記念チケット",
+    "target": "12th Anniversary Ticket",
+    "acceptedAlternatives": [
+      "12th Anniversary Ticket",
+      "12th Anniversary Ticket."
+    ],
+    "reason": "Reviewed equivalent meaning; retain established item naming and concise UI wording."
+  },
+  {
+    "source": "俺の\u001b5メール\u001b0を無くしたのか？",
+    "target": "You lost my \u001b5mail\u001b0?",
+    "acceptedAlternatives": [
+      "You lost my \u001b5email\u001b0?",
+      "You lost my \u001b5mail\u001b0?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "キャリーページのアイテムが一杯な様です\nキャリーを整理してからいらして下さい",
+    "target": "The item section of your Carry seems full.\nPlease make some space before returning.",
+    "acceptedAlternatives": [
+      "The item section of your Carry seems full.\nPlease make some space before returning.",
+      "Your carry inventory seems full.\nPlease make room and come back."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "お願いできますか？",
+    "target": "Could you do that?",
+    "acceptedAlternatives": [
+      "Could you do that?",
+      "Will you help?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "まずはまだクリアしていない\n\u001b5【ストーリーミッション】\u001b0に挑戦してみてください！",
+    "target": "First, try a\n\u001b5【Story Mission】\u001b0 you have not yet cleared!",
+    "acceptedAlternatives": [
+      "First, try a\n\u001b5【Story Mission】\u001b0 you have not yet cleared!",
+      "First, try any\n\u001b5【Story Missions】\u001b0 you have not cleared!"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "全ての\u001b5【ストーリーミッション】\u001b0をクリアすれば、\u001b5【昇格ミッション】\u001b0が受けられます",
+    "target": "Clear all \u001b5【Story Missions】\u001b0 to unlock the \u001b5【Promotion Mission】\u001b0.",
+    "acceptedAlternatives": [
+      "Clear all the \u001b5【Story Mission】\u001b0 entries to unlock the \u001b5【Promotion Mission】\u001b0.",
+      "Clear all \u001b5【Story Missions】\u001b0 to unlock the \u001b5【Promotion Mission】\u001b0."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ここはセントラルベースへの\n転送エレベーターです！",
+    "target": "This is the transport elevator\nto Central Base!",
+    "acceptedAlternatives": [
+      "This is the transport elevator\nto Central Base!",
+      "This is the transfer elevator\nto Central Base!"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "貴方のデータを登録することで、\nセントラルベースとの往復が\n可能となります",
+    "target": "Once your data is registered,\nyou can travel back and forth\nbetween here and Central Base.",
+    "acceptedAlternatives": [
+      "Once your data is registered,\nyou can travel back and forth\nbetween here and Central Base.",
+      "Register your data\nto travel back and forth\nbetween here and Central Base."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "それではデータを登録します",
+    "target": "I will now register your data.",
+    "acceptedAlternatives": [
+      "I will now register your data.",
+      "Registering your data now."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ハテック博士のお弟子さんですか？",
+    "target": "Are you ハテック博士's apprentice?",
+    "acceptedAlternatives": [
+      "Are you ハテック博士's apprentice?",
+      "Dr. ハテック's apprentice?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ハテック博士が…",
+    "target": "Dr. ハテック...",
+    "acceptedAlternatives": [
+      "ハテック博士 said...",
+      "Dr. ハテック..."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "お願いします",
+    "target": "Please do.",
+    "acceptedAlternatives": [
+      "Please do.",
+      "Please."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "断る",
+    "target": "I refuse.",
+    "acceptedAlternatives": [
+      "I refuse.",
+      "Refuse"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "コチラ転送用レーダーデス",
+    "target": "This is the Transport Radar.",
+    "acceptedAlternatives": [
+      "This is the Transport Radar.",
+      "This is Transfer Radar."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "現在転送可能エリア、コチラデス",
+    "target": "These are the currently available destinations.",
+    "acceptedAlternatives": [
+      "These are the currently available destinations.",
+      "Currently available transfer destinations:"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "こんにちは、私はこのダンジョンの連絡員です",
+    "target": "Hello, I'm the liaison for this dungeon.",
+    "acceptedAlternatives": [
+      "Hello, I'm the liaison for this dungeon.",
+      "Hello, I am this dungeon's liaison."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "どうやったら入れるの？",
+    "target": "How do I get in?",
+    "acceptedAlternatives": [
+      "How do I get in?",
+      "How can I enter?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "この先のダンジョンで、何か聞きたい事はありますか？",
+    "target": "Is there anything you'd like to ask about the dungeon ahead?",
+    "acceptedAlternatives": [
+      "Is there anything you'd like to ask about the dungeon ahead?",
+      "Any questions about the dungeon ahead?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "起動出来ない方は、もう少し後になってから来て下さい",
+    "target": "If you cannot activate it, please return later.",
+    "acceptedAlternatives": [
+      "If you cannot activate it, please return later.",
+      "If you cannot activate it, come back a little later."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "それ以外のレベルですと、\nちょっと厳しいかと思います",
+    "target": "At other levels,\nit may be a little difficult.",
+    "acceptedAlternatives": [
+      "At other levels,\nit may be a little difficult.",
+      "At other levels,\nit may be a bit difficult."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "後ろにあるリンクポイントから地上へ戻れますよ",
+    "target": "You can return to the surface through the Link Point behind me.",
+    "acceptedAlternatives": [
+      "You can return to the surface through the Link Point behind me.",
+      "The link point behind you returns to the surface."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "リペアパック500 10個 2,000C$",
+    "target": "Repair Pack 500 x10: 2,000C$",
+    "acceptedAlternatives": [
+      "Repair Pack 500: 10 packs: 2,000C$",
+      "Repair Pack 500 x10: 2,000C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "エスケープゲート 1個 4,500C$",
+    "target": "Escape Gate x1: 4,500C$",
+    "acceptedAlternatives": [
+      "Escape Gate: 1 gate: 4,500C$",
+      "Escape Gate x1: 4,500C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "キャリーを整理してからまた来ていただけますか？",
+    "target": "Could you make some space in your Carry and come back?",
+    "acceptedAlternatives": [
+      "Could you make some space in your Carry and come back?",
+      "Could you make room in your carry inventory and return?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "お待ちしておりました！",
+    "target": "We've been waiting for you!",
+    "acceptedAlternatives": [
+      "We've been waiting for you!",
+      "We were waiting for you!"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "了解",
+    "target": "Roger.",
+    "acceptedAlternatives": [
+      "Roger.",
+      "Understood"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "聞かない",
+    "target": "Skip explanation",
+    "acceptedAlternatives": [
+      "Skip explanation",
+      "Don't Listen"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "聞く",
+    "target": "Listen",
+    "acceptedAlternatives": [
+      "Hear explanation",
+      "Listen"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "やめとく",
+    "target": "Not now",
+    "acceptedAlternatives": [
+      "Not now",
+      "I'll pass."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ダンジョンの弱点属性は？",
+    "target": "What elements are enemies weak to?",
+    "acceptedAlternatives": [
+      "What elements are enemies weak to?",
+      "What element are the dungeon enemies weak to?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ボスについて",
+    "target": "About the boss",
+    "acceptedAlternatives": [
+      "About the boss",
+      "About the Boss"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ダンジョンの構造について",
+    "target": "About the dungeon layout",
+    "acceptedAlternatives": [
+      "About the dungeon layout",
+      "About the Dungeon Layout"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "条件を聞こう",
+    "target": "Hear the conditions",
+    "acceptedAlternatives": [
+      "Hear the conditions",
+      "Let's hear the conditions."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "やめておく",
+    "target": "Not now",
+    "acceptedAlternatives": [
+      "Not now",
+      "I'll pass."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "挑戦する",
+    "target": "Take the Challenge",
+    "acceptedAlternatives": [
+      "Take the Challenge",
+      "Take the challenge"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ここはどこ？",
+    "target": "Where is this?",
+    "acceptedAlternatives": [
+      "Where is this?",
+      "Where am I?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "いや、違う",
+    "target": "No, that's wrong.",
+    "acceptedAlternatives": [
+      "No, that's wrong.",
+      "No, that's not it."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "そうだな",
+    "target": "I agree.",
+    "acceptedAlternatives": [
+      "I agree.",
+      "That's true."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "持っていません",
+    "target": "I don't have one.",
+    "acceptedAlternatives": [
+      "I don't have one.",
+      "I don't have it."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "自分で行って下さい",
+    "target": "Please go yourself.",
+    "acceptedAlternatives": [
+      "Go yourself.",
+      "Please go yourself."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "用は無いです",
+    "target": "I don't need anything.",
+    "acceptedAlternatives": [
+      "Nothing.",
+      "I don't need anything."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "あの！",
+    "target": "Excuse me!",
+    "acceptedAlternatives": [
+      "Excuse me!",
+      "Um!"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "いりません",
+    "target": "No thanks.",
+    "acceptedAlternatives": [
+      "No thanks.",
+      "I don't want it."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "欲しいです",
+    "target": "I'd like it.",
+    "acceptedAlternatives": [
+      "I want some.",
+      "I'd like it."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ポイーン：ポルド基地    ： 800C$",
+    "target": "Poyeen: Pold Base    : 800C$",
+    "acceptedAlternatives": [
+      "Poyeen: Pold Base    : 800C$",
+      "Poyeen: Pold Base: 800C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ポイーン：ポルド基地    ： 700C$",
+    "target": "Poyeen: Pold Base    : 700C$",
+    "acceptedAlternatives": [
+      "Poyeen: Pold Base    : 700C$",
+      "Poyeen: Pold Base: 700C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "琥珀の欠片5個、1,000C$",
+    "target": "5 Amber Fragments, 1,000C$",
+    "acceptedAlternatives": [
+      "5 Amber Fragments, 1,000C$",
+      "Amber Fragments: 5, 1,000C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "了解！",
+    "target": "Understood!",
+    "acceptedAlternatives": [
+      "Understood!",
+      "Roger!"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "話しかける",
+    "target": "Talk",
+    "acceptedAlternatives": [
+      "Talk",
+      "Talk to them"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "通る",
+    "target": "Go through",
+    "acceptedAlternatives": [
+      "Go through",
+      "Pass through"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "特に…",
+    "target": "Nothing really...",
+    "acceptedAlternatives": [
+      "Nothing really...",
+      "Nothing in particular..."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ダイヤを…",
+    "target": "The diamond...",
+    "acceptedAlternatives": [
+      "The diamond...",
+      "About the diamond..."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ポイーン：ポルド基地    ： 1100C$",
+    "target": "Poyeen: Pold Base    : 1100C$",
+    "acceptedAlternatives": [
+      "Poyeen: Pold Base    : 1100C$",
+      "Poyeen: Pold Base: 1100C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "氷雪の欠片5個、1,000C$",
+    "target": "5 Ice and Snow Fragments, 1,000C$",
+    "acceptedAlternatives": [
+      "5 Ice and Snow Fragments, 1,000C$",
+      "Ice and Snow Fragments: 5, 1,000C$"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "渡さない",
+    "target": "Do not hand it over",
+    "acceptedAlternatives": [
+      "Do not hand it over",
+      "Don't hand it over"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "助けに来た！",
+    "target": "I came to help!",
+    "acceptedAlternatives": [
+      "I came to help!",
+      "I've come to help!"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "助ける方法はないのか？",
+    "target": "Is there no way to save her?",
+    "acceptedAlternatives": [
+      "Is there no way to save her?",
+      "Isn't there a way to save her?"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "メモリーを抜かない",
+    "target": "Leave the memory in place",
+    "acceptedAlternatives": [
+      "Leave the memory in place",
+      "Don't remove the Memory"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "メモリーを抜く",
+    "target": "Remove the memory",
+    "acceptedAlternatives": [
+      "Remove the memory",
+      "Remove the Memory"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "いやだ",
+    "target": "No.",
+    "acceptedAlternatives": [
+      "No.",
+      "I don't want to."
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ブロンズチケットSP",
+    "target": "Bronze Ticket SP",
+    "acceptedAlternatives": [
+      "Bronze TicketSP",
+      "Bronze Ticket SP"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "シルバーチケットSP",
+    "target": "Silver Ticket SP",
+    "acceptedAlternatives": [
+      "Silver TicketSP",
+      "Silver Ticket SP"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "ゴールドチケットSP",
+    "target": "Gold Ticket SP",
+    "acceptedAlternatives": [
+      "Gold TicketSP",
+      "Gold Ticket SP"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "終点（EASY）",
+    "target": "Terminus (EASY)",
+    "acceptedAlternatives": [
+      "End Point (EASY)",
+      "Terminus (EASY)"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "終点（NORMAL）",
+    "target": "Terminus (NORMAL)",
+    "acceptedAlternatives": [
+      "End Point (NORMAL)",
+      "Terminus (NORMAL)"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "終点（HARD）",
+    "target": "Terminus (HARD)",
+    "acceptedAlternatives": [
+      "End Point (HARD)",
+      "Terminus (HARD)"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  },
+  {
+    "source": "終点（MASTER）",
+    "target": "Terminus (MASTER)",
+    "acceptedAlternatives": [
+      "End Point (MASTER)",
+      "Terminus (MASTER)"
+    ],
+    "reason": "Reviewed duplicate wording; preserve meaning, controls and compact display."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "Description": "Receive-side display only. Dedicated SystemEffectBridge enforces source -1, range 0, types4/8, exact full-message negative/heal/heal-owner templates and 34 exact names. Does not support trapstart.",
+  "Classes": [
+    {
+      "Class": "cosmic/stage/client/AbstractAreaClient",
+      "SourceSha256": "B670DDE7584C047808D4BBB0F152FF56918F93A13FE62A1DDDECB2E71021F093",
+      "Sites": [
+        {
+          "Method": "processChatEvent",
+          "Descriptor": "(Lcosmic/stage/event/CosmicChatEvent;)V",
+          "Offset": 407,
+          "Owner": "cosmic/stage/event/CosmicChatEvent",
+          "Name": "message",
+          "ReturnDescriptor": "Ljava/lang/String;",
+          "Helper": "systemEffectMessage"
+        }
+      ]
+    }
+  ]
+}

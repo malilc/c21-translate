@@ -1,0 +1,1359 @@
+{
+  "Description": "Pinned static item/part/NPC/link display names. Excludes player-controlled robot names, editable names, export data and original search predicates.",
+  "Classes": [
+    {
+      "Class": "cosmic/ui/ActionPopup$Item",
+      "SourceSha256": "BA5271588D07E2739D8EBC268EAB4CF29F8247777AA1D801DE7AD06BC9D93C88",
+      "Sites": [
+        {
+          "Method": "<init>",
+          "Descriptor": "(Lcosmic/stage/view/ItemViewModel;)V",
+          "Offset": 34,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "<init>",
+          "Descriptor": "(Lcosmic/stage/view/ItemViewModel;)V",
+          "Offset": 192,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "<init>",
+          "Descriptor": "(Lcosmic/stage/view/ItemViewModel;)V",
+          "Offset": 235,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/ActionPopup$LinkPopup",
+      "SourceSha256": "5A09761FE4AE03299AF4C83C0014FB9135C1625741C6CE1EB77C32D3047E5809",
+      "Sites": [
+        {
+          "Method": "printTrigger",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 151,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "paint",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 34,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "printLink",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 55,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "printLink",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 128,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "printTrigger",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 39,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "printTrigger",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 83,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "printTrigger",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 143,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/ChoosePartsPane$ReplaceInfo",
+      "SourceSha256": "BAB98EB04640BE5378F2F7C88645EBAE66EB07D22730E3711BE61F9CE9581BC3",
+      "Sites": [
+        {
+          "Method": "getText",
+          "Descriptor": "(I)Lkotori/kwt/TextFigure;",
+          "Offset": 34,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/CosmicHelpFactory",
+      "SourceSha256": "8B9AC7CFA0134BA2023FA7613E588DB75B6B0101D110143333406A3EC4E5842B",
+      "Sites": [
+        {
+          "Method": "createGeneralItemHelp",
+          "Descriptor": "(Lcosmic/robo/GeneralItem;)Lkotori/kwt/Component;",
+          "Offset": 86,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/RecipeSlidePanel",
+      "SourceSha256": "A70DEF3D2F85CA5A3BDB0EFCC0E7C13F11BA2243F9335F1193F59BDECBB106B4",
+      "Sites": [
+        {
+          "Method": "setMaterialPanel",
+          "Descriptor": "(Lcosmic/robo/AbstractItemData;Lcosmic/robo/ItemRecipeData$Material;II)Lcosmic/ui/RecipeSlidePanel$MaterialPanel;",
+          "Offset": 1,
+          "Owner": "cosmic/robo/AbstractItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/RoboPartsBTOBox$BTOListCellRenderer",
+      "SourceSha256": "C1A8B3897520CC846AAE1DC61C49742D53F6A8E7A780BC708EACB3660D818C0D",
+      "Sites": [
+        {
+          "Method": "getListCellRendererFigure",
+          "Descriptor": "(Lkotori/kwt/ListPanel;Ljava/lang/Object;II)Lkotori/kwt/Figure;",
+          "Offset": 52,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "getListCellRendererFigure",
+          "Descriptor": "(Lkotori/kwt/ListPanel;Ljava/lang/Object;II)Lkotori/kwt/Figure;",
+          "Offset": 161,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "getListCellRendererFigure",
+          "Descriptor": "(Lkotori/kwt/ListPanel;Ljava/lang/Object;II)Lkotori/kwt/Figure;",
+          "Offset": 258,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/AuctionBuyPanel",
+      "SourceSha256": "8CF3E258A2FCE51471DC8287D49D0698A439F2FACB2C87D2B594BC4FF1854A7E",
+      "Sites": [
+        {
+          "Method": "setPartsLeft",
+          "Descriptor": "(Ljava/util/ArrayList;)V",
+          "Offset": 45,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setItemLeft",
+          "Descriptor": "(Ljava/util/ArrayList;)V",
+          "Offset": 45,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setPartsRight",
+          "Descriptor": "([Lcosmic/sys/AuctionParts;)V",
+          "Offset": 88,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "setItemRight",
+          "Descriptor": "([Lcosmic/sys/AuctionItem;)V",
+          "Offset": 88,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/DepartItemBuyPanel",
+      "SourceSha256": "DE8A4C1F3D785513E7BC2867B374672058EB18E449085A77BE70DBC1FCACC7D5",
+      "Sites": [
+        {
+          "Method": "updateSummary",
+          "Descriptor": "(Lcosmic/robo/GeneralItem;)V",
+          "Offset": 22,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/DepartPartsBuyPanel",
+      "SourceSha256": "529137C1AA10DCB6700A488EC89425CAD52300DED0005C14B6A41615CC54D316",
+      "Sites": [
+        {
+          "Method": "updateSummary",
+          "Descriptor": "(Lcosmic/robo/RoboPartsItem;)V",
+          "Offset": 30,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/GachaPanel$GachaCellRenderer",
+      "SourceSha256": "5477F41B320F536DC958B0D5454EBFC42365988965FD9FAFE7B4EBC558429971",
+      "Sites": [
+        {
+          "Method": "setItemPanel",
+          "Descriptor": "(Lcosmic/ui/custom/GachaPanel$ItemGachaResult;)V",
+          "Offset": 31,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setPartsPanel",
+          "Descriptor": "(Lcosmic/ui/custom/GachaPanel$PartsGachaResult;)V",
+          "Offset": 45,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/GachaPanel$PrizeCellRenderer",
+      "SourceSha256": "CEE0B64B01061602BF613F86D2AFADB59275579E3B0360624D6A4BD3F4A0DEDA",
+      "Sites": [
+        {
+          "Method": "setItemPanel",
+          "Descriptor": "(Lcosmic/sys/GachaData$ItemPrize;)V",
+          "Offset": 41,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setPartsPanel",
+          "Descriptor": "(Lcosmic/sys/GachaData$PartsPrize;)V",
+          "Offset": 72,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/GachaPanel$PrizeInfoCellRender",
+      "SourceSha256": "56661827482B099DCB3DF28AE1C4900F09F3CDD975A80F8F6150AAD1685D291B",
+      "Sites": [
+        {
+          "Method": "setItemPanel",
+          "Descriptor": "(Lcosmic/ui/custom/GachaPanel$ItemGachaResult;)V",
+          "Offset": 31,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setPartsPanel",
+          "Descriptor": "(Lcosmic/ui/custom/GachaPanel$PartsGachaResult;)V",
+          "Offset": 45,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/GachaPanel",
+      "SourceSha256": "849B9D76746BC6BF2AE5B5510E8C2C99347BB484CFB2A757AB54129AAE921280",
+      "Sites": [
+        {
+          "Method": "itemPhase2",
+          "Descriptor": "(Lcosmic/ui/custom/GachaPanel$ItemGachaResult;)V",
+          "Offset": 21,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "partsPhase2",
+          "Descriptor": "(Lcosmic/ui/custom/GachaPanel$PartsGachaResult;)V",
+          "Offset": 22,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/ItemBuySellPanel",
+      "SourceSha256": "4C6720A32ED5CA576B5D9008D00DF6F93028F7F675A2768F375846D9D04AA7EB",
+      "Sites": [
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 79,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 197,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSummary",
+          "Descriptor": "(Lcosmic/robo/GeneralItem;)V",
+          "Offset": 24,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSummary",
+          "Descriptor": "(Lcosmic/robo/GeneralItem;)V",
+          "Offset": 96,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/ItemCombinePanel",
+      "SourceSha256": "5899479FE90C9BCAE78CAD483C8530C130D681BA09C1B08F83FEECAF50E74BA3",
+      "Sites": [
+        {
+          "Method": "startCombine",
+          "Descriptor": "(Lcosmic/robo/ItemRecipeData;)V",
+          "Offset": 76,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSafetyPlus",
+          "Descriptor": "()V",
+          "Offset": 33,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sum",
+          "Descriptor": "(Lcosmic/util/SumTable;[II)Ljava/lang/String;",
+          "Offset": 93,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "addSystemInfoMessage",
+          "Descriptor": "(Lcosmic/robo/ItemRecipeData;I[ILcosmic/util/SumTable;)V",
+          "Offset": 75,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/MissionSelectPanel",
+      "SourceSha256": "CDBD0169344349B4A7AFDDDFDFEAE143AB55C0D4CEAD50DDD3B39DC4F6B349EB",
+      "Sites": [
+        {
+          "Method": "getDropNameString",
+          "Descriptor": "(Lcosmic/robo/Drop;)Ljava/lang/String;",
+          "Offset": 115,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "getDropNameString",
+          "Descriptor": "(Lcosmic/robo/Drop;)Ljava/lang/String;",
+          "Offset": 159,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsBuySellPanel",
+      "SourceSha256": "3A5AD6E5AD4BEC02C18E2359DAE61642BA75365005ED0021171581F1D3A48FB0",
+      "Sites": [
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 79,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 197,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSummary",
+          "Descriptor": "(Lcosmic/robo/RoboPartsItem;)V",
+          "Offset": 32,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSummary",
+          "Descriptor": "(Lcosmic/robo/RoboPartsItem;)V",
+          "Offset": 108,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsCombinePanel",
+      "SourceSha256": "364F0E2AAF2C374A82F198CC578BE33247022F760341964601D5BF609F799A7C",
+      "Sites": [
+        {
+          "Method": "startCombine",
+          "Descriptor": "(Lcosmic/robo/ItemRecipeData;)V",
+          "Offset": 76,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSafetyPlus",
+          "Descriptor": "()V",
+          "Offset": 33,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sum",
+          "Descriptor": "(Lcosmic/util/SumTable;[II)Ljava/lang/String;",
+          "Offset": 93,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "addSystemInfoMessage",
+          "Descriptor": "(Lcosmic/robo/PartsRecipeData;I[ILcosmic/util/SumTable;)V",
+          "Offset": 75,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsItemGaragePanel$PresentSearchPanel",
+      "SourceSha256": "655F184A9E87B1F54722F5D2F2889485327A69BECCAB934DD0333D26869D6A72",
+      "Sites": [
+        {
+          "Method": "search",
+          "Descriptor": "(Ljava/lang/String;)V",
+          "Offset": 514,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "search",
+          "Descriptor": "(Ljava/lang/String;)V",
+          "Offset": 238,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsItemGaragePanel",
+      "SourceSha256": "2BA8E5BE51C56C374F7ED658210BBFAF0AAB6A8EC8674E0A7EA4B4E0C4383F31",
+      "Sites": [
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 116,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 250,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 408,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 542,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 158,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "sell",
+          "Descriptor": "()V",
+          "Offset": 450,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "gift",
+          "Descriptor": "(Ljava/lang/String;Ljava/lang/String;)V",
+          "Offset": 66,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "gift",
+          "Descriptor": "(Ljava/lang/String;Ljava/lang/String;)V",
+          "Offset": 150,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsUpgradePanel",
+      "SourceSha256": "EF31B2A3D200F48434477A1383954088432D7C7F5046684F44B3DC717817636C",
+      "Sites": [
+        {
+          "Method": "startUpgrade",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;)V",
+          "Offset": 57,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setMaterial",
+          "Descriptor": "(Lcosmic/ui/RecipeSlidePanel$MaterialPanel;Lcosmic/robo/ItemRecipeData$Material;)V",
+          "Offset": 83,
+          "Owner": "cosmic/robo/AbstractItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateSafetyPlus",
+          "Descriptor": "()V",
+          "Offset": 33,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "addSystemInfoMessage",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;Z)V",
+          "Offset": 56,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "addSystemInfoMessage",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;Z)V",
+          "Offset": 140,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "startUpgrade",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;)V",
+          "Offset": 281,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "setResultRoboParts",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;)V",
+          "Offset": 43,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "phase1",
+          "Descriptor": "(IZ)V",
+          "Offset": 175,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "addSystemInfoMessage",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;Z)V",
+          "Offset": 87,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "addSystemInfoMessage",
+          "Descriptor": "(Lcosmic/robo/UpgradeRecipeData;Z)V",
+          "Offset": 117,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/RoboBuySellPanel",
+      "SourceSha256": "9E64CB5A0ED72C335E181737862F6669F8A9B32026757686FCFC3BF88110D0A1",
+      "Sites": [
+        {
+          "Method": "setSummary",
+          "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+          "Offset": 241,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/SimplePartsParamPanel",
+      "SourceSha256": "E5F78A036572E8D4A16163AE12FA2E6EC74E36B5D4F0493A571A163341C7E558",
+      "Sites": [
+        {
+          "Method": "showSimplePartsParamDialog",
+          "Descriptor": "(Ljava/lang/String;Lcosmic/robo/RoboParts;Lkotori/kwt/KWTReplyData;Ljava/lang/String;)V",
+          "Offset": 10,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "showSimplePartsParamDialog",
+          "Descriptor": "(Ljava/lang/String;Lcosmic/robo/RoboParts;Lkotori/kwt/Component;Ljava/lang/String;)V",
+          "Offset": 10,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setShowMainWeaponData",
+          "Descriptor": "(Lcosmic/robo/AttackData;Lcosmic/robo/AttackParam;Ljava/lang/String;)Ljava/lang/String;",
+          "Offset": 12,
+          "Owner": "cosmic/robo/AttackData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setShowSubWeaponData",
+          "Descriptor": "(Lcosmic/robo/AttackData;Lcosmic/robo/AttackParam;Ljava/lang/String;)Ljava/lang/String;",
+          "Offset": 12,
+          "Owner": "cosmic/robo/AttackData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/SimplePartsParamYesNoPanel",
+      "SourceSha256": "668043936E4C79E51D070620F4BB68CD85C99F6DED3E86444BF5F477E64B3D4E",
+      "Sites": [
+        {
+          "Method": "showSimplePartsParamYesNoDialog",
+          "Descriptor": "(Ljava/lang/String;Lcosmic/robo/RoboParts;Lkotori/kwt/KWTReplyData;Ljava/lang/String;Ljava/lang/String;)V",
+          "Offset": 10,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "showSimplePartsParamYesNoDialog",
+          "Descriptor": "(Ljava/lang/String;Lcosmic/robo/RoboParts;Lkotori/kwt/Component;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V",
+          "Offset": 10,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/help/ItemComment",
+      "SourceSha256": "8C4E7E0A3AACD1C559B1B968D1DE226FF7845583BBAF19AA77D4DD1B94B13C55",
+      "Sites": [
+        {
+          "Method": "paint",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 58,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/help/RoboPartsComment",
+      "SourceSha256": "3E1974C335D8E280482E048856DFBD58292796C50AFD059E7B840868041CEC18",
+      "Sites": [
+        {
+          "Method": "set",
+          "Descriptor": "(Lcosmic/robo/RoboPartsItem;)V",
+          "Offset": 323,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "set",
+          "Descriptor": "(Lcosmic/robo/RoboPartsItem;)V",
+          "Offset": 3067,
+          "Owner": "cosmic/robo/AttackData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "set",
+          "Descriptor": "(Lcosmic/robo/RoboPartsItem;)V",
+          "Offset": 5111,
+          "Owner": "cosmic/robo/AttackData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/shop/ShoppingReceiptPanel",
+      "SourceSha256": "35B1B9E887C11D0848E4B653D7A9FCCB44D5E44432811E6E066D29F2A599FBF0",
+      "Sites": [
+        {
+          "Method": "updateContents",
+          "Descriptor": "()V",
+          "Offset": 284,
+          "Owner": "cosmic/robo/GeneralItemData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "updateContents",
+          "Descriptor": "()V",
+          "Offset": 391,
+          "Owner": "cosmic/robo/RoboParts",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/ActionPopup$Link",
+      "SourceSha256": "7BA72D910A540D440D8B6BEB9AB1D7431310D572820780B04F53C7666C2687D5",
+      "Sites": [
+        {
+          "Method": "<init>",
+          "Descriptor": "(Lcosmic/stage/SimpleLinkData;)V",
+          "Offset": 10,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/MapPreviewWindow",
+      "SourceSha256": "A439853B760298427A59CA59C01AD2032747E9B6F0BEB65F0C8A1A297165B202",
+      "Sites": [
+        {
+          "Method": "paint",
+          "Descriptor": "(Lkotori/kwt/KWTGraphics;)V",
+          "Offset": 1775,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/RewardPanel",
+      "SourceSha256": "F87A17EF6D28F0B12DA82A732291C77B66E240E3EBFB802EAB77FB9DD880C035",
+      "Sites": [
+        {
+          "Method": "selectAction",
+          "Descriptor": "(I)V",
+          "Offset": 68,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "selectAction",
+          "Descriptor": "(I)V",
+          "Offset": 137,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/RoboStatusPanel",
+      "SourceSha256": "C4262A35AE25BA3B830D10E2B1994AD90060757281D1FC17D74E3B7FFED57729",
+      "Sites": [
+        {
+          "Method": "setAtkStatusPanel",
+          "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+          "Offset": 87,
+          "Owner": "cosmic/robo/AttackData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        },
+        {
+          "Method": "setAtkStatusPanel",
+          "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+          "Offset": 340,
+          "Owner": "cosmic/robo/AttackData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/StagePanel",
+      "SourceSha256": "9919DA9A85A261F6C3D534886585F8485D7E80A61285545D90C67AC3E57D31C3",
+      "Sites": [
+        {
+          "Method": "setActionObject",
+          "Descriptor": "(Ljava/lang/Object;)V",
+          "Offset": 208,
+          "Owner": "cosmic/stage/SimpleLinkData",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/AuctionSellPanel",
+      "SourceSha256": "3B1120A3DBEEC0EA4428B89FFC43AA0DC8F7D9F0351E5404477048D6C9094949",
+      "Sites": [
+        {
+          "Method": "setParts",
+          "Descriptor": "([Lcosmic/sys/AuctionParts;)V",
+          "Offset": 92,
+          "Owner": "cosmic/robo/AbstractItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "setItem",
+          "Descriptor": "([Lcosmic/sys/AuctionItem;)V",
+          "Offset": 94,
+          "Owner": "cosmic/robo/AbstractItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "actionPerformed",
+          "Descriptor": "(Lkotori/kwt/event/ActionEvent;)V",
+          "Offset": 258,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "actionPerformed",
+          "Descriptor": "(Lkotori/kwt/event/ActionEvent;)V",
+          "Offset": 524,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogParts",
+          "Descriptor": "(I)V",
+          "Offset": 66,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogParts",
+          "Descriptor": "(I)V",
+          "Offset": 313,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogParts",
+          "Descriptor": "(I)V",
+          "Offset": 583,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogParts",
+          "Descriptor": "(I)V",
+          "Offset": 1116,
+          "Owner": "cosmic/robo/RoboPartsItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogItem",
+          "Descriptor": "(I)V",
+          "Offset": 100,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogItem",
+          "Descriptor": "(I)V",
+          "Offset": 351,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogItem",
+          "Descriptor": "(I)V",
+          "Offset": 682,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        },
+        {
+          "Method": "openDialogItem",
+          "Descriptor": "(I)V",
+          "Offset": 1270,
+          "Owner": "cosmic/robo/GeneralItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/custom/RoboPaintEasy2Panel",
+      "SourceSha256": "023FB71E944DC712BEDDD012A86704EEB1F9C3782138B71A32CFE6286620ADE1",
+      "Sites": [
+        {
+          "Method": "setColorStyle",
+          "Descriptor": "([Lcosmic/robo/ColorStyle;)V",
+          "Offset": 37,
+          "Owner": "cosmic/robo/ColorStyle",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/dialog/ItemSellDialog$PartsItemSellListCellRenderer",
+      "SourceSha256": "3B9D3EEE530301676967A2BAB356AEEB8C39231477D14851EEB7B3AC09B32195",
+      "Sites": [
+        {
+          "Method": "updateModels",
+          "Descriptor": "()V",
+          "Offset": 86,
+          "Owner": "cosmic/robo/AbstractItem",
+          "Name": "getName",
+          "ReturnDescriptor": "()Ljava/lang/String;"
+        }
+      ]
+    },
+    {
+      "Class": "cosmic/ui/help/CardComment",
+      "SourceSha256": "F6AC16BDE5E408D0F6B02B701CF60D7E8CFFEC521992C456B34B689880E6FB17",
+      "Sites": [
+        {
+          "Method": "<init>",
+          "Descriptor": "(Lcosmic/robo/GeneralItemData;)V",
+          "Offset": 169,
+          "Owner": "cosmic/robo/CardData",
+          "Name": "name",
+          "ReturnDescriptor": "Ljava/lang/String;"
+        }
+      ]
+    }
+  ],
+  "Excluded": [
+    {
+      "Class": "cosmic/ui/custom/AuctionBuyPanel",
+      "Reason": "Original-language search predicate; needs bilingual search design.",
+      "Method": "getPartsList",
+      "Descriptor": "(Ljava/lang/String;[I)Ljava/util/ArrayList;",
+      "Offset": 79,
+      "Owner": "cosmic/robo/RoboParts",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/AuctionBuyPanel",
+      "Reason": "Original-language search predicate; needs bilingual search design.",
+      "Method": "getItemList",
+      "Descriptor": "(Ljava/lang/String;I)Ljava/util/ArrayList;",
+      "Offset": 59,
+      "Owner": "cosmic/robo/GeneralItemData",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/ItemCombinePanel",
+      "Reason": "Original-language recipe search predicate; needs bilingual search design.",
+      "Method": "checkSearchrecipe",
+      "Descriptor": "(Lcosmic/robo/ItemRecipeData;Ljava/lang/String;)Z",
+      "Offset": 96,
+      "Owner": "cosmic/robo/GeneralItemData",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsCombinePanel",
+      "Reason": "Original-language recipe search predicate; needs bilingual search design.",
+      "Method": "checkSearchrecipe",
+      "Descriptor": "(Lcosmic/robo/ItemRecipeData;Ljava/lang/String;)Z",
+      "Offset": 495,
+      "Owner": "cosmic/robo/GeneralItemData",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/RoboGaragePanel",
+      "Reason": "Editable rename dialog seed; preserve original.",
+      "Method": "actionPerformed",
+      "Descriptor": "(Lkotori/kwt/event/ActionEvent;)V",
+      "Offset": 499,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/SkinEditPanel",
+      "Reason": "Export filename / workshop metadata; preserve original.",
+      "Method": "exportImage",
+      "Descriptor": "()V",
+      "Offset": 396,
+      "Owner": "cosmic/robo/RoboParts",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/SkinEditPanel",
+      "Reason": "Export filename / workshop metadata; preserve original.",
+      "Method": "exportImage",
+      "Descriptor": "()V",
+      "Offset": 460,
+      "Owner": "cosmic/robo/RoboParts",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/ItemCombinePanel",
+      "Reason": "Original-language search; preserve predicate.",
+      "Method": "checkSearchrecipe",
+      "Descriptor": "(Lcosmic/robo/ItemRecipeData;Ljava/lang/String;)Z",
+      "Offset": 143,
+      "Owner": "cosmic/robo/RoboPartsItem",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;"
+    },
+    {
+      "Class": "cosmic/ui/custom/PartsCombinePanel",
+      "Reason": "Original-language search; preserve predicate.",
+      "Method": "checkSearchrecipe",
+      "Descriptor": "(Lcosmic/robo/ItemRecipeData;Ljava/lang/String;)Z",
+      "Offset": 542,
+      "Owner": "cosmic/robo/RoboPartsItem",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;"
+    }
+  ],
+  "ExcludedUserNameSites": [
+    {
+      "Method": "updateSummary",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 15,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/RoboSelectPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "roboDataUpdated",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 155,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/AbstractRoboPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "setSummary",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 9,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/DepartRoboBuyPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateSummary",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 17,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/MissionRoboSelectPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "setSummary",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 9,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/RoboBuySellPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateSummary",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 17,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/RoboGaragePanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateRoboData",
+      "Descriptor": "()V",
+      "Offset": 131,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/RoboMake2Panel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "setRoboData",
+      "Descriptor": "(Lcosmic/robo/UserRoboData;)V",
+      "Offset": 118,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/RoboMake3Panel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateRoboData",
+      "Descriptor": "()V",
+      "Offset": 68,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/RoboPaint2Panel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "actionPerformed",
+      "Descriptor": "(Lkotori/kwt/event/ActionEvent;)V",
+      "Offset": 409,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/RoboPaint2Panel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateRoboData",
+      "Descriptor": "()V",
+      "Offset": 8,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/custom/SkinEditPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateModels",
+      "Descriptor": "()V",
+      "Offset": 131,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/dialog/ItemSellDialog$RoboSellListCellRenderer",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "getListCellRendererFigure",
+      "Descriptor": "(Lkotori/kwt/ListPanel;Ljava/lang/Object;II)Lkotori/kwt/Figure;",
+      "Offset": 13,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/dialog/RoboDissolveDialog$RoboListCellRenderer",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "updateModels",
+      "Descriptor": "()V",
+      "Offset": 154,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/dialog/RoboDissolveDialog$RoboListCellRenderer",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "setCommandoData",
+      "Descriptor": "(Lcosmic/robo/UserCommandoData;)V",
+      "Offset": 135,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/root/StatusBigPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "setUserCommandoData",
+      "Descriptor": "(Lcosmic/robo/UserCommandoData;)V",
+      "Offset": 135,
+      "Owner": "cosmic/robo/UserRoboData",
+      "Name": "getName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/root/StatusSmallPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "<init>",
+      "Descriptor": "(Lcosmic/stage/view/RoboViewModel;)V",
+      "Offset": 116,
+      "Owner": "cosmic/stage/SimpleRoboData",
+      "Name": "name",
+      "ReturnDescriptor": "Ljava/lang/String;",
+      "Class": "cosmic/ui/RoboNameBalloon",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "getName",
+      "Descriptor": "(Lcosmic/stage/view/RoboViewModel;)Ljava/lang/String;",
+      "Offset": 10,
+      "Owner": "cosmic/stage/view/RoboViewModel",
+      "Name": "getRoboName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/GameSetPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "<init>",
+      "Descriptor": "(Lcosmic/stage/view/RoboViewModel;Ljava/lang/String;ILcosmic/ui/StagePanel;)V",
+      "Offset": 276,
+      "Owner": "cosmic/stage/view/RoboViewModel",
+      "Name": "getRoboName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/SpeakWindow",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "finishContainerData",
+      "Descriptor": "()V",
+      "Offset": 211,
+      "Owner": "cosmic/stage/view/RoboViewModel",
+      "Name": "getRoboName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/TalkPanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "gameset",
+      "Descriptor": "()V",
+      "Offset": 391,
+      "Owner": "cosmic/stage/view/RoboViewModel",
+      "Name": "getRoboName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/TrainingScorePanel",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    },
+    {
+      "Method": "init",
+      "Descriptor": "(Lcosmic/ui/StagePanel;)V",
+      "Offset": 23,
+      "Owner": "cosmic/stage/RoboModel",
+      "Name": "getRoboName",
+      "ReturnDescriptor": "()Ljava/lang/String;",
+      "Class": "cosmic/ui/arena/PlayerInfo",
+      "Reason": "Name can be player-chosen; no reliable original/default-name provenance. Leave original display untouched."
+    }
+  ]
+}

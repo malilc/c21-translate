@@ -1,0 +1,4344 @@
+{
+  "Entries": [
+    {
+      "SourceEscaped": "ルーキー",
+      "TargetEscaped": "Rookie",
+      "SourceUtf8Sha256": "65A943AD904D0B6081676CACA9BFEDCC0B1AC078B4BD82276B135ABDD4E7407D"
+    },
+    {
+      "SourceEscaped": "一等兵",
+      "TargetEscaped": "PFC",
+      "SourceUtf8Sha256": "F99B55B744D17E3D69C130E3A331A70F4274E4795A7BD9F545CFDEDD748A9233"
+    },
+    {
+      "SourceEscaped": "上等兵",
+      "TargetEscaped": "Sr. Private",
+      "SourceUtf8Sha256": "B813E734ED72B6157D73DEB96424491946F4193858F832A89AB58FCEDB0ACA77"
+    },
+    {
+      "SourceEscaped": "兵長",
+      "TargetEscaped": "Corporal",
+      "SourceUtf8Sha256": "2CA3237664D6E8568167C7F5EED8AC351F2DB7BBF18F852F790CD7F11FF89608"
+    },
+    {
+      "SourceEscaped": "軍曹",
+      "TargetEscaped": "Sergeant",
+      "SourceUtf8Sha256": "5EE7A585CC1CAC4A9534F80F038E701C102ADDE12B90B8FD3E9A4393B084398D"
+    },
+    {
+      "SourceEscaped": "少尉",
+      "TargetEscaped": "2nd Lt.",
+      "SourceUtf8Sha256": "382E8F609B80A0B7CC68D39F26BF89D1C4AE91DDB6745D8D4A3C4B5B344EF755"
+    },
+    {
+      "SourceEscaped": "中尉",
+      "TargetEscaped": "1st Lt.",
+      "SourceUtf8Sha256": "E6CA4FC753D3406541CCDB35F2A1F34AFDB1FBC04E5E5BE7BFD9D65B7A195C92"
+    },
+    {
+      "SourceEscaped": "大尉",
+      "TargetEscaped": "Captain",
+      "SourceUtf8Sha256": "12EB2B5FACDC1B7FEEBF11C5EAA688CF9E6CFF51E60450A43AE6D682BF6557FE"
+    },
+    {
+      "SourceEscaped": "少佐",
+      "TargetEscaped": "Major",
+      "SourceUtf8Sha256": "F49D63FD783B0AADD13897C4446C5CE61910DF80977B341065C0EC53BBD4E1CA"
+    },
+    {
+      "SourceEscaped": "中佐",
+      "TargetEscaped": "Lt. Colonel",
+      "SourceUtf8Sha256": "614296CF7905571BE544AD680B95B6EB31D0EF37F08B4C03C68C6C78CBF82577"
+    },
+    {
+      "SourceEscaped": "大佐",
+      "TargetEscaped": "Colonel",
+      "SourceUtf8Sha256": "A75D6C6C3BB0BA528A0828D4F3C9791D0D83B4ADE04FB335EADB2A96A0376809"
+    },
+    {
+      "SourceEscaped": "開発",
+      "TargetEscaped": "Developer",
+      "SourceUtf8Sha256": "437A172D7B13DBDA65D23486AD1646D2050B4B50C99F494BFFEDD3DF12BCBB66"
+    },
+    {
+      "SourceEscaped": "スタッフ",
+      "TargetEscaped": "Staff",
+      "SourceUtf8Sha256": "DF34211F2E97EBF8F1EE725B576FDB192510B4242C8960A4F49AEE5FD09D6E7B"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HPが2%上昇",
+      "TargetEscaped": "[Body] Max HP +2%",
+      "SourceUtf8Sha256": "E0F7891ECC7BA5F1DC0C08E5E7283D0B13997775124CC0AA3D685724587F2B77"
+    },
+    {
+      "SourceEscaped": "最大HP+1",
+      "TargetEscaped": "Max HP+1",
+      "SourceUtf8Sha256": "267F5200C79384FA5452D2949E8555952F289872BE4FA07F26BB9EBBD35A04AD"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HPが4%上昇",
+      "TargetEscaped": "[Body] Max HP +4%",
+      "SourceUtf8Sha256": "A04B2455FEC8BACF4949601AB17988B2FB358E7E454D54C946A9FCECAE1B6D82"
+    },
+    {
+      "SourceEscaped": "最大HP+2",
+      "TargetEscaped": "Max HP+2",
+      "SourceUtf8Sha256": "CB538FF7E096D8E4822D969FE495B630311E213B7D2F327AC799D9F4BFA2B0A8"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HPが6%上昇",
+      "TargetEscaped": "[Body] Max HP +6%",
+      "SourceUtf8Sha256": "26090EA680430D0007F8289B3EAFE50794D9481757EB78B9AC6A2BA436118DF8"
+    },
+    {
+      "SourceEscaped": "最大HP+3",
+      "TargetEscaped": "Max HP+3",
+      "SourceUtf8Sha256": "CD30BA3F69A57E4A3019951244E5B2F64195CA4AF401F0AD821E0F82990C507F"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大ENが2%上昇",
+      "TargetEscaped": "[Body] Max EN +2%",
+      "SourceUtf8Sha256": "4119EBC79679F2C3120EE6C1698D45FCE253F4209CAF170FC4BE340838A96DBA"
+    },
+    {
+      "SourceEscaped": "最大EN+1",
+      "TargetEscaped": "Max EN+1",
+      "SourceUtf8Sha256": "B048AC36E361859874C309C58001C942F78257BA89643DACDA1A636F6EF579CB"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大ENが4%上昇",
+      "TargetEscaped": "[Body] Max EN +4%",
+      "SourceUtf8Sha256": "D519CBC788448E26D200D77B254FA407305C1D19D9A99154987312D1960DD383"
+    },
+    {
+      "SourceEscaped": "最大EN+2",
+      "TargetEscaped": "Max EN+2",
+      "SourceUtf8Sha256": "C862C878563F630CC931CBB026244A17173DFE6528963299075183D1164EC6FD"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大ENが6%上昇",
+      "TargetEscaped": "[Body] Max EN +6%",
+      "SourceUtf8Sha256": "F567B6FF58AB20BFBB0F161097E9DDAE2D6079E7C5D3AE5555A7752DD2CAEBF4"
+    },
+    {
+      "SourceEscaped": "最大EN+3",
+      "TargetEscaped": "Max EN+3",
+      "SourceUtf8Sha256": "0E0C0D9ECAB3DE99AD7EF4CA78BE6F3C6B687116220CD0A031158239F0BE7BDD"
+    },
+    {
+      "SourceEscaped": "【機体強化】EN回復量が1%上昇",
+      "TargetEscaped": "[Body] EN Regen +1%",
+      "SourceUtf8Sha256": "35545C50C498C43A0D3965E32E805BCE0FA7238EE219AF83F16B93230F2567DB"
+    },
+    {
+      "SourceEscaped": "EN回復+1",
+      "TargetEscaped": "EN Regen+1",
+      "SourceUtf8Sha256": "1BD1060B9894701DF9184B6902B051EBFBA88B82DB7D5735146C5D6AA959A6B8"
+    },
+    {
+      "SourceEscaped": "【機体強化】EN回復量が2%上昇",
+      "TargetEscaped": "[Body] EN Regen +2%",
+      "SourceUtf8Sha256": "18BD2388E7E4294193B915B3871BBEE470FE5105426BC7C9869FE4C032F0DC14"
+    },
+    {
+      "SourceEscaped": "EN回復+2",
+      "TargetEscaped": "EN Regen+2",
+      "SourceUtf8Sha256": "D2407FA1774EE7588D2B393A677698DB30BE6C758A0487E0EE4439D1CFF4A280"
+    },
+    {
+      "SourceEscaped": "【機体強化】EN回復量が3%上昇",
+      "TargetEscaped": "[Body] EN Regen +3%",
+      "SourceUtf8Sha256": "F5431C4DA40ADEAFF6AFF1A9084132119AD51D7B34DF4754021A9EDDBAC79CDE"
+    },
+    {
+      "SourceEscaped": "EN回復+3",
+      "TargetEscaped": "EN Regen+3",
+      "SourceUtf8Sha256": "2448E88095FB1F931AAA356E3D514111074E65048DBBE4C137566601C40641B2"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HP・ENが2%上昇",
+      "TargetEscaped": "[Body] Max HP/EN +2%",
+      "SourceUtf8Sha256": "0F45245060B36472062C3E889BBFD6482071BE28DCB077B7E67E21DB8DB62735"
+    },
+    {
+      "SourceEscaped": "最大HP・EN+1",
+      "TargetEscaped": "Max HP/EN+1",
+      "SourceUtf8Sha256": "43600C37861AA247AEE6D141B798A6D5DBB7A5AB2A2EC59105C3D3C15CD8ACA4"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HP・ENが4%上昇",
+      "TargetEscaped": "[Body] Max HP/EN +4%",
+      "SourceUtf8Sha256": "2C27941C5299E0D4F4D7E465E6E863AADDD0EA8722C9DD00725DB05D3B086711"
+    },
+    {
+      "SourceEscaped": "最大HP・EN+2",
+      "TargetEscaped": "Max HP/EN+2",
+      "SourceUtf8Sha256": "9F260AB7D24B57FF3D7EACEB0F30D6AF127F8BE812B29BBEDF807564B768CBAC"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HP・ENが5%上昇",
+      "TargetEscaped": "[Body] Max HP/EN +5%",
+      "SourceUtf8Sha256": "71A7B95A64D3F16F0E69F471EE2EEAF6F180C83DB20B851659349AEA60CB7555"
+    },
+    {
+      "SourceEscaped": "最大HP・EN+3",
+      "TargetEscaped": "Max HP/EN+3",
+      "SourceUtf8Sha256": "6C23004DDB1CBB5B4A7342BE402B040D05BB51BAA2734C4FA583DA738477DF8A"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HP・EN・EN回復量が1%上昇",
+      "TargetEscaped": "[Body] Max HP/EN and EN Regen +1%",
+      "SourceUtf8Sha256": "A2E65B2BEAD3C1BBF1065C850A1A5A0F6D72B6EEF078D388A13FCF62780EF84B"
+    },
+    {
+      "SourceEscaped": "最大HP・EN・EN回復+1",
+      "TargetEscaped": "Max HP/EN/EN Regen+1",
+      "SourceUtf8Sha256": "9FC284619E858D912D3EE4033F884E73BDC1451087E72492107FCEC9E16749EE"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HP・EN・EN回復量が2%上昇",
+      "TargetEscaped": "[Body] Max HP/EN and EN Regen +2%",
+      "SourceUtf8Sha256": "856114573A0087D795CB758D7FFA1986D3076A1434E969CC5AC83746B9806ABF"
+    },
+    {
+      "SourceEscaped": "最大HP・EN・EN回復+2",
+      "TargetEscaped": "Max HP/EN/EN Regen+2",
+      "SourceUtf8Sha256": "5356A6ED569CD8ADD477E4AB8739306DB56165223FFA51387B903532E5D6D726"
+    },
+    {
+      "SourceEscaped": "【機体強化】最大HP・EN・EN回復量が3%上昇",
+      "TargetEscaped": "[Body] Max HP/EN and EN Regen +3%",
+      "SourceUtf8Sha256": "C67BAE5AE0965C0B4DC46860D9F46D29CD485A68FF022270BB549E688F7E6A17"
+    },
+    {
+      "SourceEscaped": "最大HP・EN・EN回復+3",
+      "TargetEscaped": "Max HP/EN/EN Regen+3",
+      "SourceUtf8Sha256": "80F7CD63F80E53576F3CF449B477415E8FB37EBF782048E436B9F95F46E22BB2"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】メイン威力が1%上昇",
+      "TargetEscaped": "[Attack] Main Power +1%",
+      "SourceUtf8Sha256": "0619564179388D48F61E4B551ACACD9B48CDC8C7C4010D3EE457DD807D7B6AA9"
+    },
+    {
+      "SourceEscaped": "メイン威力+1",
+      "TargetEscaped": "Main Power+1",
+      "SourceUtf8Sha256": "11436FFB6E58F793AF6D495BF229B53FDCA5E258A7E7F46BBF03D1B447ADE2B0"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】メイン威力が2%上昇",
+      "TargetEscaped": "[Attack] Main Power +2%",
+      "SourceUtf8Sha256": "980FAD4D7203EB0C633D4E98CFBA4F0FA9A7E9C15B17F5F6E86F69B3966C49CA"
+    },
+    {
+      "SourceEscaped": "メイン威力+2",
+      "TargetEscaped": "Main Power+2",
+      "SourceUtf8Sha256": "FCD855F811BFE6CE347D8ACA20974EEB113BB7E667E41BB84A254BF580CD4496"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】メイン威力が3%上昇",
+      "TargetEscaped": "[Attack] Main Power +3%",
+      "SourceUtf8Sha256": "B75B3EBBAA995EC73E630408BC3FD76EF42EAA8EB7B6590497BDD1347782A91A"
+    },
+    {
+      "SourceEscaped": "メイン威力+3",
+      "TargetEscaped": "Main Power+3",
+      "SourceUtf8Sha256": "E7BEBE74EE5FD898ED6957E4A578956DE3788404905B7BA2B03522CF7F8EDF41"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】サブ威力が1%上昇",
+      "TargetEscaped": "[Attack] Sub Power +1%",
+      "SourceUtf8Sha256": "3C0A16DE72C7833D46A1C803B980C6A886DCF20BB67A8D9B6FBE4E950AAAE438"
+    },
+    {
+      "SourceEscaped": "サブ威力+1",
+      "TargetEscaped": "Sub Power+1",
+      "SourceUtf8Sha256": "E7F437216214FCBF7178AB169C55A6DDE9F3325799373F203EB4FA89B967449E"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】サブ威力が2%上昇",
+      "TargetEscaped": "[Attack] Sub Power +2%",
+      "SourceUtf8Sha256": "0E5FD3711537E37222821062A6162759B57AB878DA274416302D129691870C80"
+    },
+    {
+      "SourceEscaped": "サブ威力+2",
+      "TargetEscaped": "Sub Power+2",
+      "SourceUtf8Sha256": "C109767E49BF43617302C414ADEF3B063DCE2AB4227C678563FCF83EF99083AF"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】サブ威力が3%上昇",
+      "TargetEscaped": "[Attack] Sub Power +3%",
+      "SourceUtf8Sha256": "98BB375BE7D73568E673267B863F5A7656BD58555655CA311CDFD359422D8DF3"
+    },
+    {
+      "SourceEscaped": "サブ威力+3",
+      "TargetEscaped": "Sub Power+3",
+      "SourceUtf8Sha256": "6797386DC8C0E742F1C0ECB58AAD0B056A3FE47049AF183E1F949AD82FDAB4FA"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】メイン・サブ威力が1%上昇",
+      "TargetEscaped": "[Attack] Main/Sub Power +1%",
+      "SourceUtf8Sha256": "29D9D266576BC88B96C650189E75E73D42EB2FC2EF4B29DA589B8BC777346380"
+    },
+    {
+      "SourceEscaped": "メイン・サブ威力+1",
+      "TargetEscaped": "Main/Sub Power+1",
+      "SourceUtf8Sha256": "FEB72E8B34E7C337CB14783E5DB2BA5A939AECA0F89D84CD29CF7FB179552E4E"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】メイン・サブ威力が2%上昇",
+      "TargetEscaped": "[Attack] Main/Sub Power +2%",
+      "SourceUtf8Sha256": "936C706E2B0F9C21DE98080630B1115C6EEE326EB2514CED28CA6A2DC049EEE7"
+    },
+    {
+      "SourceEscaped": "メイン・サブ威力+2",
+      "TargetEscaped": "Main/Sub Power+2",
+      "SourceUtf8Sha256": "495C02E68E6D17289135DCB196028EB672C8451005DBE6B465A1033DB40E4114"
+    },
+    {
+      "SourceEscaped": "【攻撃強化】メイン・サブ威力が3%上昇",
+      "TargetEscaped": "[Attack] Main/Sub Power +3%",
+      "SourceUtf8Sha256": "D2F61BC1CE0DB81A341BE20F59726432D268E76FFB7A5409A3EC84ECD3082689"
+    },
+    {
+      "SourceEscaped": "メイン・サブ威力+3",
+      "TargetEscaped": "Main/Sub Power+3",
+      "SourceUtf8Sha256": "4B776EAAB3E7086D7A88B9F5DAC52DE5AC267A221DA6AB386B37B28D3ABE9671"
+    },
+    {
+      "SourceEscaped": "【防御強化】物理防御が3上昇",
+      "TargetEscaped": "[Defense] Phys DEF +3",
+      "SourceUtf8Sha256": "C2E315A99B308B9D089A32CCA10F413B1C8172EE021D9361AD5032B1CBA7AA6C"
+    },
+    {
+      "SourceEscaped": "物理防御+1",
+      "TargetEscaped": "Phys DEF+1",
+      "SourceUtf8Sha256": "21C0AEC4D6993D868C338EB290B9C0EC6E6BE0A53D686BB1C46ACAF5D874C629"
+    },
+    {
+      "SourceEscaped": "【防御強化】物理防御が6上昇",
+      "TargetEscaped": "[Defense] Phys DEF +6",
+      "SourceUtf8Sha256": "A9762DD5210A0202AE6BFB49F337A22939ECB5C4C18E02DDDC52F145AFD311EE"
+    },
+    {
+      "SourceEscaped": "物理防御+2",
+      "TargetEscaped": "Phys DEF+2",
+      "SourceUtf8Sha256": "C77897C33677DD553DA3B769EDDDF39841BB1166EC55836BC58120BD5DE89334"
+    },
+    {
+      "SourceEscaped": "【防御強化】物理防御が8上昇",
+      "TargetEscaped": "[Defense] Phys DEF +8",
+      "SourceUtf8Sha256": "CC2842032C39B155943E8D5526FDF6686E288AFA0020F098AA83C0596A0D4DB4"
+    },
+    {
+      "SourceEscaped": "物理防御+3",
+      "TargetEscaped": "Phys DEF+3",
+      "SourceUtf8Sha256": "472DFA66B3D37AF00897969DF5DEBC74D363AF89209105C0579073F768BDDC59"
+    },
+    {
+      "SourceEscaped": "【防御強化】ビーム防御が3上昇",
+      "TargetEscaped": "[Defense] Beam DEF +3",
+      "SourceUtf8Sha256": "A68A5FD71EBD8AC8DFA7DB0952CD6F4BEF680A281523939E723E7055C8A2C5FD"
+    },
+    {
+      "SourceEscaped": "ビーム防御+1",
+      "TargetEscaped": "Beam DEF+1",
+      "SourceUtf8Sha256": "B05F0408EF098EEADBA0C17E200074B40B3F94672CBC15B4D641E69B4EC9D02E"
+    },
+    {
+      "SourceEscaped": "【防御強化】ビーム防御が6上昇",
+      "TargetEscaped": "[Defense] Beam DEF +6",
+      "SourceUtf8Sha256": "78D85EDDA2C561BB6812A2937D9BBF9BEC2B5B4D97540E676E09BED2D401ACCA"
+    },
+    {
+      "SourceEscaped": "ビーム防御+2",
+      "TargetEscaped": "Beam DEF+2",
+      "SourceUtf8Sha256": "D0ED93F5452521CDB1B510FBB32ED226FE4EDBD716C5A819ED9695165FA12A90"
+    },
+    {
+      "SourceEscaped": "【防御強化】ビーム防御が8上昇",
+      "TargetEscaped": "[Defense] Beam DEF +8",
+      "SourceUtf8Sha256": "002BBA48F25BAC2C73AB88EA20245EDE8880C0D6EF0A2DA4172FF1EEA98F7118"
+    },
+    {
+      "SourceEscaped": "ビーム防御+3",
+      "TargetEscaped": "Beam DEF+3",
+      "SourceUtf8Sha256": "16DE0601DC1BAD341073C898D76A90C533CF849723092CBD7997C95FBEC9559E"
+    },
+    {
+      "SourceEscaped": "【防御強化】火炎防御が3上昇",
+      "TargetEscaped": "[Defense] Fire DEF +3",
+      "SourceUtf8Sha256": "0C5A111D9EE9C092B549D252A633123CB3E202FA356C04E6305D1EC4C891940A"
+    },
+    {
+      "SourceEscaped": "火炎防御+1",
+      "TargetEscaped": "Fire DEF+1",
+      "SourceUtf8Sha256": "2D3248C72FCF2D5205B59E9B337732A5B1CF55971E04FFCB03FC0164EF2C17C9"
+    },
+    {
+      "SourceEscaped": "【防御強化】火炎防御が6上昇",
+      "TargetEscaped": "[Defense] Fire DEF +6",
+      "SourceUtf8Sha256": "1F6A30C71742D9374C1F3469F472C3232365837ACCE6C42853EFF2DF17DBEE43"
+    },
+    {
+      "SourceEscaped": "火炎防御+2",
+      "TargetEscaped": "Fire DEF+2",
+      "SourceUtf8Sha256": "C672DCE67DA5216CE047CAE7967102BC417FAAF22D6D30DD1457CDC30C11FC32"
+    },
+    {
+      "SourceEscaped": "【防御強化】火炎防御が8上昇",
+      "TargetEscaped": "[Defense] Fire DEF +8",
+      "SourceUtf8Sha256": "107953D758077E8A1141C1D025A4F6AB520271A3AD1132A43DD415D5800170AB"
+    },
+    {
+      "SourceEscaped": "火炎防御+3",
+      "TargetEscaped": "Fire DEF+3",
+      "SourceUtf8Sha256": "1811B35B5ED7AA315D14FADDD6F345E799637CDA0663BE6BAA9F534581D014EE"
+    },
+    {
+      "SourceEscaped": "【防御強化】電撃防御が3上昇",
+      "TargetEscaped": "[Defense] Elec DEF +3",
+      "SourceUtf8Sha256": "195E26447A67A1A1EF07E9F0378D0A12A21F656D019B80742F7A88D6C3B7B15B"
+    },
+    {
+      "SourceEscaped": "電撃防御+1",
+      "TargetEscaped": "Elec DEF+1",
+      "SourceUtf8Sha256": "2106930769191B8D87837F0328427143D40A0352EF265B0B070445DDCC4D5C08"
+    },
+    {
+      "SourceEscaped": "【防御強化】電撃防御が6上昇",
+      "TargetEscaped": "[Defense] Elec DEF +6",
+      "SourceUtf8Sha256": "E3F2116D41FE85D030F9454574D75AD0DA5D57067363F7A9BC0D8C6460CFCE24"
+    },
+    {
+      "SourceEscaped": "電撃防御+2",
+      "TargetEscaped": "Elec DEF+2",
+      "SourceUtf8Sha256": "C99A528E4A6F8E0183F7ED64FA2CF7C35AD89EB34A13E86B224C672E3497F2F9"
+    },
+    {
+      "SourceEscaped": "【防御強化】電撃防御が8上昇",
+      "TargetEscaped": "[Defense] Elec DEF +8",
+      "SourceUtf8Sha256": "E3F0EBD548358325253D5094311378D517DFC2FE6C17D4B612C035D4754DA937"
+    },
+    {
+      "SourceEscaped": "電撃防御+3",
+      "TargetEscaped": "Elec DEF+3",
+      "SourceUtf8Sha256": "FA3AA8735958CC381B5769876F0101A359C8175FD1C43F0D2EB6647947D2DE31"
+    },
+    {
+      "SourceEscaped": "【防御強化】物理・ビーム・火炎・電撃防御が2上昇",
+      "TargetEscaped": "[Defense] All DEF +2",
+      "SourceUtf8Sha256": "9DF89F7B125BD6D74C53BC10B0982B554E7C16DA0B79834644B17BD1192C2F5C"
+    },
+    {
+      "SourceEscaped": "全防御+1",
+      "TargetEscaped": "All DEF+1",
+      "SourceUtf8Sha256": "83348BEF018BC304D5CB2FD94160B6E5E5D11ED7F4AB2936A59BB7EFA41C17D9"
+    },
+    {
+      "SourceEscaped": "【防御強化】物理・ビーム・火炎・電撃防御が4上昇",
+      "TargetEscaped": "[Defense] All DEF +4",
+      "SourceUtf8Sha256": "410ED04317B9210A9984937367A868E5B8077BDCEFACB83E01F3ED022388B213"
+    },
+    {
+      "SourceEscaped": "全防御+2",
+      "TargetEscaped": "All DEF+2",
+      "SourceUtf8Sha256": "6E61B7DDF1120382ABF71FBCFF6A18409D28230D631365D1F6C4B144C25309A8"
+    },
+    {
+      "SourceEscaped": "【防御強化】物理・ビーム・火炎・電撃防御が5上昇",
+      "TargetEscaped": "[Defense] All DEF +5",
+      "SourceUtf8Sha256": "BFEA73938D888C96DB1ABFB06D06BFA9E29CE9E5B979FDECBB4FAB48D3D74BF2"
+    },
+    {
+      "SourceEscaped": "全防御+3",
+      "TargetEscaped": "All DEF+3",
+      "SourceUtf8Sha256": "CEB97B23EC8D02E33799F7EFA621FC56AEF2504C939C13D4273124E2F04CB611"
+    },
+    {
+      "SourceEscaped": "【防御強化】安定性が3上昇",
+      "TargetEscaped": "[Defense] Stability +3",
+      "SourceUtf8Sha256": "B2EBA6A5ACADBC89A162BA035ED553BE2D2C1CFF58E4B180D61B1B392FB1F702"
+    },
+    {
+      "SourceEscaped": "安定性+1",
+      "TargetEscaped": "Stability+1",
+      "SourceUtf8Sha256": "DC40FAE65D5ECC672449B645DF52D095E7491E9B64573CC4519E0D366F448F5A"
+    },
+    {
+      "SourceEscaped": "【防御強化】安定性が6上昇",
+      "TargetEscaped": "[Defense] Stability +6",
+      "SourceUtf8Sha256": "42EC1DCBEDD38075B7477D3BFEA3477F6FD525644A332B88DFC736CF22410210"
+    },
+    {
+      "SourceEscaped": "安定性+2",
+      "TargetEscaped": "Stability+2",
+      "SourceUtf8Sha256": "B19A373546136B0746C0448A3A85335C8091CD040976B2BB38F6FFDA1AA40DBC"
+    },
+    {
+      "SourceEscaped": "【防御強化】安定性が8上昇",
+      "TargetEscaped": "[Defense] Stability +8",
+      "SourceUtf8Sha256": "A5B2F6167F405FC943A64D4CE7F9BF10046F829054B7548AA6A98CA4AB612735"
+    },
+    {
+      "SourceEscaped": "安定性+3",
+      "TargetEscaped": "Stability+3",
+      "SourceUtf8Sha256": "DA380E5B612EDE7952D7D6FA4BD69A593CEBC998FD03C0CCE67281DC6234EDA0"
+    },
+    {
+      "SourceEscaped": "【防御強化】スロウ・フリーズ耐性が3%上昇",
+      "TargetEscaped": "[Defense] Slow/Freeze Resist +3%",
+      "SourceUtf8Sha256": "4E8334DA084265100D356DFC7078EE291F2666A6B83776F5F6D5CAFBE09E2B81"
+    },
+    {
+      "SourceEscaped": "レジスト+1",
+      "TargetEscaped": "Resist+1",
+      "SourceUtf8Sha256": "C6BBB9658098EFCC1EF2A1B0D153B290262AE1278AA01EF0FBDE11DC998D7D4C"
+    },
+    {
+      "SourceEscaped": "【防御強化】スロウ・フリーズ耐性が5%上昇",
+      "TargetEscaped": "[Defense] Slow/Freeze Resist +5%",
+      "SourceUtf8Sha256": "35FB24C3DBC9C3B14C4504A6652782355A98ACEA7CC8972DE393C70CD11CF916"
+    },
+    {
+      "SourceEscaped": "レジスト+2",
+      "TargetEscaped": "Resist+2",
+      "SourceUtf8Sha256": "0DFE3D468093D7238317415185C59E64888FB5F3B086313345DDD7200ECC8E08"
+    },
+    {
+      "SourceEscaped": "【防御強化】スロウ・フリーズ耐性が6%上昇",
+      "TargetEscaped": "[Defense] Slow/Freeze Resist +6%",
+      "SourceUtf8Sha256": "BED91620E1FF70F406D307422FEECA737343DA4A5C6DC59A111963573C45C85B"
+    },
+    {
+      "SourceEscaped": "レジスト+3",
+      "TargetEscaped": "Resist+3",
+      "SourceUtf8Sha256": "48213D06FC6DB6E04037AE9D6FD5B897E4BA7F3933FEA44A94681BF4EF686595"
+    },
+    {
+      "SourceEscaped": "【報酬強化】EXPが10%上昇",
+      "TargetEscaped": "[Rewards] EXP +10%",
+      "SourceUtf8Sha256": "C457CFD8F26C7CBB5B0C8C162AF22A73DE2E855CE5A637A7B72451B7FC2CF532"
+    },
+    {
+      "SourceEscaped": "【報酬強化】ドロップ率が10%上昇",
+      "TargetEscaped": "[Rewards] Drop Rate +10%",
+      "SourceUtf8Sha256": "1E491AAA497C9591F60F7815EE3D46266111905DCC7F68E1E244EB7CDEAF95E8"
+    },
+    {
+      "SourceEscaped": "【報酬強化】取得C$が10%上昇",
+      "TargetEscaped": "[Rewards] C$ Gain +10%",
+      "SourceUtf8Sha256": "2FD1F0A5A1816535AC3D91754FF3FD777208997ED549C4C317E9764A9540193C"
+    },
+    {
+      "SourceEscaped": "【報酬強化】EXP、ドロップ率、取得C$が10%上昇",
+      "TargetEscaped": "[Rewards] EXP, Drop Rate and C$ +10%",
+      "SourceUtf8Sha256": "2586F0DD7AB49737F983144E2F2157894728076D352128EB289089AE86CBDD09"
+    },
+    {
+      "SourceEscaped": "EXP・DROP・C$+1",
+      "TargetEscaped": "EXP/DROP/C$+1",
+      "SourceUtf8Sha256": "BB846E15D2A3026527A4E066A65834140CEC9ABF9D339B4DC6ED548F05C307C9"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-1C",
+      "TargetEscaped": "[Main] Power Boostα-1C",
+      "SourceUtf8Sha256": "7CEC05DA2B34BF79332D6D6D97BA20A443193259708DB4EECB242C675615370F"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-1B",
+      "TargetEscaped": "[Main] Power Boostα-1B",
+      "SourceUtf8Sha256": "9BDC3EBE74231F47E3DDAC47FC80B91C0078F57B85474335244E8FF20C769EA7"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-1A",
+      "TargetEscaped": "[Main] Power Boostα-1A",
+      "SourceUtf8Sha256": "E289A11DDBCE3877BFBE75DF2F9D8B04B31BF8F607E16065CEC41E1704051968"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-2C",
+      "TargetEscaped": "[Main] Power Boostα-2C",
+      "SourceUtf8Sha256": "EAB584B4E88BA93983FD423CA778A73853F2824A7601B95A173D7685A5273FEC"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-2B",
+      "TargetEscaped": "[Main] Power Boostα-2B",
+      "SourceUtf8Sha256": "4211CEFDFCCF3E0051555F4022DA84DB2D2387446FED346ECC4FC51ED86B634E"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-2A",
+      "TargetEscaped": "[Main] Power Boostα-2A",
+      "SourceUtf8Sha256": "0DE85B9CCD32BD9D8BB8226C714C7771BC50220EDBE3C41970987B3A5740D1CA"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-3C",
+      "TargetEscaped": "[Main] Power Boostα-3C",
+      "SourceUtf8Sha256": "9494337CABBAF61897FD66B063DE641FCF780EE979C31C0962F665392A18C8E0"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-3B",
+      "TargetEscaped": "[Main] Power Boostα-3B",
+      "SourceUtf8Sha256": "BAD404501A0DFCFEA0753B8783EC50415D5DF3E09801E4640D19B28D134049AE"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-3A",
+      "TargetEscaped": "[Main] Power Boostα-3A",
+      "SourceUtf8Sha256": "5A853B7A5F050A4ABDC2993F36B9442C5374967AA04B959E19FADBDF7F8D38F8"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-4C",
+      "TargetEscaped": "[Main] Power Boostα-4C",
+      "SourceUtf8Sha256": "C9AE1553A5A53FDCEDD0739855B6658D9A2F79735DD9893E6B06F340F3030855"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-4B",
+      "TargetEscaped": "[Main] Power Boostα-4B",
+      "SourceUtf8Sha256": "9A6CB894C35607500CF72F459304D597FF3815341AB0A0C0D0A28C92B8126C0B"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-4A",
+      "TargetEscaped": "[Main] Power Boostα-4A",
+      "SourceUtf8Sha256": "1EA95A4BAB679F23CEC2403F8637B9A24B650E0ED63B3BC473B8C03C5FEE5D27"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-5C",
+      "TargetEscaped": "[Main] Power Boostα-5C",
+      "SourceUtf8Sha256": "D22B546851CA17FCE3475C1194689A144E59F42AAA550C0166574B457DA5E57E"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-5B",
+      "TargetEscaped": "[Main] Power Boostα-5B",
+      "SourceUtf8Sha256": "F82C785B96D52C44C568F9168B22EF7130ACBABC5A28F7BE6D26F945135D2EDA"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-5A",
+      "TargetEscaped": "[Main] Power Boostα-5A",
+      "SourceUtf8Sha256": "73377D69170CE3A4221DFE9301A01C56CDC0A8597E0EC7428024EF604064B192"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化α-6",
+      "TargetEscaped": "[Main] Power Boostα-6",
+      "SourceUtf8Sha256": "447D2A2ED9010DAE69BCF4F8D5232E207310CA0B2A9DEC1A47ADB0C738B098AA"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-1C",
+      "TargetEscaped": "[Main] Power Boostβ-1C",
+      "SourceUtf8Sha256": "334285948574218B4FD98DD8BE308356A0A4AE9244F18BBE9EF2BFCD6E59D10A"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-1B",
+      "TargetEscaped": "[Main] Power Boostβ-1B",
+      "SourceUtf8Sha256": "F8AC6355527CD81430E1956C07478017036AA91CAC17C0B425F52AA18A1BD3F5"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-1A",
+      "TargetEscaped": "[Main] Power Boostβ-1A",
+      "SourceUtf8Sha256": "0B06F7BEB1C5C3A4A13169F64A494CA1D914702F36B9F804FDEE7BD5E9195040"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-2C",
+      "TargetEscaped": "[Main] Power Boostβ-2C",
+      "SourceUtf8Sha256": "EBD63CFD80653E08E4551A3C51F23EC23BED2AC282EB771254526E591BD99E4C"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-2B",
+      "TargetEscaped": "[Main] Power Boostβ-2B",
+      "SourceUtf8Sha256": "213400FEC36BA18FB64DFDE56281819602128F05E47095152DAB5B7E5B53219B"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-2A",
+      "TargetEscaped": "[Main] Power Boostβ-2A",
+      "SourceUtf8Sha256": "3127EB1F2848A975A693E2BFE92382E8A891AC06663C9C9741FC10BBD1B83B53"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-3C",
+      "TargetEscaped": "[Main] Power Boostβ-3C",
+      "SourceUtf8Sha256": "60C2FE15B656EA626C37A2231F3FEC771FCE23140BC662BC8979BCCE6366B179"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-3B",
+      "TargetEscaped": "[Main] Power Boostβ-3B",
+      "SourceUtf8Sha256": "843A4F5444807AD45EA5A2CA20303620FF8554D7067E77BEB57A9363D39995B6"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-3A",
+      "TargetEscaped": "[Main] Power Boostβ-3A",
+      "SourceUtf8Sha256": "81FC29E948FEAE4A61332A6CFD36F9ACC6AE214D50527F5EA8DD65F35689D8E2"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-4C",
+      "TargetEscaped": "[Main] Power Boostβ-4C",
+      "SourceUtf8Sha256": "C887D136E3F714237420AE92C0769B27E83E6D6975EA1F1A686BCB743DA8762F"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-4B",
+      "TargetEscaped": "[Main] Power Boostβ-4B",
+      "SourceUtf8Sha256": "FB280D558C25C2DB4AA9ADC28A143C2858BF83683350B3EA68310DAF43F644E8"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-4A",
+      "TargetEscaped": "[Main] Power Boostβ-4A",
+      "SourceUtf8Sha256": "3A43C1431A6CEF95A16F15C33BA0F8C259F7307F591312862424AA89C626140C"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-5C",
+      "TargetEscaped": "[Main] Power Boostβ-5C",
+      "SourceUtf8Sha256": "F82F311FA70BD262C5897F4E8F62F622C57306E82C806AB5F08717B5431F7A6A"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-5B",
+      "TargetEscaped": "[Main] Power Boostβ-5B",
+      "SourceUtf8Sha256": "DACDA4E388D56D2F0814DA3209E1FF121266DFDD821915F968CF5D7ADF5F780D"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-5A",
+      "TargetEscaped": "[Main] Power Boostβ-5A",
+      "SourceUtf8Sha256": "99FD665AACD2A46CCF5DA487E227AD34219F0B02E6A5B9386C48431967268C25"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化β-6",
+      "TargetEscaped": "[Main] Power Boostβ-6",
+      "SourceUtf8Sha256": "0A24430E04C309CDB45C9908A6464B6CC171DC2791AA8C8DE5476660087E7A63"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-1C",
+      "TargetEscaped": "[Main] Power Boostγ-1C",
+      "SourceUtf8Sha256": "A24A81A5768EA9B77A451B7FDF27DB965379A21EBE892E455CA5070AA0FA3231"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-1B",
+      "TargetEscaped": "[Main] Power Boostγ-1B",
+      "SourceUtf8Sha256": "0062DF63CD0D27EEF3F4CE6B12F922FE05821811169AC62DCC473EC24554D2D2"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-1A",
+      "TargetEscaped": "[Main] Power Boostγ-1A",
+      "SourceUtf8Sha256": "E29FB1AB333F8A67F8BF9301CC478550AC14DDB16D1A09BC11F47F5038BDD434"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-2C",
+      "TargetEscaped": "[Main] Power Boostγ-2C",
+      "SourceUtf8Sha256": "F991347782F2E3AE92EC5122785365853A8F02C39592348B9A99A9590A2C8597"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-2B",
+      "TargetEscaped": "[Main] Power Boostγ-2B",
+      "SourceUtf8Sha256": "4ED9A464B20A5FF0927CF56A6BD079B3795DFECC59A74FF19210C460856A5329"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-2A",
+      "TargetEscaped": "[Main] Power Boostγ-2A",
+      "SourceUtf8Sha256": "8EF4B7A90CB07B6B485E766501C994E8367289DED4A17C5223E59845CB4673AF"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-3C",
+      "TargetEscaped": "[Main] Power Boostγ-3C",
+      "SourceUtf8Sha256": "0C1982D279C727E4EC42791BA5ED9556633615AD11A21A1DCFA47A4F2FDABAE4"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-3B",
+      "TargetEscaped": "[Main] Power Boostγ-3B",
+      "SourceUtf8Sha256": "B2063A1ED4900CD9C3199F01C505877D5FAC7757B5F7041BA677F16D27CBE525"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-3A",
+      "TargetEscaped": "[Main] Power Boostγ-3A",
+      "SourceUtf8Sha256": "6357FB2A9C555BD8A1AB8FA05CD396518D6C31FE01443DDEEE35F147451BAB94"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-4C",
+      "TargetEscaped": "[Main] Power Boostγ-4C",
+      "SourceUtf8Sha256": "1980F52162AE8329208B898D7ED6FBD1F932FF91E2FF1C06F2DF5D9AE29D9FE1"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-4B",
+      "TargetEscaped": "[Main] Power Boostγ-4B",
+      "SourceUtf8Sha256": "A250580D3921746B34172B4E48E568E7AE8078983DEA4639EA6CBDB74EAF92A0"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-4A",
+      "TargetEscaped": "[Main] Power Boostγ-4A",
+      "SourceUtf8Sha256": "EADD645F303F07AC51263D0D6523C2DC6097F1C549F1397A00A04BF37F849D86"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-5C",
+      "TargetEscaped": "[Main] Power Boostγ-5C",
+      "SourceUtf8Sha256": "AB024835E9386935AE425852935A73CAFBF30561B60F3D193C149A9DB7712DBD"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-5B",
+      "TargetEscaped": "[Main] Power Boostγ-5B",
+      "SourceUtf8Sha256": "D5465FD15CF90B9194CCF418B8F84FF2BEB22C7A0F6980C66CA8E4223C2EA614"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-5A",
+      "TargetEscaped": "[Main] Power Boostγ-5A",
+      "SourceUtf8Sha256": "9BDD53A5F0CFC30EFAF2E9411EFED326AC16728035DB61CEC6BE693DC8B0A800"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化γ-6",
+      "TargetEscaped": "[Main] Power Boostγ-6",
+      "SourceUtf8Sha256": "EBB1C98C069092F46C2C2E44A74A34134357FB8F1154FB909372E608DC26B1AE"
+    },
+    {
+      "SourceEscaped": "【メイン】パワー強化0",
+      "TargetEscaped": "[Main] Power Boost0",
+      "SourceUtf8Sha256": "A507CDA4289209168BE71D413D165344A7F44895AD846AD8D678A0D91B649985"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-1C",
+      "TargetEscaped": "[Main] Range Boostα-1C",
+      "SourceUtf8Sha256": "1557D2C1924E3659710F6B68FF17F6C60292CA6F3372A76ABA8BE68B26C350FF"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-1B",
+      "TargetEscaped": "[Main] Range Boostα-1B",
+      "SourceUtf8Sha256": "478A3305D6FB13FB19DCD5EB286EE0897DD47925546838457ABB03A09C3E6215"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-1A",
+      "TargetEscaped": "[Main] Range Boostα-1A",
+      "SourceUtf8Sha256": "724FC0CBF17EC7DC2576DFEAB4F0F3F624E2DD022996C7FFDD8641F17404C2D0"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-2C",
+      "TargetEscaped": "[Main] Range Boostα-2C",
+      "SourceUtf8Sha256": "240BB010FE6B45F437A9C710BF937620C4E24B2AD6D16DBD8393F3E0F2BEA06F"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-2B",
+      "TargetEscaped": "[Main] Range Boostα-2B",
+      "SourceUtf8Sha256": "A45D171166F54DA8D42DD6E0A4E0A40C27774887E01633601D1C365089748A8A"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-2A",
+      "TargetEscaped": "[Main] Range Boostα-2A",
+      "SourceUtf8Sha256": "06E5046A89BEC1BCF47E6D729241AA3E2F31C36866146456327BCE7EA34184E8"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化α-5",
+      "TargetEscaped": "[Main] Range Boostα-5",
+      "SourceUtf8Sha256": "5E8B1D8F8A1434A78AA82588FB3FC1CDAA3FB9AD2DBA064791DCC73E2E9065E6"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化β-1C",
+      "TargetEscaped": "[Main] Range Boostβ-1C",
+      "SourceUtf8Sha256": "D76BD05D28777CE70E8ABCDB81FB4A45861083DEB9C9BA2B18E439CA27AB044B"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化β-1B",
+      "TargetEscaped": "[Main] Range Boostβ-1B",
+      "SourceUtf8Sha256": "DA4B2A5FCD2453209BB8E89A3468F28FF7CCC9F6B715C5DFE194D7C2FAB2FAC7"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化β-1A",
+      "TargetEscaped": "[Main] Range Boostβ-1A",
+      "SourceUtf8Sha256": "A8A2236026C8F69466F79A83D9E64E5F108667058C922A460B73C2A2272300E6"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化β-2C",
+      "TargetEscaped": "[Main] Range Boostβ-2C",
+      "SourceUtf8Sha256": "AFFFF9D3E912D5D420068454F3786474DAC6B0EB7D45137326F41C5869EBF6FF"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化β-2B",
+      "TargetEscaped": "[Main] Range Boostβ-2B",
+      "SourceUtf8Sha256": "0C72F79C55029E3E9B9A2C6F2A41CC578A1A9F338716ABF35688032F27CD0568"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化β-2A",
+      "TargetEscaped": "[Main] Range Boostβ-2A",
+      "SourceUtf8Sha256": "D316615FCB066BBF0A7DBA8E71E068C30B9C93AF92825EED893E42EBB6B63036"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-1C",
+      "TargetEscaped": "[Main] Range Boostγ-1C",
+      "SourceUtf8Sha256": "053809A721F51957607E74688128A4C817200D78495526F754BCB2E2833FA42C"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-1B",
+      "TargetEscaped": "[Main] Range Boostγ-1B",
+      "SourceUtf8Sha256": "97E91185E98FCF05E723183893DBB8E753BF2398032B15B9A205AD78F6E68E47"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-1A",
+      "TargetEscaped": "[Main] Range Boostγ-1A",
+      "SourceUtf8Sha256": "3421CE487011EF8233FA229D3861A0267F632F97BA477DDD25F397EE9EA48601"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-2C",
+      "TargetEscaped": "[Main] Range Boostγ-2C",
+      "SourceUtf8Sha256": "6AE25F0486A3B91C5064DEE79E4DF5A8E3A08C25DBF2AF73F598852112237F3B"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-2B",
+      "TargetEscaped": "[Main] Range Boostγ-2B",
+      "SourceUtf8Sha256": "560CFF3F8766A3EF408930CDDD2032FD9DC0826BFA48A21189D17130E06ED857"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-2A",
+      "TargetEscaped": "[Main] Range Boostγ-2A",
+      "SourceUtf8Sha256": "24FF66610023199ECDEC8C377C4EF4D028F80EC2789C8E4D040876E3570E7E4C"
+    },
+    {
+      "SourceEscaped": "【メイン】レンジ強化γ-5",
+      "TargetEscaped": "[Main] Range Boostγ-5",
+      "SourceUtf8Sha256": "8AE5561C3509C11998A6867F71F87324D33777CCE8262324D6DB8F984DB0ABEC"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-1C",
+      "TargetEscaped": "[Main] Magazine Boostβ-1C",
+      "SourceUtf8Sha256": "4BDBA12D890C50C75C2B1D9A436B045A35AF4869E1C508CC8AAF975DB62AA268"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-1B",
+      "TargetEscaped": "[Main] Magazine Boostβ-1B",
+      "SourceUtf8Sha256": "AA122A3AB0A5370B99543E355BFAE7D04322E76F62FA9D3549D2B080F5D5755D"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-1A",
+      "TargetEscaped": "[Main] Magazine Boostβ-1A",
+      "SourceUtf8Sha256": "36FF09EAD7756ED492185A32EA113A9EBC2CB0E08556F3EFACC0DF9424CB8E7E"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-2C",
+      "TargetEscaped": "[Main] Magazine Boostβ-2C",
+      "SourceUtf8Sha256": "46589D1718AB3CA31363C43A563412583BA2F233343115E1B260DED802F7BA99"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-2B",
+      "TargetEscaped": "[Main] Magazine Boostβ-2B",
+      "SourceUtf8Sha256": "DE94A1A08A396C33EDD4F8DD42DDEC6C4726A255901E6BFC59130301E8567B75"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-2A",
+      "TargetEscaped": "[Main] Magazine Boostβ-2A",
+      "SourceUtf8Sha256": "677572EB50944D9744B8506D3B2D51855EBFCCBC24A9670C7F05B18C88DB3A98"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-3C",
+      "TargetEscaped": "[Main] Magazine Boostβ-3C",
+      "SourceUtf8Sha256": "413B6C113C621338296583FCEFE217D0F025D916DB9684091E80B1B89ADD9204"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-3B",
+      "TargetEscaped": "[Main] Magazine Boostβ-3B",
+      "SourceUtf8Sha256": "0D71670854FE25DEC751A45703B3041D4BD4C63F6D57E2763DC6DB7BDFAE314C"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-3A",
+      "TargetEscaped": "[Main] Magazine Boostβ-3A",
+      "SourceUtf8Sha256": "BCC996056E7F12554FD2CA6540581FB7F5B88897BAEB3A9305BC46341A02B957"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化β-5",
+      "TargetEscaped": "[Main] Magazine Boostβ-5",
+      "SourceUtf8Sha256": "E1F648B8A3939EA6B189257BB7E6B5B032348F3F538E09A3E09E7BA412DC1AFB"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-1C",
+      "TargetEscaped": "[Main] Magazine Boostγ-1C",
+      "SourceUtf8Sha256": "8CBC1F89BB74B764128F6314F5538D720E04DEE78689F84AE493B7E0AA0E24BF"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-1B",
+      "TargetEscaped": "[Main] Magazine Boostγ-1B",
+      "SourceUtf8Sha256": "41CB993CEF75B75750B708F86E20BE72710AF05F42F559A2A017308910AE8423"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-1A",
+      "TargetEscaped": "[Main] Magazine Boostγ-1A",
+      "SourceUtf8Sha256": "337E4A341D2528829BEA54F3C73B1D00A49D43D82274957DD6774DB100FF78BC"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-2C",
+      "TargetEscaped": "[Main] Magazine Boostγ-2C",
+      "SourceUtf8Sha256": "2B3D53BA97273F4284BDC129C5AD00BA1ECCE8FFCC00A6A626C7E0B22487D024"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-2B",
+      "TargetEscaped": "[Main] Magazine Boostγ-2B",
+      "SourceUtf8Sha256": "9CBDBB79BF12E95B16245F957E678AF28088C0055EE2AE77349EC1FC7D2077D4"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-2A",
+      "TargetEscaped": "[Main] Magazine Boostγ-2A",
+      "SourceUtf8Sha256": "CFFA746ACD594135FAF56230F507EB7E46B7613EFEFA057BE59849BDC7D7E5A1"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-3C",
+      "TargetEscaped": "[Main] Magazine Boostγ-3C",
+      "SourceUtf8Sha256": "637EB7A7D75B7C5DEB38CFEFD05FC893C984C42636E632A3552A54C399561A66"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-3B",
+      "TargetEscaped": "[Main] Magazine Boostγ-3B",
+      "SourceUtf8Sha256": "C208A5642631A5A05DA21C02A01B5F73DC6B8C919AD73F67FEF1AFC01496A53A"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-3A",
+      "TargetEscaped": "[Main] Magazine Boostγ-3A",
+      "SourceUtf8Sha256": "F6BFC8D1B11E22C1D197228D99C48FB14EC50C55F469A3FF719CBE65B0FD1F3C"
+    },
+    {
+      "SourceEscaped": "【メイン】マガジン強化γ-5",
+      "TargetEscaped": "[Main] Magazine Boostγ-5",
+      "SourceUtf8Sha256": "B4A96EAAEDD63404A1E4245B918D32E997362ED5581FBFFCD5278AFE1D3E463E"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化α-1C",
+      "TargetEscaped": "[Main] Barrel Boostα-1C",
+      "SourceUtf8Sha256": "E3FCFC170B924CAC3263A1E8E173F4AF68DF8DF4BC3F1E601A50709C4F1AB3A1"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化α-1B",
+      "TargetEscaped": "[Main] Barrel Boostα-1B",
+      "SourceUtf8Sha256": "8EB89593BF84CB9BBA8E3B8F9A108F0407E1A310E3E6D6DBCBEFE93A7B11107F"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化α-1A",
+      "TargetEscaped": "[Main] Barrel Boostα-1A",
+      "SourceUtf8Sha256": "39AD1D513818927E7887A359CF2A945DF4A1574A1BE4FA79F54BCCCCBDD7399F"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化α-5",
+      "TargetEscaped": "[Main] Barrel Boostα-5",
+      "SourceUtf8Sha256": "A3DFB682DC2AF7C5BB9E6B4FBBE2098727B27C43A2E78806363B206FC65A99AB"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化β-1C",
+      "TargetEscaped": "[Main] Barrel Boostβ-1C",
+      "SourceUtf8Sha256": "7E9B79280298DDBBBA4BA8310D5762AD168EA6D363B0E640CC10E2D8AE6996F4"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化β-1B",
+      "TargetEscaped": "[Main] Barrel Boostβ-1B",
+      "SourceUtf8Sha256": "B31206D0438711BA9006347DA30E039EA170D6D800BB7712D66869A977050B0F"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化β-1A",
+      "TargetEscaped": "[Main] Barrel Boostβ-1A",
+      "SourceUtf8Sha256": "DF2A8CF2112ED37B591D2CF38B4D8FDCD032F043909986BB153E14DC4CAA780E"
+    },
+    {
+      "SourceEscaped": "【メイン】バレル強化β-5",
+      "TargetEscaped": "[Main] Barrel Boostβ-5",
+      "SourceUtf8Sha256": "CC09EB2051BD00B3348D1DA7549DDF84A389A9C8359E952C46A0D018DA96E00A"
+    },
+    {
+      "SourceEscaped": "【メイン】スペシャル強化",
+      "TargetEscaped": "[Main] Special Boost",
+      "SourceUtf8Sha256": "7857C449D629FEC5E794B5D9EA158311E090DF0B18F5F4CD5BC083B4DFBD3442"
+    },
+    {
+      "SourceEscaped": "【メイン】エコノミー強化2-5",
+      "TargetEscaped": "[Main] Economy Boost2-5",
+      "SourceUtf8Sha256": "411D7ADFC54E49FC21EE21A90C4A8925A28892A42845688089D04266C79E2988"
+    },
+    {
+      "SourceEscaped": "【メイン】スペシャル強化2",
+      "TargetEscaped": "[Main] Special Boost2",
+      "SourceUtf8Sha256": "D727B402C6A3CE2F0585C062A3A81431132B73AD88D6BF9ADE927E1EEEB67D04"
+    },
+    {
+      "SourceEscaped": "【メイン】タイラント強化",
+      "TargetEscaped": "[Main] Tyrant Boost",
+      "SourceUtf8Sha256": "43211FEAF68009F427C14DC6BFBE717F4C07C6ABD6BA92414E52791FB9AAD889"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-1C",
+      "TargetEscaped": "[Sub] Power Boostα-1C",
+      "SourceUtf8Sha256": "38A52960461ADD181F1F8E7B793EF785E92FF704F7804C46A2818D2ED8DC7912"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-1B",
+      "TargetEscaped": "[Sub] Power Boostα-1B",
+      "SourceUtf8Sha256": "E747781AE07D5FBEDD7035E7214EC9B15F987293EFA03AAD9B57C16931189CF6"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-1A",
+      "TargetEscaped": "[Sub] Power Boostα-1A",
+      "SourceUtf8Sha256": "B46279C22E22DAB28FA4EC10ADFBE03DAAF25F2270C85AF84FBE3E00D7729E1D"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-2C",
+      "TargetEscaped": "[Sub] Power Boostα-2C",
+      "SourceUtf8Sha256": "A80681A39710A0215C6D09A3D052099418B2D2935E019D08B1EE51E8BF087C70"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-2B",
+      "TargetEscaped": "[Sub] Power Boostα-2B",
+      "SourceUtf8Sha256": "C204B60CFFD29422B7056AF82A7E2B98F75222E0B5BF2E485ACEE0D94A821778"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-2A",
+      "TargetEscaped": "[Sub] Power Boostα-2A",
+      "SourceUtf8Sha256": "C50829B3EEFD34C62366794864D09F87864AB30186CAC74E04D2A1B86C863265"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-3C",
+      "TargetEscaped": "[Sub] Power Boostα-3C",
+      "SourceUtf8Sha256": "B4BAE8C266748D3BB6BBF0D58865D22DBDB37A9FD16EF740023E4CE21DD9E46D"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-3B",
+      "TargetEscaped": "[Sub] Power Boostα-3B",
+      "SourceUtf8Sha256": "C70E1ABA0215E0BEAF21F2A3022C2BAB11DA7DD3D4AC7F38B0B7C9FD2C0D2CC9"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-3A",
+      "TargetEscaped": "[Sub] Power Boostα-3A",
+      "SourceUtf8Sha256": "96D7FE2677CC373FD1C8E0CDB0A55EB3A9F10E1C1B618B19B8A329E11041DA8D"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-4C",
+      "TargetEscaped": "[Sub] Power Boostα-4C",
+      "SourceUtf8Sha256": "668B808481314DD223B4D3446FCB7BBE13AF13D065C366CFFADA08BA868AB9A3"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-4B",
+      "TargetEscaped": "[Sub] Power Boostα-4B",
+      "SourceUtf8Sha256": "920D83824BC0A094A58944A87947BB1C83ED5EE542EB8881EEC152F3CB06DF2C"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-4A",
+      "TargetEscaped": "[Sub] Power Boostα-4A",
+      "SourceUtf8Sha256": "71B0D39A58351479A505E18F0FBD0369074E3D4A16187F7369C83583D5729E14"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-5C",
+      "TargetEscaped": "[Sub] Power Boostα-5C",
+      "SourceUtf8Sha256": "DFF76E57AFF5DE87054A7889BB4177C67C510458CFF2F2D6D671A754719A06BB"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-5B",
+      "TargetEscaped": "[Sub] Power Boostα-5B",
+      "SourceUtf8Sha256": "52B458DF86D9058FB6B7203F4BF6864FE753C8133EB20D2D1E14B4BAD03D14E0"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-5A",
+      "TargetEscaped": "[Sub] Power Boostα-5A",
+      "SourceUtf8Sha256": "354B3573BD17094A9EEF9B43EEA48F994176C54E5E10085384BFD825752918DF"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化α-6",
+      "TargetEscaped": "[Sub] Power Boostα-6",
+      "SourceUtf8Sha256": "E9815B5BFD5A134BF9B13D50439369B917FA476C1D2362E86119C5F5DA0D53AC"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-1C",
+      "TargetEscaped": "[Sub] Power Boostβ-1C",
+      "SourceUtf8Sha256": "55BCE6BCBFFCCC9DB31E0091EEDFE40DF8C62E256B86726759652B27A9E6D7D4"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-1B",
+      "TargetEscaped": "[Sub] Power Boostβ-1B",
+      "SourceUtf8Sha256": "16D0C05F77924195444C8919ED07ABB2553FA46FA9818A2A5705351F7BAA1128"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-1A",
+      "TargetEscaped": "[Sub] Power Boostβ-1A",
+      "SourceUtf8Sha256": "59D983858636287AD1647D1BA6E9AEE12ACC2315E9B833B37D5B8C233262471F"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-2C",
+      "TargetEscaped": "[Sub] Power Boostβ-2C",
+      "SourceUtf8Sha256": "462409069543E0F973CEAEC660833B44D50C594A1EEF8CB12D605892765D9FC4"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-2B",
+      "TargetEscaped": "[Sub] Power Boostβ-2B",
+      "SourceUtf8Sha256": "CC6E2611035D83B68BB086B9E9AFBFA853D43BAC0F90D2157F633AE6C84792CD"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-2A",
+      "TargetEscaped": "[Sub] Power Boostβ-2A",
+      "SourceUtf8Sha256": "39A829D4A64BB9FB7B936712594A2511134BDE7023188EF70AA664EE80822D7E"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-3C",
+      "TargetEscaped": "[Sub] Power Boostβ-3C",
+      "SourceUtf8Sha256": "591DC0466709CAF4105503830ADE8196261FE15D1FBF1AF2260D527F40A03B85"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-3B",
+      "TargetEscaped": "[Sub] Power Boostβ-3B",
+      "SourceUtf8Sha256": "AB254988E25CD8ECC76BE036AAF53C0F52B4AEE7A5AF24CD8BDE45579EA53C39"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-3A",
+      "TargetEscaped": "[Sub] Power Boostβ-3A",
+      "SourceUtf8Sha256": "35AE889EF7A53409B93DE459067DBF668F887CA4772ACDBA3CC51FAB2D5F8919"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-4C",
+      "TargetEscaped": "[Sub] Power Boostβ-4C",
+      "SourceUtf8Sha256": "4B6891E66BC6AA2CE1BD09D8A3AF9EDAA2AD2EAB06CD78E3CBF521F6E264533A"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-4B",
+      "TargetEscaped": "[Sub] Power Boostβ-4B",
+      "SourceUtf8Sha256": "E4D392433DAC3F224F31C77EA49695C247545DDCCEE4715B2A5C96EE52EE10BC"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-4A",
+      "TargetEscaped": "[Sub] Power Boostβ-4A",
+      "SourceUtf8Sha256": "A5F6CAAA7522BA9A7D9B49E56067A795FFE201982B5AE0F08A14C3303E39F4BC"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-5C",
+      "TargetEscaped": "[Sub] Power Boostβ-5C",
+      "SourceUtf8Sha256": "71F2211EE5E41106BA0FA93C84A3836D024F72A3568BDDB79902C4C0E4B97443"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-5B",
+      "TargetEscaped": "[Sub] Power Boostβ-5B",
+      "SourceUtf8Sha256": "F6CDD895BE6C3B03BB837CCBD36E2CE12876A532BD666EAF3388BF7F3884B8FF"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-5A",
+      "TargetEscaped": "[Sub] Power Boostβ-5A",
+      "SourceUtf8Sha256": "DEDE8F83ACEC99C5CE982A90AAFD62F366E01FE129882C36D92632824F10C702"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化β-6",
+      "TargetEscaped": "[Sub] Power Boostβ-6",
+      "SourceUtf8Sha256": "62943291498BC597D32FA12A1CB4C577EFE2E3AF84AABF433CBDF1045D302FF8"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-1C",
+      "TargetEscaped": "[Sub] Power Boostγ-1C",
+      "SourceUtf8Sha256": "415ADAD98B555FF6C2BABF471EF00ECD54A6F7CDAAFC5EDC765B123E5F51C217"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-1B",
+      "TargetEscaped": "[Sub] Power Boostγ-1B",
+      "SourceUtf8Sha256": "EC7EBC8CABE90E27890176BCA7C174D29837F67083D8512FB5D253A97B724392"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-1A",
+      "TargetEscaped": "[Sub] Power Boostγ-1A",
+      "SourceUtf8Sha256": "4C01F3351E261F9A6E3B30E6C5CB07E4A5CDA2ACC80294DE4E7EEF2B29F9EF02"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-2C",
+      "TargetEscaped": "[Sub] Power Boostγ-2C",
+      "SourceUtf8Sha256": "267E9DCB816BC31C93145F29631B00535C861B3AE4117D215D79E428008AA84D"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-2B",
+      "TargetEscaped": "[Sub] Power Boostγ-2B",
+      "SourceUtf8Sha256": "F09B1EF3721241CB00089E640EDFC3FE05729C2C3370334DAE8C08324A1DE486"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-2A",
+      "TargetEscaped": "[Sub] Power Boostγ-2A",
+      "SourceUtf8Sha256": "1EEA4BE1CAA3AFD9EF256F1A6493C243733849B9CB4FADF1697FAA0B0C9C1A57"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-3C",
+      "TargetEscaped": "[Sub] Power Boostγ-3C",
+      "SourceUtf8Sha256": "F8A9BBABA932BB567CBC1D635D03160D381B0AD1A17226F9E8D54BD0781D5932"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-3B",
+      "TargetEscaped": "[Sub] Power Boostγ-3B",
+      "SourceUtf8Sha256": "BEAF42513CDA2A7D7164F8E3BE85E33753098683F10B76165FF96E52AFBDE00E"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-3A",
+      "TargetEscaped": "[Sub] Power Boostγ-3A",
+      "SourceUtf8Sha256": "FA80BD7114C8D3BF469F9899ED2C613BB8B0BDCCD9A31F19503781C42F6E52D1"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-4C",
+      "TargetEscaped": "[Sub] Power Boostγ-4C",
+      "SourceUtf8Sha256": "F3ED95CB43E440722B746B0616613380509B55FAADE53017CE3F326853C9E7ED"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-4B",
+      "TargetEscaped": "[Sub] Power Boostγ-4B",
+      "SourceUtf8Sha256": "5E75A399ECCA6FA2DD500E748A5BE94D6B2E3282631F33A8B243C0970A041EE3"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-4A",
+      "TargetEscaped": "[Sub] Power Boostγ-4A",
+      "SourceUtf8Sha256": "725BF77C565B88AA6D7CA5C871B734B96E5D24E8810234DF8D648EBF4B1B0A56"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-5C",
+      "TargetEscaped": "[Sub] Power Boostγ-5C",
+      "SourceUtf8Sha256": "DC40505DD68F392826B81E3576715BF6DBEF1B81894A55AC6742131A7A3E633B"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-5B",
+      "TargetEscaped": "[Sub] Power Boostγ-5B",
+      "SourceUtf8Sha256": "E5B5A976B68875AE9FA96CFCB51A8DAC65685326A6C4CF73A7EF806A537881DF"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-5A",
+      "TargetEscaped": "[Sub] Power Boostγ-5A",
+      "SourceUtf8Sha256": "B35F956473127C6AE75B13BE9045E9ECCDB63003E4D47ABB931C24AA16B4A8B4"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化γ-6",
+      "TargetEscaped": "[Sub] Power Boostγ-6",
+      "SourceUtf8Sha256": "870A69EC07265692A04A66C53F860CAA9367EA8FE4656E3E55DEF5A91D534271"
+    },
+    {
+      "SourceEscaped": "【サブ】パワー強化0",
+      "TargetEscaped": "[Sub] Power Boost0",
+      "SourceUtf8Sha256": "297905F5D34C3BA0A3A21F54BA871BB3100B0338B6AF5EC56F739D78BED5621D"
+    },
+    {
+      "SourceEscaped": "【サブ】スペシャル強化",
+      "TargetEscaped": "[Sub] Special Boost",
+      "SourceUtf8Sha256": "B3F3C74CCD78C9F92E94F84BF50466B17481A0F7586D71CCD03936A5DA88BF9C"
+    },
+    {
+      "SourceEscaped": "【サブ】エコノミー強化2-5",
+      "TargetEscaped": "[Sub] Economy Boost2-5",
+      "SourceUtf8Sha256": "4CDAB6663CB08AC0E97684B47D4460DA119C7E82FDDFA9A9856D022775AFEFAE"
+    },
+    {
+      "SourceEscaped": "【サブ】スペシャル強化2",
+      "TargetEscaped": "[Sub] Special Boost2",
+      "SourceUtf8Sha256": "03A62315AFF39DD89C8A567C896CBE93388A428C2AD4A63AA4E0A330B80B3E75"
+    },
+    {
+      "SourceEscaped": "【サブ】タイラント強化",
+      "TargetEscaped": "[Sub] Tyrant Boost",
+      "SourceUtf8Sha256": "F658CE607754A603BB1C778DE73620C67134413AD2E834A1C2372FE957D2BF6D"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：BALANCE-S",
+      "TargetEscaped": "[Basic] Muscle: BALANCE-S",
+      "SourceUtf8Sha256": "D69636D6C9DFBE73E67F58C7B1F69A991A16C4C9D109D46D0E98C2E3C7FEE1FA"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：BALANCE-M",
+      "TargetEscaped": "[Basic] Muscle: BALANCE-M",
+      "SourceUtf8Sha256": "564B4813AE30F39145A21E4BB6768D61370AE05822DEB02461402EBCBA72F1D4"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：BALANCE-L",
+      "TargetEscaped": "[Basic] Muscle: BALANCE-L",
+      "SourceUtf8Sha256": "72741F63DDBA6090CFCBFE8425CFE9F28F1A869B7768C449774D4FC50B10AADB"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：HP-S",
+      "TargetEscaped": "[Basic] Muscle: HP-S",
+      "SourceUtf8Sha256": "AEE80F13EE94D9164AD89D83A67F1FF0162DAEEEE0C21F388D3F98729F8B29A0"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：HP-M",
+      "TargetEscaped": "[Basic] Muscle: HP-M",
+      "SourceUtf8Sha256": "9471798F6F22EFC60858B24881012EBED359A79A1E88997E39A09A92A49AC9CD"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：HP-L",
+      "TargetEscaped": "[Basic] Muscle: HP-L",
+      "SourceUtf8Sha256": "0FDE2867E7E5E3D058E57559C653DD503B5736CDDD87772835C5E9EFAA0F235A"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：EN-S",
+      "TargetEscaped": "[Basic] Muscle: EN-S",
+      "SourceUtf8Sha256": "0DF3697DE6014DB69D23C5D8940C64D7A8FB83117D6B14DE03411D5667AAD0A0"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：EN-M",
+      "TargetEscaped": "[Basic] Muscle: EN-M",
+      "SourceUtf8Sha256": "84B5B9AEB5DFE7E54D7356F23A1FF08AE389074AE08A571E418E4584D4F04B52"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：EN-L",
+      "TargetEscaped": "[Basic] Muscle: EN-L",
+      "SourceUtf8Sha256": "BF8AF6A7ADADAE840B7211FCE62ECB7A96780715503D966510040ACE2441653E"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：ENRecover-S",
+      "TargetEscaped": "[Basic] Muscle: ENRecover-S",
+      "SourceUtf8Sha256": "FE8087DD1326F6D3A3D6AB48C38FFBB4D706DB05F09BA8BB5F9EFCCA0C85EE28"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：ENRecover-M",
+      "TargetEscaped": "[Basic] Muscle: ENRecover-M",
+      "SourceUtf8Sha256": "AE12C67A57CA7D4B3539D0D7548E6BA0E9B508F9B5DE951FDB55868D9014F395"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：ENRecover-L",
+      "TargetEscaped": "[Basic] Muscle: ENRecover-L",
+      "SourceUtf8Sha256": "F1857BE73963E659ED6F841CCB4A01806AADD0F8A4684B17D508350D18E77442"
+    },
+    {
+      "SourceEscaped": "【基本】バトル：BALANCE",
+      "TargetEscaped": "[Basic] Battle: BALANCE",
+      "SourceUtf8Sha256": "3D0FA8A435E57CFCEDD8F9BE9B546983D765D37B334A6D1FF1447F217D1AB5AE"
+    },
+    {
+      "SourceEscaped": "【基本】バトル：STABILITY",
+      "TargetEscaped": "[Basic] Battle: STABILITY",
+      "SourceUtf8Sha256": "E78DF8E421B7D532674F9B90630D5974CD08703C5F0020BF6D4E9E8393B4A52A"
+    },
+    {
+      "SourceEscaped": "【基本】バトル：FIGHTING",
+      "TargetEscaped": "[Basic] Battle: FIGHTING",
+      "SourceUtf8Sha256": "0B52677E6D1FAE4799B9A56994CF7F60DA5F9706BA45B089BCF46C18FF719A3A"
+    },
+    {
+      "SourceEscaped": "【基本】バトル：SHOOTING",
+      "TargetEscaped": "[Basic] Battle: SHOOTING",
+      "SourceUtf8Sha256": "00DB930B6F5A88919B41006C14B786133E19A72477D167BDAE29B0DDC0062FDA"
+    },
+    {
+      "SourceEscaped": "【基本】アーマー：BALANCE",
+      "TargetEscaped": "[Basic] Armor: BALANCE",
+      "SourceUtf8Sha256": "E6C83B1CAC53F1076DA02036F7791C55DCE411CE4991F52D49C50E80B6943FA4"
+    },
+    {
+      "SourceEscaped": "【基本】アーマー：SOLID",
+      "TargetEscaped": "[Basic] Armor: SOLID",
+      "SourceUtf8Sha256": "9FAE7F0F5772E3B72754182C54115E1122BDB8B50B243EDBCCD79E3D13A9E8E3"
+    },
+    {
+      "SourceEscaped": "【基本】アーマー：LASER",
+      "TargetEscaped": "[Basic] Armor: LASER",
+      "SourceUtf8Sha256": "B433F9023851954EC15E11D585961321FA3720CC7639571101228524A26090A9"
+    },
+    {
+      "SourceEscaped": "【基本】アーマー：FLAME",
+      "TargetEscaped": "[Basic] Armor: FLAME",
+      "SourceUtf8Sha256": "5088E37811205C280787E3228BBD894ECE8BB7AE48ADB8FCC8EAE075ECE91A9E"
+    },
+    {
+      "SourceEscaped": "【基本】アーマー：SHOCK",
+      "TargetEscaped": "[Basic] Armor: SHOCK",
+      "SourceUtf8Sha256": "F25D5402CD69081B77E23C10DCB9649D8F73CFC378AA3FE08E23C88438F3863D"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：AIR-S",
+      "TargetEscaped": "[Advanced] Mother: AIR-S",
+      "SourceUtf8Sha256": "F8755F63CFF17673D059849319D4E1433842267A7B549A36E20BC5B96E15A798"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：AIR-M",
+      "TargetEscaped": "[Advanced] Mother: AIR-M",
+      "SourceUtf8Sha256": "B25591E5194AB848D83033698C2F11D23922C6EAD5213B700DCA0578A22AFA1E"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：AIR-L",
+      "TargetEscaped": "[Advanced] Mother: AIR-L",
+      "SourceUtf8Sha256": "72FA5FAED8121AFC011952CACE2750C43248DF9CEE59E4ADBC562A0923D68379"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：ECLIPSE-S",
+      "TargetEscaped": "[Advanced] Mother: ECLIPSE-S",
+      "SourceUtf8Sha256": "AA74AB4C59C0E9F2E1FEAB4D4E4C66D8E05199BC9804177C288163CFDACA093B"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：ECLIPSE-M",
+      "TargetEscaped": "[Advanced] Mother: ECLIPSE-M",
+      "SourceUtf8Sha256": "EB3D2148A0FB01906FA9FEEEE2DE26273FFE56A2353344FEC28862A4ABA02AC5"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：ECLIPSE-L",
+      "TargetEscaped": "[Advanced] Mother: ECLIPSE-L",
+      "SourceUtf8Sha256": "07546F35D45E1D466CABAF505E0E092A4ABD90FB911BC1C6EAB07C910FA90D27"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：BALANCE-S",
+      "TargetEscaped": "[Advanced] Gigant: BALANCE-S",
+      "SourceUtf8Sha256": "A50B790B3A013F8453ED4B2686736D824B0F68C492CCD94E715949A4FAFF8860"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：BALANCE-M",
+      "TargetEscaped": "[Advanced] Gigant: BALANCE-M",
+      "SourceUtf8Sha256": "0C61C7FAAB141753373FA225F358C032F66E1EC42463AA72226065AD9B3F473F"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：BALANCE-L",
+      "TargetEscaped": "[Advanced] Gigant: BALANCE-L",
+      "SourceUtf8Sha256": "DCA2E46B7C7C1134D16C1FA908B80668BB4734771D4005E1E6547B4069ADBFA9"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：SOLID-S",
+      "TargetEscaped": "[Advanced] Gigant: SOLID-S",
+      "SourceUtf8Sha256": "226F5480024B850652D756616BC09FC87AC75752BC10D66D070D342B04CE1548"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：SOLID-M",
+      "TargetEscaped": "[Advanced] Gigant: SOLID-M",
+      "SourceUtf8Sha256": "0C2AC0DD2DFFA003C67420A3CFE61EA53E6A2758F1CBFFC0170E63E4BB2630FE"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：SOLID-L",
+      "TargetEscaped": "[Advanced] Gigant: SOLID-L",
+      "SourceUtf8Sha256": "C32DA227A5758461BB5A3E3840285F8D12D756576D03C9A9BCC9F5F8FCEF7A99"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：ELEMENT-S",
+      "TargetEscaped": "[Advanced] Gigant: ELEMENT-S",
+      "SourceUtf8Sha256": "143D0F7B92E6E317BCE45BB2EE4102A5003C7AA51F5CE4670294F7C54D21A0D8"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：ELEMENT-M",
+      "TargetEscaped": "[Advanced] Gigant: ELEMENT-M",
+      "SourceUtf8Sha256": "ACE849E4EDC5D61609F919BBF39E128AD2A0DE05AEA0F2D076B96B6CF315330B"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：ELEMENT-L",
+      "TargetEscaped": "[Advanced] Gigant: ELEMENT-L",
+      "SourceUtf8Sha256": "7A106CE0CDE88F1B2F3421E47E2BD71BDBD7E0CBF048F6F771B4D4A5EFD02301"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：PSYCHO-S",
+      "TargetEscaped": "[Advanced] Gigant: PSYCHO-S",
+      "SourceUtf8Sha256": "FC91AD71F83F6E83154FD08C353A8F2D188166B03004FC58B74D99506BDEA4CB"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：PSYCHO-M",
+      "TargetEscaped": "[Advanced] Gigant: PSYCHO-M",
+      "SourceUtf8Sha256": "916053498C80293EE89C68C3D28CC011E66ED58D32ECAE161775772FC4807967"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：PSYCHO-L",
+      "TargetEscaped": "[Advanced] Gigant: PSYCHO-L",
+      "SourceUtf8Sha256": "A81FE2C76D200652BC08B0679EB5E8A84ACA49963C847ECFC6F1C674DA231AE7"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：GAZE-S",
+      "TargetEscaped": "[Advanced] Gigant: GAZE-S",
+      "SourceUtf8Sha256": "5B5EFE02F68E79BCEC41D9EE7C66C75F401170F425B0E360CE09423F64FA7796"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：GAZE-M",
+      "TargetEscaped": "[Advanced] Gigant: GAZE-M",
+      "SourceUtf8Sha256": "A317FC19BE1905DC5C8AAB3D39C843CC9869F9B8BF483FD346DB2EBA5CC76F09"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：GAZE-L",
+      "TargetEscaped": "[Advanced] Gigant: GAZE-L",
+      "SourceUtf8Sha256": "13D01607800AEEAE6B8011BF706888A495F9F4855581EB05D0D2BD798F008689"
+    },
+    {
+      "SourceEscaped": "【上級】スピリット：MIRROR",
+      "TargetEscaped": "[Advanced] Spirit: MIRROR",
+      "SourceUtf8Sha256": "39D9980FB6C002DB2A186B5DB666602C9E050FA79FD3CEA828B63834E186BD20"
+    },
+    {
+      "SourceEscaped": "【上級】デュエル：BALANCE",
+      "TargetEscaped": "[Advanced] Duel: BALANCE",
+      "SourceUtf8Sha256": "593589450B234E9F07D0CC2D826D32F30D0F20B374AE11B76854855E468A617B"
+    },
+    {
+      "SourceEscaped": "【上級】デュエル：FIST",
+      "TargetEscaped": "[Advanced] Duel: FIST",
+      "SourceUtf8Sha256": "3C9AEA867CFF0D4D260C66442CBB9AD8E6AA9BE26A6771046EC7C9803D9B7969"
+    },
+    {
+      "SourceEscaped": "【上級】デュエル：FAKE",
+      "TargetEscaped": "[Advanced] Duel: FAKE",
+      "SourceUtf8Sha256": "B0C24FAF12CD26FE462F4DCCB3558510E9DFC93739783E9119226B7A9FF66B12"
+    },
+    {
+      "SourceEscaped": "【上級】デュエル：PIERCE",
+      "TargetEscaped": "[Advanced] Duel: PIERCE",
+      "SourceUtf8Sha256": "A95317FD37B962EF4B22F79998058BAD7E627726E4518678BE4A57A99CC21143"
+    },
+    {
+      "SourceEscaped": "【上級】デュエル：FLASH",
+      "TargetEscaped": "[Advanced] Duel: FLASH",
+      "SourceUtf8Sha256": "868A5C1CC63C807A79721E2C832A241F4EF0ED800449CA5B97E90727C8751EA0"
+    },
+    {
+      "SourceEscaped": "【上級】デュエル：SILENCE",
+      "TargetEscaped": "[Advanced] Duel: SILENCE",
+      "SourceUtf8Sha256": "0CCDE9175026F326689559ED7B78FFC0696549528E8D77A53293D39FC26566F0"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスBD",
+      "TargetEscaped": "[Exclusive] KamentisBD",
+      "SourceUtf8Sha256": "9703B46BA58F1F3E33B507C8466E7FE175A2D73C06CABC0B6158F7984959BF5B"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスBD2",
+      "TargetEscaped": "[Exclusive] KamentisBD2",
+      "SourceUtf8Sha256": "70727533F0B79D3E7C9D8B760AA3595860492DBDB03EA71D0BCDB48B6CC4E269"
+    },
+    {
+      "SourceEscaped": "【専用】コスモカイザーBD",
+      "TargetEscaped": "[Exclusive] Cosmo KaiserBD",
+      "SourceUtf8Sha256": "93E2A3D22E2B184C9A1D228FA98C3494F2C50B43735405522A7D9E200EB66890"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーBD",
+      "TargetEscaped": "[Exclusive] VictoryBD",
+      "SourceUtf8Sha256": "878AE10210915F880876C4F700E34C8A1452A82B642E5BCFAB5AF353E3300B4C"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーBD2",
+      "TargetEscaped": "[Exclusive] VictoryBD2",
+      "SourceUtf8Sha256": "42E62E333F0C5F553441D6B209F33DF089F91C4832CA4D4E98BBB9D5ADF3D426"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーBD3",
+      "TargetEscaped": "[Exclusive] VictoryBD3",
+      "SourceUtf8Sha256": "B30CFD64CDA3736D4D093F94C94AC9A9C22F0D124CEEE7AC9592DABF271436F7"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーBD4",
+      "TargetEscaped": "[Exclusive] VictoryBD4",
+      "SourceUtf8Sha256": "62EFB0D93D89EBE94F08E790170F814B364C830BF160CAAC69E6E1457F345197"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーBD5",
+      "TargetEscaped": "[Exclusive] VictoryBD5",
+      "SourceUtf8Sha256": "E7D30DF19004B4C8558D0DFBCF5867F203471F85A1F7FE13AF8723C09145CAA8"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドビクトリーBD",
+      "TargetEscaped": "[Exclusive] Dast VictoryBD",
+      "SourceUtf8Sha256": "BC588E80F7567B8822747357A0A1B7AD0515546747D4286FD9D0EA156F9281E8"
+    },
+    {
+      "SourceEscaped": "【専用】ラスタービクトリーBD",
+      "TargetEscaped": "[Exclusive] Luster VictoryBD",
+      "SourceUtf8Sha256": "D8BB3E9F1A06225A41276337195BC74D7F49F0D884BEABCB9A7393F80D84DD2B"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーBD",
+      "TargetEscaped": "[Exclusive] Megaton OhBD",
+      "SourceUtf8Sha256": "D489E779C1B1E30CE9CBCC6F335D57C9CD678B0AB9AAA92B47173020115D5494"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーBD2",
+      "TargetEscaped": "[Exclusive] Megaton OhBD2",
+      "SourceUtf8Sha256": "8A17D074549E5F15D5F9F85F91E3C40A2A833BF4490F7FB52BEE6B60D46D322E"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーBD3",
+      "TargetEscaped": "[Exclusive] Megaton OhBD3",
+      "SourceUtf8Sha256": "16CF72424AF27365E0350CD77D32961D0026F71D474399EBCB57540474E82577"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターメガトンBD",
+      "TargetEscaped": "[Exclusive] Rasuta-megatonBD",
+      "SourceUtf8Sha256": "D1052C0E43DF69C5174D87BB5E3632497450ABA16BE8C473D3CE63A2884F7FB8"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドンオーBD",
+      "TargetEscaped": "[Exclusive] Dasudono-BD",
+      "SourceUtf8Sha256": "5D5C70B22C2A0E6684E04713B158CF2ADC01F7B00A81F8BD5C2904291772D469"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールBD",
+      "TargetEscaped": "[Exclusive] Cannon BallBD",
+      "SourceUtf8Sha256": "7324535E5241C31421E95735A65B73E18A3DF074323624C9CB9DD13D90BD67C4"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールGOLDBD",
+      "TargetEscaped": "[Exclusive] Cannon BallGOLDBD",
+      "SourceUtf8Sha256": "9EDB9D3C38F8AD16568836859B918B8E665822EDCB79B0448E1E70197676FB14"
+    },
+    {
+      "SourceEscaped": "【専用】エンジェルBD",
+      "TargetEscaped": "[Exclusive] AngelBD",
+      "SourceUtf8Sha256": "A19CF8CB88B2591F0C49F57B399B3632C493050EE3F4C064C6C5E964436F723D"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングBD",
+      "TargetEscaped": "[Exclusive] Sword WingBD",
+      "SourceUtf8Sha256": "7F7E38AE1C952A729EBDFE36031B5EC5C4622A8690EDB58FF31F2C47CFC0D9CC"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングBD★",
+      "TargetEscaped": "[Exclusive] Sword WingBD★",
+      "SourceUtf8Sha256": "A373731B9E9B3F8639B9749432C897C818CF3EF191DBDCA070160DF398ACE8E4"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターデルビンBD",
+      "TargetEscaped": "[Exclusive] Luster DelbinBD",
+      "SourceUtf8Sha256": "CE05C1F024671B8F079A1274C28E3B54D06B805E4E0AB41C6E10C8B0B01C64B1"
+    },
+    {
+      "SourceEscaped": "【専用】デルビライダーBD",
+      "TargetEscaped": "[Exclusive] Derubiraida-BD",
+      "SourceUtf8Sha256": "43259A55F2D95D2BDB8E4EEACA5B891622500409314739589846A8FA1F5BBF6E"
+    },
+    {
+      "SourceEscaped": "【専用】デルビキャップBD",
+      "TargetEscaped": "[Exclusive] DerubikyappuBD",
+      "SourceUtf8Sha256": "EF7F13A19C5A70E41937219A552A9655C453610B4B73196023BB1F071AE6222B"
+    },
+    {
+      "SourceEscaped": "【専用】デルゴンダムBD",
+      "TargetEscaped": "[Exclusive] DerugondamuBD",
+      "SourceUtf8Sha256": "B54678A142BC85D383C29D8F4FC80D1EBD343867D97C58CBEA62A4928C3F1EF7"
+    },
+    {
+      "SourceEscaped": "【専用】デルゴホバーBD",
+      "TargetEscaped": "[Exclusive] Derugohoba-BD",
+      "SourceUtf8Sha256": "1897038332D5CE42E5A43CECB2BF07240D8B061302246D98E69CAEE0E3406932"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトBD",
+      "TargetEscaped": "[Exclusive] Mach KnightBD",
+      "SourceUtf8Sha256": "DBA6055636302185FFEBC08B329443E06463EFEBCD1EC89A4D46593F52D4E8CC"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトBD2",
+      "TargetEscaped": "[Exclusive] Mach KnightBD2",
+      "SourceUtf8Sha256": "0AF91D5E4EDE004D75E523995C0202D9052D1313A1650BCE946FAB8DC7F56A18"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトBD4",
+      "TargetEscaped": "[Exclusive] Mach KnightBD4",
+      "SourceUtf8Sha256": "DE887873F7C72B232E0F321BB3A8566A35BE1D5042CC72F0A49D9C828787CB49"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトBD3",
+      "TargetEscaped": "[Exclusive] Mach KnightBD3",
+      "SourceUtf8Sha256": "7AC36141F6D200DEC34EE28C72F5D05D8F1ED7F24DC22641466B8B58C4FB2477"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBD",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBD",
+      "SourceUtf8Sha256": "B22FBDDD9BDC54DD0E428C89D5940FE278F86E8A8CB6416B22D19C005F595C28"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBD2",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBD2",
+      "SourceUtf8Sha256": "B938A2F404553896FE226C55C78B84A3476F3507CF9BB5C54F1C1A97B763F197"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBD4",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBD4",
+      "SourceUtf8Sha256": "119111B5A61602B354DD6F2AD28C4D76C07A759F7E1C9CF3AE4BDEA97B0B0481"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBD3",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBD3",
+      "SourceUtf8Sha256": "2CD669A802E35F9E1594E2DDA0C3035E9A6BD918CD0EA6F1B0F412215CCD2470"
+    },
+    {
+      "SourceEscaped": "【専用】ガンドリルBD",
+      "TargetEscaped": "[Exclusive] Gun DrillBD",
+      "SourceUtf8Sha256": "6BB75C9CA37B800674AD101DDE48B3EB43A8D596ABFC8E1CB6BE7C82D322DAA8"
+    },
+    {
+      "SourceEscaped": "【専用】デストラクトBD",
+      "TargetEscaped": "[Exclusive] DestructorBD",
+      "SourceUtf8Sha256": "84C0113470DB9BDCB4735855198E44C13DF59109F41C3748E7E6D7053E868D40"
+    },
+    {
+      "SourceEscaped": "【専用】デストラクトBD2",
+      "TargetEscaped": "[Exclusive] DestructorBD2",
+      "SourceUtf8Sha256": "62CCF2B9A430399584699B48ADC4459D126F4C655314693ED578B42A2F9AB3F1"
+    },
+    {
+      "SourceEscaped": "【専用】コントラディクトBD",
+      "TargetEscaped": "[Exclusive] ContradictBD",
+      "SourceUtf8Sha256": "0AE70B9373DF11F8ED3FF4196F9E27AE03E6ECA72388C75D9FAC44DBB6654581"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーBD",
+      "TargetEscaped": "[Exclusive] Frog LanderBD",
+      "SourceUtf8Sha256": "08724F5C0DA5C603E80FF08C46C473F907CF5B245E1690C26F7E2DE3AC552828"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーBD2",
+      "TargetEscaped": "[Exclusive] Frog LanderBD2",
+      "SourceUtf8Sha256": "7E83A871F2C9C52A6285822518927872C3CDAF4BF817A41A52E315F65BC01E20"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドBD",
+      "TargetEscaped": "[Exclusive] ParaboloidBD",
+      "SourceUtf8Sha256": "8C37D6FF101FAB240FDA345FFAB989B4A9C7706D15F9454A04619127491410B0"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドBD2",
+      "TargetEscaped": "[Exclusive] ParaboloidBD2",
+      "SourceUtf8Sha256": "23E01A7B245FD0F33DCAFC810F54A7C9786AF7883BB7714F1DED8F850A233D4E"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスBD",
+      "TargetEscaped": "[Exclusive] Big MountaizBD",
+      "SourceUtf8Sha256": "0FF32680AAAD6256D035A12DE0319892B8024D583FE6CB4EDAE8DF418FF05226"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスBD2",
+      "TargetEscaped": "[Exclusive] Big MountaizBD2",
+      "SourceUtf8Sha256": "BE66C2240D346A78D4F0A06B5DB194B90C24BEC5F428671F55C722BB86FCC17D"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーBD",
+      "TargetEscaped": "[Exclusive] TetsujingerBD",
+      "SourceUtf8Sha256": "E11B41C3C876718A49448AB678F9772391EE3E1EDF5EB04C494A64B0A919979B"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーBD2",
+      "TargetEscaped": "[Exclusive] TetsujingerBD2",
+      "SourceUtf8Sha256": "C83488C684FC43267E36A6350176E45B87678EFBEAC4D595428692E6315473A4"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンBD",
+      "TargetEscaped": "[Exclusive] FizalivanBD",
+      "SourceUtf8Sha256": "2F9B67202D29014CC26200B23A170A9D1D72C2DF020ED5B76D58C22A799BD395"
+    },
+    {
+      "SourceEscaped": "【専用】グレンザリバンBD",
+      "TargetEscaped": "[Exclusive] GlenzarivanBD",
+      "SourceUtf8Sha256": "0CF1A4D9709F8BF827E455E4FF5C1F4E4051EE4D1A0D1EC65BF6C52A22092311"
+    },
+    {
+      "SourceEscaped": "【専用】モグニードBD",
+      "TargetEscaped": "[Exclusive] MogneadBD",
+      "SourceUtf8Sha256": "D8BD54A42C68DD03751E5E1D84B651D1AC28ACBAEFCED27381B46008E0F2DB9B"
+    },
+    {
+      "SourceEscaped": "【専用】モールニードスBD",
+      "TargetEscaped": "[Exclusive] Mo-runi-dosuBD",
+      "SourceUtf8Sha256": "3EB8F689985E40B108BC1C28E7CF09702AA799812904EE6114510FAC9C3DA14F"
+    },
+    {
+      "SourceEscaped": "【専用】タラントリックBD",
+      "TargetEscaped": "[Exclusive] TarantrickBD",
+      "SourceUtf8Sha256": "F9C8EBCE73B748830B6F8475AC6AF462641907AFA07DB00223D12C87968C474A"
+    },
+    {
+      "SourceEscaped": "【専用】カサカサBD",
+      "TargetEscaped": "[Exclusive] KasakasaBD",
+      "SourceUtf8Sha256": "759984D7B4D73910E277264D23168CF2543F9AFED13CB8318DBE1476F72628FF"
+    },
+    {
+      "SourceEscaped": "【専用】ドラグニクスBD",
+      "TargetEscaped": "[Exclusive] DragnixBD",
+      "SourceUtf8Sha256": "1C36E7685E476ECC7C1A789919362788E933A3B207A6FDD686533AB02D2496E1"
+    },
+    {
+      "SourceEscaped": "【専用】サイバリオンBD",
+      "TargetEscaped": "[Exclusive] CyberionBD",
+      "SourceUtf8Sha256": "3F49D0D7E2100205B51FF479C28E1366B3C285388402F487BCD04B99DB326F91"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンBD",
+      "TargetEscaped": "[Exclusive] TarabatronBD",
+      "SourceUtf8Sha256": "6E2F8AE45D35C9CCFAD5E5A14839C982F6F9FB0D9F3F5DE28F2FAB613235891B"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンBD",
+      "TargetEscaped": "[Exclusive] ScorptonBD",
+      "SourceUtf8Sha256": "DFB5B70F876539462C9C0F1318E4E6125FFB6901B33FE306D70E1D8E6062ED3A"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンBD2",
+      "TargetEscaped": "[Exclusive] ScorptonBD2",
+      "SourceUtf8Sha256": "DA4B7C0929CF9D1415AA8DDED52A1A49A78FCC0410BFC1D8520921566D6B3B3D"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルBD",
+      "TargetEscaped": "[Exclusive] BeezleBD",
+      "SourceUtf8Sha256": "4E26D66208DDDC2D05D648B528CEA0819DCBF82ABEA62B92576F5FEF6D20EC3A"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルBD2",
+      "TargetEscaped": "[Exclusive] BeezleBD2",
+      "SourceUtf8Sha256": "9D8D320281E8E8530F2825A1C18EED5395555FB91E56617875CC958F13810299"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルBD",
+      "TargetEscaped": "[Exclusive] PristoleBD",
+      "SourceUtf8Sha256": "191B240757B4E847239BA12FEFBD31DD7EDAD8C7E4E2F0AA275839C979BE2ABE"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルBD2",
+      "TargetEscaped": "[Exclusive] PristoleBD2",
+      "SourceUtf8Sha256": "D2DC67F5B9CDE956217674E62F9B2428154ECE3CEE09A68241575E96FB481090"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオンBD",
+      "TargetEscaped": "[Exclusive] HoverionBD",
+      "SourceUtf8Sha256": "C77D9CE84F6783B3407FE0D6A40F0EE807A6B256C860C021E4303CD8C81A481B"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオン・マグナBD",
+      "TargetEscaped": "[Exclusive] Hoverion MagnaBD",
+      "SourceUtf8Sha256": "0B4300651D7AF682A542606E5B477EF9BF15BB0B695FEF3E6A738CADB9999B4F"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーBD",
+      "TargetEscaped": "[Exclusive] PawnjaBD",
+      "SourceUtf8Sha256": "DA7D06A23DE1200305DB40419271C5E9EF20073172E80CE1A149F1CF7C1457D8"
+    },
+    {
+      "SourceEscaped": "【専用】ダイダリオンBD",
+      "TargetEscaped": "[Exclusive] DaidalionBD",
+      "SourceUtf8Sha256": "655C84881BB4099331E1BB4A9E198CCE462EC731B87085B8BCE435D699DCE74D"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターBD",
+      "TargetEscaped": "[Exclusive] Mecha JetterBD",
+      "SourceUtf8Sha256": "AE2873791208A4B9235A4886CC6A231E25217D242CF468B3D3074EF7E787D5F4"
+    },
+    {
+      "SourceEscaped": "【専用】ソルジェッターBD",
+      "TargetEscaped": "[Exclusive] Sol JetterBD",
+      "SourceUtf8Sha256": "0AEF70387DAD3AC0A35FAFFEBCC211D5906DCEA6E25A3DD71B655D916E4F2D14"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターBD3",
+      "TargetEscaped": "[Exclusive] Mecha JetterBD3",
+      "SourceUtf8Sha256": "4B7D572B0CA8EB5C22A1A48AC875453C5B2E5B73C1953B01319E91811DFC5BAA"
+    },
+    {
+      "SourceEscaped": "【専用】ケンタクロスBD",
+      "TargetEscaped": "[Exclusive] Centaur CrossBD",
+      "SourceUtf8Sha256": "FC3B494B2AAF212643179627D0C59FF2E91FAEDB66DD7C9AA09CDC6C2111EC5E"
+    },
+    {
+      "SourceEscaped": "【専用】スライプロスBD",
+      "TargetEscaped": "[Exclusive] SlyprosBD",
+      "SourceUtf8Sha256": "4BADEACF3F855837BC0B6CDB377F8B2E096F1DCBCB558D469C15957A06B9EB28"
+    },
+    {
+      "SourceEscaped": "【専用】メカルドBD",
+      "TargetEscaped": "[Exclusive] MechaldBD",
+      "SourceUtf8Sha256": "C17D8333CD9114E3634C5A4AAE95E61FCC5984E4224DEA452067CC249B352555"
+    },
+    {
+      "SourceEscaped": "【専用】スティルドBD",
+      "TargetEscaped": "[Exclusive] SutirudoBD",
+      "SourceUtf8Sha256": "31367FF446B6C512835CD71E68DC69EB48CC52754317C90AD61AAF2752393CE7"
+    },
+    {
+      "SourceEscaped": "【専用】ギャラクシーデカBD",
+      "TargetEscaped": "[Exclusive] Galaxy DekaBD",
+      "SourceUtf8Sha256": "26B2339ED555B82D2DB3660CBBEAC8730CDEBD325904193988151C79D0ED456B"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルBD",
+      "TargetEscaped": "[Exclusive] SLBD",
+      "SourceUtf8Sha256": "3FBC4D60B8810C3407CEBDC862D28A843F5C10AEDDD926A298860C75FCEDF8DD"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルBD2",
+      "TargetEscaped": "[Exclusive] SLBD2",
+      "SourceUtf8Sha256": "18DBF871AD426C584294AE331C15A7820A03BF876B7E65A4ADDF5ADC020126E5"
+    },
+    {
+      "SourceEscaped": "【専用】エクスプレオスBD",
+      "TargetEscaped": "[Exclusive] ExpleosBD",
+      "SourceUtf8Sha256": "288047178884621DC713185F7613E4E8D6190695A6595E962FF7AE6B74E7F451"
+    },
+    {
+      "SourceEscaped": "【専用】ミカドマックスBD",
+      "TargetEscaped": "[Exclusive] Mikado MaxBD",
+      "SourceUtf8Sha256": "89BFCB5EE32B531B28E2152B35778C01BB771C865F05E48522DECE106123F9DA"
+    },
+    {
+      "SourceEscaped": "【専用】ダテマックスBD",
+      "TargetEscaped": "[Exclusive] DatemakkusuBD",
+      "SourceUtf8Sha256": "D26FA0767D64A164C562F8CBCA192C85EF04612378A8091B6D0C3CB183296B30"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウハンターBD",
+      "TargetEscaped": "[Exclusive] Shadow HunterBD",
+      "SourceUtf8Sha256": "711FC39B277DC2D75CCD23F4CC4C97C790720F12F347544360EDD8D8B1488EDF"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウマスターBD",
+      "TargetEscaped": "[Exclusive] Shadow MasterBD",
+      "SourceUtf8Sha256": "F965F613F079F4D85A8EBE39420EA81A21C27B58C61DBCD5EFBB876EF21029C1"
+    },
+    {
+      "SourceEscaped": "【専用】アサルトオックスBD",
+      "TargetEscaped": "[Exclusive] Assault OxBD",
+      "SourceUtf8Sha256": "55E9A8ABFA1B5DB195B6178004F602AFCA2FDFDD7B8408F7454453AFAFD562B8"
+    },
+    {
+      "SourceEscaped": "【専用】マテングBD",
+      "TargetEscaped": "[Exclusive] MatengBD",
+      "SourceUtf8Sha256": "7D880CF3CAE61748CBF5E796F4984B1212FA34139D3DBFF100C479B8A2B0287C"
+    },
+    {
+      "SourceEscaped": "【専用】コーテングBD",
+      "TargetEscaped": "[Exclusive] KotenguBD",
+      "SourceUtf8Sha256": "445C62FA8C87B21F8B894AF14A4889034E8717B6ABFF43C8A2272D4025B9F470"
+    },
+    {
+      "SourceEscaped": "【専用】エティオンBD",
+      "TargetEscaped": "[Exclusive] EttionBD",
+      "SourceUtf8Sha256": "2F78994963D58C2233D623D7392A011C7223EDF742F4B501288A495F7BF7DEF4"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターBD",
+      "TargetEscaped": "[Exclusive] Zero FighterBD",
+      "SourceUtf8Sha256": "6FA3CE65D63AA5F05CC29B9DB9975A9596A604F7EE51E6B87B161622AC25B0CE"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターBD2",
+      "TargetEscaped": "[Exclusive] Zero FighterBD2",
+      "SourceUtf8Sha256": "F1ABCE967F58CB31B1BE60DB9691D54755271DACE14DC675CFC608C5B04C5148"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターゼロBD",
+      "TargetEscaped": "[Exclusive] Rasuta-zeroBD",
+      "SourceUtf8Sha256": "5236A6361846640AC7365767CC36C82FBF9A763806CB2CC4C33587D5CF6608A7"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドゼロBD",
+      "TargetEscaped": "[Exclusive] DasudozeroBD",
+      "SourceUtf8Sha256": "430536FF837882AF7FDD44EB4B017293CFEA7842C54AE99416E0A57B81BB4EE4"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールBD",
+      "TargetEscaped": "[Exclusive] TempoleBD",
+      "SourceUtf8Sha256": "262D3EEF7DA12F2405AF227392C2A446A156039BA2A41C5F27901E88734CC71B"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールBD2",
+      "TargetEscaped": "[Exclusive] TempoleBD2",
+      "SourceUtf8Sha256": "C5AA16C0756C7D1D87F78753F11E42F07E009C210B04623F2A52194F8BB588C7"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールBD3",
+      "TargetEscaped": "[Exclusive] TempoleBD3",
+      "SourceUtf8Sha256": "665285F5E8C8D1F35DFB11730CA2407F1292EA66B316932C56ACB8435D6B1494"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーBD",
+      "TargetEscaped": "[Exclusive] Steel RiderBD",
+      "SourceUtf8Sha256": "D0365C1EA06EB3628885A62CB896EE0ECBEA82CC6CBC7DD1BEBF858D23661B19"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターBD",
+      "TargetEscaped": "[Exclusive] DarumastarBD",
+      "SourceUtf8Sha256": "33223157589B28ECAC8A3F1A42F7A8B126395ECBBAFDAFAC134AC377CCC64F19"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターBD2",
+      "TargetEscaped": "[Exclusive] DarumastarBD2",
+      "SourceUtf8Sha256": "E9F64EF06EB022A4C7EDC88C19DE6FD7D9252AD2EFAD81BEFBCCC0D161179E38"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターBD3",
+      "TargetEscaped": "[Exclusive] DarumastarBD3",
+      "SourceUtf8Sha256": "C0C48EEABA4C59D6EDF0DE7D355D0F19411A5CAC98BFD22AB42B4B41EEE1B20E"
+    },
+    {
+      "SourceEscaped": "【専用】デルダスパイクBD",
+      "TargetEscaped": "[Exclusive] DerudasupaikuBD",
+      "SourceUtf8Sha256": "FA9CCA0927C61941541F9239DFF21FE01B90BC0678B0162AD77CEDE432A88DA8"
+    },
+    {
+      "SourceEscaped": "【専用】デルダレポートBD",
+      "TargetEscaped": "[Exclusive] Derudarepo-toBD",
+      "SourceUtf8Sha256": "9F2C58E86E86EE2B8238F6C72FF0C1614599314716F8C526ED5DFE0D30A47446"
+    },
+    {
+      "SourceEscaped": "【基本】ムーヴ：WALKCAP",
+      "TargetEscaped": "[Basic] Move: WALKCAP",
+      "SourceUtf8Sha256": "CCE6DDF4F72C74BE4C92B15586DB439ED3E9589BFC5720825B7565CB81766CFE"
+    },
+    {
+      "SourceEscaped": "【基本】ムーヴ：WALKSPEED",
+      "TargetEscaped": "[Basic] Move: WALKSPEED",
+      "SourceUtf8Sha256": "46A00F04E0DED5AEB61E4ED819AAF521C40EDF51E7FA0F63A178C3466A8C6A12"
+    },
+    {
+      "SourceEscaped": "【基本】レジスト：BALANCE",
+      "TargetEscaped": "[Basic] Resist: BALANCE",
+      "SourceUtf8Sha256": "3B748425D8D261A18C1BB9F06AF079E92E5547AC03755AF2C99ECA082F7BE9FC"
+    },
+    {
+      "SourceEscaped": "【基本】レジスト：SLOW",
+      "TargetEscaped": "[Basic] Resist: SLOW",
+      "SourceUtf8Sha256": "8142822D4B59ED47D5C27A6F2EBD68101D6E98F455829373229BB703282CF9F9"
+    },
+    {
+      "SourceEscaped": "【基本】レジスト：FREEZE",
+      "TargetEscaped": "[Basic] Resist: FREEZE",
+      "SourceUtf8Sha256": "B1C70FA258A041811749E70CCF8AD6803893ADA02A3DDC73CDEC92887561F484"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：EARTH-S",
+      "TargetEscaped": "[Advanced] Mother: EARTH-S",
+      "SourceUtf8Sha256": "22194B892E7029CEA63876F10A53BB8AC836F6E6BA2878BBA89DF4F573663F7F"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：EARTH-M",
+      "TargetEscaped": "[Advanced] Mother: EARTH-M",
+      "SourceUtf8Sha256": "B84E7083B80BF4BFBE6A24966F3937883FD196CDB0064106637045D0FA7179A8"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：EARTH-L",
+      "TargetEscaped": "[Advanced] Mother: EARTH-L",
+      "SourceUtf8Sha256": "908827C6A4BE1D3D11AF05C9B003F9F3A1FD442758406DC94774B2FC70BCB4F4"
+    },
+    {
+      "SourceEscaped": "【上級】スピリット：STONE",
+      "TargetEscaped": "[Advanced] Spirit: STONE",
+      "SourceUtf8Sha256": "E7D08EDB60FA13576DC37AA4DA465F356A4FA6AEE6CB10B338FDE22B3A3864FC"
+    },
+    {
+      "SourceEscaped": "【上級】スピリット：OTHER",
+      "TargetEscaped": "[Advanced] Spirit: OTHER",
+      "SourceUtf8Sha256": "675A500CC9216C7B949D0E965817D318494D808E131337D441D08F45D0B82FCA"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスLG",
+      "TargetEscaped": "[Exclusive] KamentisLG",
+      "SourceUtf8Sha256": "ACDC17A13A5835C72305523EF3E6AF14EDE6B825DC02F16116D501800BDF7B4B"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスLG2",
+      "TargetEscaped": "[Exclusive] KamentisLG2",
+      "SourceUtf8Sha256": "8150901B5CFA9AAE3AD68C5BA08C5D20273B9DB12FEA65B6A343B320970E58FD"
+    },
+    {
+      "SourceEscaped": "【専用】コスモカイザーLG",
+      "TargetEscaped": "[Exclusive] Cosmo KaiserLG",
+      "SourceUtf8Sha256": "605D685FC914E9BCCC5BA852AC70DC8CB9B1C21B977556F3AA2CAE4E4AF04AB2"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーLG",
+      "TargetEscaped": "[Exclusive] VictoryLG",
+      "SourceUtf8Sha256": "18AD8841899204E27A750786F5D31552459A64A842675B5BA3D54D5A1C1A45F4"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーLG2",
+      "TargetEscaped": "[Exclusive] VictoryLG2",
+      "SourceUtf8Sha256": "6EFCF226B6C22CDE2C9F2C347322AA70EA744D5184949E2CA68C409CAC337582"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドビクトリーLG",
+      "TargetEscaped": "[Exclusive] Dast VictoryLG",
+      "SourceUtf8Sha256": "9F9FAAB360C191663AF4FB44621233892D7F1D114EE62A081611FD38CF132BA1"
+    },
+    {
+      "SourceEscaped": "【専用】ラスタービクトリーLG",
+      "TargetEscaped": "[Exclusive] Luster VictoryLG",
+      "SourceUtf8Sha256": "6201F8A52C2991A6FB217B9400A54AFFBC8C212A304156ED5EC3B6BC2EFD4754"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーLG",
+      "TargetEscaped": "[Exclusive] Megaton OhLG",
+      "SourceUtf8Sha256": "8234471E81E7317D9B4A2D4EA26B5C51F487CE5DA105B12FB3203FC0E5C419FE"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーLG2",
+      "TargetEscaped": "[Exclusive] Megaton OhLG2",
+      "SourceUtf8Sha256": "D4F676E67E4A0A9E4F29183EFB816C7BDC2AB5E6D0E0F8EA71F5B21D6BA00E41"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターメガトンLG",
+      "TargetEscaped": "[Exclusive] Rasuta-megatonLG",
+      "SourceUtf8Sha256": "015E0F5D856F1708354AD8405773FC3D6B73D2B34D9E053AD3CB95B3524263C6"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドンオーLG",
+      "TargetEscaped": "[Exclusive] Dasudono-LG",
+      "SourceUtf8Sha256": "0F3A139B8D706FAFE6DF70E9300A591E6CF716BD3396B505C30F058FD6DFB332"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールLG",
+      "TargetEscaped": "[Exclusive] Cannon BallLG",
+      "SourceUtf8Sha256": "286724C91138EE0614A8D50E3BCFCD57CFD3148118EC9E1C1BC629BCF5810833"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールLG2",
+      "TargetEscaped": "[Exclusive] Cannon BallLG2",
+      "SourceUtf8Sha256": "BFA66DEDC03FA66948C54E031F6C187A4D4B38D4FBCAD5DDDA629C85BD4EC78E"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールGOLDLG",
+      "TargetEscaped": "[Exclusive] Cannon BallGOLDLG",
+      "SourceUtf8Sha256": "DA8806121C01FDE10B2DAE9271EC2F0D4147F4330F6434A4091E137F5AE9A1F7"
+    },
+    {
+      "SourceEscaped": "【専用】エンジェルLG",
+      "TargetEscaped": "[Exclusive] AngelLG",
+      "SourceUtf8Sha256": "7B049590205CC2C77CACA9CB6D232AAB868CFCA506BC3747D568C6A8B7A0C8C1"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウィングLG",
+      "TargetEscaped": "[Exclusive] Sword WingLG",
+      "SourceUtf8Sha256": "06D9B9F15A747E1DF76B943F4410F720D51550B6E0CE8F8961E10A146CC149EC"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウィングLG2",
+      "TargetEscaped": "[Exclusive] Sword WingLG2",
+      "SourceUtf8Sha256": "D0A927586AF5F2DC6E71C4C4167E178E83A7F6B076293B045CDEDAEDAA210003"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウィングLG2★",
+      "TargetEscaped": "[Exclusive] Sword WingLG2★",
+      "SourceUtf8Sha256": "443507A57AF4C9047D47DFE535AA484B499A15519723F1E35F8B64F3B401F06A"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトLG",
+      "TargetEscaped": "[Exclusive] Mach KnightLG",
+      "SourceUtf8Sha256": "125A77752986D8A217FFC79E6DFA440A8D836BFA6C18E765C7A882BCAE15EA91"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームLG",
+      "TargetEscaped": "[Exclusive] Jaguar ArmLG",
+      "SourceUtf8Sha256": "487DF71CD0B45D6AA207A0FBE228E020E0BD6EC28CF2E8DD3A61BB53B9E3D7F9"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームLG2",
+      "TargetEscaped": "[Exclusive] Jaguar ArmLG2",
+      "SourceUtf8Sha256": "4C3746E0B5FF95507BBDE6D0AEF3EA069854BB055F35BE366F1E2C5B384868EF"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームLG3",
+      "TargetEscaped": "[Exclusive] Jaguar ArmLG3",
+      "SourceUtf8Sha256": "AEF9F181CECFAFB8D529B47ECE133FF18C97A93664E9BF5A20E8E674AD93EA3E"
+    },
+    {
+      "SourceEscaped": "【専用】ガンドリルLG",
+      "TargetEscaped": "[Exclusive] Gun DrillLG",
+      "SourceUtf8Sha256": "72F1ABA9D18DF8BFB2A774AF684BBE2EA71A87C39DD249E8AFE751EC0B23BEC6"
+    },
+    {
+      "SourceEscaped": "【専用】ガンドリルLG2",
+      "TargetEscaped": "[Exclusive] Gun DrillLG2",
+      "SourceUtf8Sha256": "C9D1A01D3EF792A0D2A50C922DBD0F563FF68EBDA22C451018B57DA51CC7B1EC"
+    },
+    {
+      "SourceEscaped": "【専用】デストラクトLG",
+      "TargetEscaped": "[Exclusive] DestructorLG",
+      "SourceUtf8Sha256": "6075862094135CF90C44D8BD2873247FED5942315CF936A181DA36A6646D946A"
+    },
+    {
+      "SourceEscaped": "【専用】コントラディクトLG",
+      "TargetEscaped": "[Exclusive] ContradictLG",
+      "SourceUtf8Sha256": "55EDFD6030E5ED0C4E315E81441AB9498877F907CAC3D31E535F2B884200D121"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーLG",
+      "TargetEscaped": "[Exclusive] Frog LanderLG",
+      "SourceUtf8Sha256": "DCFA1EE6895F545C7E56C09EC9E7AB260DEFE200130174C8C031CE6EB4782F16"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーLG2",
+      "TargetEscaped": "[Exclusive] Frog LanderLG2",
+      "SourceUtf8Sha256": "5DC96EE4FE6761C91C97225AB00AE045D42DCC22640EBA9B04CBA1883D3A31C9"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドLG",
+      "TargetEscaped": "[Exclusive] ParaboloidLG",
+      "SourceUtf8Sha256": "048B9A3CA518DFC331F0AB627CC97A72B4FD12B5FF642C99214952971E2A108D"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスLG",
+      "TargetEscaped": "[Exclusive] Big MountaizLG",
+      "SourceUtf8Sha256": "433001E028945B3A5719157E421D12F72E7331F3388269FF28E66A0789F4F790"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスLG2",
+      "TargetEscaped": "[Exclusive] Big MountaizLG2",
+      "SourceUtf8Sha256": "4BBA3A705123340F5EEC0F801BAD7FA3AC2464021B907C89FB2FC633D3B3CB34"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーLG",
+      "TargetEscaped": "[Exclusive] TetsujingerLG",
+      "SourceUtf8Sha256": "F7D6222480AC7A933B2464C798AB993FDC34EAA084BC99095176696C65EB79C6"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーLG2",
+      "TargetEscaped": "[Exclusive] TetsujingerLG2",
+      "SourceUtf8Sha256": "51992EFA7EB1E294963483F2A8ECD795AA2F3ED9B1B36AB71E834587BA69D78A"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンLG",
+      "TargetEscaped": "[Exclusive] FizalivanLG",
+      "SourceUtf8Sha256": "96CA82CC4AF25D1AB5372117B04F2C148A0892918677650CF87D60E330C9B23E"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンLG2",
+      "TargetEscaped": "[Exclusive] FizalivanLG2",
+      "SourceUtf8Sha256": "2BD2879121CDF82753A872D7BD1A830ED4E9149975DA1FED4F7C055737ADF819"
+    },
+    {
+      "SourceEscaped": "【専用】グレンザリバンLG",
+      "TargetEscaped": "[Exclusive] GlenzarivanLG",
+      "SourceUtf8Sha256": "99574BF032F02DDA28882557B6FFB9F02B6C14DF92D78FD6FEF351070DA370FB"
+    },
+    {
+      "SourceEscaped": "【専用】モグニードLG",
+      "TargetEscaped": "[Exclusive] MogneadLG",
+      "SourceUtf8Sha256": "C1EA00B5F1228B268608B8CB4F265F080D0338761EE8621FDAF5043718751659"
+    },
+    {
+      "SourceEscaped": "【専用】モールニードスLG",
+      "TargetEscaped": "[Exclusive] Mo-runi-dosuLG",
+      "SourceUtf8Sha256": "A786B5927737BFDE4F494FF2EC5E050E73EC70878B13E5D66187E383192281B3"
+    },
+    {
+      "SourceEscaped": "【専用】タラントリックLG",
+      "TargetEscaped": "[Exclusive] TarantrickLG",
+      "SourceUtf8Sha256": "1AF8B834DD4F4BF0C65B946A69ABB9636249F040C489BE2CB5171FCEA7434D9C"
+    },
+    {
+      "SourceEscaped": "【専用】ドラグニクスLG",
+      "TargetEscaped": "[Exclusive] DragnixLG",
+      "SourceUtf8Sha256": "44E62393F706174524BF2D9E1B05C3D5D5880334049D3C91CBD5530030E69687"
+    },
+    {
+      "SourceEscaped": "【専用】サイバリオンLG",
+      "TargetEscaped": "[Exclusive] CyberionLG",
+      "SourceUtf8Sha256": "D23C97228B3861C896E545142D8C8CD6799FF1A6234467A832173DB22EAA635B"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンLG",
+      "TargetEscaped": "[Exclusive] TarabatronLG",
+      "SourceUtf8Sha256": "E50BDA3127515B38BAE8E18B0F8F4B38CB14A704DD850910F4516A2A92CA7735"
+    },
+    {
+      "SourceEscaped": "【専用】EXタラバトロンLG",
+      "TargetEscaped": "[Exclusive] EXTarabatronLG",
+      "SourceUtf8Sha256": "1CBD9BA09AD79F93EA3FEE71667104CE2CE0B8064B8CCF7A4F947469B85E1E02"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンLG",
+      "TargetEscaped": "[Exclusive] ScorptonLG",
+      "SourceUtf8Sha256": "304B894FC19A567A62ED3D707D4B1FFF900551BBAE18298A66A21FC03A20F8B3"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンLG2",
+      "TargetEscaped": "[Exclusive] ScorptonLG2",
+      "SourceUtf8Sha256": "CD4BDAD49ABE09D19207BA96B8C1F4C44B55F51675E72D494860060D434C9E9E"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルLG",
+      "TargetEscaped": "[Exclusive] BeezleLG",
+      "SourceUtf8Sha256": "8CE9A228DB1A292FC61B5012679FE14DF06E7EC083A0627482E60E7807CD2DD6"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルLG2",
+      "TargetEscaped": "[Exclusive] BeezleLG2",
+      "SourceUtf8Sha256": "34276875CDF950074D4B437D78629250F5BA9AB363BE0F0D8F266B20164E5F17"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルLG",
+      "TargetEscaped": "[Exclusive] PristoleLG",
+      "SourceUtf8Sha256": "8CE4091EE177BF7DD25D7663BFBC75249A6A7B9B2C53F48E141C9172ED9E2106"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオンLG",
+      "TargetEscaped": "[Exclusive] HoverionLG",
+      "SourceUtf8Sha256": "7F09358AD3E7F42F942F15D9123A500C1C743D94CB84C8E4950E62938F2FE93E"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオン・マグナLG",
+      "TargetEscaped": "[Exclusive] Hoverion MagnaLG",
+      "SourceUtf8Sha256": "1F467AC145E64571B7609E0F920A8BAD4D4A0A302395E9FA506A7CB805A0BC8F"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーLG",
+      "TargetEscaped": "[Exclusive] PawnjaLG",
+      "SourceUtf8Sha256": "32BFA954066CEA93539FD5FB5544D89D8135BDE5196C8199CF93B1B2B9D13EBE"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーLG2",
+      "TargetEscaped": "[Exclusive] PawnjaLG2",
+      "SourceUtf8Sha256": "3B5B8C931DA38C426AEEAAB8E7EC05740A949BAEE63129DC7F9AB67F1AE60E5C"
+    },
+    {
+      "SourceEscaped": "【専用】ダイダリオンLG",
+      "TargetEscaped": "[Exclusive] DaidalionLG",
+      "SourceUtf8Sha256": "CF9576B49CDA81A7C4577B43252277E88519A86142B3797303154C8E1CAEA79C"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターLG",
+      "TargetEscaped": "[Exclusive] Mecha JetterLG",
+      "SourceUtf8Sha256": "07B66D0C8368808B1BCB9E4E7C81FCAEC8826AD6E9653A4566CD98A9798DF359"
+    },
+    {
+      "SourceEscaped": "【専用】ソルジェッターLG",
+      "TargetEscaped": "[Exclusive] Sol JetterLG",
+      "SourceUtf8Sha256": "4664C5AF612FE7B5890975EAC647B90A889A49FFBF38542D421480442ECBF69B"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターLG3",
+      "TargetEscaped": "[Exclusive] Mecha JetterLG3",
+      "SourceUtf8Sha256": "CF58BDE18A2D02D63703E6312B14221F30AA3BC144A56A7888EED07066CDC092"
+    },
+    {
+      "SourceEscaped": "【専用】ケンタクロスLG",
+      "TargetEscaped": "[Exclusive] Centaur CrossLG",
+      "SourceUtf8Sha256": "BD609509EA69230025A1A3E137DAF9599C5CBD77AC42CBA12FEA11B2F920C4A3"
+    },
+    {
+      "SourceEscaped": "【専用】スライプロスLG",
+      "TargetEscaped": "[Exclusive] SlyprosLG",
+      "SourceUtf8Sha256": "514C8F64FF72874C8DF6E2AE0187CEFBA9C2B7D13DBF3DC181779FF4C193231E"
+    },
+    {
+      "SourceEscaped": "【専用】メカルドLG",
+      "TargetEscaped": "[Exclusive] MechaldLG",
+      "SourceUtf8Sha256": "F4698C84CFAA8E30C227E1812F177883FA63875A67C6E9CC1FD26E6B46FB3996"
+    },
+    {
+      "SourceEscaped": "【専用】スティルドLG",
+      "TargetEscaped": "[Exclusive] SutirudoLG",
+      "SourceUtf8Sha256": "1AC55A114C36E74AD0B87B0F746C3EBCB50B48662FB52F38249C4E3F7E431440"
+    },
+    {
+      "SourceEscaped": "【専用】ギャラクシーデカLG",
+      "TargetEscaped": "[Exclusive] Galaxy DekaLG",
+      "SourceUtf8Sha256": "BEA172FC79BE866D93F87CF0C7BAEE24AB1C2B76F90DDF758BA9F2004FFACB5A"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルLG",
+      "TargetEscaped": "[Exclusive] SLLG",
+      "SourceUtf8Sha256": "C961A904601DF21C796C5416C574B8B00D7A49B8CCCF6AD55099E4774A53979D"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルLG2",
+      "TargetEscaped": "[Exclusive] SLLG2",
+      "SourceUtf8Sha256": "70986AAFE91E59FC7BD8967938DDA410CEF89C31343CF6454AD8A0A09AFD8DA5"
+    },
+    {
+      "SourceEscaped": "【専用】エクスプレオスLG",
+      "TargetEscaped": "[Exclusive] ExpleosLG",
+      "SourceUtf8Sha256": "7485BCCF5860333E64D3CD8208173FCA6833940AC5BAD2ABA32B04CB1F025E4C"
+    },
+    {
+      "SourceEscaped": "【専用】ミカドマックスLG",
+      "TargetEscaped": "[Exclusive] Mikado MaxLG",
+      "SourceUtf8Sha256": "493BAEAB0DB602D6395EFD3891EBAFA45FD768941BC6B9F50AB75E280B458557"
+    },
+    {
+      "SourceEscaped": "【専用】ダテマックスLG",
+      "TargetEscaped": "[Exclusive] DatemakkusuLG",
+      "SourceUtf8Sha256": "A0A516FD71460873EBA769938C103E827B24C2DB3489EF2B9E1BC38AF5E8CE6D"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウハンターLG",
+      "TargetEscaped": "[Exclusive] Shadow HunterLG",
+      "SourceUtf8Sha256": "38C16939C8BFCCF5F56258FB58A86574E114A39B0A5247D658F65A5275376284"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウマスターLG",
+      "TargetEscaped": "[Exclusive] Shadow MasterLG",
+      "SourceUtf8Sha256": "1594FC4F5888504A693F7A88D5079F2580AFFC726F7C5901727FFC955068957E"
+    },
+    {
+      "SourceEscaped": "【専用】アサルトオックスLG",
+      "TargetEscaped": "[Exclusive] Assault OxLG",
+      "SourceUtf8Sha256": "6BBBE672D1558ECBBEC075804DCBA64A4843357AE8355C777F4D847E9DBC252D"
+    },
+    {
+      "SourceEscaped": "【専用】マテングLG",
+      "TargetEscaped": "[Exclusive] MatengLG",
+      "SourceUtf8Sha256": "C69A24EC70E7CD559E492CE810E5652943F7D005E234DE73AB47079DB4AA3420"
+    },
+    {
+      "SourceEscaped": "【専用】コーテングLG",
+      "TargetEscaped": "[Exclusive] KotenguLG",
+      "SourceUtf8Sha256": "26F9A0953BB4F95693E004395E722D43FE2F5C56E07103A10380983B0A17B489"
+    },
+    {
+      "SourceEscaped": "【専用】エティオンLG",
+      "TargetEscaped": "[Exclusive] EttionLG",
+      "SourceUtf8Sha256": "B81D86EC591512068E2AE80670DF6BA7E1F0FAA1FE3BDA16405A1637330F1C78"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターLG",
+      "TargetEscaped": "[Exclusive] Zero FighterLG",
+      "SourceUtf8Sha256": "67B8DF543859E2823ED35F777378DD0F0298E34C390968496C8077B5C19C86CF"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターゼロLG",
+      "TargetEscaped": "[Exclusive] Rasuta-zeroLG",
+      "SourceUtf8Sha256": "EC341B1BE72592DCC726A14AEF4A136079B610D65DCA728BF8EC2C95E3FADF2A"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドゼロLG",
+      "TargetEscaped": "[Exclusive] DasudozeroLG",
+      "SourceUtf8Sha256": "4C7D51812C9D3610D6F851EDF96D846E16F96B316992C73FE905AE9B2C7FABF6"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールLG",
+      "TargetEscaped": "[Exclusive] TempoleLG",
+      "SourceUtf8Sha256": "D8E8E1801C5B090BD6E2DA5E094B100FE2C7AB28152DA492EA7751E4340D0E1E"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールLG2",
+      "TargetEscaped": "[Exclusive] TempoleLG2",
+      "SourceUtf8Sha256": "0B0094E8C52BD6055A58C8749A61170EA246EE3AF8E4214004F79C9AA4B2E7DD"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーLG",
+      "TargetEscaped": "[Exclusive] Steel RiderLG",
+      "SourceUtf8Sha256": "3EAA7A7A05F1F10F80C60242B779D5FB023C29DB794D2EBA692628AD210337B2"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーLG2",
+      "TargetEscaped": "[Exclusive] Steel RiderLG2",
+      "SourceUtf8Sha256": "1E516FDF29176C7484B324DF0BEE1A76D254D3C718C14E694AD14CD7EEDE93D9"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターLG",
+      "TargetEscaped": "[Exclusive] DarumastarLG",
+      "SourceUtf8Sha256": "DDFE90CAE110BA95CDCC524CDCA5F79A1DC64A0A08F92318F14A1D5E8E8F0875"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：BALANCE",
+      "TargetEscaped": "[Basic] Muscle: BALANCE",
+      "SourceUtf8Sha256": "054EF62D1097BD591000287895786D0296848AD53CEF11FEB444903B5E6952F1"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：HP",
+      "TargetEscaped": "[Basic] Muscle: HP",
+      "SourceUtf8Sha256": "C90B9627A311BEAB4461ECD0C6C0C76ABB2A330FEF006EE08E514619A02801E6"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：EN",
+      "TargetEscaped": "[Basic] Muscle: EN",
+      "SourceUtf8Sha256": "5C9C5DFC27B0514F48787B9243AC3780CC8A6C44CB0026D339E21E6AC80676AA"
+    },
+    {
+      "SourceEscaped": "【基本】マッスル：ENRecover",
+      "TargetEscaped": "[Basic] Muscle: ENRecover",
+      "SourceUtf8Sha256": "9C6E42627395830DF45D199BDA7C873F236D1C3E34E645E477FC953555C59645"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：GAZE",
+      "TargetEscaped": "[Advanced] Gigant: GAZE",
+      "SourceUtf8Sha256": "D26799576AB86F7B61BFAD359A65F138CA7FABB47CA60702E5893153A5557F76"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスHD",
+      "TargetEscaped": "[Exclusive] KamentisHD",
+      "SourceUtf8Sha256": "DD9623960DBFAF5E428671D6A98F6B60E5A8595458CBE1A6C04878F0BD33547A"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスHD2",
+      "TargetEscaped": "[Exclusive] KamentisHD2",
+      "SourceUtf8Sha256": "79BBC9A51296EB5C912814B22A0A819E0B88A871FBB5ACD4A7C788F22FD756AD"
+    },
+    {
+      "SourceEscaped": "【専用】コスモカイザーHD",
+      "TargetEscaped": "[Exclusive] Cosmo KaiserHD",
+      "SourceUtf8Sha256": "D6D29DB30D02603ADDD06D2998ED46BC353242746B38E82FF2467CFA4E802E5F"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーHD",
+      "TargetEscaped": "[Exclusive] VictoryHD",
+      "SourceUtf8Sha256": "75247A2E54B307B7F9FB3DF5428EE2A03D0FEFE8B43753ABDF11961A0A7F0151"
+    },
+    {
+      "SourceEscaped": "【専用】X'ビクトリーHD",
+      "TargetEscaped": "[Exclusive] X'VictoryHD",
+      "SourceUtf8Sha256": "F67AB4B921B6102448AE33B11916914255EA0B5DAC098F7CD688016F66C707C1"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドビクトリーHD",
+      "TargetEscaped": "[Exclusive] Dast VictoryHD",
+      "SourceUtf8Sha256": "B7D98F1245E0D842EBB5B6EE7DD1BEC01CDD0B17843A4EB157081D6B2D995938"
+    },
+    {
+      "SourceEscaped": "【専用】ラスタービクトリーHD",
+      "TargetEscaped": "[Exclusive] Luster VictoryHD",
+      "SourceUtf8Sha256": "837002F6A8B41737FF9121B3D3D5262B1FD07E7FB494056FE3902428B5C045B0"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーHD",
+      "TargetEscaped": "[Exclusive] Megaton OhHD",
+      "SourceUtf8Sha256": "775E06C63D902BDAD3B196DE50F6183D7EFAEEDA9E766D008AAA4332635F2BDE"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーHD2",
+      "TargetEscaped": "[Exclusive] Megaton OhHD2",
+      "SourceUtf8Sha256": "487CAEC7C9F31F8157855F3E847E0F396CC2CF81F54260032ABDCC8144ACDCD9"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターメガトンHD",
+      "TargetEscaped": "[Exclusive] Rasuta-megatonHD",
+      "SourceUtf8Sha256": "F5BABD5399DCFE2AC24558D7A12545858AF86BEF940CCAC0AE50C3324A164ECE"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドンオーHD",
+      "TargetEscaped": "[Exclusive] Dasudono-HD",
+      "SourceUtf8Sha256": "ED12BE163F067292EFD7D1146ED2D343BA972D90EB2B17E366E6EF84C3BF604F"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールHD",
+      "TargetEscaped": "[Exclusive] Cannon BallHD",
+      "SourceUtf8Sha256": "900E7202EAD76EFD54D20B57CA72542FCE1BE2BAE49BA995BB0DB9F9D081D275"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールGOLDHD",
+      "TargetEscaped": "[Exclusive] Cannon BallGOLDHD",
+      "SourceUtf8Sha256": "0F5F2DE8E98BF9366650F49089858D0E965A76E1388B631E424EE3A475697831"
+    },
+    {
+      "SourceEscaped": "【専用】エンジェルHD2",
+      "TargetEscaped": "[Exclusive] AngelHD2",
+      "SourceUtf8Sha256": "81E223D230251BD3D4629B2A054A544395D08F017160856729B54F98E0969B91"
+    },
+    {
+      "SourceEscaped": "【専用】エンジェルHD",
+      "TargetEscaped": "[Exclusive] AngelHD",
+      "SourceUtf8Sha256": "1FE1946D0C0CD6AF1EAD45793AA6957B14E75EED8D70CF91CAB447AF31F2BB3A"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングHD",
+      "TargetEscaped": "[Exclusive] Sword WingHD",
+      "SourceUtf8Sha256": "F6BB0B5EA5E227379941A1361D5F79D74464964B5E7C762472B25D5DF84C486A"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングHD2",
+      "TargetEscaped": "[Exclusive] Sword WingHD2",
+      "SourceUtf8Sha256": "6BB702CA49BBAB11439251382763BEEA5933C1D75601D72D11E17AA115AF94D7"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングHD3",
+      "TargetEscaped": "[Exclusive] Sword WingHD3",
+      "SourceUtf8Sha256": "39C101F7F88689A03F861AFF4C2B30F0E3AC21516494072F057C3D2697E7EEBF"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトHD",
+      "TargetEscaped": "[Exclusive] Mach KnightHD",
+      "SourceUtf8Sha256": "0C3920B904F617FA266BD4C86279B215DF6BEB21CD399B64CFEBE3D1CE8C89C3"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトHD2",
+      "TargetEscaped": "[Exclusive] Mach KnightHD2",
+      "SourceUtf8Sha256": "D25F3646C1F524B892A46A0198EF87651C4A51D43C5E94D69A9E90333BFF83F3"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトHD3",
+      "TargetEscaped": "[Exclusive] Mach KnightHD3",
+      "SourceUtf8Sha256": "E7253E45E24467FA458BA2E79E401B0200E94C6F084D0EF7B8BA9ED8FE594ACE"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームHD",
+      "TargetEscaped": "[Exclusive] Jaguar ArmHD",
+      "SourceUtf8Sha256": "4573372CFDFC1D3C79C1BBBB8B3E58449E2E6FDF735C131C530D947CE17C1D2B"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームHD2",
+      "TargetEscaped": "[Exclusive] Jaguar ArmHD2",
+      "SourceUtf8Sha256": "A8390751A821159133BE04B53D569FA4D2BA205CD33B4F36B194921FC1F530A8"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームHD3",
+      "TargetEscaped": "[Exclusive] Jaguar ArmHD3",
+      "SourceUtf8Sha256": "A1B731EF632D7BF0E5194D7C7AD254F5562F0A5C64D40E3FF9F6AB458F752CC1"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームHD4",
+      "TargetEscaped": "[Exclusive] Jaguar ArmHD4",
+      "SourceUtf8Sha256": "2AFD32C10DB80F76D60C1906434A9DAF6A37B38EFC1B7075C1055958F2701D8D"
+    },
+    {
+      "SourceEscaped": "【専用】ガンドリルHD",
+      "TargetEscaped": "[Exclusive] Gun DrillHD",
+      "SourceUtf8Sha256": "569E12CFAC703B88DB3E3A73C8F71E55DF8CDA65761D7DE4645E7071D34D8DAC"
+    },
+    {
+      "SourceEscaped": "【専用】デストラクトHD",
+      "TargetEscaped": "[Exclusive] DestructorHD",
+      "SourceUtf8Sha256": "2C921B2302CB1E7FE1B25D1CADD414E3770431AE75A027530243CA31F37B9CA1"
+    },
+    {
+      "SourceEscaped": "【専用】コントラディクトHD",
+      "TargetEscaped": "[Exclusive] ContradictHD",
+      "SourceUtf8Sha256": "FD3EDB337AD4F389F10102E763BEEBD3F02F08F05E1CA2DD9F8D1BA7FE8FA470"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーHD",
+      "TargetEscaped": "[Exclusive] Frog LanderHD",
+      "SourceUtf8Sha256": "D26C2AEF8396BBDDF213377273212CC6DB29B8E2722782E6B8EC23558C6DB675"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーHD2",
+      "TargetEscaped": "[Exclusive] Frog LanderHD2",
+      "SourceUtf8Sha256": "9BC1154EAB9B17E0098EE2F1F5D642D4C01841E968C36B6B177CAE9BC8889A85"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドHD",
+      "TargetEscaped": "[Exclusive] ParaboloidHD",
+      "SourceUtf8Sha256": "6DAA1F5730F25CBC543B247CC16463AC28FA88FF956DD170983AA2624B2416F1"
+    },
+    {
+      "SourceEscaped": "【専用】X'パラボロイドHD",
+      "TargetEscaped": "[Exclusive] X'ParaboloidHD",
+      "SourceUtf8Sha256": "768B46C39BEA0EEF1F2B6A8DE0A5C27307EBA050F3A532C25D3BD56ACC90404E"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスHD",
+      "TargetEscaped": "[Exclusive] Big MountaizHD",
+      "SourceUtf8Sha256": "BDB9AD5BCFC3380461A9BA68125EA4924300DDCE0B7006911E062C43022E3A76"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスHD2",
+      "TargetEscaped": "[Exclusive] Big MountaizHD2",
+      "SourceUtf8Sha256": "33726816E03184A53755B0A3B390A7C36E721496EF2523E55734BFBCA67F9B1D"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスHD3",
+      "TargetEscaped": "[Exclusive] Big MountaizHD3",
+      "SourceUtf8Sha256": "E33B4BC0BD58A65F3ABC4E84DCE183ECB632E82AA2EAA892468610DE8E80AAC4"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーHD",
+      "TargetEscaped": "[Exclusive] TetsujingerHD",
+      "SourceUtf8Sha256": "47737B3B656E76419E865523ED5997E72664234BA689ECE809AC9DF3FD76A3E7"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーHD2",
+      "TargetEscaped": "[Exclusive] TetsujingerHD2",
+      "SourceUtf8Sha256": "AA9D054070110A6FDBC6C8A623D261062B281F9552309F9DD3959AF32798CF15"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンHD",
+      "TargetEscaped": "[Exclusive] FizalivanHD",
+      "SourceUtf8Sha256": "1847069FE7C82FC99648FE3458D54096C637E1AA30DE39A8F6E1F307533708D7"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンHD2",
+      "TargetEscaped": "[Exclusive] FizalivanHD2",
+      "SourceUtf8Sha256": "E898E2FA0FAB9CEF1DDBBDE227029EF6C11FE0336E1B01700F95A197BE64DBFE"
+    },
+    {
+      "SourceEscaped": "【専用】グレンザリバンHD",
+      "TargetEscaped": "[Exclusive] GlenzarivanHD",
+      "SourceUtf8Sha256": "461224FE81151C4ABD950EAD108E069483D2CC5376AAD3C4783BC2B9EC15B752"
+    },
+    {
+      "SourceEscaped": "【専用】モグニードHD",
+      "TargetEscaped": "[Exclusive] MogneadHD",
+      "SourceUtf8Sha256": "6C19CC37FDD083E846DD09A8F88CDE82FBD2C82FDF7473FCC36727CA46579598"
+    },
+    {
+      "SourceEscaped": "【専用】モールニードスHD",
+      "TargetEscaped": "[Exclusive] Mo-runi-dosuHD",
+      "SourceUtf8Sha256": "40D5A0B98C6CA763021C43A45CDB10D44FBFBA96C7341E0BE54AB1BB15B1493C"
+    },
+    {
+      "SourceEscaped": "【専用】ドラグニクスHD",
+      "TargetEscaped": "[Exclusive] DragnixHD",
+      "SourceUtf8Sha256": "99EF1AE3051C59B98B69ADEB2EDAB6A4AC70E26532A06D208DDD94FBED5EC8AF"
+    },
+    {
+      "SourceEscaped": "【専用】サイバリオンHD",
+      "TargetEscaped": "[Exclusive] CyberionHD",
+      "SourceUtf8Sha256": "117AA247332B81D5BA6A397D56D1623FF70D0CFFB1025C34605836E2027A8106"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンHD",
+      "TargetEscaped": "[Exclusive] TarabatronHD",
+      "SourceUtf8Sha256": "FC9FEEBB7ED87F84E1B0B664AAE091E18C94187304E3E430941476B9812BCCC9"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンHD2",
+      "TargetEscaped": "[Exclusive] TarabatronHD2",
+      "SourceUtf8Sha256": "9C47E282A0F49BDFB7D80D398CA3C3FDE0EA3ADC9E73781BA3C993BF422E4DFE"
+    },
+    {
+      "SourceEscaped": "【専用】EXタラバトロンHD",
+      "TargetEscaped": "[Exclusive] EXTarabatronHD",
+      "SourceUtf8Sha256": "B078E23365ACAE30CA60646AF654D3C711791E5622CB671AEC0DF124CFB59DFC"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンHD",
+      "TargetEscaped": "[Exclusive] ScorptonHD",
+      "SourceUtf8Sha256": "BBF0C82E3B44727675C9E89AE5A197946BCEE528339FEF13504443A165947001"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンHD2",
+      "TargetEscaped": "[Exclusive] ScorptonHD2",
+      "SourceUtf8Sha256": "8BBC90367206217B290C0B2A1BEA018A6A71B8100D2AD4965013580D7DBEBA8F"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルHD",
+      "TargetEscaped": "[Exclusive] BeezleHD",
+      "SourceUtf8Sha256": "58E655C87DD1C8F2186B2AAD67D40A2D2E198B52601959ADF7B75522CEFDC031"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルHD2",
+      "TargetEscaped": "[Exclusive] BeezleHD2",
+      "SourceUtf8Sha256": "0E4DF828342BBD1A313B59D7FA791862B7268F031080971FB1D1C47D391E1040"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルHD",
+      "TargetEscaped": "[Exclusive] PristoleHD",
+      "SourceUtf8Sha256": "19DF36B07EEE1424D002E52138F5F21297B5AD3B7D6D42D4E2C4747D4CB03E3E"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルHD2",
+      "TargetEscaped": "[Exclusive] PristoleHD2",
+      "SourceUtf8Sha256": "96212D0116D439A26E178C28016DAE0DBA37ADFBDE3C45DE2B867187BC7BB2D6"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオンHD",
+      "TargetEscaped": "[Exclusive] HoverionHD",
+      "SourceUtf8Sha256": "9590AAC1ED7D631B88A4F7D97A983F37E204768F2C8AC183A794A878F49BC61F"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオン・マグナHD",
+      "TargetEscaped": "[Exclusive] Hoverion MagnaHD",
+      "SourceUtf8Sha256": "DF99E55D92D4655000B4E3937BE33C97C826917C2E0C12F0C7D926F323E2323A"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーHD",
+      "TargetEscaped": "[Exclusive] PawnjaHD",
+      "SourceUtf8Sha256": "2338A92E37D47EA00D1AB4995B100960A55DA9E6939670E0EB91F640E1BD4CBB"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーHD2",
+      "TargetEscaped": "[Exclusive] PawnjaHD2",
+      "SourceUtf8Sha256": "7B3446D2F796524748DA172110AED32E98EF84E1CDE1B154F5B1ABD1B42B033A"
+    },
+    {
+      "SourceEscaped": "【専用】ダイダリオンHD",
+      "TargetEscaped": "[Exclusive] DaidalionHD",
+      "SourceUtf8Sha256": "45185AE54E85773463C41BD55AEA1BCD1B265A8EAD9A820CB2EB2844AC443F1E"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターHD",
+      "TargetEscaped": "[Exclusive] Mecha JetterHD",
+      "SourceUtf8Sha256": "4FCBE2301F759D148605B57B912D39B5DBD891D3DA4B3A9E37D0D9C2EF48283D"
+    },
+    {
+      "SourceEscaped": "【専用】ソルジェッターHD",
+      "TargetEscaped": "[Exclusive] Sol JetterHD",
+      "SourceUtf8Sha256": "B950F5438FC7E8CC5F89ED47288E42539E0A40F876FCD982CF6266F13726B6A4"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターHD3",
+      "TargetEscaped": "[Exclusive] Mecha JetterHD3",
+      "SourceUtf8Sha256": "9473EF07618B3F5589EC1DD14109D08B6CE2298E865A564D117DE36A50F9CDFD"
+    },
+    {
+      "SourceEscaped": "【専用】ケンタクロスHD",
+      "TargetEscaped": "[Exclusive] Centaur CrossHD",
+      "SourceUtf8Sha256": "C799F7F3F6F99AD3FC2B488987277869E0E4119DF4713FC056D5430D526C6135"
+    },
+    {
+      "SourceEscaped": "【専用】スライプロスHD",
+      "TargetEscaped": "[Exclusive] SlyprosHD",
+      "SourceUtf8Sha256": "B14B086B3DED76A43034FA9F7BE302D331DFE818B0B8BB7DF3E9B1141F14C71B"
+    },
+    {
+      "SourceEscaped": "【専用】メカルドHD",
+      "TargetEscaped": "[Exclusive] MechaldHD",
+      "SourceUtf8Sha256": "3EC08F6EBE1EE342DDE0195420464845DEF02AA127DDB91B728C4EF9AB5D8C28"
+    },
+    {
+      "SourceEscaped": "【専用】スティルドHD",
+      "TargetEscaped": "[Exclusive] SutirudoHD",
+      "SourceUtf8Sha256": "19EEEDAE0AD65F89D69ACB186FDCAE60B8A974D1062D1D1BC6249BF4C0361B93"
+    },
+    {
+      "SourceEscaped": "【専用】ギャラクシーデカHD",
+      "TargetEscaped": "[Exclusive] Galaxy DekaHD",
+      "SourceUtf8Sha256": "08A54EF7F1FC25F7F32BC534618BFBB2C942B4717D719EEC9E76C81667045AFA"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルHD",
+      "TargetEscaped": "[Exclusive] SLHD",
+      "SourceUtf8Sha256": "E3F74E80B6FCE6293CBF115999C9AA734D58FA0C44F6F20D1329107332A75176"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルHD2",
+      "TargetEscaped": "[Exclusive] SLHD2",
+      "SourceUtf8Sha256": "B029120780E8ADB64A9443D526C781C4F2A9CD30CD46700CD483C2B8066FA29C"
+    },
+    {
+      "SourceEscaped": "【専用】エクスプレオスHD",
+      "TargetEscaped": "[Exclusive] ExpleosHD",
+      "SourceUtf8Sha256": "7375B578BE2B96A82FAC3C87C1414A13F320AB6631052863FFA01BC54E621A23"
+    },
+    {
+      "SourceEscaped": "【専用】ミカドマックスHD",
+      "TargetEscaped": "[Exclusive] Mikado MaxHD",
+      "SourceUtf8Sha256": "F6F2B004503BC242124A892E90DBF3ACDAC5599C45368906C4A657BF14EC8E18"
+    },
+    {
+      "SourceEscaped": "【専用】ダテマックスHD",
+      "TargetEscaped": "[Exclusive] DatemakkusuHD",
+      "SourceUtf8Sha256": "0D74BD8E5229487B236C5A7633E8480B93B444D453B5DC783616A2AD6DD6A833"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウハンターHD",
+      "TargetEscaped": "[Exclusive] Shadow HunterHD",
+      "SourceUtf8Sha256": "310C28470FC46C3517AA7F7342AA894CA8A84AB6A84A8ED43022C0C15E4217E4"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウマスターHD",
+      "TargetEscaped": "[Exclusive] Shadow MasterHD",
+      "SourceUtf8Sha256": "F8167AD6D3D120E26B599ABC25BF2CBE4E46A3B0D0539B5AD80E2C3E6602BB1A"
+    },
+    {
+      "SourceEscaped": "【専用】マテングHD",
+      "TargetEscaped": "[Exclusive] MatengHD",
+      "SourceUtf8Sha256": "9F0F4B5A3AF51132D72A44D8782F0DEEAC4F7BEC5B10085397B43EA76836756C"
+    },
+    {
+      "SourceEscaped": "【専用】コーテングHD",
+      "TargetEscaped": "[Exclusive] KotenguHD",
+      "SourceUtf8Sha256": "4859E2763DD8D1F747DA33375FF773717A3FBC014DE31F9B39EF7E2799465CDB"
+    },
+    {
+      "SourceEscaped": "【専用】エティオンHD",
+      "TargetEscaped": "[Exclusive] EttionHD",
+      "SourceUtf8Sha256": "66B51FA4AC1339075BC117855580F978B0372CAC8C0A68CD79136DB62B92BA10"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターHD",
+      "TargetEscaped": "[Exclusive] Zero FighterHD",
+      "SourceUtf8Sha256": "6D74D0513A6CB2197AFEBDA81102725A70B1955E747DCE3ABD7C818537153D47"
+    },
+    {
+      "SourceEscaped": "【専用】X'ゼロファイターHD",
+      "TargetEscaped": "[Exclusive] X'Zero FighterHD",
+      "SourceUtf8Sha256": "E45AD7911F35574B3284C2BBBCF7543823314CBCC723E7A3B4F479907D4CB643"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターHD2",
+      "TargetEscaped": "[Exclusive] Zero FighterHD2",
+      "SourceUtf8Sha256": "0C6404ACD9326E571B66906037FF0A39AC55B5BFB7F0D2D51DA596A78E6C381B"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターゼロHD",
+      "TargetEscaped": "[Exclusive] Rasuta-zeroHD",
+      "SourceUtf8Sha256": "4B00615F34FB73BF4651C45FD651CB113E08EEFE1751F89F8E5EEF5D779A2E9D"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドゼロHD",
+      "TargetEscaped": "[Exclusive] DasudozeroHD",
+      "SourceUtf8Sha256": "048E2A57CAA02C821E6C143E4E31D243318AD8C7A86A5AD70C636D7E9930DBC4"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールHD",
+      "TargetEscaped": "[Exclusive] TempoleHD",
+      "SourceUtf8Sha256": "47AD98D9FFB987F9BD51F9C2B6EECF7EA16F1BD0D7A775687C3710E08DAB3418"
+    },
+    {
+      "SourceEscaped": "【専用】テンポールHD2",
+      "TargetEscaped": "[Exclusive] TempoleHD2",
+      "SourceUtf8Sha256": "C3E81ED301CDD64B69DC2665FD05A539FBE8B774B30B01D50AC3F5C0BAEA7ED8"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーHD",
+      "TargetEscaped": "[Exclusive] Steel RiderHD",
+      "SourceUtf8Sha256": "BCEF6D6091C880C0C45077B99D40F0A4C1BD5AB5E0A147CF43FBBA421DD6FC39"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーHD2",
+      "TargetEscaped": "[Exclusive] Steel RiderHD2",
+      "SourceUtf8Sha256": "247C62084EC9CC06636F6DA267E39BC12412FA2B3E46AFC85E3492CB0170DCAA"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：BALANCE",
+      "TargetEscaped": "[Advanced] Gigant: BALANCE",
+      "SourceUtf8Sha256": "A20983C6680540A3D0240D91BCA7478B067E0EE437293D7A35F1276180BF32D7"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：SOLID",
+      "TargetEscaped": "[Advanced] Gigant: SOLID",
+      "SourceUtf8Sha256": "981CBB234A05748ECBA4A30CD6A064F638FF7C7839649AF746B59767BF6B2327"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：ELEMENT",
+      "TargetEscaped": "[Advanced] Gigant: ELEMENT",
+      "SourceUtf8Sha256": "F9EC408DD9493AB09A65D4B9C7E1950C4A5657F7FBA5A06CEE820ADE023A4D87"
+    },
+    {
+      "SourceEscaped": "【上級】ギガント：PSYCHO",
+      "TargetEscaped": "[Advanced] Gigant: PSYCHO",
+      "SourceUtf8Sha256": "3E9F86E1597F1028B2EB0BC0E5653BD520D8096595B70B3492787E45DFEC95C6"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスAM",
+      "TargetEscaped": "[Exclusive] KamentisAM",
+      "SourceUtf8Sha256": "40CF30F32AA4BA16D65B95DE2B5A74782475B5FE5DD256C2C8D00DB31AC42A77"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスAM2",
+      "TargetEscaped": "[Exclusive] KamentisAM2",
+      "SourceUtf8Sha256": "81E8859EFC3E3A9E2667276FC4B1948050125768720D716197F5752C2D0619B3"
+    },
+    {
+      "SourceEscaped": "【専用】コスモカイザーAM",
+      "TargetEscaped": "[Exclusive] Cosmo KaiserAM",
+      "SourceUtf8Sha256": "78C0FB796203D50FCB9CA37390788CF7E12B25C1A00BAEAA6AD944B7F1509FC3"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーAM",
+      "TargetEscaped": "[Exclusive] VictoryAM",
+      "SourceUtf8Sha256": "F080CAC013CC7C114EBDF3C861A9D3A5860799C3B12B074728F7B6EDCA5BDF48"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドビクトリーAM",
+      "TargetEscaped": "[Exclusive] Dast VictoryAM",
+      "SourceUtf8Sha256": "337BF8B904FCED63F5A03F65A2849EF525F18ECE9273BD1A43A0EF4A5A5AA065"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドビクトリーAM2",
+      "TargetEscaped": "[Exclusive] Dast VictoryAM2",
+      "SourceUtf8Sha256": "AF4B8A48F2C6BBEB78945DE9325C3F7397A4EEAF9841D6253967FF4368DBBE82"
+    },
+    {
+      "SourceEscaped": "【専用】ラスタービクトリーAM",
+      "TargetEscaped": "[Exclusive] Luster VictoryAM",
+      "SourceUtf8Sha256": "714AE236D356CDA85A6089C78295D2EEF220A58136C49614DF5D8AC04225F2FD"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーAM",
+      "TargetEscaped": "[Exclusive] Megaton OhAM",
+      "SourceUtf8Sha256": "E6176DDA154390A3918C58E9FE8A38E001B0F50645E231D05216C7A01772B2A5"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーAM2",
+      "TargetEscaped": "[Exclusive] Megaton OhAM2",
+      "SourceUtf8Sha256": "2247EDC2C852E014A5F411085FEB078DB4EDC80AD20F940FA3B084662ED97FC3"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターメガトンAM",
+      "TargetEscaped": "[Exclusive] Rasuta-megatonAM",
+      "SourceUtf8Sha256": "67EC35270DFE0459041DE928F579A36F4EEACE99748F380911A5349F83D9DD0D"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドンオーAM",
+      "TargetEscaped": "[Exclusive] Dasudono-AM",
+      "SourceUtf8Sha256": "752FD426B82E87DEE461F8181EBA457FEFE7A33D61C0AEA2F000C066B2A691C5"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドンオーAM2",
+      "TargetEscaped": "[Exclusive] Dasudono-AM2",
+      "SourceUtf8Sha256": "D46E48C22CD69F294572EF8F62FE566478E5FBD760C669C81824EEA063451AA5"
+    },
+    {
+      "SourceEscaped": "【専用】エンジェルAM",
+      "TargetEscaped": "[Exclusive] AngelAM",
+      "SourceUtf8Sha256": "086AB617CC03C0F7F4965B97DF063733B2E461CCC4C3B508532E4F106177B7EF"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウィングAM",
+      "TargetEscaped": "[Exclusive] Sword WingAM",
+      "SourceUtf8Sha256": "CA8C8E1F20D5F68C60B4001875C14889933440354C551DAF55A2BCBBB181CB4B"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウィングAM2",
+      "TargetEscaped": "[Exclusive] Sword WingAM2",
+      "SourceUtf8Sha256": "D615CD670F91887B08F2ADEC07569BF7837DF305B0982AEAFBB6E0E8F1844547"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウィングAM2★",
+      "TargetEscaped": "[Exclusive] Sword WingAM2★",
+      "SourceUtf8Sha256": "3E67FDEB430BFBFFBF1084F4AFADC7809C651E0E7E2E8E4489A53D6D35AA2D25"
+    },
+    {
+      "SourceEscaped": "【専用】マッハナイトAM",
+      "TargetEscaped": "[Exclusive] Mach KnightAM",
+      "SourceUtf8Sha256": "86F58281D593BF258A31117B78A60C2CFE31B6830346235443B30ACF71CA2F9C"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームAM",
+      "TargetEscaped": "[Exclusive] Jaguar ArmAM",
+      "SourceUtf8Sha256": "AF8856FA40D4E1E0F22F9865F29B225297218260C89F72AF34D8A6485CC66F9F"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームAM2",
+      "TargetEscaped": "[Exclusive] Jaguar ArmAM2",
+      "SourceUtf8Sha256": "350196F8D4E0E31D554A5A6B973F2FB57C118E11FB0AC32810041B7CA671C098"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームAM3",
+      "TargetEscaped": "[Exclusive] Jaguar ArmAM3",
+      "SourceUtf8Sha256": "05B05FF8162C12B8D018AAC87E67138C4ECA60570808984906E3B0B28BC34CEF"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームAM4",
+      "TargetEscaped": "[Exclusive] Jaguar ArmAM4",
+      "SourceUtf8Sha256": "4C1755B011DBD40B2D01B49A9D7C9A3B05273F9F70D124F35EDB173BA953C812"
+    },
+    {
+      "SourceEscaped": "【専用】デストラクトAM",
+      "TargetEscaped": "[Exclusive] DestructorAM",
+      "SourceUtf8Sha256": "17394D47947E23A4359F8A86959201F1B9FE62C8250BAF5D368B874F50AA43E1"
+    },
+    {
+      "SourceEscaped": "【専用】コントラディクトAM",
+      "TargetEscaped": "[Exclusive] ContradictAM",
+      "SourceUtf8Sha256": "54CE5FD0998F28385A1C3200BBE0FB5A919DF086F353A1E240B38808D5B33A99"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーAM",
+      "TargetEscaped": "[Exclusive] Frog LanderAM",
+      "SourceUtf8Sha256": "9175ED044A3D04AD16DEDFB3DF4C4EC72C54C8A85969333EF4722986227D9CB4"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドAM",
+      "TargetEscaped": "[Exclusive] ParaboloidAM",
+      "SourceUtf8Sha256": "1442B0E2EF6CAFBF8C5D2875E08E4CB9323836083A3DB1490349F7CB9570CAE5"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドAM2",
+      "TargetEscaped": "[Exclusive] ParaboloidAM2",
+      "SourceUtf8Sha256": "53F79B4567D5ADAE57F6A7B60AAF602611C7AA37C82092083689F05B4BFDDCFF"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスAM",
+      "TargetEscaped": "[Exclusive] Big MountaizAM",
+      "SourceUtf8Sha256": "F8EF409C5E5DDE5FDC2B060EEA6433732F156899E79B146CCDA9B7E0F3A849C4"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスAM2",
+      "TargetEscaped": "[Exclusive] Big MountaizAM2",
+      "SourceUtf8Sha256": "AD0668F36EF44CC876F3CBFAD50D2D4A194E685B55F5836E0167F06457CE5AFC"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーAM",
+      "TargetEscaped": "[Exclusive] TetsujingerAM",
+      "SourceUtf8Sha256": "59817FF2FAE354DAF9E383CC98AAE8C4FBE3BCA4FC7212411D88A6159CF77BBE"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーAM2",
+      "TargetEscaped": "[Exclusive] TetsujingerAM2",
+      "SourceUtf8Sha256": "D8425BF67E778BF6C9A78793582D7846268782ADE9316E4223C0C38CBD31BF44"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンAM",
+      "TargetEscaped": "[Exclusive] FizalivanAM",
+      "SourceUtf8Sha256": "91EA9C4DA3B7A601F1D782DF34BE7A1607394AE8BE1F9BDAD17055CCAF382BDC"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンAM2",
+      "TargetEscaped": "[Exclusive] FizalivanAM2",
+      "SourceUtf8Sha256": "97A024A5449A8D4401375DFEA17C12E6622150D8533B3B5769BA6D2AA31CDB80"
+    },
+    {
+      "SourceEscaped": "【専用】グレンザリバンAM",
+      "TargetEscaped": "[Exclusive] GlenzarivanAM",
+      "SourceUtf8Sha256": "E3E5C07A9BAB5BE60A0DA914DEA65FE768E43CA716E37736F7ACD1A81BBAE375"
+    },
+    {
+      "SourceEscaped": "【専用】モグニードAM",
+      "TargetEscaped": "[Exclusive] MogneadAM",
+      "SourceUtf8Sha256": "BAB57E9EE6BD8E1AEFBAF12EEEEF53519230C3D028C1170BE8F2A18D60ABE626"
+    },
+    {
+      "SourceEscaped": "【専用】モールニードスAM",
+      "TargetEscaped": "[Exclusive] Mo-runi-dosuAM",
+      "SourceUtf8Sha256": "5B171EDAC5070A086A3B3F55B92A1404DD1E42946D2CC47320B932DE1A8D56E5"
+    },
+    {
+      "SourceEscaped": "【専用】タラントリックAM",
+      "TargetEscaped": "[Exclusive] TarantrickAM",
+      "SourceUtf8Sha256": "4F426DF404D45F6F6BD50610094505F225B6A128A4664B35F21BE7905351F279"
+    },
+    {
+      "SourceEscaped": "【専用】ドラグニクスAM",
+      "TargetEscaped": "[Exclusive] DragnixAM",
+      "SourceUtf8Sha256": "FEDF61BACD7A34B1B6B09424383CAAFBBC080DB8EDA9BD3AC184CB1F8AFA0311"
+    },
+    {
+      "SourceEscaped": "【専用】サイバリオンAM",
+      "TargetEscaped": "[Exclusive] CyberionAM",
+      "SourceUtf8Sha256": "257FE0D5389F5F3F9E5D5509947FD6E65ABF17FC42A871BD1474EA04C68E905E"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンAM",
+      "TargetEscaped": "[Exclusive] TarabatronAM",
+      "SourceUtf8Sha256": "D5EDE04E7CD7F7FEBB48EBCA35E40929CE5D8B0826F735ADF8D60434903CCB6A"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンAM2",
+      "TargetEscaped": "[Exclusive] TarabatronAM2",
+      "SourceUtf8Sha256": "AFEE50BD174864AB127EBE1491AA6A1D9F396CCB4F91104656AEC20BBE4A32B6"
+    },
+    {
+      "SourceEscaped": "【専用】EXタラバトロンAM2",
+      "TargetEscaped": "[Exclusive] EXTarabatronAM2",
+      "SourceUtf8Sha256": "16DF0F20DBB2803E09B877637C0039F949678080E39F0B6411F5D10A4EAE42F8"
+    },
+    {
+      "SourceEscaped": "【専用】EXタラバトロンAM",
+      "TargetEscaped": "[Exclusive] EXTarabatronAM",
+      "SourceUtf8Sha256": "5321F8E2767A6FD800F28B9E3F0095A73215257005C8F0611C563C9B977DCE05"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンAM",
+      "TargetEscaped": "[Exclusive] ScorptonAM",
+      "SourceUtf8Sha256": "33AEE51416EFCE36247DEDA9352E4D8E3FE3643AE9C1D709717CD187DE8B1575"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンAM2",
+      "TargetEscaped": "[Exclusive] ScorptonAM2",
+      "SourceUtf8Sha256": "8B6D1A14E5DAE00009A83C3DE82D05113AF21874A5EE18869229D8324CB794E3"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルAM",
+      "TargetEscaped": "[Exclusive] BeezleAM",
+      "SourceUtf8Sha256": "35CCD767BB1954BF9C997291410493D5589E0D20BBFCAA5F7CEA88966BB901DE"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルAM",
+      "TargetEscaped": "[Exclusive] PristoleAM",
+      "SourceUtf8Sha256": "656238546E259FE787B1BAF309F9108DFD75E3DA541C5D5F48E8BD058C797414"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルAM2",
+      "TargetEscaped": "[Exclusive] PristoleAM2",
+      "SourceUtf8Sha256": "FD9EBDE140D95ADF051A353234D7181B9C4DC9A24A2C18E5DBFF9129D40DBFD5"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオンAM",
+      "TargetEscaped": "[Exclusive] HoverionAM",
+      "SourceUtf8Sha256": "B16B2C49AA2F8907729786DD908D25EBAEDD8B9D05BA26ADD8F3C0E495E64594"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオン・マグナAM",
+      "TargetEscaped": "[Exclusive] Hoverion MagnaAM",
+      "SourceUtf8Sha256": "9F8461C4987B7C0C85C44E785EDBC910A3362DC40A6971E3657C5E012EF04F9E"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーAM",
+      "TargetEscaped": "[Exclusive] PawnjaAM",
+      "SourceUtf8Sha256": "E0818B968D7C56CDA4D43BD4660202CC1C88CC7BDD186F14471F0D259B4C4AF6"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーAM2",
+      "TargetEscaped": "[Exclusive] PawnjaAM2",
+      "SourceUtf8Sha256": "517576C5023F7821D822B5B512675544BB4B2E29E29D437A3E0F6286F203794B"
+    },
+    {
+      "SourceEscaped": "【専用】ダイダリオンAM",
+      "TargetEscaped": "[Exclusive] DaidalionAM",
+      "SourceUtf8Sha256": "0B07938D32A2AFC055CA77D90A6B6A09337F8E53328BC22B5FE7E7C8B2C5867D"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターAM",
+      "TargetEscaped": "[Exclusive] Mecha JetterAM",
+      "SourceUtf8Sha256": "8C3882EDD5A2BA9E281D9C76D8D614C263F404D865D3F76BEE4D216DF5161314"
+    },
+    {
+      "SourceEscaped": "【専用】ソルジェッターAM",
+      "TargetEscaped": "[Exclusive] Sol JetterAM",
+      "SourceUtf8Sha256": "68E95AC182B6133E0909FB49191A2A9A4CA346F39224D83A134CCFB72091E19C"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターAM3",
+      "TargetEscaped": "[Exclusive] Mecha JetterAM3",
+      "SourceUtf8Sha256": "F5CF9FCE72CF27F867614B4C52F462F57447377F3C179C0510D940140FBF9327"
+    },
+    {
+      "SourceEscaped": "【専用】ケンタクロスAM",
+      "TargetEscaped": "[Exclusive] Centaur CrossAM",
+      "SourceUtf8Sha256": "62AFD599EDE529779C170828D0B06D37CACBED2003BD4AE76842824763A6DDBD"
+    },
+    {
+      "SourceEscaped": "【専用】スライプロスAM",
+      "TargetEscaped": "[Exclusive] SlyprosAM",
+      "SourceUtf8Sha256": "9AF7FC667EB71FD9CB65F9389D783F6325439CE27D6D66891A3C6059295A495C"
+    },
+    {
+      "SourceEscaped": "【専用】メカルドAM",
+      "TargetEscaped": "[Exclusive] MechaldAM",
+      "SourceUtf8Sha256": "4D1E8FCA32A6A9ABBCBAA0C452325A2C5F6EABF9FF2DA0BC4A4906CFAB982D5B"
+    },
+    {
+      "SourceEscaped": "【専用】スティルドAM",
+      "TargetEscaped": "[Exclusive] SutirudoAM",
+      "SourceUtf8Sha256": "4BFDCAA223323ED8DA3F94A548E902954D47E16C25DBCC7D19F20215FAA86D50"
+    },
+    {
+      "SourceEscaped": "【専用】ギャラクシーデカAM",
+      "TargetEscaped": "[Exclusive] Galaxy DekaAM",
+      "SourceUtf8Sha256": "195223A5D32B67BF95EC9D635EB4BCC6B4C09971F7A5416A92876A3D4F4BE5ED"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルAM",
+      "TargetEscaped": "[Exclusive] SLAM",
+      "SourceUtf8Sha256": "4FE51D3FD556E59E9B6A119CA4B74AAF44C524F161F25F9911D170A311DEC443"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルAM2",
+      "TargetEscaped": "[Exclusive] SLAM2",
+      "SourceUtf8Sha256": "3E1E4FD02AA4EA323EE7A222F5D32BBD916162049D9085CF85AB8D1FF32F128F"
+    },
+    {
+      "SourceEscaped": "【専用】ミカドマックスAM",
+      "TargetEscaped": "[Exclusive] Mikado MaxAM",
+      "SourceUtf8Sha256": "6BBF6DED71E6DA33A29DEE383F7DF6DAA914FF4CF7FC5D6E537DB0BC9C2B0B64"
+    },
+    {
+      "SourceEscaped": "【専用】ダテマックスAM",
+      "TargetEscaped": "[Exclusive] DatemakkusuAM",
+      "SourceUtf8Sha256": "AEDBBCAC6001767777DE4395FB62CB8CB9300A1B6B2AF36D416341032C76DAE5"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウハンターAM",
+      "TargetEscaped": "[Exclusive] Shadow HunterAM",
+      "SourceUtf8Sha256": "D402850868FC5B5DB06A9317AF807B80BB5CB0F36B37F49A337A6F4818FEA61C"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウマスターAM",
+      "TargetEscaped": "[Exclusive] Shadow MasterAM",
+      "SourceUtf8Sha256": "6F927E920B52511C62378D0592EFF589AC56DFDF6A2C989FB33859B13040D18A"
+    },
+    {
+      "SourceEscaped": "【専用】アサルトオックスAM",
+      "TargetEscaped": "[Exclusive] Assault OxAM",
+      "SourceUtf8Sha256": "A9CAFE14956E7F67EBE87EE0A122D9CAA746AEEAE9F8F82E0CFF6484B6675F0F"
+    },
+    {
+      "SourceEscaped": "【専用】マテングAM",
+      "TargetEscaped": "[Exclusive] MatengAM",
+      "SourceUtf8Sha256": "7677F645629C7F1F9FAAAB6A14AE0EDFFC5E9BE4A67B9AAC3044BBE8E4757E7E"
+    },
+    {
+      "SourceEscaped": "【専用】コーテングAM",
+      "TargetEscaped": "[Exclusive] KotenguAM",
+      "SourceUtf8Sha256": "A271886779997DFD9EED8DCEB0A8BF8FA0EEC4A3187B3B76EB495CA2B61EDD93"
+    },
+    {
+      "SourceEscaped": "【専用】エティオンAM",
+      "TargetEscaped": "[Exclusive] EttionAM",
+      "SourceUtf8Sha256": "B4F74F1C2AD8EF32C4B35B3BE4B88B85482B894384E396ABBBCFC6B139076995"
+    },
+    {
+      "SourceEscaped": "【専用】ビームドリルAM",
+      "TargetEscaped": "[Exclusive] Beam DrillAM",
+      "SourceUtf8Sha256": "1ADEBB331471CFCE8FD1BAD5AA34AF9301503E73B9538C3F2F2BCB6879928465"
+    },
+    {
+      "SourceEscaped": "【専用】マインスイーパーAM",
+      "TargetEscaped": "[Exclusive] Mainsui-pa-AM",
+      "SourceUtf8Sha256": "6F8F64C4D480BBBFCE159504313A201D388546F869B269ABBB5A38415EA369FF"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターAM",
+      "TargetEscaped": "[Exclusive] Zero FighterAM",
+      "SourceUtf8Sha256": "2E204937190A3376492DD1DBF114E1031DDADE4970FDFE640DCCE03FE30E8F1C"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターAM2",
+      "TargetEscaped": "[Exclusive] Zero FighterAM2",
+      "SourceUtf8Sha256": "C6AA8820667BE6FAB7E05DD78E75FD56AE85046F9A1F8BEDBD94BFC47395AE3F"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターゼロAM",
+      "TargetEscaped": "[Exclusive] Rasuta-zeroAM",
+      "SourceUtf8Sha256": "A29173B2BDF63B32D3DBEDBB907A9212E77F80B5B8199A119F0AF8CC37BB720A"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドゼロAM",
+      "TargetEscaped": "[Exclusive] DasudozeroAM",
+      "SourceUtf8Sha256": "219BCC2B9F20E431598C1E65D1303AB4E29A518D7C4DFCBF5019ACC89FB8C4EC"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーAM",
+      "TargetEscaped": "[Exclusive] Steel RiderAM",
+      "SourceUtf8Sha256": "7C55DAD673727270A7F69BA86E13844A77082730E9270BF6D893C10753714A3B"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーAM2",
+      "TargetEscaped": "[Exclusive] Steel RiderAM2",
+      "SourceUtf8Sha256": "080D288A17426AFF0C2D88E9618A36196C9698119BB974C8F0866F4A4F172885"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターAM",
+      "TargetEscaped": "[Exclusive] DarumastarAM",
+      "SourceUtf8Sha256": "B90369A0C0AF3308F88256D2BA9EA50E13E02348491C465C6C245605D49B5AED"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターAM2",
+      "TargetEscaped": "[Exclusive] DarumastarAM2",
+      "SourceUtf8Sha256": "C9A85B8A3022279700C9AE0BACDC19764B03169A457D4FCAA19FE86692C065EC"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターAM3",
+      "TargetEscaped": "[Exclusive] DarumastarAM3",
+      "SourceUtf8Sha256": "3410A7EA9CCCD48036D7FF9A16EAC419B4F0AE0C1DBD4CFB46D1D7D90F7C021B"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：AIR",
+      "TargetEscaped": "[Advanced] Mother: AIR",
+      "SourceUtf8Sha256": "03F5DE100EF020F928ACFA75EF00C0D0CF4D03D774DA4F11A436651135F667A6"
+    },
+    {
+      "SourceEscaped": "【上級】マザー：ECLIPSE",
+      "TargetEscaped": "[Advanced] Mother: ECLIPSE",
+      "SourceUtf8Sha256": "6FC48D152911AE8950A8FB014EF3ECE4FB8DBE190ADCC08ED9D6D826EE02E0BE"
+    },
+    {
+      "SourceEscaped": "【専用】カメンティスBS",
+      "TargetEscaped": "[Exclusive] KamentisBS",
+      "SourceUtf8Sha256": "06183390848CDDD310424239EEC42FEA9744E86C862E01638EF804F856E21C02"
+    },
+    {
+      "SourceEscaped": "【専用】コスモカイザーBS",
+      "TargetEscaped": "[Exclusive] Cosmo KaiserBS",
+      "SourceUtf8Sha256": "9AA4493861F8373F56669C213F64CC5078EFBEE96C267A3F674D9DD3776699AF"
+    },
+    {
+      "SourceEscaped": "【専用】ビクトリーBS",
+      "TargetEscaped": "[Exclusive] VictoryBS",
+      "SourceUtf8Sha256": "CB7525827736A11C0ADF88AFCD0243CB8A125433A857EF6BA56284F7C13EBB4F"
+    },
+    {
+      "SourceEscaped": "【専用】ラスタービクトリーBS",
+      "TargetEscaped": "[Exclusive] Luster VictoryBS",
+      "SourceUtf8Sha256": "EE8FB66EF3129E7A44BB06035C41D13EF2984569FE45525CD45F034D55F71FF4"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーBS",
+      "TargetEscaped": "[Exclusive] Megaton OhBS",
+      "SourceUtf8Sha256": "0C2702147E15588FD00A7763B4E93BB129BB0ECDEB7D3AA0E38C6DE22D259369"
+    },
+    {
+      "SourceEscaped": "【専用】メガトンオーBS2",
+      "TargetEscaped": "[Exclusive] Megaton OhBS2",
+      "SourceUtf8Sha256": "EABCA548EBEB1F7E725D8493EC4D5DF1BC4B1F2AA9144B1F6E580638F201B894"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターメガトンBS",
+      "TargetEscaped": "[Exclusive] Rasuta-megatonBS",
+      "SourceUtf8Sha256": "732B71B4156DF3B99D8E32AA7D1B9223786E84F723FBDDE776E63D518B4F6658"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドンオーBS",
+      "TargetEscaped": "[Exclusive] Dasudono-BS",
+      "SourceUtf8Sha256": "7E84C6B9D57BC04CB71197BE22E70331E046DE01831D44E462AF1E7FD5B8CD89"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールBS",
+      "TargetEscaped": "[Exclusive] Cannon BallBS",
+      "SourceUtf8Sha256": "91431CC5A52529C5CC87F8E8238A5BA695BDE9C76B623C1CD3E0782BC8251DF7"
+    },
+    {
+      "SourceEscaped": "【専用】キャノンボールGOLDBS",
+      "TargetEscaped": "[Exclusive] Cannon BallGOLDBS",
+      "SourceUtf8Sha256": "CE537641AE0614CCB2EEF60709A2BE4E216FEE5EAC62FB32803A5028F278A7EE"
+    },
+    {
+      "SourceEscaped": "【専用】エンジェルBS",
+      "TargetEscaped": "[Exclusive] AngelBS",
+      "SourceUtf8Sha256": "4C4B6D2E683A1FC00857516A4CA8904C65F7BF174000A369EDD673E6F4B564FD"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングBS",
+      "TargetEscaped": "[Exclusive] Sword WingBS",
+      "SourceUtf8Sha256": "B4B90A7FA581030851F6CEB81A9D6F6AFDE92BE9A65BD6A78161053E4BB3990D"
+    },
+    {
+      "SourceEscaped": "【専用】ソードウイングBS2",
+      "TargetEscaped": "[Exclusive] Sword WingBS2",
+      "SourceUtf8Sha256": "67424F63AECEBE105582352A866957706088DECA99FF7BE974D3D65139B20A00"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBS",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBS",
+      "SourceUtf8Sha256": "F302E4659B74C6806BE470D38B483E37E4C244B43D0ABD6F3C1F0DBD3B5D6FD7"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBS2",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBS2",
+      "SourceUtf8Sha256": "88A18C6281D1E257903B0E8D768B93860DF35FFDE1116B235468F85C0A13138A"
+    },
+    {
+      "SourceEscaped": "【専用】ジャガーアームBS3",
+      "TargetEscaped": "[Exclusive] Jaguar ArmBS3",
+      "SourceUtf8Sha256": "E037800262659BF009B6E63C5A9D06C70CF1922F49839B3DF52BA1320E66BE95"
+    },
+    {
+      "SourceEscaped": "【専用】ガンドリルBS",
+      "TargetEscaped": "[Exclusive] Gun DrillBS",
+      "SourceUtf8Sha256": "63B7E0C2FE35AE4A3642DDBDEC1B26FD902946AC440608B1CCF6AD50ACAF05D0"
+    },
+    {
+      "SourceEscaped": "【専用】デストラクトBS",
+      "TargetEscaped": "[Exclusive] DestructorBS",
+      "SourceUtf8Sha256": "6A9EB5675ECC4CD2F201426F3AEBFBA44DC5ED6B47F96E228794967C6C612B50"
+    },
+    {
+      "SourceEscaped": "【専用】コントラディクトBS",
+      "TargetEscaped": "[Exclusive] ContradictBS",
+      "SourceUtf8Sha256": "A02FCBB367B8B2446CA581A82D7282B9363D2C0DD63FB184CB465F52C1DDCE88"
+    },
+    {
+      "SourceEscaped": "【専用】フログランダーBS",
+      "TargetEscaped": "[Exclusive] Frog LanderBS",
+      "SourceUtf8Sha256": "22FAF80B9688B429477FC71FEF4A8607D5668CDF587705111D86614938138BBD"
+    },
+    {
+      "SourceEscaped": "【専用】パラボロイドBS",
+      "TargetEscaped": "[Exclusive] ParaboloidBS",
+      "SourceUtf8Sha256": "CDA9FAC7BDD6D2166DFC00AABE149C0FE441F0266690143A22E2732193FD8B86"
+    },
+    {
+      "SourceEscaped": "【専用】ビッグマンテスBS",
+      "TargetEscaped": "[Exclusive] Big MountaizBS",
+      "SourceUtf8Sha256": "01ADA015A7778FEF219DA720E1D177B226ED92D127DDAF082AD439BFE95EBEEA"
+    },
+    {
+      "SourceEscaped": "【専用】テツジンガーBS",
+      "TargetEscaped": "[Exclusive] TetsujingerBS",
+      "SourceUtf8Sha256": "0A0BDA6CC796E80420BFC5F33116611AC7CFF50B0C389F4FA1176BD9CB5FC7A4"
+    },
+    {
+      "SourceEscaped": "【専用】フィザリバンBS",
+      "TargetEscaped": "[Exclusive] FizalivanBS",
+      "SourceUtf8Sha256": "F99C181050AF928D82C9C0B112D4148045711361A2D7F8EE24EB7D78E0F0A547"
+    },
+    {
+      "SourceEscaped": "【専用】グレンザリバンBS",
+      "TargetEscaped": "[Exclusive] GlenzarivanBS",
+      "SourceUtf8Sha256": "B273581AAAE9A2BE30933B293F72EA070D6EAA62ABA4EB970A4EBF34CD93E10B"
+    },
+    {
+      "SourceEscaped": "【専用】タラントリックBS",
+      "TargetEscaped": "[Exclusive] TarantrickBS",
+      "SourceUtf8Sha256": "5B2FBAF1B6E8B55B9A12D275D88B05E20F8C82779BF57BE9051441F0A8C889DD"
+    },
+    {
+      "SourceEscaped": "【専用】ドラグニクスBS",
+      "TargetEscaped": "[Exclusive] DragnixBS",
+      "SourceUtf8Sha256": "311CD0507D5A006037AE2B31A3BDD9133EC91D8B0F45DA7DE4B41564916D3C3D"
+    },
+    {
+      "SourceEscaped": "【専用】サイバリオンBS",
+      "TargetEscaped": "[Exclusive] CyberionBS",
+      "SourceUtf8Sha256": "A710EF48AD7F2A476100FF7CF1378EBF94C81778C175629E7A9BF6ADB610CE25"
+    },
+    {
+      "SourceEscaped": "【専用】タラバトロンBS",
+      "TargetEscaped": "[Exclusive] TarabatronBS",
+      "SourceUtf8Sha256": "14CAFAFD3BA0A3659287CBEA54ED5CE9832B428F6D1886CE6F70EDD677EF44D1"
+    },
+    {
+      "SourceEscaped": "【専用】EXタラバトロンBS",
+      "TargetEscaped": "[Exclusive] EXTarabatronBS",
+      "SourceUtf8Sha256": "40D916EF8A3F361A9BFDB4CFA1E7BA6136FD40B638C2BB157A88BA04AD9DED76"
+    },
+    {
+      "SourceEscaped": "【専用】スコルタンBS",
+      "TargetEscaped": "[Exclusive] ScorptonBS",
+      "SourceUtf8Sha256": "E7453A7BC9238A1D008FC5A14312700E20EA859D1F92CE2BC10ACABADE0D7243"
+    },
+    {
+      "SourceEscaped": "【専用】ビーゾルBS",
+      "TargetEscaped": "[Exclusive] BeezleBS",
+      "SourceUtf8Sha256": "B26F1DA7B37590FE434B698A606BA29380C4A5B4D1613B6FCC5AF4F76D137BC2"
+    },
+    {
+      "SourceEscaped": "【専用】プリストルBS",
+      "TargetEscaped": "[Exclusive] PristoleBS",
+      "SourceUtf8Sha256": "728FBD2229E015CEAB47F1D904E73030DC0F82FC8EC68673BD1454935AB49764"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオンBS",
+      "TargetEscaped": "[Exclusive] HoverionBS",
+      "SourceUtf8Sha256": "9363ACA744BB4B3E2FF414F7F6DFF2B17671C228FB84B2A2474B8FE8CDCCD65F"
+    },
+    {
+      "SourceEscaped": "【専用】ホバリオン・マグナBS",
+      "TargetEscaped": "[Exclusive] Hoverion MagnaBS",
+      "SourceUtf8Sha256": "AECE50BE62F8467C9E9B124BF2F55E88A0760D05FF711659399D6B89C2ECA1A0"
+    },
+    {
+      "SourceEscaped": "【専用】ポーンジャーBS",
+      "TargetEscaped": "[Exclusive] PawnjaBS",
+      "SourceUtf8Sha256": "A2D8320AB3E70868EA5F8684677E940A87EDB75E94978E883361187D9CD306D1"
+    },
+    {
+      "SourceEscaped": "【専用】ダイダリオンBS",
+      "TargetEscaped": "[Exclusive] DaidalionBS",
+      "SourceUtf8Sha256": "33A2A08C1E7F9FBC237981FB02FB75BC3BB165C9033B6A26C5655A1C7D912352"
+    },
+    {
+      "SourceEscaped": "【専用】メカジェッターBS",
+      "TargetEscaped": "[Exclusive] Mecha JetterBS",
+      "SourceUtf8Sha256": "19B94EF9FCCC6E52D0994A3B7560FEA83A321F7C2A54903EDB8AC882B60D4DBA"
+    },
+    {
+      "SourceEscaped": "【専用】ソルジェッターBS",
+      "TargetEscaped": "[Exclusive] Sol JetterBS",
+      "SourceUtf8Sha256": "57A8FA93A0805A869BC98344E876DDB05BCEDD8607B3CF8D81BFF23A01D43807"
+    },
+    {
+      "SourceEscaped": "【専用】ケンタクロスBS",
+      "TargetEscaped": "[Exclusive] Centaur CrossBS",
+      "SourceUtf8Sha256": "DE36D2453D3135A9363E85272FAAF3D05C072FEC5EE18F27709ECD82D4A0DB18"
+    },
+    {
+      "SourceEscaped": "【専用】スライプロスBS",
+      "TargetEscaped": "[Exclusive] SlyprosBS",
+      "SourceUtf8Sha256": "44C0C23EC738C0C33B8E3B8C888B9AF6D7E9B1DF3F97B6031335D10C4D6C0A3E"
+    },
+    {
+      "SourceEscaped": "【専用】メカルドBS",
+      "TargetEscaped": "[Exclusive] MechaldBS",
+      "SourceUtf8Sha256": "02ADAF2A064D17198C4EE29A8D1933B577D47D95667CCB56A50CBD5772DE09BE"
+    },
+    {
+      "SourceEscaped": "【専用】スティルドBS",
+      "TargetEscaped": "[Exclusive] SutirudoBS",
+      "SourceUtf8Sha256": "4103E1971B1AE784944D6432ADCD8CE78F395D448B6C81B6B659EF548C68AF49"
+    },
+    {
+      "SourceEscaped": "【専用】ギャラクシーデカBS",
+      "TargetEscaped": "[Exclusive] Galaxy DekaBS",
+      "SourceUtf8Sha256": "615BB0173A483BC8F2D0BF2E8F024477D10FCA28C3DAD09A57AC0BFE24797C35"
+    },
+    {
+      "SourceEscaped": "【専用】エスエルBS",
+      "TargetEscaped": "[Exclusive] SLBS",
+      "SourceUtf8Sha256": "CE77B0500B2948603DD842C0F1FAAFA3A5181989D9FDE9E3764200D0FF7312EA"
+    },
+    {
+      "SourceEscaped": "【専用】エクスプレオスBS",
+      "TargetEscaped": "[Exclusive] ExpleosBS",
+      "SourceUtf8Sha256": "492A3F65DB049165ACC3C7E53B6D26D67D9AC5CB6B59E5E411389C0D4776BCE8"
+    },
+    {
+      "SourceEscaped": "【専用】ミカドマックスBS",
+      "TargetEscaped": "[Exclusive] Mikado MaxBS",
+      "SourceUtf8Sha256": "2323FEB1FAA25ECF186417C95F8A130AA2D49C4FED719DBCCB0CB0CD0F8C5C6E"
+    },
+    {
+      "SourceEscaped": "【専用】ダテマックスBS",
+      "TargetEscaped": "[Exclusive] DatemakkusuBS",
+      "SourceUtf8Sha256": "4DFD76EFE3F1379751343149EE15CE9BA27E7CA6DC1A6942EF2FAB74E90309DF"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウハンターBS",
+      "TargetEscaped": "[Exclusive] Shadow HunterBS",
+      "SourceUtf8Sha256": "B4EBF6444B42420B52D9DEEDA92142B5D07DD28393D2C0D06DB55C6E0055D37B"
+    },
+    {
+      "SourceEscaped": "【専用】シャドウマスターBS",
+      "TargetEscaped": "[Exclusive] Shadow MasterBS",
+      "SourceUtf8Sha256": "DDBC9388946BC6C90B252ACD409824C6AB4F20DE7F6AFFC362235E1B08ACE053"
+    },
+    {
+      "SourceEscaped": "【専用】アサルトオックスBS",
+      "TargetEscaped": "[Exclusive] Assault OxBS",
+      "SourceUtf8Sha256": "444CE9449AB0B0F62FF9F1E555433B8BC593E87BBB4FADDC1A63B054CCBCCFD9"
+    },
+    {
+      "SourceEscaped": "【専用】マテングBS",
+      "TargetEscaped": "[Exclusive] MatengBS",
+      "SourceUtf8Sha256": "5B5BCE2B3595977C42CE2E875E6E29C1C063C5E1E4907797DCB2966256E12DA7"
+    },
+    {
+      "SourceEscaped": "【専用】コーテングBS",
+      "TargetEscaped": "[Exclusive] KotenguBS",
+      "SourceUtf8Sha256": "7E49779130D5CBE8CDF5B74B72AB0775AE0D1B4D301017E401FF4CAA15D28D7B"
+    },
+    {
+      "SourceEscaped": "【専用】エティオンBS",
+      "TargetEscaped": "[Exclusive] EttionBS",
+      "SourceUtf8Sha256": "18B98AE21B7FE97936151321F39E7D044203F910CBB141C955202535BDBF8E9A"
+    },
+    {
+      "SourceEscaped": "【専用】ゼロファイターBS",
+      "TargetEscaped": "[Exclusive] Zero FighterBS",
+      "SourceUtf8Sha256": "7D6A6CAE30BC1F443A4A68DEE66D553BC6994A4344241EF172F7367CDCF967D1"
+    },
+    {
+      "SourceEscaped": "【専用】ラスターゼロBS",
+      "TargetEscaped": "[Exclusive] Rasuta-zeroBS",
+      "SourceUtf8Sha256": "AE7D083E2552BF5C6A71DDE734FE0B0D0D0D85C2AB32F308B5BE282B8FFCFE1C"
+    },
+    {
+      "SourceEscaped": "【専用】ダスドゼロBS",
+      "TargetEscaped": "[Exclusive] DasudozeroBS",
+      "SourceUtf8Sha256": "20D45F0B9564D881B164F7745741076C03EFB3B0186CEA770AE0C26F1A1D7DA4"
+    },
+    {
+      "SourceEscaped": "【専用】スチールライダーBS",
+      "TargetEscaped": "[Exclusive] Steel RiderBS",
+      "SourceUtf8Sha256": "D62A24928C7FDE22AF4B553E928DC704BED947DF0827EC9A5D536581EE17473D"
+    },
+    {
+      "SourceEscaped": "【専用】ダルマスターBS",
+      "TargetEscaped": "[Exclusive] DarumastarBS",
+      "SourceUtf8Sha256": "8E9668B1C019576BE920F1C31698D3778C804A9BD436C0B12E5C8B8E0E93E98D"
+    },
+    {
+      "SourceEscaped": "AURAダッシュアクション「スウェー」が使用可能",
+      "TargetEscaped": "Enables the AURA dash action \"Sway\".",
+      "SourceUtf8Sha256": "4F307490B90765CCC5F07C7B887DC87BA1D0E8C49B4BD5C2404FC8339470D044"
+    },
+    {
+      "SourceEscaped": "【Dsh-A1】スウェーα",
+      "TargetEscaped": "[Dsh-A1] Swayα",
+      "SourceUtf8Sha256": "E1C0BABF5BD3EEB7E256CE9BED812C41D0389E57892A6CF19FF0388F147DD91B"
+    },
+    {
+      "SourceEscaped": "AURAダッシュアクション「ショートブースト」が使用可能",
+      "TargetEscaped": "Enables the AURA dash action \"Short Boost\".",
+      "SourceUtf8Sha256": "BC0E6718003CFD995B07A8169018E16B3AFEF6330F5F00CCA0AFF03A166DDF88"
+    },
+    {
+      "SourceEscaped": "【Dsh-A1】ショートブーストα",
+      "TargetEscaped": "[Dsh-A1] Short Boostα",
+      "SourceUtf8Sha256": "03235F8F85F3AD66E82C8AC03E5D50DADB4932A06033111244CA633F5578CE0D"
+    },
+    {
+      "SourceEscaped": "AURAダッシュアクション「フロートダッシュ」が使用可能",
+      "TargetEscaped": "Enables the AURA dash action \"Float Dash\".",
+      "SourceUtf8Sha256": "B43CBE6B729981239709096F4F542195775EE8BE7D883F65483E4CD85E9B1D0D"
+    },
+    {
+      "SourceEscaped": "【Dsh-A1】フロートダッシュα",
+      "TargetEscaped": "[Dsh-A1] Float Dashα",
+      "SourceUtf8Sha256": "0CAA662CB054884AA27F40049D2AC312A80606A2A563DC1A2673C7A1E55D5875"
+    },
+    {
+      "SourceEscaped": "AURAダッシュアクション「エアスウェー」が使用可能",
+      "TargetEscaped": "Enables the AURA dash action \"Air Sway\".",
+      "SourceUtf8Sha256": "EF68ECEFBCF28FF905B923D55BECA1C8A52003D475FA8C89E30371E2992B4D06"
+    },
+    {
+      "SourceEscaped": "【Dsh-A1】エアスウェーα",
+      "TargetEscaped": "[Dsh-A1] Air Swayα",
+      "SourceUtf8Sha256": "53F8DC83BFF6C8A4F7B0DF1D9ABA512F36538E86B438D997BDA46E4ADE5C6664"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】スウェーα",
+      "TargetEscaped": "[Dsh-A2] Swayα",
+      "SourceUtf8Sha256": "3AAB80D5F5070B8D5AF6449DEB6612469944F551F3EE7D737509767BA2FC1D0A"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】ショートブーストα",
+      "TargetEscaped": "[Dsh-A2] Short Boostα",
+      "SourceUtf8Sha256": "0C28E292A097776827A50C0C82F6C53254FA81A8AA601EC1BE6719CB3EE630A7"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】フロートダッシュα",
+      "TargetEscaped": "[Dsh-A2] Float Dashα",
+      "SourceUtf8Sha256": "88D023127B165159A3E283C13966213B205352566F49D8AE370B7CE791991136"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】エアスウェーα",
+      "TargetEscaped": "[Dsh-A2] Air Swayα",
+      "SourceUtf8Sha256": "6AA59680CC622D625715282AB21256338A4F12FEEF9F203CC50B5CE151B7FD42"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】スウェーβ",
+      "TargetEscaped": "[Dsh-A2] Swayβ",
+      "SourceUtf8Sha256": "13A851EF6FA0EBB2F7886B755EA675287AA5800C9CBF845B25D0205705867F80"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】ショートブーストβ",
+      "TargetEscaped": "[Dsh-A2] Short Boostβ",
+      "SourceUtf8Sha256": "4970FF14688FB0E2DDFCA6D4230FF8A4F4B9E57B0C6E0978B60D6009812AA6DD"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】フロートダッシュβ",
+      "TargetEscaped": "[Dsh-A2] Float Dashβ",
+      "SourceUtf8Sha256": "94326329250E0FCCA22C617078C62C6D182A06C5BCB9DFA30437721CC373D7F1"
+    },
+    {
+      "SourceEscaped": "【Dsh-A2】エアスウェーβ",
+      "TargetEscaped": "[Dsh-A2] Air Swayβ",
+      "SourceUtf8Sha256": "5768ED89F94052B2C3A3AAA5763C105FAF766857C15497A1645D2A9FE8E9A732"
+    },
+    {
+      "SourceEscaped": "AURAランニングアクション「ブーストラン」が使用可能",
+      "TargetEscaped": "Enables the AURA running action \"Boost Run\".",
+      "SourceUtf8Sha256": "A23448638786C3882DF02E1C30D18D5B3D55B227DC9EA44B1D870F325897B4B2"
+    },
+    {
+      "SourceEscaped": "【Run-A1】ブーストランα",
+      "TargetEscaped": "[Run-A1] Boost Runα",
+      "SourceUtf8Sha256": "FCF33EA80B3DC47AD78B5E9F5740053EDF7339A8ED9BC0C52644974467DD75B4"
+    },
+    {
+      "SourceEscaped": "【Run-A2】ブーストランα",
+      "TargetEscaped": "[Run-A2] Boost Runα",
+      "SourceUtf8Sha256": "E03F4F17CFBAD95E8AA316B870A3697B547EAED12BF6353391D05878CB773B1C"
+    },
+    {
+      "SourceEscaped": "【Run-A2】ブーストランβ",
+      "TargetEscaped": "[Run-A2] Boost Runβ",
+      "SourceUtf8Sha256": "67C846387E27F4088DAAE42DDC1E33D7AE8E1576825924C3E78D5CA4E7CD8DF3"
+    },
+    {
+      "SourceEscaped": "AURA空中ダッシュアクション「アクセルロール」が使用可能",
+      "TargetEscaped": "Enables the AURA aerial dash action \"Accel Roll\".",
+      "SourceUtf8Sha256": "08BF7DF8C92F2C911BEEB0C1145F1C4C20710505C8702CFB94DD401AEB30FCD9"
+    },
+    {
+      "SourceEscaped": "【Fly-A1】アクセルロールα",
+      "TargetEscaped": "[Fly-A1] Accel Rollα",
+      "SourceUtf8Sha256": "A1D19FBBCC56254FD0230BF051AC762394B55C96B01197D430F34BC8F5221B83"
+    },
+    {
+      "SourceEscaped": "【Fly-A2】アクセルロールα",
+      "TargetEscaped": "[Fly-A2] Accel Rollα",
+      "SourceUtf8Sha256": "4E72550FE7A29EF5E2A54286C36F29077FFBA890DEF54D3AF68D12B83146019C"
+    },
+    {
+      "SourceEscaped": "【Fly-A2】アクセルロールβ",
+      "TargetEscaped": "[Fly-A2] Accel Rollβ",
+      "SourceUtf8Sha256": "99EC76DEE256A347343FCDDF46E8859E68CE5A2325D34AB2814C92FC3E91155B"
+    },
+    {
+      "SourceEscaped": "全弾発射開始の短時間のみ移動できる「ムーブバースト」が使用可能",
+      "TargetEscaped": "Enables \"Moving Burst\": move briefly when starting a full burst.",
+      "SourceUtf8Sha256": "5892DA92E2FDE770EBA169B093EE7C4364EFEE774CF02D56FCBB435B8044BCD2"
+    },
+    {
+      "SourceEscaped": "【Atk-A1】ムーブバーストα",
+      "TargetEscaped": "[Atk-A1] Moving Burstα",
+      "SourceUtf8Sha256": "F0E3FBBE3F28E5D36D9C7AF645D43ADC0F2970BD454AEE4A31D0B7AE583FF1D9"
+    },
+    {
+      "SourceEscaped": "【Atk-A2】ムーブバーストα",
+      "TargetEscaped": "[Atk-A2] Moving Burstα",
+      "SourceUtf8Sha256": "1BE6DA4062E2618D183404FFDCFE067EDD42F3E2475595515E77BE60B45A9EFC"
+    },
+    {
+      "SourceEscaped": "【Atk-A2】ムーブバーストβ",
+      "TargetEscaped": "[Atk-A2] Moving Burstβ",
+      "SourceUtf8Sha256": "AB10B28605B2DE7DB5560EA29C37353EEF035FC1504028213A1B28C57807D0F3"
+    },
+    {
+      "SourceEscaped": "空中から着地した際の硬直時間を短縮する「クイックランド」が使用可能",
+      "TargetEscaped": "Enables \"Quick Land\": reduces recovery time after landing.",
+      "SourceUtf8Sha256": "09597CF53398EB415A092E0A8DD58216C19402C4A17565F1869433F1D5F270B0"
+    },
+    {
+      "SourceEscaped": "【Sup-A1】クイックランドα",
+      "TargetEscaped": "[Sup-A1] Quick Landα",
+      "SourceUtf8Sha256": "A120CD5B367D5CC1EBA696DF7B89E30305F87D31BF803A2617B82ADF28B8DA6F"
+    },
+    {
+      "SourceEscaped": "相手のレーダーに捕捉されなくなる「ステルス」が使用可能",
+      "TargetEscaped": "Enables \"Stealth\": hides you from enemy radar.",
+      "SourceUtf8Sha256": "581E54F960B38E3866E6005E5A5DA395D5541ED65BD44056FD42E5A225D342E8"
+    },
+    {
+      "SourceEscaped": "【Sup-A1】ステルスα",
+      "TargetEscaped": "[Sup-A1] Stealthα",
+      "SourceUtf8Sha256": "90A29F1E43BB3629AB7C23AAA283AEB01CCE25E72D032DC2F700169555334A16"
+    },
+    {
+      "SourceEscaped": "全ての敵をレーダーで捕捉できる「ブロードレーダー」が使用可能",
+      "TargetEscaped": "Enables \"Broad Radar\": detects all enemies on radar.",
+      "SourceUtf8Sha256": "81A1DCC764BC450D9A5F6924BA291B878867D78A0D031A7EE4079DDE4F1F0A03"
+    },
+    {
+      "SourceEscaped": "【Sup-A1】ブロードレーダーα",
+      "TargetEscaped": "[Sup-A1] Broad Radarα",
+      "SourceUtf8Sha256": "2BDCF51CAE57D784FF927CEEB53F6EC788584975C0E40B0BE7829F18F09CCEAD"
+    },
+    {
+      "SourceEscaped": "【Sup-A2】クイックランドα",
+      "TargetEscaped": "[Sup-A2] Quick Landα",
+      "SourceUtf8Sha256": "8A2E7B98864E688892C841FC60B896BFB3A25349324000C7206784740BA93933"
+    },
+    {
+      "SourceEscaped": "【Sup-A2】ステルスα",
+      "TargetEscaped": "[Sup-A2] Stealthα",
+      "SourceUtf8Sha256": "14DACEA40A5EC46FD419318A395B53136B05138AAFC2E4101475B1A47EFC9F29"
+    },
+    {
+      "SourceEscaped": "【Sup-A2】ブロードレーダーα",
+      "TargetEscaped": "[Sup-A2] Broad Radarα",
+      "SourceUtf8Sha256": "4506755E751521B7686FFCA7C0C9E0C35A76AD96DBB261C4495D387B3BAE050E"
+    },
+    {
+      "SourceEscaped": "【Sup-A2】クイックランドβ",
+      "TargetEscaped": "[Sup-A2] Quick Landβ",
+      "SourceUtf8Sha256": "C987D33D3F7E207D6B79F9F4CE62A108B484448086B037D694013594A7468182"
+    },
+    {
+      "SourceEscaped": "【Sup-A2】ステルスβ",
+      "TargetEscaped": "[Sup-A2] Stealthβ",
+      "SourceUtf8Sha256": "BABF2DB549ECE338E5F3B7DB3A3AA016D8A32B73C3E8F0F15DADCA942F3D78F1"
+    },
+    {
+      "SourceEscaped": "【Sup-A2】ブロードレーダーβ",
+      "TargetEscaped": "[Sup-A2] Broad Radarβ",
+      "SourceUtf8Sha256": "234B766291C528ADE814DAFC35A799A78D3E65937E43CD48646740895DDE93AC"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】最大HP - α",
+      "TargetEscaped": "[Bdy-P1] Max HP - α",
+      "SourceUtf8Sha256": "EEF2A5D654DE2947C192E883500FCCAD3809409DA5F0CCF5C09554C5ED54C823"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】最大EN - α",
+      "TargetEscaped": "[Bdy-P1] Max EN - α",
+      "SourceUtf8Sha256": "2F4B8ED90BD338467DF9CC29406F6CF9B35E70C83F7A2B1B457FBFA5EA311FC8"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】EN回復 - α",
+      "TargetEscaped": "[Bdy-P1] EN Regen - α",
+      "SourceUtf8Sha256": "7C28994F53548645661360449BDF0FCA482517CD634ABAB3266C33DB87D129F5"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】最大HP - β",
+      "TargetEscaped": "[Bdy-P1] Max HP - β",
+      "SourceUtf8Sha256": "EAC5C6BB96185D03BF6C39697F5EF3ECAA6CCDD6719B2DD0B6820D49DC5A1086"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】最大EN - β",
+      "TargetEscaped": "[Bdy-P1] Max EN - β",
+      "SourceUtf8Sha256": "DB04A57DFB916D23CDA0D788C322B073E41388CB4F729D2F57B92121FFD2387C"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】EN回復 - β",
+      "TargetEscaped": "[Bdy-P1] EN Regen - β",
+      "SourceUtf8Sha256": "A02C4F68BEA32FC68AA04ACC9B87CEB45906ECCD4F9B2899B1AB230387C936F7"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】最大HP - γ",
+      "TargetEscaped": "[Bdy-P1] Max HP - γ",
+      "SourceUtf8Sha256": "703E7A4B2A507142ACBD8119BE3F9303E0D1522E0ACBC9793693FF2BEB377E8A"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】最大EN - γ",
+      "TargetEscaped": "[Bdy-P1] Max EN - γ",
+      "SourceUtf8Sha256": "86776642D6EDC24DB37C0710B9A8F9F9A0854C9F86B46594EFC47B1EC322B290"
+    },
+    {
+      "SourceEscaped": "【Bdy-P1】EN回復 - γ",
+      "TargetEscaped": "[Bdy-P1] EN Regen - γ",
+      "SourceUtf8Sha256": "09729E10FC93FDE433216177B3262AC1D37B35D67AEE71CFC3200E532A01FEBE"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】最大HP - α",
+      "TargetEscaped": "[Bdy-P2] Max HP - α",
+      "SourceUtf8Sha256": "5B50984A07ED9AF8CB73372187D0D7A52C7C5AF3B494AF50F5EE93AF50FA7595"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】最大EN - α",
+      "TargetEscaped": "[Bdy-P2] Max EN - α",
+      "SourceUtf8Sha256": "D10FE97A07B469586A99C7D9D573A8263E087168A4790BB1F187DD0784540AC2"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】EN回復 - α",
+      "TargetEscaped": "[Bdy-P2] EN Regen - α",
+      "SourceUtf8Sha256": "78735969464532F859893517DF35DE6CB8BCDD8D8A808468829EA01C4E4E21F8"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】最大HP - β",
+      "TargetEscaped": "[Bdy-P2] Max HP - β",
+      "SourceUtf8Sha256": "E682C9CE739F035B3B3E89579D8EFFE1C16BD17C63E2F7307C019082FD878A43"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】最大EN - β",
+      "TargetEscaped": "[Bdy-P2] Max EN - β",
+      "SourceUtf8Sha256": "E87A9662023FD66C1345183D79A30AF7D317CC659DFB912DDDDBAF3F85362CAD"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】EN回復 - β",
+      "TargetEscaped": "[Bdy-P2] EN Regen - β",
+      "SourceUtf8Sha256": "63EB5EF9A522FF814564B5D2E1998B48A1C1587654B35EF3AF95E578BE563447"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】最大HP - γ",
+      "TargetEscaped": "[Bdy-P2] Max HP - γ",
+      "SourceUtf8Sha256": "94D1F20B3DF5F437116B6BB92FF33E7D69E4DC5F15C079DA015461FD2F56FB70"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】最大EN - γ",
+      "TargetEscaped": "[Bdy-P2] Max EN - γ",
+      "SourceUtf8Sha256": "A035B482EA07333DDF3CDDEA815D6390775C2BC22CE661E4F1EC22D3E2B440E4"
+    },
+    {
+      "SourceEscaped": "【Bdy-P2】EN回復 - γ",
+      "TargetEscaped": "[Bdy-P2] EN Regen - γ",
+      "SourceUtf8Sha256": "5164FCBD22DF8600D895A66CF7BAD9F5B5757A2375D283411B3C67B902CFECA3"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】歩行 - α",
+      "TargetEscaped": "[Mov-P1] Walk - α",
+      "SourceUtf8Sha256": "BB3C60FD49B27384A02E5FAAAF0F15ECFCD7D36E18B605597E0DE206CC994CED"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】飛行 - α",
+      "TargetEscaped": "[Mov-P1] Fly - α",
+      "SourceUtf8Sha256": "7F96F4802770BABE78974EDE7147C1C59516A994D8A91E7D61E6CD6BCF025FCE"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】ジャンプ - α",
+      "TargetEscaped": "[Mov-P1] Jump - α",
+      "SourceUtf8Sha256": "F74B92C2BC84CD876D49369C65B7D55EF886E12D8E69CDB9201840CAE51D47A9"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】歩行 - β",
+      "TargetEscaped": "[Mov-P1] Walk - β",
+      "SourceUtf8Sha256": "10ED2446C56E4ACC2DE6424DE07958C447A70491D552462478E6A567D12404DB"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】飛行 - β",
+      "TargetEscaped": "[Mov-P1] Fly - β",
+      "SourceUtf8Sha256": "81F541366290BC419EA5CD70291988D44D9F017821A4A72676E37AC5A52D5660"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】ジャンプ - β",
+      "TargetEscaped": "[Mov-P1] Jump - β",
+      "SourceUtf8Sha256": "B9A429B1FDB33A3ADD2B25B8446DE7ACD3105A7EDC12B4C3EC0DBDACD45B073E"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】歩行 - γ",
+      "TargetEscaped": "[Mov-P1] Walk - γ",
+      "SourceUtf8Sha256": "D916CA9C5FAFC57839859A4859E688AB9B77F97A182E98F2B26EB435FB2E8C20"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】飛行 - γ",
+      "TargetEscaped": "[Mov-P1] Fly - γ",
+      "SourceUtf8Sha256": "4F6F896545C78F3C6D4B1C0D8F03E6BB7D93F1DD2B5128AB62D52A6EE691ADE5"
+    },
+    {
+      "SourceEscaped": "【Mov-P1】ジャンプ - γ",
+      "TargetEscaped": "[Mov-P1] Jump - γ",
+      "SourceUtf8Sha256": "198C822F1425F48CAD9142583C80C03CCDAD49B993AE136E54717B245AB8D77D"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】歩行 - α",
+      "TargetEscaped": "[Mov-P2] Walk - α",
+      "SourceUtf8Sha256": "9AD96D910325E3FE843F71441DC92B590AA296E462EB46847C545CC633EA88BE"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】飛行 - α",
+      "TargetEscaped": "[Mov-P2] Fly - α",
+      "SourceUtf8Sha256": "694DD9E648A7748B4D7051F4AD14BA194557C4BDCEFF3481B8AFC05E69BD7340"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】ジャンプ - α",
+      "TargetEscaped": "[Mov-P2] Jump - α",
+      "SourceUtf8Sha256": "F80BC7FFCCC5341E022BF346C16EE64D27884F3DF83EA63FFC75063FDBBFF282"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】歩行 - β",
+      "TargetEscaped": "[Mov-P2] Walk - β",
+      "SourceUtf8Sha256": "FA26934D45BAD3980095141EB4C1ACEB69F6ED736E3752E9B9EE38A3C75A3356"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】飛行 - β",
+      "TargetEscaped": "[Mov-P2] Fly - β",
+      "SourceUtf8Sha256": "60E350C2FBC0062786820CBFCEDF96BCD73C336303BE230B986A17DAEAD35FAA"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】ジャンプ - β",
+      "TargetEscaped": "[Mov-P2] Jump - β",
+      "SourceUtf8Sha256": "54135BD5DB4B33159D6A70733F319FD09B17165907905163796D28EA2FB4C1BE"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】歩行 - γ",
+      "TargetEscaped": "[Mov-P2] Walk - γ",
+      "SourceUtf8Sha256": "1F41FCF488A932DC9F8B2E3C42D9265242B2C7479579FA283A7ED2C620B508A1"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】飛行 - γ",
+      "TargetEscaped": "[Mov-P2] Fly - γ",
+      "SourceUtf8Sha256": "DCC3B9E6B4E2EE8C48DC18D1D11EF90408CC876928276627FCDD98EB75B836ED"
+    },
+    {
+      "SourceEscaped": "【Mov-P2】ジャンプ - γ",
+      "TargetEscaped": "[Mov-P2] Jump - γ",
+      "SourceUtf8Sha256": "C79B851B8FD6D935DD1B778048B0C895944BF58134D44BB93AA576ECBCE29AF5"
+    },
+    {
+      "SourceEscaped": "【Cbt-P1】安定 - α",
+      "TargetEscaped": "[Cbt-P1] Stability - α",
+      "SourceUtf8Sha256": "3A3CD7C2643B9806E5A37AA13D67CE0394B4D18141BAA0EA7C939506BD842747"
+    },
+    {
+      "SourceEscaped": "【Cbt-P1】安定 - β",
+      "TargetEscaped": "[Cbt-P1] Stability - β",
+      "SourceUtf8Sha256": "F82C98BA05250D2C23D4388FD49FAD5193BADBEE315E7123C0F61EFA2E7DE59D"
+    },
+    {
+      "SourceEscaped": "【Cbt-P1】安定 - γ",
+      "TargetEscaped": "[Cbt-P1] Stability - γ",
+      "SourceUtf8Sha256": "3197CD6784E1598632BEE9595CF3ACF7EE344B65CF2F747EA3E7F92AB233A21D"
+    },
+    {
+      "SourceEscaped": "【Cbt-P2】安定 - α",
+      "TargetEscaped": "[Cbt-P2] Stability - α",
+      "SourceUtf8Sha256": "0BEA3A96CA60320F7C4BA02F354557C781CDC0A5DC9D329D2209C3EFAC0467BF"
+    },
+    {
+      "SourceEscaped": "【Cbt-P2】安定 - β",
+      "TargetEscaped": "[Cbt-P2] Stability - β",
+      "SourceUtf8Sha256": "2017D341AAEED4C1574D4B9B58833814675AADCCB164640558BDF47E400B4309"
+    },
+    {
+      "SourceEscaped": "【Cbt-P2】安定 - γ",
+      "TargetEscaped": "[Cbt-P2] Stability - γ",
+      "SourceUtf8Sha256": "91F455CFFD1804982D85869E4A4A4E077517F51CC95351839D1933772D4D4C04"
+    },
+    {
+      "SourceEscaped": "【Def-P1】物理防御 - α",
+      "TargetEscaped": "[Def-P1] Phys DEF - α",
+      "SourceUtf8Sha256": "F8688FC545CF4B1F0F33D80296473DEAD60AA55B342A54B095CFC022E1420671"
+    },
+    {
+      "SourceEscaped": "【Def-P1】ビーム防御 - α",
+      "TargetEscaped": "[Def-P1] Beam DEF - α",
+      "SourceUtf8Sha256": "911622D1BBE834CA6F0D7025B9C7256BF8173B2534C3BE13DBA504EABF83385B"
+    },
+    {
+      "SourceEscaped": "【Def-P1】火炎防御 - α",
+      "TargetEscaped": "[Def-P1] Fire DEF - α",
+      "SourceUtf8Sha256": "DAC113FAA525935CAC71A2F38B137606F2A274EB3978B0E0F46E415F70CAA1C7"
+    },
+    {
+      "SourceEscaped": "【Def-P1】電撃防御 - α",
+      "TargetEscaped": "[Def-P1] Elec DEF - α",
+      "SourceUtf8Sha256": "FEC45306D2143E14550D3B8CBA2BC8F284E659EEC44FACAAA01A4829E876299C"
+    },
+    {
+      "SourceEscaped": "【Def-P1】全防御 - α",
+      "TargetEscaped": "[Def-P1] All DEF - α",
+      "SourceUtf8Sha256": "3463832B815297A5314319325C38A6355AABB66AB10148DB5BCAFC2B5FA76971"
+    },
+    {
+      "SourceEscaped": "【Def-P1】異常耐性 - α",
+      "TargetEscaped": "[Def-P1] Status Resist - α",
+      "SourceUtf8Sha256": "21D8958E3104B6D03DB67D67E028D1817296BB8F820DAE17D7F34EAFE2BDCB48"
+    },
+    {
+      "SourceEscaped": "【Def-P1】物理防御 - β",
+      "TargetEscaped": "[Def-P1] Phys DEF - β",
+      "SourceUtf8Sha256": "455A321486D5819ADED6E7BC59FC34030EAD1FDE02C1DB5AF4E94C2D3492D418"
+    },
+    {
+      "SourceEscaped": "【Def-P1】ビーム防御 - β",
+      "TargetEscaped": "[Def-P1] Beam DEF - β",
+      "SourceUtf8Sha256": "E7D48AB1D3C3F0616AC3EE607F7F1D9CA944014EA3DF67E4121799D274EF1DE9"
+    },
+    {
+      "SourceEscaped": "【Def-P1】火炎防御 - β",
+      "TargetEscaped": "[Def-P1] Fire DEF - β",
+      "SourceUtf8Sha256": "7E1D76CE9B6A8513D061D85388017EDFFCF895A45C28DC08F57D526491B3D75B"
+    },
+    {
+      "SourceEscaped": "【Def-P1】電撃防御 - β",
+      "TargetEscaped": "[Def-P1] Elec DEF - β",
+      "SourceUtf8Sha256": "8168EDE7673E6ADABDAE330534BEDAA65F0069507B46C555B1C188A93925C431"
+    },
+    {
+      "SourceEscaped": "【Def-P1】全防御 - β",
+      "TargetEscaped": "[Def-P1] All DEF - β",
+      "SourceUtf8Sha256": "05FC732525AD0960370829E732C929ADBDF0A2D35E4134F17ABF9A6CB4CD9936"
+    },
+    {
+      "SourceEscaped": "【Def-P1】異常耐性 - β",
+      "TargetEscaped": "[Def-P1] Status Resist - β",
+      "SourceUtf8Sha256": "6AAFF91EA75F1D6C5C2C64D577C6F5BD23F46A158083A7695961F2E3EF968AC2"
+    },
+    {
+      "SourceEscaped": "【Def-P1】物理防御 - γ",
+      "TargetEscaped": "[Def-P1] Phys DEF - γ",
+      "SourceUtf8Sha256": "FB1C0A909B96890A5041E5B4334C06848549D3562FE9C7A6E06044CD19B391BE"
+    },
+    {
+      "SourceEscaped": "【Def-P1】ビーム防御 - γ",
+      "TargetEscaped": "[Def-P1] Beam DEF - γ",
+      "SourceUtf8Sha256": "2D6816AF7AA9433CB95DC1E564B8D4CAF27B919D406ED9A3087E251E33C0CB43"
+    },
+    {
+      "SourceEscaped": "【Def-P1】火炎防御 - γ",
+      "TargetEscaped": "[Def-P1] Fire DEF - γ",
+      "SourceUtf8Sha256": "7851E81AF4BB94509CE693D809EF2027E4F8AAAAF8B7DF068EC761F58FD933D1"
+    },
+    {
+      "SourceEscaped": "【Def-P1】電撃防御 - γ",
+      "TargetEscaped": "[Def-P1] Elec DEF - γ",
+      "SourceUtf8Sha256": "C176C5F73BD6E6C10242EE763B1290CA7133A9D163DEE70D33F2A34D19AE741F"
+    },
+    {
+      "SourceEscaped": "【Def-P1】全防御 - γ",
+      "TargetEscaped": "[Def-P1] All DEF - γ",
+      "SourceUtf8Sha256": "8298B8F2D8142D356E47D010656F63C4E301027644063106D4241A0922651A6D"
+    },
+    {
+      "SourceEscaped": "【Def-P1】異常耐性 - γ",
+      "TargetEscaped": "[Def-P1] Status Resist - γ",
+      "SourceUtf8Sha256": "B2DD785A423566D65FD59BA5ECF5029F5F70C458B189822901A3A71016BDBB41"
+    },
+    {
+      "SourceEscaped": "【Def-P2】物理防御 - α",
+      "TargetEscaped": "[Def-P2] Phys DEF - α",
+      "SourceUtf8Sha256": "28F3D861C58811DFFB5570688892983AB469CD4F5FB1E591FBCA72F9E4DC4353"
+    },
+    {
+      "SourceEscaped": "【Def-P2】ビーム防御 - α",
+      "TargetEscaped": "[Def-P2] Beam DEF - α",
+      "SourceUtf8Sha256": "9160310B63D18E39ACA411C9AB13D539C081D3477A25E17EE6536AC5CFDA691C"
+    },
+    {
+      "SourceEscaped": "【Def-P2】火炎防御 - α",
+      "TargetEscaped": "[Def-P2] Fire DEF - α",
+      "SourceUtf8Sha256": "6452E032324F69E5E8FEEF505375438DB4A1F5DDDEE0562A1462FFE3B2C45FF3"
+    },
+    {
+      "SourceEscaped": "【Def-P2】電撃防御 - α",
+      "TargetEscaped": "[Def-P2] Elec DEF - α",
+      "SourceUtf8Sha256": "8E69B9ECD7BD6EECB8904EDD164A15A5540E1A2BE688D5689E85ACDBA848F94D"
+    },
+    {
+      "SourceEscaped": "【Def-P2】全防御 - α",
+      "TargetEscaped": "[Def-P2] All DEF - α",
+      "SourceUtf8Sha256": "1897EE013018D57B1ED64C94EAEC04C33D72AC3219EED70188E4D997EA8EA306"
+    },
+    {
+      "SourceEscaped": "【Def-P2】異常耐性 - α",
+      "TargetEscaped": "[Def-P2] Status Resist - α",
+      "SourceUtf8Sha256": "E34640BBD0A1EC69DFBCA48143C2CCCA2370CC3D0DB17FD79D04ACB3942510AB"
+    },
+    {
+      "SourceEscaped": "【Def-P2】物理防御 - β",
+      "TargetEscaped": "[Def-P2] Phys DEF - β",
+      "SourceUtf8Sha256": "3524471EB61CFCD6A847C514000AEB40D8B4A8A2F5B5E76FD4EC5E10EE219B6C"
+    },
+    {
+      "SourceEscaped": "【Def-P2】ビーム防御 - β",
+      "TargetEscaped": "[Def-P2] Beam DEF - β",
+      "SourceUtf8Sha256": "084636056C82A9C16D7A8C7BFFF3B16B9AB121D9A7D55D714C3B7A39E33724F5"
+    },
+    {
+      "SourceEscaped": "【Def-P2】火炎防御 - β",
+      "TargetEscaped": "[Def-P2] Fire DEF - β",
+      "SourceUtf8Sha256": "D8A08A8F8695CD6410D56F82230C1059E9859CD6AA6ADA923FC58A5C8D058544"
+    },
+    {
+      "SourceEscaped": "【Def-P2】電撃防御 - β",
+      "TargetEscaped": "[Def-P2] Elec DEF - β",
+      "SourceUtf8Sha256": "EBFF0FD6E8D0E5A6A5A03088D98F0AFD262CE65A4FE94A6FB0F92995609F4AA0"
+    },
+    {
+      "SourceEscaped": "【Def-P2】全防御 - β",
+      "TargetEscaped": "[Def-P2] All DEF - β",
+      "SourceUtf8Sha256": "D288DFAE871AFEF0048DF353C5C7703C1E0AB7B516B4DA48D509E24EA1C6C4DF"
+    },
+    {
+      "SourceEscaped": "【Def-P2】異常耐性 - β",
+      "TargetEscaped": "[Def-P2] Status Resist - β",
+      "SourceUtf8Sha256": "E6672330F9AE635CF25E7E025C2C30DC5856032E99B4C4D4F7FC55485C7008AD"
+    },
+    {
+      "SourceEscaped": "【Def-P2】物理防御 - γ",
+      "TargetEscaped": "[Def-P2] Phys DEF - γ",
+      "SourceUtf8Sha256": "6C942872462ACDCD839AC7C85D50A5145A6DF623ACF669BA4997882753A34AE2"
+    },
+    {
+      "SourceEscaped": "【Def-P2】ビーム防御 - γ",
+      "TargetEscaped": "[Def-P2] Beam DEF - γ",
+      "SourceUtf8Sha256": "F6EB1F800E6B321B11F669262E6164BD045A88B5E7F1363EBC45724AC43ECCDD"
+    },
+    {
+      "SourceEscaped": "【Def-P2】火炎防御 - γ",
+      "TargetEscaped": "[Def-P2] Fire DEF - γ",
+      "SourceUtf8Sha256": "3C32865B71CD1BE7A8D48C7982FE208CC68D7A7230557CC14615A99A6C4E743C"
+    },
+    {
+      "SourceEscaped": "【Def-P2】電撃防御 - γ",
+      "TargetEscaped": "[Def-P2] Elec DEF - γ",
+      "SourceUtf8Sha256": "065B3438010FA2513B5431AD54CAB348FFD337647FD94587C498FF1E493521EB"
+    },
+    {
+      "SourceEscaped": "【Def-P2】全防御 - γ",
+      "TargetEscaped": "[Def-P2] All DEF - γ",
+      "SourceUtf8Sha256": "090018EF9771C332FB48016DEAD5B2C92C232A35816BDB9AD5BD68D203F74A88"
+    },
+    {
+      "SourceEscaped": "【Def-P2】異常耐性 - γ",
+      "TargetEscaped": "[Def-P2] Status Resist - γ",
+      "SourceUtf8Sha256": "C7A9C8D64DF2D89CEA3BA738706674B200032ED64DEE6015EFF9D9EF3EACDEC7"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】軽量化 - α",
+      "TargetEscaped": "[Ext-P2] Weight Reduction - α",
+      "SourceUtf8Sha256": "8238C03366683F79034DA7A108912D2A4E120C341239B706361E31117FEECA24"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】軽量化 - β",
+      "TargetEscaped": "[Ext-P2] Weight Reduction - β",
+      "SourceUtf8Sha256": "62C8F957CC39F6375FD8DAF729840404F1C34BDFCF6B69E104905B8ABACE5D41"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】軽量化 - γ",
+      "TargetEscaped": "[Ext-P2] Weight Reduction - γ",
+      "SourceUtf8Sha256": "39EDCCC4E97241752107370AE6397DC849BDFD4BDFE305CF84EBE6C956F3F4CD"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】疾走 - α",
+      "TargetEscaped": "[Ext-P2] Sprint - α",
+      "SourceUtf8Sha256": "F1C4D37227D279715CAB5FD6793015A20C52B9B3289D1654C7582D35E312F59C"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】疾走 - β",
+      "TargetEscaped": "[Ext-P2] Sprint - β",
+      "SourceUtf8Sha256": "A7D3770CAADD0107E0BE93C74B77C54B93969132508489284FB0EDF0C7A745F2"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】疾走 - γ",
+      "TargetEscaped": "[Ext-P2] Sprint - γ",
+      "SourceUtf8Sha256": "603BE9F5F39DFF2FB2CD945EAA3C88BD3EC7834E8510DA00B25CB2AFB173B8A1"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】守護 - α",
+      "TargetEscaped": "[Ext-P2] Protection - α",
+      "SourceUtf8Sha256": "9BC4A25F658C60E8F588219CC894126F1D2CD7B7F205333B18C4ACCD0E6FA593"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】守護 - β",
+      "TargetEscaped": "[Ext-P2] Protection - β",
+      "SourceUtf8Sha256": "AF6E03D9AFC7228D95E206FC527DA4F6F1A952911D1200F3DA1388E556066A44"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】守護 - γ",
+      "TargetEscaped": "[Ext-P2] Protection - γ",
+      "SourceUtf8Sha256": "C727F858CE93EE09E64DC9B21B06D030E88A9BBC49222BF7D680B4341334C1A0"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】覚醒 - α",
+      "TargetEscaped": "[Ext-P2] Awakening - α",
+      "SourceUtf8Sha256": "4CFAFC3EB4C7003210ECF905D964768A41E4ABB7FD9E969D2235DBF48FE47303"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】覚醒 - β",
+      "TargetEscaped": "[Ext-P2] Awakening - β",
+      "SourceUtf8Sha256": "305969FC9C0440C3F6AC168D0BD246C5252ACCC644354D549ABF9110D7385184"
+    },
+    {
+      "SourceEscaped": "【Ext-P2】覚醒 - γ",
+      "TargetEscaped": "[Ext-P2] Awakening - γ",
+      "SourceUtf8Sha256": "06A50B625CE559511F38C1FED1EC9A123854B18A5DCC1C188B53CDC9603E1ACB"
+    },
+    {
+      "SourceEscaped": "【Etc-P1】ローコスト - α",
+      "TargetEscaped": "[Etc-P1] Low Cost - α",
+      "SourceUtf8Sha256": "BDFAD5D90324092E346CBD462AFD4AAC8681E5E3E2B6AE0AECCFA893434C4934"
+    },
+    {
+      "SourceEscaped": "【Etc-P2】ローコスト - α",
+      "TargetEscaped": "[Etc-P2] Low Cost - α",
+      "SourceUtf8Sha256": "3565144B4EC52B0A8430C57F6C4A72CF960612411787B3E05464D08FB75A7802"
+    },
+    {
+      "SourceEscaped": "強化リセットALL",
+      "TargetEscaped": "Reset All",
+      "SourceUtf8Sha256": "F1C70801901C9CAFB41CAADE3095F8C9112B2CC870F832D10953EB6FCAC9BEDD"
+    },
+    {
+      "SourceEscaped": "強化リセット1",
+      "TargetEscaped": "Reset 1",
+      "SourceUtf8Sha256": "4329B5561DF31F625DE680966DAB1C9951D1AB345011218FAB728F6E5A7464EE"
+    },
+    {
+      "SourceEscaped": "特効：レイドボス",
+      "TargetEscaped": "Bonus vs Raid Bosses",
+      "SourceUtf8Sha256": "7B152FAB3D6244F03865A2ABD56CB05D451754874A8F27E064C98F67897B3F59"
+    }
+  ]
+}

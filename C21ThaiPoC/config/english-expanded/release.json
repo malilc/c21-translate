@@ -1,0 +1,21 @@
+{
+  "release": "English Expanded Final",
+  "status": "offline PASS",
+  "knownMcTitles": 0,
+  "knownMcConditions": 0,
+  "mcDisplay": "original titles and conditions; item drop names retain English",
+  "memberMarkers": "O/o/x; no added spacing",
+  "systemEffectNames": 34,
+  "patchedDisplayClasses": 46,
+  "displaySites": 151,
+  "originalProgramSha256": "5C4026E3066507B85A63C7ED5F4328B107983876BC4EBD47E6ECDD78935F1EEF",
+  "files": {
+    "programs/c21.kar": "8dadb81b17465324e6285c873b10560a07f0295703181864616d6f3e92ad6f85",
+    "README-TH.txt": "15d49925fac4073e182eca96b371e94807243d23d29c0d755b1f6ee26a6538f5",
+    "resources/etc.kar": "257627635aef83695755734aa7a8aee3d0ac55644a67e1490b0f31327a99762d",
+    "resources/kwt.kar": "153cdae9cb5f02e1652b228a62deef1ea8b985104cc8314358c894a17e65cc2d"
+  },
+  "zipSha256": "56C41ACEF0E1E122EC1DFDC5D99BE6606952FABB87ED0D7D88DAE079650F5A48",
+  "gameTest": "Final pending; v2 confirmed by user",
+  "mappings": 33348
+}

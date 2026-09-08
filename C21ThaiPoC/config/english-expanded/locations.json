@@ -1,0 +1,2389 @@
+{
+  "Entries": [
+    {
+      "SourceEscaped": "フクシアシティ",
+      "TargetEscaped": "Fuchsia City",
+      "SourceUtf8Sha256": "3A0BD728F891D096E2FCE37BD24F776E2BBAE22C0DBC062BE2274008A454D2D8"
+    },
+    {
+      "SourceEscaped": "ポルド基地",
+      "TargetEscaped": "Pold Base",
+      "SourceUtf8Sha256": "266C23E906647C1791CE85C96CBBB6803296054FB1B0FC80C559459E2E2F433C"
+    },
+    {
+      "SourceEscaped": "SPロボストアエリア",
+      "TargetEscaped": "SP Robot Store Area",
+      "SourceUtf8Sha256": "19EB639DE4720892ECFBE5095ABF2657A4947CEF49B24D4C7AA463502A05CE29"
+    },
+    {
+      "SourceEscaped": "演習用遺跡",
+      "TargetEscaped": "Training Ruins",
+      "SourceUtf8Sha256": "D318DB45C9DE5B48C620496BAE3655E6C59ED480014D05EF04AA7B1847879B26"
+    },
+    {
+      "SourceEscaped": "演習用遺跡 B1F",
+      "TargetEscaped": "Training Ruins B1F",
+      "SourceUtf8Sha256": "5D39F5C0C6936DD4B0615DC5605599A2A5E86806AB100695192E38332A67FF46"
+    },
+    {
+      "SourceEscaped": "演習用遺跡 B2F",
+      "TargetEscaped": "Training Ruins B2F",
+      "SourceUtf8Sha256": "9F885AEA000BD7D4D089C011B1812D8B3CC61A2D554DF54CE303E134A3B29687"
+    },
+    {
+      "SourceEscaped": "ミッションセンターロビー",
+      "TargetEscaped": "Mission Center Lobby",
+      "SourceUtf8Sha256": "771E012C867E10658E174A79EFBB993DF0E147606443FC93027F7F405D01B916"
+    },
+    {
+      "SourceEscaped": "ポルドシティ",
+      "TargetEscaped": "Pold City",
+      "SourceUtf8Sha256": "C27716E593320D4EC42359B7DC1C1F76F3D0A2AF96252334E9DBEC70B81DB63F"
+    },
+    {
+      "SourceEscaped": "ポインドラ宇宙港",
+      "TargetEscaped": "Poindra Spaceport",
+      "SourceUtf8Sha256": "8E8C859A81832B55F63E69155969DAB4BBF6691D89F059BE0CCC7200733736AD"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡",
+      "TargetEscaped": "Pold Ruins",
+      "SourceUtf8Sha256": "AA18DE0B69D63BD1F79471F99272D34330ACE68E8896D13FCB4250D79453C726"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 B2F",
+      "TargetEscaped": "Pold Ruins B2F",
+      "SourceUtf8Sha256": "4FEBCD17EB59C52CB1A39E3F05FA68D2914C3D38D8BB93049694669A2CAB71AB"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 B3F",
+      "TargetEscaped": "Pold Ruins B3F",
+      "SourceUtf8Sha256": "86E2A8C358923CACC6336DE5EEA0A348DBB2FDEF37015F9B8A2543118101DBB7"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 深部",
+      "TargetEscaped": "Pold Ruins Deep Area",
+      "SourceUtf8Sha256": "AC250B6042BECD62A7C0028A114EC794FCF471B4C6B907475496CFF595FCA183"
+    },
+    {
+      "SourceEscaped": "忘れ去られた場所",
+      "TargetEscaped": "Forgotten Place",
+      "SourceUtf8Sha256": "696CBE7D1C9609EFD6396BD5F7B20CDEB80170A6EE402645C6C86D2FCBC8D441"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 B1F",
+      "TargetEscaped": "Pold Ruins B1F",
+      "SourceUtf8Sha256": "D88D6986578AD89952FF6FE37A047F9CAA8302D74A3EEE4D495BDAA8995980A8"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 深部B1F",
+      "TargetEscaped": "Pold Ruins Deep Area B1F",
+      "SourceUtf8Sha256": "1BF039161D66AE493FF4CF932FC7F90FC6A28F7FB27559FEF14086156AA17201"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 深部B5F",
+      "TargetEscaped": "Pold Ruins Deep Area B5F",
+      "SourceUtf8Sha256": "C557D314C0DF8A4289EDFF5E32846D396DED4D60B63E18747240CF92631DB647"
+    },
+    {
+      "SourceEscaped": "ランタナ村",
+      "TargetEscaped": "Lantana Village",
+      "SourceUtf8Sha256": "B1ADC7E52235C3B08256390037DC438C1DD43F5F06385059A6F21B4974876BF7"
+    },
+    {
+      "SourceEscaped": "ポンジャバ宇宙港",
+      "TargetEscaped": "Ponjaba Spaceport",
+      "SourceUtf8Sha256": "9F564EB8AE8743B8DF4CA5788579D8F387323351A911AC3CBF2DBF564F01FAC4"
+    },
+    {
+      "SourceEscaped": "センリョウビーチ",
+      "TargetEscaped": "Senryo Beach",
+      "SourceUtf8Sha256": "2E9FA84DA588B7DC58D62E81E5C7D5B89507DD8A5C1ABA2F6DEE1C566AF759CF"
+    },
+    {
+      "SourceEscaped": "ノボル山脈",
+      "TargetEscaped": "Noboru Mountain Range",
+      "SourceUtf8Sha256": "A77E3D1AB0F319B678D3FCD7929DA06B7CAA38CD48E58A876ADE7500AE767C06"
+    },
+    {
+      "SourceEscaped": "クロトン高原",
+      "TargetEscaped": "Croton Highlands",
+      "SourceUtf8Sha256": "17B6B8F52378B2760E28ABC2438E215391DE1AB8A9002AF7E98B47F3CAE0050C"
+    },
+    {
+      "SourceEscaped": "ホーキー街道",
+      "TargetEscaped": "Hoki Road",
+      "SourceUtf8Sha256": "91B712D6FBF6A58D68805CE99364AF2D68D6CD25285B1F926EB72A7DA43628AC"
+    },
+    {
+      "SourceEscaped": "ラムタ村",
+      "TargetEscaped": "Ramta Village",
+      "SourceUtf8Sha256": "E1C6C483B0219A9E1D1DA8BBF5B5147D39032FF3B375BDF5EE11D190F8DB8F61"
+    },
+    {
+      "SourceEscaped": "ラムタ研究区域 1F",
+      "TargetEscaped": "Ramta Research Zone 1F",
+      "SourceUtf8Sha256": "D0AB3806D1045381E975108857942D5F8DDA677201A33AEB4BC2EA984E806A92"
+    },
+    {
+      "SourceEscaped": "ラムタ研究区域",
+      "TargetEscaped": "Ramta Research Zone",
+      "SourceUtf8Sha256": "2BE8D0073EA4643035FFD59390FCFD7940843269F4EA6C0986A0FD0E1ED5464C"
+    },
+    {
+      "SourceEscaped": "ラムタ研究区域 2F",
+      "TargetEscaped": "Ramta Research Zone 2F",
+      "SourceUtf8Sha256": "B45C4BB50635A7784B0F092D665205A261572C181D7EEEDE7EEE8B14146EA9D4"
+    },
+    {
+      "SourceEscaped": "ポンジャバ宇宙港跡",
+      "TargetEscaped": "Ponjaba Former Spaceport",
+      "SourceUtf8Sha256": "0F4D1816D57650D4B871B75F74458BEB3835D411835ADE08A3F1B4E084898C35"
+    },
+    {
+      "SourceEscaped": "ポンジャバ魔境奥地",
+      "TargetEscaped": "Ponjaba Wildlands Hinterlands",
+      "SourceUtf8Sha256": "7F528184120429FDC5B8543D096638262530237C0630A845B24BDE572CFF0DD3"
+    },
+    {
+      "SourceEscaped": "原始の森",
+      "TargetEscaped": "Primeval Forest",
+      "SourceUtf8Sha256": "A09A4AE2161767F94C7D8898D851A0FF5CCE602C4A8E56FC091123430B26AF16"
+    },
+    {
+      "SourceEscaped": "崩壊の惑星ポイーン",
+      "TargetEscaped": "Collapsing Planet Poyeen",
+      "SourceUtf8Sha256": "34367B2AD96184209124B4A7214F666322D6D35836F7A9920F66EC4B56306A29"
+    },
+    {
+      "SourceEscaped": "魔境の入口",
+      "TargetEscaped": "Entrance to the Wildlands",
+      "SourceUtf8Sha256": "153D9775F02AB192716D8A35A1AAFA063B215B3C4C6EDC3DC7218937AFD98C80"
+    },
+    {
+      "SourceEscaped": "センジョウビーチ",
+      "TargetEscaped": "Senjo Beach",
+      "SourceUtf8Sha256": "C501E4D1B265D482FBCA91A9AC1FCACE30065AED2039F866765FC5F80F3C024D"
+    },
+    {
+      "SourceEscaped": "ポルド悪魔軍拠点",
+      "TargetEscaped": "Pold Demon Army Outpost",
+      "SourceUtf8Sha256": "FEEDDE669F91D877130D8D78759A34F2CB2FA5928DAF7479C2985322E32788D6"
+    },
+    {
+      "SourceEscaped": "ノボル補給基地",
+      "TargetEscaped": "Noboru Supply Base",
+      "SourceUtf8Sha256": "C5259E0067B64D3966121A8ECDC620E979BC5E384B3D990B829DF5B58B3EF46A"
+    },
+    {
+      "SourceEscaped": "ヒラタイ平原",
+      "TargetEscaped": "Hiratai Plains",
+      "SourceUtf8Sha256": "6D57C469506B7EC41F0B038C14C6BE41F85B628741E9106B52CF59325A3B1649"
+    },
+    {
+      "SourceEscaped": "メタイヤ古戦場",
+      "TargetEscaped": "Metaiya Old Battlefield",
+      "SourceUtf8Sha256": "0C80A8F85EC092A2F2E0CBA76C659D257BCFBC598C8DB17475EB4CAC5E608353"
+    },
+    {
+      "SourceEscaped": "ラムタ関所",
+      "TargetEscaped": "Ramta Checkpoint",
+      "SourceUtf8Sha256": "CF21857E132D2D2BE8F0BCAE120749B0096710384884C5E1804B827D6AB55C43"
+    },
+    {
+      "SourceEscaped": "サウィン大森林 封印の間",
+      "TargetEscaped": "Sawin Great Forest Sealed Chamber",
+      "SourceUtf8Sha256": "B82E19DE8C16A64603FD7E350A1306DA73E77D2A29718745A9909E67D935CBC7"
+    },
+    {
+      "SourceEscaped": "ソロネッツシティ",
+      "TargetEscaped": "Solonetz City",
+      "SourceUtf8Sha256": "8803AA5B361116C89533DEB8DD0DAAA36F9FCC4822A6AC94EE0C1BF9412081C3"
+    },
+    {
+      "SourceEscaped": "イエルモ基地",
+      "TargetEscaped": "Iermo Base",
+      "SourceUtf8Sha256": "07FDA0225BDE3988FF124A8ACF915A77F441B1DAF8663C4871BE9B3FA1765712"
+    },
+    {
+      "SourceEscaped": "ソロネッツ宇宙港",
+      "TargetEscaped": "Solonetz Spaceport",
+      "SourceUtf8Sha256": "7EB1AAC6F71313AEEA8A58C44C1445135DED12314927C81094A1E6B754ACF87C"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 B2F",
+      "TargetEscaped": "Fulby Ruins B2F",
+      "SourceUtf8Sha256": "74A2437673BCEB217DC1EF82055D34E073F78E879A837DA7D0751EF93A3956AC"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡",
+      "TargetEscaped": "Fulbi Ruins",
+      "SourceUtf8Sha256": "89A9022EF9F06C649753110D2CB241AD95D1648CC9A6B7BF1EA1A42FC9434AEE"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 B1F",
+      "TargetEscaped": "Fulby Ruins B1F",
+      "SourceUtf8Sha256": "CF157054DCBAA36A19DF3938DB44260D8B0215DE2AA8BAA1A0A4E24C137E9B30"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 B3F",
+      "TargetEscaped": "Fulby Ruins B3F",
+      "SourceUtf8Sha256": "6DB78DAAF58D017E2A58D49E1ABC6EADACC8F73AB9C1C6B6203DBB6CE083F94C"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部",
+      "TargetEscaped": "Kambi Ruins Deep Area",
+      "SourceUtf8Sha256": "70A553FD509DF40EFA953C917D538722D1106F00988C4E348412806636AC4B36"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部B1F",
+      "TargetEscaped": "Kambi Ruins Deep Area B1F",
+      "SourceUtf8Sha256": "6BF008FF5C10BDD9E1800203137D4EEB85A247ACC18E5C410A5943B5C40133EF"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡・深部",
+      "TargetEscaped": "Kambi Ruins / Deep Area",
+      "SourceUtf8Sha256": "2487EEAE27DD663EA0937CEDFF44BCB57FE6203949CB174B86C02AE22B841B59"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部B4F",
+      "TargetEscaped": "Kambi Ruins Deep Area B4F",
+      "SourceUtf8Sha256": "DBC1839FF6B609EBB8EF81A0F7243DCD98084F3B179C6B984C449DAD04A14826"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡",
+      "TargetEscaped": "Kambi Ruins",
+      "SourceUtf8Sha256": "4ACE0A67BFAD5F573BA80AE8FF030AE13437EB7D226CD1C45045015866A70BE3"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 B1F",
+      "TargetEscaped": "Kambi Ruins B1F",
+      "SourceUtf8Sha256": "121525B9D3F0E1F1956A31370372900A729C8BB6AC72F173F032CA174966A889"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 B3F",
+      "TargetEscaped": "Kambi Ruins B3F",
+      "SourceUtf8Sha256": "9CB0DE2B205B6414839FCD23231C981C78E796F3252DB4AC79B4A7CBFA226FFC"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部入口",
+      "TargetEscaped": "Kambi Ruins Deep Area Entrance",
+      "SourceUtf8Sha256": "169911F8E7C8BBF075963A9C03D1F214ADE629ADB3AFF2591BF0D93F92C9EF86"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部",
+      "TargetEscaped": "Fulby Ruins Deep Area",
+      "SourceUtf8Sha256": "71B60D2CB2A5BADCE55CCAC472DF281297EA78A7E2899CFCDADEE80B0C112D04"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部B4F",
+      "TargetEscaped": "Fulby Ruins Deep Area B4F",
+      "SourceUtf8Sha256": "5A5768598FB6490442B736AB4FFC40175C56FBD75693E4D9B4AA9B8D32864684"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡・深部",
+      "TargetEscaped": "Fulby Ruins / Deep Area",
+      "SourceUtf8Sha256": "4A8659853DBCED351972E7D0AD28EAF2FEC406EB63337593CFC07E0666B43F90"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部入口",
+      "TargetEscaped": "Fulby Ruins Deep Area Entrance",
+      "SourceUtf8Sha256": "F13BD0131A0AD32AFAEB6EBFE51D47329A3A4DFEB8BCD33FFC769E72C0B5F2F5"
+    },
+    {
+      "SourceEscaped": "ランカー荒原",
+      "TargetEscaped": "Rankar Wasteland",
+      "SourceUtf8Sha256": "B7546FB03B44104DB075F19D2AA2B55A23FAAE6D1667B6D59FB41EC285DE101F"
+    },
+    {
+      "SourceEscaped": "ブリーフィングルーム",
+      "TargetEscaped": "Briefing Room",
+      "SourceUtf8Sha256": "B8CB30F55B99C32D45985BF15BA992D61BECB93DEF071D2C197F9176FE54126D"
+    },
+    {
+      "SourceEscaped": "インディゴ遺跡",
+      "TargetEscaped": "Indigo Ruins",
+      "SourceUtf8Sha256": "A23B8646BCCAA3266C726EE979AE5CF1A4036AD4AD860DF7EBD9E3275069C663"
+    },
+    {
+      "SourceEscaped": "インディゴ遺跡 AREA1",
+      "TargetEscaped": "Indigo Ruins AREA1",
+      "SourceUtf8Sha256": "F2FA6048A83E82C3D683903CFFDE34352706643D8305D9D3E1F47254A274170D"
+    },
+    {
+      "SourceEscaped": "インディゴ遺跡 AREA2",
+      "TargetEscaped": "Indigo Ruins AREA2",
+      "SourceUtf8Sha256": "E6E45BAD3843633192B57A570B9EBDB26D3F91E40AE9020CDD02DC26430B7416"
+    },
+    {
+      "SourceEscaped": "インディゴ遺跡 AREA3",
+      "TargetEscaped": "Indigo Ruins AREA3",
+      "SourceUtf8Sha256": "AD67B97C6623BEE606650DBE2AE2E24DC16CDD9AA958D4CA2CFF09EE6DA25756"
+    },
+    {
+      "SourceEscaped": "インディゴ遺跡 AREA4",
+      "TargetEscaped": "Indigo Ruins AREA4",
+      "SourceUtf8Sha256": "661E438305C72DE2A4EB3D839809DAD4C3E1DDDE5B1975D64A2905588AFFEF2A"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー",
+      "TargetEscaped": "Heaven's Tower",
+      "SourceUtf8Sha256": "37FCE6713F753F90F55BB8F6E9DAE26265C8C4E6034D94C233E0D50FAA7BC064"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 300F",
+      "TargetEscaped": "Heaven's Tower 300F",
+      "SourceUtf8Sha256": "6CCFE375B0D3C41B5E49A08067474F170E915B4044D1C4BBC4E658486B662FCE"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 屋上",
+      "TargetEscaped": "Heaven's Tower Rooftop",
+      "SourceUtf8Sha256": "55C4B2924079D540E88C6B6EF42FDFE80B6105A99E5E148BD7F501A7BECE3D4C"
+    },
+    {
+      "SourceEscaped": "ソルシティ",
+      "TargetEscaped": "Sol City",
+      "SourceUtf8Sha256": "15094BD2A8353F06C0C04FB78F2B3D3723D9D4DEEEE7B379285CDD9D70E6C6C4"
+    },
+    {
+      "SourceEscaped": "アクリル宇宙港",
+      "TargetEscaped": "Acryl Spaceport",
+      "SourceUtf8Sha256": "2DBB41032F5B10AEDA26A2468FEEEDB4B50EB769D656680B536475D6CBCB9F5B"
+    },
+    {
+      "SourceEscaped": "ソル村",
+      "TargetEscaped": "Sol Village",
+      "SourceUtf8Sha256": "6C88665730D33C6AD57F8F657F22B48140A39E768C19D1E292C553DA05D70826"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー内部",
+      "TargetEscaped": "Heaven's Tower Interior",
+      "SourceUtf8Sha256": "B6FA9C595B4784D6CB5044BECCB368AD59E3AF71F2C574BF2BE43D33A708B858"
+    },
+    {
+      "SourceEscaped": "フルビ山",
+      "TargetEscaped": "Fulby Mountain",
+      "SourceUtf8Sha256": "7A30E8483EFEE7AD04C94A6DB35043DFC4382CD89C2C739AB7065F53B4496A0F"
+    },
+    {
+      "SourceEscaped": "河童の惑星ゲルニア",
+      "TargetEscaped": "Kappa Planet Gernia",
+      "SourceUtf8Sha256": "E33355F4CBE7E8B7593F99BC99B9421242E15AF61BA427774C72E7003E3F15EF"
+    },
+    {
+      "SourceEscaped": "グレイゼム貯水池（MASTER）",
+      "TargetEscaped": "Grayzem Reservoir (MASTER)",
+      "SourceUtf8Sha256": "029542471B828DF620E541C4A09ACEB2E9FFB61E9419CF0CCCB26E0666536276"
+    },
+    {
+      "SourceEscaped": "プラノ岬",
+      "TargetEscaped": "Plano Cape",
+      "SourceUtf8Sha256": "54A70AC6E785A262D7AC706776ED742BE3BA52C92A85CF0D91EEDCB4209EC12F"
+    },
+    {
+      "SourceEscaped": "ルノ長屋",
+      "TargetEscaped": "Runo Row Houses",
+      "SourceUtf8Sha256": "9446A69FC980FC7296BFD1F35E059D22599A59498ABA1A00C34E0D163A7DD74B"
+    },
+    {
+      "SourceEscaped": "ランカー森林",
+      "TargetEscaped": "Rankar Forest",
+      "SourceUtf8Sha256": "0593525AD37DFF3C9B30F83834E64E7DA81194D1590A293749CE0D4BDA1A5B7E"
+    },
+    {
+      "SourceEscaped": "ソロネッツ城下町",
+      "TargetEscaped": "Solonetz Castle Town",
+      "SourceUtf8Sha256": "4618A136F174FFA38C84B2D9DA73386F1B090094EDE7873F1438A57175AAAB11"
+    },
+    {
+      "SourceEscaped": "カスタノ長屋",
+      "TargetEscaped": "Castano Row Houses",
+      "SourceUtf8Sha256": "82D92E3A3083870524AD2C3561BA337044A271F4C42C1063804719DB032F8146"
+    },
+    {
+      "SourceEscaped": "カンビ神社（MASTER）",
+      "TargetEscaped": "Kambi Shrine (MASTER)",
+      "SourceUtf8Sha256": "30E037DD4D0E7BEAFADEB18D7ED23CBB708BA2C9EFEE5B4E47A35878787057E3"
+    },
+    {
+      "SourceEscaped": "ヒスト空中通路（共通）",
+      "TargetEscaped": "Hist Skyway (Shared)",
+      "SourceUtf8Sha256": "CA30471C650537E54DCD6355AA065BFEE25736E6D2F3668822D03F02DADEB4A9"
+    },
+    {
+      "SourceEscaped": "密林の地下ゲルニア",
+      "TargetEscaped": "Underground Jungle Gernia",
+      "SourceUtf8Sha256": "61B879FCC56003AFE0B45707AF3642E744D56D7C2763E3FF3BC418088FB69879"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー搬入口（共通）",
+      "TargetEscaped": "Heaven's Tower Loading Entrance (Shared)",
+      "SourceUtf8Sha256": "1635511A2CBEC2B42BC4CB360E99B6FB6D179976941ADC3015341426CB5FB508"
+    },
+    {
+      "SourceEscaped": "グライ南西 空中通路（共通）",
+      "TargetEscaped": "Grai Southwest Skyway (Shared)",
+      "SourceUtf8Sha256": "36DDB692E1D53EBDD8FD26A76BD8F5F30719FDE6056A8B12F28D763271F1943D"
+    },
+    {
+      "SourceEscaped": "ルビ巨岩群跡（共通）",
+      "TargetEscaped": "Ruby Former Boulder Field (Shared)",
+      "SourceUtf8Sha256": "92533AAD09C140C6C07BD6EC0DB2CAD259AAD390629DC80CB55B3FB0FC346D31"
+    },
+    {
+      "SourceEscaped": "グライ北 空中通路（共通）",
+      "TargetEscaped": "Grai North Skyway (Shared)",
+      "SourceUtf8Sha256": "FCE88D8D4D27A0FFB6E2DD116BF5AEE7936F8462266A2AFFBD0990B097C4E35E"
+    },
+    {
+      "SourceEscaped": "グライ西 空中通路（共通）",
+      "TargetEscaped": "Grai West Skyway (Shared)",
+      "SourceUtf8Sha256": "66C35792880004825C9BB1A029B3B60062462133ACD56DF9EE5EC6036E547198"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部B5F（MASTER）",
+      "TargetEscaped": "Fulby Ruins Deep Area B5F (MASTER)",
+      "SourceUtf8Sha256": "13D5F7FDA819963C20652502798E08D773492EE8E240CE8D9B85D7AC427DD266"
+    },
+    {
+      "SourceEscaped": "ヒストシティ（共通）",
+      "TargetEscaped": "Hist City (Shared)",
+      "SourceUtf8Sha256": "A78DC87F20353B22E83842A332ED1020CA6A9B17A5EFD6F7B126C174A0D92D9B"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 310F（EASY）",
+      "TargetEscaped": "Heaven's Tower 310F (EASY)",
+      "SourceUtf8Sha256": "8779A65F79352D1DE5AD0A58C21871EAAA75E516DEABD39C240CB2F91F2460D3"
+    },
+    {
+      "SourceEscaped": "記憶操作のヘブンズタワー",
+      "TargetEscaped": "Memory Manipulation Heaven's Tower",
+      "SourceUtf8Sha256": "F1576D2976CB4263035CF9C3034A438F830F348003008AB8D1814282AD359A2C"
+    },
+    {
+      "SourceEscaped": "浄化の間（HARD）",
+      "TargetEscaped": "Purification Chamber (HARD)",
+      "SourceUtf8Sha256": "387429070F1F6528A5E92DE3CD4C05BDA0EF73140271BA3024A26786DC1DFF5D"
+    },
+    {
+      "SourceEscaped": "忘れ去られた場所（EASY）",
+      "TargetEscaped": "Forgotten Place (EASY)",
+      "SourceUtf8Sha256": "C94EE4F03EF152BA756B477637C04A1E33B3CF9F8FA7CF83B94F79B7989B4997"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 320F（EASY）",
+      "TargetEscaped": "Heaven's Tower 320F (EASY)",
+      "SourceUtf8Sha256": "0881FC2CD68E15DFFEB8DFD1897C1E32CEEDB9398DF42101B28FC815F67A8208"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 深部B6F（EASY）",
+      "TargetEscaped": "Pold Ruins Deep Area B6F (EASY)",
+      "SourceUtf8Sha256": "E55B3CDDA60A969272A7AFA56EDF5EFC1FED836D6004C3294061D13E29A5C286"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部王の間（EASY）",
+      "TargetEscaped": "Kambi Ruins Deep King's Chamber (EASY)",
+      "SourceUtf8Sha256": "418CE9505728106598F1178B316E31E88260E2CD6085ADDE992D759CFF8AEF71"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 400F（EASY）",
+      "TargetEscaped": "Heaven's Tower 400F (EASY)",
+      "SourceUtf8Sha256": "07DB6DECFBD354CC1A44EAABE8683229900BF2BF96DAFFC457D46CEC4367C294"
+    },
+    {
+      "SourceEscaped": "ジオ深部 第2試験場（EASY）",
+      "TargetEscaped": "Geo Deep Area Test Site 2 (EASY)",
+      "SourceUtf8Sha256": "F5263F025212769B14D2C1E7B534BFA7C2739681257BDED6F9857E55F66462C5"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部B5F（EASY）",
+      "TargetEscaped": "Fulby Ruins Deep Area B5F (EASY)",
+      "SourceUtf8Sha256": "0B205BBB97F4E226D9DEC75DE496736EC602E323E9DA62E8568685F187FE74A6"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 440F（EASY）",
+      "TargetEscaped": "Heaven's Tower 440F (EASY)",
+      "SourceUtf8Sha256": "3048632753C4D2D949B12298D4F7EBCACA8E2B88949643DB54B62096830CC87D"
+    },
+    {
+      "SourceEscaped": "誕生の間",
+      "TargetEscaped": "Birth Chamber",
+      "SourceUtf8Sha256": "84772B40854E52A5CC7A4EF54CF214D2A6A4BDD9209D1919A9D055B04D3B9136"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 170F（EASY）",
+      "TargetEscaped": "Heaven's Tower 170F (EASY)",
+      "SourceUtf8Sha256": "BA95B04A4CFBFF9542760E814DD1E8E6654741D403595F6D7D1C4F834A28A833"
+    },
+    {
+      "SourceEscaped": "操作者の記憶（初期）",
+      "TargetEscaped": "Memory of the Operator (Early Period)",
+      "SourceUtf8Sha256": "0829AB9DF314337FBEA52B461A4438D04551CEE06EC3B67E68256CE0DD84D852"
+    },
+    {
+      "SourceEscaped": "操作者の記憶（中期・EASY）",
+      "TargetEscaped": "Memory of the Operator (Middle Period / EASY)",
+      "SourceUtf8Sha256": "30F0D8EB4C5E843E95219CF38C307E0A2FB399F6BF534118D9DFFF9FC4C59360"
+    },
+    {
+      "SourceEscaped": "操作者の記憶（後期・EASY）",
+      "TargetEscaped": "Memory of the Operator (Late Period / EASY)",
+      "SourceUtf8Sha256": "C2725AD5447DD29F8BF21EF02F521508D6510164FF2517F839D858C3ED2E59E5"
+    },
+    {
+      "SourceEscaped": "操作者の記憶（現在・EASY）",
+      "TargetEscaped": "Memory of the Operator (Present / EASY)",
+      "SourceUtf8Sha256": "3F4A7F6B3D1D78F0BE61171B824A1CA35889F5230030F216F3A23DB8B5E98AE9"
+    },
+    {
+      "SourceEscaped": "閉ざされた記憶（NORMAL・EASY）",
+      "TargetEscaped": "Sealed Memory (NORMAL / EASY)",
+      "SourceUtf8Sha256": "5D29561A3BB1A0AE65AE3FC2E56DEA106884A1C29330B76C9A56EC8A918C948C"
+    },
+    {
+      "SourceEscaped": "狂う前の記憶",
+      "TargetEscaped": "Memory Before Madness",
+      "SourceUtf8Sha256": "C2E83854823D184CC943019EB5FECAEB47E564F6B408351806F7DB01F53CE0B0"
+    },
+    {
+      "SourceEscaped": "狂った記憶",
+      "TargetEscaped": "Twisted Memory",
+      "SourceUtf8Sha256": "452A9DF699997FFED2280237AC4C6C0644F81FAF5FE302979FA551203DACD58F"
+    },
+    {
+      "SourceEscaped": "アクリル決戦拠点",
+      "TargetEscaped": "Acryl Final Battle Base",
+      "SourceUtf8Sha256": "0449527ADC15AC26E56A3F5293BFFA1E07A23A6C9F79BF40FF14864377529001"
+    },
+    {
+      "SourceEscaped": "古城（EASY）",
+      "TargetEscaped": "Old Castle (EASY)",
+      "SourceUtf8Sha256": "BD3445AFDB58FA268C19A2D27B8AABF8850A5F1BE1469D843D2F073DB367F95E"
+    },
+    {
+      "SourceEscaped": "カッパゲート",
+      "TargetEscaped": "Kappa Gate",
+      "SourceUtf8Sha256": "322BA5A2C96C2C181009E2B6F1EF68A2E1165299BD5573A00A6BC10A64CD1F96"
+    },
+    {
+      "SourceEscaped": "消えかけのメモリー",
+      "TargetEscaped": "Fading Memory",
+      "SourceUtf8Sha256": "570FE7F422BB51B327649EF32D32C07FF62CA056B94C9F44C0BD05DA5181CD1B"
+    },
+    {
+      "SourceEscaped": "プラノ岬（MASTER）",
+      "TargetEscaped": "Plano Cape (MASTER)",
+      "SourceUtf8Sha256": "6E4D28C817457EC58B88DA87544C4838E013B113770D1BF661AA1AFA707728A3"
+    },
+    {
+      "SourceEscaped": "ソロネッツ城下町（MASTER）",
+      "TargetEscaped": "Solonetz Castle Town (MASTER)",
+      "SourceUtf8Sha256": "10CA70785563F7C00CD813E051EA3180C29A5BAFD32597BDFF6D2379078EB374"
+    },
+    {
+      "SourceEscaped": "ルノ長屋（MASTER）",
+      "TargetEscaped": "Runo Row Houses (MASTER)",
+      "SourceUtf8Sha256": "584D59B439366F0155109AD92DF3BBC649FDC6EE6BEC39D3D9A4E72D491C5F0D"
+    },
+    {
+      "SourceEscaped": "カスタノ長屋（MASTER）",
+      "TargetEscaped": "Castano Row Houses (MASTER)",
+      "SourceUtf8Sha256": "D20CFFFC06FF1E162E84ADF4473E865D7663C23530BB0EFBF9C15BDA75B39BF9"
+    },
+    {
+      "SourceEscaped": "ランカー森林（MASTER）",
+      "TargetEscaped": "Rankar Forest (MASTER)",
+      "SourceUtf8Sha256": "E36DB6943C5C8A7983B72CEFE36EF05D5BAEBCBE53BD423E64752605678C118E"
+    },
+    {
+      "SourceEscaped": "クロゴケシティ",
+      "TargetEscaped": "Kurogoke City",
+      "SourceUtf8Sha256": "CDFF9358002AE20B731C0EBE97E1100D64DC52F9B7F4ABB123BEC8834D5D660B"
+    },
+    {
+      "SourceEscaped": "テトロド基地",
+      "TargetEscaped": "Tetrod Base",
+      "SourceUtf8Sha256": "6A735EA01CA81E45430734A8518257219662D18BA72D2F8BB3289EE7036C5251"
+    },
+    {
+      "SourceEscaped": "クロゴケ宇宙港",
+      "TargetEscaped": "Kurogoke Spaceport",
+      "SourceUtf8Sha256": "28BFEF2AE6CF72BD3F6C62D02F95226C75739188B9153D1456CF980C59AC9D85"
+    },
+    {
+      "SourceEscaped": "ヤバコニオアシス",
+      "TargetEscaped": "Yabakoni Oasis",
+      "SourceUtf8Sha256": "83AB2C5DB8D43F092531C50D189B6284BA1094AC0E9061A26358A863C7C91286"
+    },
+    {
+      "SourceEscaped": "コンパラ砂漠",
+      "TargetEscaped": "Konpara Desert",
+      "SourceUtf8Sha256": "8558AB38FA206B9922147130ED32106A5CFA1FB6D686E77DF8E9EFACB21B5B6E"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷地下",
+      "TargetEscaped": "Kishiton Grand Canyon Underground",
+      "SourceUtf8Sha256": "6BE8D315BFD107B744C05B1801E5C9F329997BCF006E11F3C814D3CE69A43960"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷",
+      "TargetEscaped": "Kishiton Grand Canyon",
+      "SourceUtf8Sha256": "6BDFDFA8FD494CEDA527F284368A9663F49518AAC454ED7EB847571B63909F5B"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷A B2F",
+      "TargetEscaped": "Kishiton Grand Canyon A B2F",
+      "SourceUtf8Sha256": "468CD5D2265D284EF3D2758825275CDCF6522DD8C33FB875E84FE98EEBA09C27"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷A",
+      "TargetEscaped": "Kishiton Grand Canyon A",
+      "SourceUtf8Sha256": "8FA68C87FB53995987DCD0929121DF869730E988FF82FA28251B2E7D2765AEE5"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷A B1F",
+      "TargetEscaped": "Kishiton Grand Canyon A B1F",
+      "SourceUtf8Sha256": "781C4141544663B39F0995AEB4EF0FCE83E9BC78C0F9DA7D72E15AD6B197BE60"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷A B3F",
+      "TargetEscaped": "Kishiton Grand Canyon A B3F",
+      "SourceUtf8Sha256": "D84BB5064E7019A44263D6B9E3F560267E52A095B1860FEB9A89052F67457C2F"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷B B2F",
+      "TargetEscaped": "Kishiton Grand Canyon B B2F",
+      "SourceUtf8Sha256": "47C9161CE21CA285DC77E164D86B73E00F1E753D862A164D6FF0782D7D7B9FCD"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷B",
+      "TargetEscaped": "Kishiton Grand Canyon B",
+      "SourceUtf8Sha256": "C15FBC38D9886473456262F12CCEB04FC7E717C0E653A497660F1C860D03DA89"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷B B3F",
+      "TargetEscaped": "Kishiton Grand Canyon B B3F",
+      "SourceUtf8Sha256": "BDC108389A3C4F069C4AD53D487D12C7067818A78E652E0FC5A768413BD42EF4"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷B B4F",
+      "TargetEscaped": "Kishiton Grand Canyon B B4F",
+      "SourceUtf8Sha256": "58B8AEC2FADE8B65B5D45D82A6E3C964D75AD464876E553306DE1FCC2C28ADE1"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B2F",
+      "TargetEscaped": "Kishiton Grand Canyon C B2F",
+      "SourceUtf8Sha256": "0182A80978DE61D84895496982A72627A3A2B54171DCA36CA63394AEBA13F16C"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C",
+      "TargetEscaped": "Kishiton Grand Canyon C",
+      "SourceUtf8Sha256": "14897809436488C0988FF96FE6D8935BA143728B7C8BFD6A61718AC408EDDD6A"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B4F",
+      "TargetEscaped": "Kishiton Grand Canyon C B4F",
+      "SourceUtf8Sha256": "8C584AFD8553A11B20EF0D0861FBC532181B0D397AD658C68A2C12CE9D62D080"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B5F",
+      "TargetEscaped": "Kishiton Grand Canyon C B5F",
+      "SourceUtf8Sha256": "408A502CB62C8545AD811D71B03544FAB5C2B01C3730B3561C6D6E5CDCDD83B9"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B6F",
+      "TargetEscaped": "Kishiton Grand Canyon C B6F",
+      "SourceUtf8Sha256": "B41853BADC04A5BC265DF250431207958DDCB22DC6B6B9AE366EA00BA87B6389"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B7F",
+      "TargetEscaped": "Kishiton Grand Canyon C B7F",
+      "SourceUtf8Sha256": "15B8B1D0B07FAB83BAA37B6AF450073DCD52D234E372403206A273E7D7E82CEF"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B8F",
+      "TargetEscaped": "Kishiton Grand Canyon C B8F",
+      "SourceUtf8Sha256": "F459C2A8E82EEC72A7693B2489A343C933C98E7503F1D68C91D85881AD39A01D"
+    },
+    {
+      "SourceEscaped": "キシトン大渓谷C B3F",
+      "TargetEscaped": "Kishiton Grand Canyon C B3F",
+      "SourceUtf8Sha256": "7ACAE97AFA65A441462048BA55A9780F1B6C3F42DE12EC65EC9DAE82778664E9"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡",
+      "TargetEscaped": "Piatro Ruins",
+      "SourceUtf8Sha256": "EEE59E67DA9368C58E58766682CD3F69A4DBE06A2DD2FCEBE9AD38AE6FEBDDCC"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡 深部",
+      "TargetEscaped": "Piatro Ruins Deep Area",
+      "SourceUtf8Sha256": "D43C4189B9457BCA3FC3C5269F5EE9CA39FFAE413872FFF9CC3A3056A118AB7E"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡 B1F",
+      "TargetEscaped": "Piatro Ruins B1F",
+      "SourceUtf8Sha256": "925764E97E525D0D4F078991CD734B0FD06B6BA2A3CC34A959714349120C2BA4"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡 B3F",
+      "TargetEscaped": "Piatro Ruins B3F",
+      "SourceUtf8Sha256": "C015196ED3532A4D9FDCC737399B005ACB7D52ADC38EF474A447A56F3AD47E26"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡 深部入口",
+      "TargetEscaped": "Piatro Ruins Deep Area Entrance",
+      "SourceUtf8Sha256": "1742CEC7F88116CD07855619799AE5725FFA768506C84EE4022B1E6865E06018"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡・深部",
+      "TargetEscaped": "Piatro Ruins / Deep Area",
+      "SourceUtf8Sha256": "4E0291FB5D0FB6DD11C4EC69B47226049DB670A535C799F53826BF95B2EC0683"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡 深部B6F",
+      "TargetEscaped": "Piatro Ruins Deep Area B6F",
+      "SourceUtf8Sha256": "EB904C5BAA9BEC5F3D268B566EF7F4E17B34054682F32BA6B502198C0CA9B47A"
+    },
+    {
+      "SourceEscaped": "ルボノスシティ",
+      "TargetEscaped": "Rubonos City",
+      "SourceUtf8Sha256": "D86D71A13628C61E1B9DFAF3DAC403EEA4709CD677633A8310E300944E3EA132"
+    },
+    {
+      "SourceEscaped": "ボルスノ基地",
+      "TargetEscaped": "Borsno Base",
+      "SourceUtf8Sha256": "4A3A8CBEBEF3F832AD66934A181EBD4F30198E9FA1E4A7524768E045F2CE94A5"
+    },
+    {
+      "SourceEscaped": "ルボノス宇宙港",
+      "TargetEscaped": "Rubonos Spaceport",
+      "SourceUtf8Sha256": "511C29B76BDFB5A8746708668E70DD338B9789958C263910971001A61B9F2496"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 大広間",
+      "TargetEscaped": "Geo Ruins Great Hall",
+      "SourceUtf8Sha256": "6A0937C6C1926B48EA5BD9AA6B7D4DE7D183619D8FB778CCEAC69CC95723645D"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡",
+      "TargetEscaped": "Geo Ruins",
+      "SourceUtf8Sha256": "E977DA9A649191492060DFBA48F69166905B823D44E975C11470490BC3380EE6"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 B2F",
+      "TargetEscaped": "Geo Ruins B2F",
+      "SourceUtf8Sha256": "E1AE63F3FFBA34762A0C254BB0E0276056D54F9E97C4535A59436DF067D38292"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 B3F",
+      "TargetEscaped": "Geo Ruins B3F",
+      "SourceUtf8Sha256": "9FC3855CF5AFF9A968EC3EC12259D390453B2CF6947EEB1DE1AAF70C7B00E25C"
+    },
+    {
+      "SourceEscaped": "ケームー地熱発電所",
+      "TargetEscaped": "Kemu Geothermal Power Plant",
+      "SourceUtf8Sha256": "D9753F83C194E6577CA4DE2775551DB6181B753ADA4E4159B0ABA47015D018B1"
+    },
+    {
+      "SourceEscaped": "ケームー地熱発電所 B3F",
+      "TargetEscaped": "Kemu Geothermal Power Plant B3F",
+      "SourceUtf8Sha256": "23C4F13489AC49FF09EBA15929F1BE74193A5B418C0A35D39AE2ADB5036BBBC8"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 深部",
+      "TargetEscaped": "Geo Ruins Deep Area",
+      "SourceUtf8Sha256": "D931488B78576C7F3786C37E1ED1AB69788E130128088664D160EA5134C056A2"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 深部B1F",
+      "TargetEscaped": "Geo Ruins Deep Area B1F",
+      "SourceUtf8Sha256": "B45C85BB2AE0F1CF9C3B97FA06AD53F32C3C4022D29281FBF6D08E2D5ADC4529"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 深部B2F",
+      "TargetEscaped": "Geo Ruins Deep Area B2F",
+      "SourceUtf8Sha256": "B5108F2B962A05D48D86CD87D7C1CD10D8B7F90F1CBB953064872C7E7FA85530"
+    },
+    {
+      "SourceEscaped": "ジオ深部 秘密基地B4F",
+      "TargetEscaped": "Geo Deep Area Secret Base B4F",
+      "SourceUtf8Sha256": "2491F5037F111C2ECB4093F0FCC93D7A0ECA014F83F9A7FFCC6FBB5EAAB87663"
+    },
+    {
+      "SourceEscaped": "ジオ深部 秘密基地B3F",
+      "TargetEscaped": "Geo Deep Area Secret Base B3F",
+      "SourceUtf8Sha256": "093CC48158688D5EB597B31C4F2D4D963DBBB46AE06AF98691418B74FAD714E7"
+    },
+    {
+      "SourceEscaped": "ボトノ峡谷",
+      "TargetEscaped": "Botono Canyon",
+      "SourceUtf8Sha256": "DFD9B48416DEC469189AE940750CDF947171DB536EFF021CD6BAC3E9AFBF5E78"
+    },
+    {
+      "SourceEscaped": "ドーピス山",
+      "TargetEscaped": "Dopis Mountain",
+      "SourceUtf8Sha256": "1DE811ED67C062A3224399AD53DB8A228805E55808C64DD8563CBFC3F1F953B6"
+    },
+    {
+      "SourceEscaped": "ドーサルブ要塞跡",
+      "TargetEscaped": "Dorsalb Fortress Ruins",
+      "SourceUtf8Sha256": "1B35FD97BD34D52369F1D97FE694F08A509C691D8782156B01809D4781618418"
+    },
+    {
+      "SourceEscaped": "ターウィン防壁（共通）",
+      "TargetEscaped": "Tarwin Rampart (Shared)",
+      "SourceUtf8Sha256": "FBDAE3F8E93699A3C73400A80D807BB2485CBC3C204871F9F207D068A3A6D08B"
+    },
+    {
+      "SourceEscaped": "砂漠と極寒のデゴ＆ガルド",
+      "TargetEscaped": "Desert and Frozen Dego & Galdo",
+      "SourceUtf8Sha256": "6E74CF5F2E39200E3F6A18C98C98096D0E32DE95117176F64AA4E60A9C1F0B1F"
+    },
+    {
+      "SourceEscaped": "クマン街道（共通）",
+      "TargetEscaped": "Kuman Road (Shared)",
+      "SourceUtf8Sha256": "DE15D32DD397A3D86603F5C1A836B4AE5B2B4EB2D96CBD65631E718DEB3487EA"
+    },
+    {
+      "SourceEscaped": "ルボノスシティ（H・N）",
+      "TargetEscaped": "Rubonos City (H / N)",
+      "SourceUtf8Sha256": "E8C03D2AA3FED65CCAA357F5623106DB1F0658766760955032570FE40C126173"
+    },
+    {
+      "SourceEscaped": "ルボノス宇宙港（EASY）",
+      "TargetEscaped": "Rubonos Spaceport (EASY)",
+      "SourceUtf8Sha256": "B21C66B93BD142D53CB9768C90AC50990ED84CF137522415825B0D2FF354DDF1"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡（HARD）",
+      "TargetEscaped": "Piatro Ruins (HARD)",
+      "SourceUtf8Sha256": "5F7EE0D6FDDA0E4AC34FEA79F286865C99E9649F72AE286AC5C21DBE81C2A5CE"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡（EASY）",
+      "TargetEscaped": "Geo Ruins (EASY)",
+      "SourceUtf8Sha256": "83FB2331E445AD631B875FF268625F9D34F6DA98BD1836CE29B0DCBB57FA5216"
+    },
+    {
+      "SourceEscaped": "父の記憶",
+      "TargetEscaped": "Memory of Father",
+      "SourceUtf8Sha256": "570A3BEB667CBF43655E0D4D7A39CF8573D86ECD0E4E8EF1DB2A13C057508899"
+    },
+    {
+      "SourceEscaped": "閉ざされた記憶（EASY）",
+      "TargetEscaped": "Sealed Memory (EASY)",
+      "SourceUtf8Sha256": "CCB4C36170EB768647933F4962AFFFFACCF64711C3C4867AFDC2419D74281568"
+    },
+    {
+      "SourceEscaped": "苦悩の記憶（EASY）",
+      "TargetEscaped": "Memory of Anguish (EASY)",
+      "SourceUtf8Sha256": "87A622243ED0E88C1CDC980BF6A148E0EC979D5F9522BA606D5A4F68B107356A"
+    },
+    {
+      "SourceEscaped": "皇帝の記憶（EASY）",
+      "TargetEscaped": "Memory of the Emperor (EASY)",
+      "SourceUtf8Sha256": "CADF45A2F869722D2FE0738B1F989F8CA2F48E7735889E266CBCAE48B0C9CD3A"
+    },
+    {
+      "SourceEscaped": "私の記憶",
+      "TargetEscaped": "My Memory",
+      "SourceUtf8Sha256": "C6268377E9B5CCCB89A25FAC211CC881C72705738CBD34E312D5CA9B8D16B0C7"
+    },
+    {
+      "SourceEscaped": "ピアトロ遺跡（EASY）",
+      "TargetEscaped": "Piatro Ruins (EASY)",
+      "SourceUtf8Sha256": "3DDCEBD43F6416C69F3DAC13894F5E5903F263856D3CD8E99F09104996A4FEC8"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡（HARD）",
+      "TargetEscaped": "Geo Ruins (HARD)",
+      "SourceUtf8Sha256": "D8AE57583F9D5A69D7CE7D4C0E71AA54F8987800ABC968434ADE178AFDC73DE9"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 深部入口",
+      "TargetEscaped": "Geo Ruins Deep Area Entrance",
+      "SourceUtf8Sha256": "3C57CBB947731DC2DE96924FDA57E2D6B5CDE6F644833FB59BB14BE3A2FB0AEA"
+    },
+    {
+      "SourceEscaped": "ジオ遺跡 深部B3F",
+      "TargetEscaped": "Geo Ruins Deep Area B3F",
+      "SourceUtf8Sha256": "DBE5083513957C0E05F1D10A25A783E427488FCAB7B5999026B15058E847C4D5"
+    },
+    {
+      "SourceEscaped": "ノカルブシティ",
+      "TargetEscaped": "Nokalb City",
+      "SourceUtf8Sha256": "E6C71EF8123ACCCD6FB8CE0A71903E95BB06AEB5218C1E59A0D91F48D71DA887"
+    },
+    {
+      "SourceEscaped": "アトカラク基地",
+      "TargetEscaped": "Atkarak Base",
+      "SourceUtf8Sha256": "91CF907C0981BD066808DBD300F6B61479F485791F59D3EAF8B7F0536E9EC865"
+    },
+    {
+      "SourceEscaped": "ナトエ火山",
+      "TargetEscaped": "Natoe Volcano",
+      "SourceUtf8Sha256": "C87EB488B542599D3B14D23D70C582CA18A25C537486DAE070FA70FA9846A494"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡",
+      "TargetEscaped": "Rinjani Ruins",
+      "SourceUtf8Sha256": "A56024CAC96D18F0026D6A203DF42EAA67042377350E1501EE3FF611B14ED580"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B6F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B6F (NORMAL)",
+      "SourceUtf8Sha256": "667356D3AEFB09C951903BB6BED059BF8556A71CB4E1BE45CB016B39B6D2A705"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins (NORMAL)",
+      "SourceUtf8Sha256": "F9CDAADB3D36A95BF97F614364C29B7E92F7AF0D63CF3F9F04DEC57B218C43C1"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B1F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B1F (NORMAL)",
+      "SourceUtf8Sha256": "A93F9F3E61F4EF298BB1D827F40516C0AC31B62C1F53A4E6FDF751A161F43100"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 ゲートフロア（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins Gate Floor (NORMAL)",
+      "SourceUtf8Sha256": "F6C51957B436C696990B50C52935B1E2B53400E227682DD02428A1F5FCECBC28"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 秘境",
+      "TargetEscaped": "Rinjani Ruins Hidden Region",
+      "SourceUtf8Sha256": "1A3DF55A2364A21F86858015921C0B73082EA8962BE194D93CDCFE82D74D1F2A"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B2F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B2F (NORMAL)",
+      "SourceUtf8Sha256": "5BC740A29AFC8F1DAF377C48F46FA746EC3580325185B526729FFC3914F29D4E"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B4F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B4F (NORMAL)",
+      "SourceUtf8Sha256": "A46659AD28F1A97EE553D3AF1B87ACC5B55067F6764EC351CDC18CC89B079394"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B5F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B5F (NORMAL)",
+      "SourceUtf8Sha256": "868246C36B65C033F8988AFBEEF24608185A98ABCCC3A38DB66BBBAB16E9688D"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B10F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B10F (NORMAL)",
+      "SourceUtf8Sha256": "2CF15FFA50F26BCE3B168882BD19E05B82BF4C95C170DC48627968B9DEDEC240"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B6-2F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B6-2F (NORMAL)",
+      "SourceUtf8Sha256": "0FA44C53A349DE6B3C9607A6008BCE662E95B3208BC6504C880A94498AC4ADC9"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B10-2F（NORMAL）",
+      "TargetEscaped": "Rinjani Ruins B10-2F (NORMAL)",
+      "SourceUtf8Sha256": "6311D96C34B1B0DF791232C2697BA93F79EC2868C9481FEBCE7D994B010E4ED0"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 ゲートフロア",
+      "TargetEscaped": "Rinjani Ruins Gate Floor",
+      "SourceUtf8Sha256": "BD3C512D10A549CFBBA8FAF59B1232F443A0E478DD97F6326C6D456EE43D90C0"
+    },
+    {
+      "SourceEscaped": "ターリア宇宙港",
+      "TargetEscaped": "Talia Spaceport",
+      "SourceUtf8Sha256": "B117B526BB9255A6F6BB7A31FA52C0794A9777E8FE8E47A3E0494755836439C2"
+    },
+    {
+      "SourceEscaped": "アープルシティ",
+      "TargetEscaped": "Arple City",
+      "SourceUtf8Sha256": "75E4240E240D68BAAB7D1A18C4BFD0405B342A7825BB647EA4E2E91EBE7796CA"
+    },
+    {
+      "SourceEscaped": "ヤサッド山道",
+      "TargetEscaped": "Yasad Mountain Trail",
+      "SourceUtf8Sha256": "A95BB439707192B64CC1BD4E490858A99B255F9C4338715A4158A611A5F783AD"
+    },
+    {
+      "SourceEscaped": "ブェーウ渓谷",
+      "TargetEscaped": "Bueu Valley",
+      "SourceUtf8Sha256": "0D0C2ECA4EF4C0F493D3F76135D0AEDE0CED7C077EDEB7601DAC058774D03C17"
+    },
+    {
+      "SourceEscaped": "ドコモール基地",
+      "TargetEscaped": "Dokomol Base",
+      "SourceUtf8Sha256": "E8A16398F9D1265475DA96DC88487D67828CD028B8F9D449A4A7818BEF3E4BD5"
+    },
+    {
+      "SourceEscaped": "リメイラタウン",
+      "TargetEscaped": "Rimeira Town",
+      "SourceUtf8Sha256": "E4AA5688F6089F049282BF29689F3ECD90B9614E733B0DEEA2CEFC3469900953"
+    },
+    {
+      "SourceEscaped": "アープル平原",
+      "TargetEscaped": "Arple Plains",
+      "SourceUtf8Sha256": "1505C8054535E1FA73CB270AB46D85DE3E6A5F8DC20AC4F429C7C1DC98DA4BF4"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡",
+      "TargetEscaped": "Keiom Ruins",
+      "SourceUtf8Sha256": "7C0F647CCE77852BAE793EEA32F02F67EFD5DAEA5F71B4964ABD05A9380F1D69"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 1F",
+      "TargetEscaped": "Keiom Ruins 1F",
+      "SourceUtf8Sha256": "91FF4B2BFB3563D6ADB8236AD860A51CADC1E098094B50EB284E3458AF0ABF13"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 2F",
+      "TargetEscaped": "Keiom Ruins 2F",
+      "SourceUtf8Sha256": "C2CBC85FA663CDAB9AE422555BF791A8A123C284DBAA9D1077E332969DBDE80A"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 3F",
+      "TargetEscaped": "Keiom Ruins 3F",
+      "SourceUtf8Sha256": "7A13C6895209D279C8C69CC1D9612AB57CABBFCA979DA1D75DF040B07E05556D"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 4F",
+      "TargetEscaped": "Keiom Ruins 4F",
+      "SourceUtf8Sha256": "5E3213E440875B53B3D4BB0BAAD55C77F6361A8A86FCD596A7434A507A177A0F"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 5F",
+      "TargetEscaped": "Keiom Ruins 5F",
+      "SourceUtf8Sha256": "481C5BA3D7C5097F8E0EF2797E32473C1D81011433DDE80B96639280D3D1EB93"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 1F（NORMAL）",
+      "TargetEscaped": "Keiom Ruins 1F (NORMAL)",
+      "SourceUtf8Sha256": "C3DCBF1DD8E6C79E75D359106B167AB44BB4FD9F5BDA1613E5A8DBA64ECE869D"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡（NORMAL）",
+      "TargetEscaped": "Keiom Ruins (NORMAL)",
+      "SourceUtf8Sha256": "8599B7989F1943870012B6BE877B48F39E538A6C093D4B2C9D35454D0D421413"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 2F（NORMAL）",
+      "TargetEscaped": "Keiom Ruins 2F (NORMAL)",
+      "SourceUtf8Sha256": "A9E7A7D9101E9289720CEAA78F119478BA4B670624585904D407E5D57404BC7A"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 3F（NORMAL）",
+      "TargetEscaped": "Keiom Ruins 3F (NORMAL)",
+      "SourceUtf8Sha256": "D31FD991A0B4E7CBAA77C58CFCDCE92AC62785383F5CD75A61E4B48AA5C04F25"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 4F（NORMAL）",
+      "TargetEscaped": "Keiom Ruins 4F (NORMAL)",
+      "SourceUtf8Sha256": "6ACF9B7F2F83F7201510C31962195869C925C9BDCD6ACB49845B7D3A1F835C6A"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 6F（NORMAL）",
+      "TargetEscaped": "Keiom Ruins 6F (NORMAL)",
+      "SourceUtf8Sha256": "78BC57C2AE770B2898D82596211FC8EEB6F980A35943DBFA967CCEDEC6CD4231"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 辺境（NORMAL）",
+      "TargetEscaped": "Keiom Ruins Frontier (NORMAL)",
+      "SourceUtf8Sha256": "0E76A846C2CDB576D310C722B57BFB34E1EC2A492E08F3D979833E2FC603CCA0"
+    },
+    {
+      "SourceEscaped": "スーラオシティ",
+      "TargetEscaped": "Surao City",
+      "SourceUtf8Sha256": "8F9688EE52708F9811752222B57E8A7D017AEE73F305FA0803BC1C3B154A1E4F"
+    },
+    {
+      "SourceEscaped": "マンヤミ基地",
+      "TargetEscaped": "Manyami Base",
+      "SourceUtf8Sha256": "946CF22E67375ABF6024720FD2AD4F7096FED89F51794824EE59D9337892EBC2"
+    },
+    {
+      "SourceEscaped": "マンヤミ基地地下",
+      "TargetEscaped": "Manyami Base Underground",
+      "SourceUtf8Sha256": "CE7F95289A36C180A73E9AC7755FA4CE7C6BC85A77BB7B2C492C4DE2161FC1E1"
+    },
+    {
+      "SourceEscaped": "タイラン宇宙港",
+      "TargetEscaped": "Tyran Spaceport",
+      "SourceUtf8Sha256": "E1CD21A037FDCEDA1A20BFBE77DC002A0D3101B74571EF0FEA1A2564CD941B0E"
+    },
+    {
+      "SourceEscaped": "スーペン山",
+      "TargetEscaped": "Supen Mountain",
+      "SourceUtf8Sha256": "54CAA8F841AC53FF95A6214C86906AEA8E79F9721CF9C65D8821AA7CA81441ED"
+    },
+    {
+      "SourceEscaped": "コルタ山",
+      "TargetEscaped": "Kolta Mountain",
+      "SourceUtf8Sha256": "DC676402DA891698E660516D621FF1E9C6AAF2F9620B7822C614906B67FE8235"
+    },
+    {
+      "SourceEscaped": "パンジャ山",
+      "TargetEscaped": "Panja Mountain",
+      "SourceUtf8Sha256": "2A6184178A350C01CE1CF9C89409D53B78BB1B745E684BFB783372C15A6CDDF1"
+    },
+    {
+      "SourceEscaped": "チャイン平原",
+      "TargetEscaped": "Chain Plains",
+      "SourceUtf8Sha256": "E7288720E41AD20C4B0FB7CA2FA4195D9C63B0B1AAA2E804858F459A60AB3273"
+    },
+    {
+      "SourceEscaped": "インドラ断崖",
+      "TargetEscaped": "Indra Cliffs",
+      "SourceUtf8Sha256": "4C73C3A66CCCFA6500B9A4799DB1B96F6FDFB3E421BF9A6E12C021318D3AD628"
+    },
+    {
+      "SourceEscaped": "ラーブジ盆地",
+      "TargetEscaped": "Rabuji Basin",
+      "SourceUtf8Sha256": "D9B45203C82EBFDD7A944760FCEE3D740FF76FD500A435900A18A90A3001AE66"
+    },
+    {
+      "SourceEscaped": "パンジャ山 2合目",
+      "TargetEscaped": "Panja Mountain Station 2",
+      "SourceUtf8Sha256": "DB0936933937CB74DD91F76128B6A0432E9F470E25691E47C6C2122AF7B67AE6"
+    },
+    {
+      "SourceEscaped": "パンジャ山南側 6合目",
+      "TargetEscaped": "Panja Mountain South Side Station 6",
+      "SourceUtf8Sha256": "FD06F36F90242CD47AC525E6E0318A54E2B2BD542551120FCD7B88B35AF1D983"
+    },
+    {
+      "SourceEscaped": "インドラ洞窟 3F",
+      "TargetEscaped": "Indra Cave 3F",
+      "SourceUtf8Sha256": "71C98FF3965494D2A9FB1C345A7177D72DFC393E3B068687F323DDAA3F80D068"
+    },
+    {
+      "SourceEscaped": "インドラ洞窟",
+      "TargetEscaped": "Indra Cave",
+      "SourceUtf8Sha256": "B38D7113B1F2EB990A73E863A3CA9BE49B8422A3C127C39E942CF05CF5652442"
+    },
+    {
+      "SourceEscaped": "インドラ洞窟 1F",
+      "TargetEscaped": "Indra Cave 1F",
+      "SourceUtf8Sha256": "706D699297CDF3EB7207ACCB71A94512BB2388ACBA834FC5884C8F0E9D0914FA"
+    },
+    {
+      "SourceEscaped": "インドラタワー",
+      "TargetEscaped": "Indra Tower",
+      "SourceUtf8Sha256": "86465149EAC23085A93DDFECBB6DDDAD9C1BE6D9CDFC7FA9F3EA3C44A3C48331"
+    },
+    {
+      "SourceEscaped": "インドラタワー 97F",
+      "TargetEscaped": "Indra Tower 97F",
+      "SourceUtf8Sha256": "EC589002D3817B0CE8ADE6F5D77F18A3AFB2891B2073ADE4740A97F2C0D75CE7"
+    },
+    {
+      "SourceEscaped": "インドラタワー 145F",
+      "TargetEscaped": "Indra Tower 145F",
+      "SourceUtf8Sha256": "78D0740F436FE133B8298F6344B67A3592435254603AC316C78D90AA72AFE798"
+    },
+    {
+      "SourceEscaped": "皇帝の庭 406F",
+      "TargetEscaped": "Emperor's Garden 406F",
+      "SourceUtf8Sha256": "D3B5E800F87C83C2FA36C1A4390D97D60DEC603934D34FE4C409693FBCAA9A64"
+    },
+    {
+      "SourceEscaped": "皇帝の庭 365F",
+      "TargetEscaped": "Emperor's Garden 365F",
+      "SourceUtf8Sha256": "FCD35EFA1D192754EEB7C002BDDF29229118C24D96BC2BE837D8543C5E2CBCE1"
+    },
+    {
+      "SourceEscaped": "皇帝の庭 308F",
+      "TargetEscaped": "Emperor's Garden 308F",
+      "SourceUtf8Sha256": "712F764BB176B798ED6B8EA76E6E1F2A5850EBA73C3249E15A5CB78A0A64B25E"
+    },
+    {
+      "SourceEscaped": "皇帝の庭 252F",
+      "TargetEscaped": "Emperor's Garden 252F",
+      "SourceUtf8Sha256": "621DF00EA81B79833D79BD3BB3C6F7C80708CB058E1B0291ADB3B094BDD27AA9"
+    },
+    {
+      "SourceEscaped": "インドラタワー上層",
+      "TargetEscaped": "Indra Tower Upper Levels",
+      "SourceUtf8Sha256": "0AAAFD3D08270164966696F2F8C1C3DE3EC71A5A5F4B754565E109C704376156"
+    },
+    {
+      "SourceEscaped": "インドラタワー上層 307F",
+      "TargetEscaped": "Indra Tower Upper Levels 307F",
+      "SourceUtf8Sha256": "A09C999D62777E42256F4739ADD31BC05544B74523A9B7D25392A00A59FA0F34"
+    },
+    {
+      "SourceEscaped": "ヒル宇宙港",
+      "TargetEscaped": "Hill Spaceport",
+      "SourceUtf8Sha256": "2DF6C7597C50DB0D7575DCFC1E0793B29BE460C299BBD67DA6B326853B0D3907"
+    },
+    {
+      "SourceEscaped": "ペイナン山岳",
+      "TargetEscaped": "Peinan Mountains",
+      "SourceUtf8Sha256": "3DAB61234AC6D0C3C682606BC037F9F77DD5376DA723AE4B093B7374D75B8992"
+    },
+    {
+      "SourceEscaped": "マタ霊園",
+      "TargetEscaped": "Mata Memorial Park",
+      "SourceUtf8Sha256": "4922B3C69F65840F8A0BE973C9DCBC500CAED87E690FD0BF51983864836F8FC2"
+    },
+    {
+      "SourceEscaped": "スランバー異空間",
+      "TargetEscaped": "Slumber Other Dimension",
+      "SourceUtf8Sha256": "22B9AF257A131B527E0819A434A4FF0AA05F99BDD8343AC7A0C7A5CDA6210F3D"
+    },
+    {
+      "SourceEscaped": "王室墓地",
+      "TargetEscaped": "Royal Cemetery",
+      "SourceUtf8Sha256": "2B45881239A4E7969487E49A8DC62CB54CC30DF039864E63442FFDF7AC6AE5D9"
+    },
+    {
+      "SourceEscaped": "スランバー洞窟",
+      "TargetEscaped": "Slumber Cave",
+      "SourceUtf8Sha256": "739A5299C2E942B9ADF1B3ED5F2FAF9E65F5AA4634FEEF12D82B8400E3193169"
+    },
+    {
+      "SourceEscaped": "ケーブル基地",
+      "TargetEscaped": "Cable Base",
+      "SourceUtf8Sha256": "966B835002F0A469B990977C2896E9CF88FA186F6CC5D0F790A707272D79A81B"
+    },
+    {
+      "SourceEscaped": "オールドシティ",
+      "TargetEscaped": "Old City",
+      "SourceUtf8Sha256": "71EF0B0E83AC09560BEA3D93A0A454B4E041C62FA7B65A6EB30A5DB497BDF3F9"
+    },
+    {
+      "SourceEscaped": "スランバー洞窟 B1F",
+      "TargetEscaped": "Slumber Cave B1F",
+      "SourceUtf8Sha256": "D8D162B7004D8795B600AF341E6773D7BC0346079D26C3EB3DCBB4FF976047D3"
+    },
+    {
+      "SourceEscaped": "スランバー洞窟 B2F（CHALLENGE）",
+      "TargetEscaped": "Slumber Cave B2F (CHALLENGE)",
+      "SourceUtf8Sha256": "4FDD8C3DEA85E89DBD2BEF91A0E4FF99DC3B7018778DA3C55D190A29B8736B79"
+    },
+    {
+      "SourceEscaped": "王室墓地 山道1合目",
+      "TargetEscaped": "Royal Cemetery Mountain Trail Station 1",
+      "SourceUtf8Sha256": "706535CD83743B2EFEE7D320C3CA6C8AE4935E50941BC1B1EB35EF966E8CD8AD"
+    },
+    {
+      "SourceEscaped": "ネラ墓地",
+      "TargetEscaped": "Nera Cemetery",
+      "SourceUtf8Sha256": "39F71B2CEA74C180FDFAC47CA77B8799DCB2CDFAE511C372FFCBA5025709825E"
+    },
+    {
+      "SourceEscaped": "王室墓地 B1F（CHALLENGE）",
+      "TargetEscaped": "Royal Cemetery B1F (CHALLENGE)",
+      "SourceUtf8Sha256": "9C6198DF1D4B83B20025AF2D630D622BBDC24ED746CD5A5922849DE24F297377"
+    },
+    {
+      "SourceEscaped": "王室墓地 B2F（CHALLENGE）",
+      "TargetEscaped": "Royal Cemetery B2F (CHALLENGE)",
+      "SourceUtf8Sha256": "25AD0BB2073FA239E375A54E663755313DBBBECB7C9C1B00ED707382DD86CEAC"
+    },
+    {
+      "SourceEscaped": "王室墓地 B3F（CHALLENGE）",
+      "TargetEscaped": "Royal Cemetery B3F (CHALLENGE)",
+      "SourceUtf8Sha256": "4F3C0217D515D85887DBEBB961C39A921029DCF770ABB73F3DB8AFBFFE362A1C"
+    },
+    {
+      "SourceEscaped": "王室墓地 最下層",
+      "TargetEscaped": "Royal Cemetery Lowest Level",
+      "SourceUtf8Sha256": "9CC0A96C71115E33BC34066E27670D4B995B00916EAB387A0419981686985E67"
+    },
+    {
+      "SourceEscaped": "王室墓地 山道2合目",
+      "TargetEscaped": "Royal Cemetery Mountain Trail Station 2",
+      "SourceUtf8Sha256": "35ABC962A39E8960AF5E8A4CE241D83B1C9085177DB7C17F8D95742FB1A63907"
+    },
+    {
+      "SourceEscaped": "王室墓地 山道3合目",
+      "TargetEscaped": "Royal Cemetery Mountain Trail Station 3",
+      "SourceUtf8Sha256": "93807F8309FBF58CAB8802AC7B465882AE4900B3627303E97F4679942BF88AE9"
+    },
+    {
+      "SourceEscaped": "王室墓地 山頂",
+      "TargetEscaped": "Royal Cemetery Summit",
+      "SourceUtf8Sha256": "0E0D91BE402B003C8B340C1FBAF67E3F5CB6802B7416EC3D5714FB04FB928F0B"
+    },
+    {
+      "SourceEscaped": "禁域の墓",
+      "TargetEscaped": "Forbidden Tomb",
+      "SourceUtf8Sha256": "6721C1B3E4EAB5B6623007FF33ECAB182E5DB6DD2E622D7FFB5370985BC75AF7"
+    },
+    {
+      "SourceEscaped": "スランバー洞窟 深部",
+      "TargetEscaped": "Slumber Cave Deep Area",
+      "SourceUtf8Sha256": "C072230D9EE433B1D9E34810B050BAE4D23D3B1E1F851329545C4D22CCE51371"
+    },
+    {
+      "SourceEscaped": "生活の記憶",
+      "TargetEscaped": "Memory of Daily Life",
+      "SourceUtf8Sha256": "2B11D9106CE9EDDDC35592FD2121B7BDA09A5BE060F9A8A12A2E102D94CB6B37"
+    },
+    {
+      "SourceEscaped": "家の記憶",
+      "TargetEscaped": "Memory of Home",
+      "SourceUtf8Sha256": "DC5A06BB45150A635C3F726881AA8475956CA42220F5D897B09F96DF65517967"
+    },
+    {
+      "SourceEscaped": "旅立ちの記憶",
+      "TargetEscaped": "Memory of Departure",
+      "SourceUtf8Sha256": "138CD28E24D876C199C3DF128A115365569BB7E335012CFDFAE468B10E46BDC9"
+    },
+    {
+      "SourceEscaped": "待つ記憶",
+      "TargetEscaped": "Memory of Waiting",
+      "SourceUtf8Sha256": "429557A067DCB2161ECB077C278C1CAE6A41E1833196019C4F5F9591DCB0CF20"
+    },
+    {
+      "SourceEscaped": "母の記憶",
+      "TargetEscaped": "Memory of Mother",
+      "SourceUtf8Sha256": "1FEED584FCA326D90658D9D52E5E9F0C2155A368C2A1D7D0D50DA99203076527"
+    },
+    {
+      "SourceEscaped": "アイオチ道",
+      "TargetEscaped": "Aiochi Road",
+      "SourceUtf8Sha256": "A4230A51988CD637772E5999DBCFC03CE5ADD75F8843D4FC4C22B9B2CFD478FD"
+    },
+    {
+      "SourceEscaped": "ホープシティ",
+      "TargetEscaped": "Hope City",
+      "SourceUtf8Sha256": "7EF70A350DD7269C651A3BF83793961076B43B55A9296F1B49E24D9F41A3E8A0"
+    },
+    {
+      "SourceEscaped": "ホープシティ本社",
+      "TargetEscaped": "Hope City Headquarters",
+      "SourceUtf8Sha256": "96B9724B3B4570D13BE99C136FE6F36EF4AEE5D1677BCBA0DA4E35C73C376A22"
+    },
+    {
+      "SourceEscaped": "ホープ街道 防衛シフト",
+      "TargetEscaped": "Hope Road Defense Shift",
+      "SourceUtf8Sha256": "2FF572E6738FD61CB12C300B6F78F888EE121FC9259A91B753917B70223B5725"
+    },
+    {
+      "SourceEscaped": "ホープシティ 防衛シフト",
+      "TargetEscaped": "Hope City Defense Shift",
+      "SourceUtf8Sha256": "C749BC4CD654706A2B632712A3E70D7290141CD9B0E3C9C82AFBAAEB75C34257"
+    },
+    {
+      "SourceEscaped": "ホープ地下道",
+      "TargetEscaped": "Hope Underground Passage",
+      "SourceUtf8Sha256": "B254AB899FFBB9B0E87FA081BDB2D357BA65C3C3F5B412204B95C27C60F37A61"
+    },
+    {
+      "SourceEscaped": "1番街道 防衛シフト（CHALLENGE）",
+      "TargetEscaped": "Route 1 Defense Shift (CHALLENGE)",
+      "SourceUtf8Sha256": "DAF2F813033EFAFAEB8508DB8B8060A59B34F08ED4BDA85DE6B30F945CEFC696"
+    },
+    {
+      "SourceEscaped": "1番地下道（CHALLENGE）",
+      "TargetEscaped": "Underground Passage 1 (CHALLENGE)",
+      "SourceUtf8Sha256": "492819321F4716806A1F9CC8CA79DAD5223EC36C0F3D51BC9CF47D1F1379AAD4"
+    },
+    {
+      "SourceEscaped": "ホープ街道",
+      "TargetEscaped": "Hope Road",
+      "SourceUtf8Sha256": "E3D1F9A63026A6CDCE4DFD05D70115CFAAAD64B6DB5C92B36C29D84AF1F0F9F7"
+    },
+    {
+      "SourceEscaped": "1番街道",
+      "TargetEscaped": "Route 1",
+      "SourceUtf8Sha256": "B1E50CA48756E0472B079D08BD6632E34757BE3D1DA105A2EEDA55420DB75C46"
+    },
+    {
+      "SourceEscaped": "ホープシティ広場",
+      "TargetEscaped": "Hope City Plaza",
+      "SourceUtf8Sha256": "4A7C6858E015233EB1B943A2C6FE7B26A398721232EDA5BCB38E7CADBFE9A64D"
+    },
+    {
+      "SourceEscaped": "ホープシティ本社前",
+      "TargetEscaped": "Hope City Outside Headquarters",
+      "SourceUtf8Sha256": "DE68D2AF726FF05E1B345988919AC88A86433C2055D346343A0E215022F8C08E"
+    },
+    {
+      "SourceEscaped": "ホープモール",
+      "TargetEscaped": "Hope Mall",
+      "SourceUtf8Sha256": "15E989B699B45055782F6BB39ED7CB8222DDBD41B7CE076046B0A048B84E38E9"
+    },
+    {
+      "SourceEscaped": "アクネスシティ",
+      "TargetEscaped": "Acnes City",
+      "SourceUtf8Sha256": "2257BBE568D41170ED21C465CAC8178A07B8952CB783374F2E4043FA97786746"
+    },
+    {
+      "SourceEscaped": "A･D･F開発部アクネスラボ",
+      "TargetEscaped": "A.D.F Development Division Acnes Lab",
+      "SourceUtf8Sha256": "1A222956356770C74847D21D36E344168FB9BB496D030FA45F6C94BDF8CAAF71"
+    },
+    {
+      "SourceEscaped": "アクネス宇宙港",
+      "TargetEscaped": "Acnes Spaceport",
+      "SourceUtf8Sha256": "277FF16D7E7C0060E021E0060021E62B55FD4E635C401F7927BDD4E82353C098"
+    },
+    {
+      "SourceEscaped": "アクネス荒原",
+      "TargetEscaped": "Acnes Wasteland",
+      "SourceUtf8Sha256": "B3691FD97728A756D36494ABEC6C043C1E5293FA75F15CADF7ACC604C10D6EDD"
+    },
+    {
+      "SourceEscaped": "河童城下町",
+      "TargetEscaped": "Kappa Castle Town",
+      "SourceUtf8Sha256": "957AE8F732768797C0E02F09AFA9D9B92366652DFC4095CE3B6CDE5BF3971536"
+    },
+    {
+      "SourceEscaped": "太古の断崖",
+      "TargetEscaped": "Ancient Cliffs",
+      "SourceUtf8Sha256": "52F59B2F0C903EE1FE4FF605A271129939C0320A9E13AAE5FA698AB907D98068"
+    },
+    {
+      "SourceEscaped": "サウィン遺跡",
+      "TargetEscaped": "Sawin Ruins",
+      "SourceUtf8Sha256": "AC512C59F6E87517E915C9744B66AC43720503F8D8740786E77FBB149964FF81"
+    },
+    {
+      "SourceEscaped": "デルタゲート入り口",
+      "TargetEscaped": "Delta Gate Entrance",
+      "SourceUtf8Sha256": "396C2DC8DC69F08F328DBC0DBD9CEB31DA77D4852BDEF2F1EF86E69EA80C0C66"
+    },
+    {
+      "SourceEscaped": "終点（EASY）",
+      "TargetEscaped": "Terminus (EASY)",
+      "SourceUtf8Sha256": "2B86B8431417A1D56FEF9056E8AA035BA167866E7750EDE8711CC1D93AF50C82"
+    },
+    {
+      "SourceEscaped": "終点（NORMAL）",
+      "TargetEscaped": "Terminus (NORMAL)",
+      "SourceUtf8Sha256": "CADB6A45248EC0362957DD57E236EA49A9DA1A56EA299500A1D5E64EED7EB3F4"
+    },
+    {
+      "SourceEscaped": "終点（HARD）",
+      "TargetEscaped": "Terminus (HARD)",
+      "SourceUtf8Sha256": "569D65DC72AC4018DD18E5F9C206A7E59D6FD03BBD900474FAAA6FCBBA00C4C3"
+    },
+    {
+      "SourceEscaped": "終点（MASTER）",
+      "TargetEscaped": "Terminus (MASTER)",
+      "SourceUtf8Sha256": "B80F66001B6A29817C1AC22D2C540F71BDE226EE410CEC39F846C2F27B26660C"
+    },
+    {
+      "SourceEscaped": "天使軍第1基地",
+      "TargetEscaped": "Angel Army Base 1",
+      "SourceUtf8Sha256": "AD27F091C01EA713BEB593761502D28F9B1A3F61051CA7811DF5F4304597B468"
+    },
+    {
+      "SourceEscaped": "天使軍第2基地",
+      "TargetEscaped": "Angel Army Base 2",
+      "SourceUtf8Sha256": "2F5BCAB64436BF2491E70F00C35DD8A72B79A85C2DAE08F918276378641D4A84"
+    },
+    {
+      "SourceEscaped": "ガオナ森林",
+      "TargetEscaped": "Gaona Forest",
+      "SourceUtf8Sha256": "844C956F7077DD01772BF34F16B1E71936BC657BED62C7E80B47391DE7665DCF"
+    },
+    {
+      "SourceEscaped": "ザイバトンネル",
+      "TargetEscaped": "Zaiba Tunnel",
+      "SourceUtf8Sha256": "9F937889E9F4D93BEF04DE8F41695AEBAF8D01EF5379FFEC20E585CF51EA8B18"
+    },
+    {
+      "SourceEscaped": "ガンパ地下道",
+      "TargetEscaped": "Ganpa Underground Passage",
+      "SourceUtf8Sha256": "BEA0A42DA707117CA881B548AE15D58E5A0BF85A440BC6EA0B2C99BC3B081F19"
+    },
+    {
+      "SourceEscaped": "ブターク遺跡★",
+      "TargetEscaped": "Butark Ruins ★",
+      "SourceUtf8Sha256": "4E401052413FA08DFDC8D0765E5D78A26C7BEC17F74CE1C1022294E774E85870"
+    },
+    {
+      "SourceEscaped": "ブターク遺跡 B1F★",
+      "TargetEscaped": "Butark Ruins B1F★",
+      "SourceUtf8Sha256": "9B58D861E658CE01FD8ACF6745EDEB96568E75376D9BED07553CBFC797B48088"
+    },
+    {
+      "SourceEscaped": "ブターク遺跡",
+      "TargetEscaped": "Butark Ruins",
+      "SourceUtf8Sha256": "23A5EDA8999F693E983D67292BB6207E38903B62C6C27E3E58C088DAFA1B915A"
+    },
+    {
+      "SourceEscaped": "ブターク遺跡 B2F★",
+      "TargetEscaped": "Butark Ruins B2F★",
+      "SourceUtf8Sha256": "E4671DF2A04A21F0E38278186F1F991EFC6982E225F391D82013703EEEFBEE41"
+    },
+    {
+      "SourceEscaped": "ブターク遺跡 B3F★",
+      "TargetEscaped": "Butark Ruins B3F★",
+      "SourceUtf8Sha256": "9A1933AFD3C158455A10E61A8C02950FBA90C21BAAFEFE3AD31F3CE4F2A60211"
+    },
+    {
+      "SourceEscaped": "セノ原野",
+      "TargetEscaped": "Seno Wilderness",
+      "SourceUtf8Sha256": "0E09AEF34B4E999AF0C9595079DA3250DD664BCFCB5CE577FFE9328660CB236F"
+    },
+    {
+      "SourceEscaped": "プレミアムフィールド",
+      "TargetEscaped": "Premium Field",
+      "SourceUtf8Sha256": "63B1B755540449F436B3F9187B42C16D66A2B55B2929E0BBA529DB7D903082BA"
+    },
+    {
+      "SourceEscaped": "サウィン大森林1F",
+      "TargetEscaped": "Sawin Great Forest 1F",
+      "SourceUtf8Sha256": "941CB243696A28261976490754DE6C2234300211F1DFB241CD972E165BCD1029"
+    },
+    {
+      "SourceEscaped": "サウィン大森林",
+      "TargetEscaped": "Sawin Great Forest",
+      "SourceUtf8Sha256": "77F82A9C3C729E5BEF2104AF885DF0C5C79F52571E546E0A08E5EDE63F8C8656"
+    },
+    {
+      "SourceEscaped": "アイテム親父の店",
+      "TargetEscaped": "Item Old Man's Shop",
+      "SourceUtf8Sha256": "1113B895522967E01D8EF954E88EA493800BDEF1F1AB09F3A69AA0519D2E145E"
+    },
+    {
+      "SourceEscaped": "日曜日ダンジョン",
+      "TargetEscaped": "Sunday Dungeon",
+      "SourceUtf8Sha256": "BFC872B2407F88B4776A9F8157BD1078135B03F46E8F8AC7CF80E2FBFC231B6A"
+    },
+    {
+      "SourceEscaped": "サウィン大森林3F（MASTER）",
+      "TargetEscaped": "Sawin Great Forest 3F (MASTER)",
+      "SourceUtf8Sha256": "F4E641905A78D2A8B7DD0F7250CB51B771C988C103C83A52C51345C4E1A22174"
+    },
+    {
+      "SourceEscaped": "エクストラフィールド",
+      "TargetEscaped": "Extra Field",
+      "SourceUtf8Sha256": "6E35B882B75EFE3CF56425A1CDFA7E5774E806E0E072657857600FD17B560ABB"
+    },
+    {
+      "SourceEscaped": "クリスマスランド入口",
+      "TargetEscaped": "Christmas Land Entrance",
+      "SourceUtf8Sha256": "8FE8E6F865AA9E6EF634B555CC8A1F25234D32A1C1324E8A82D699D31BADA07F"
+    },
+    {
+      "SourceEscaped": "クリスマスランド",
+      "TargetEscaped": "Christmas Land",
+      "SourceUtf8Sha256": "8C796435C62B16EEBD8302BB581B265F2EC44C60E286EE8459DA694533CCEFE1"
+    },
+    {
+      "SourceEscaped": "チョコレイトウ入口",
+      "TargetEscaped": "Chocolate Island Entrance",
+      "SourceUtf8Sha256": "744084D4F3E27CAABBB12DED4205580907FD89675700B5C2F24208714318725D"
+    },
+    {
+      "SourceEscaped": "チョコレイトウ",
+      "TargetEscaped": "Chocolate Island",
+      "SourceUtf8Sha256": "05336D7E0ED152F3ABAC1BE943F137552835D9EE67C86D17BF6F6F1B8BB6A186"
+    },
+    {
+      "SourceEscaped": "投票ダンジョン 入口",
+      "TargetEscaped": "Voting Dungeon Entrance",
+      "SourceUtf8Sha256": "F43CFFDC5A4950FAD6BA6DFC2776F67DED953165D69CB17279D0CC4105ADDC80"
+    },
+    {
+      "SourceEscaped": "投票ダンジョン",
+      "TargetEscaped": "Voting Dungeon",
+      "SourceUtf8Sha256": "84383AF8A603168C324DA8623834DC3DE4684EBDE53B6947DEDBFD6A7BC33482"
+    },
+    {
+      "SourceEscaped": "投票ダンジョン 待合室(NORMAL)",
+      "TargetEscaped": "Voting Dungeon Waiting Room (NORMAL)",
+      "SourceUtf8Sha256": "84FBE0797BF4DC4B682F95EF19EEAAB642BB669FEB17AE9EF02914222AAF9E6C"
+    },
+    {
+      "SourceEscaped": "メモリアルD 入口",
+      "TargetEscaped": "Memorial D Entrance",
+      "SourceUtf8Sha256": "5FA083A1EE1580BC7E6D1F3E0DBAF99C3028D349D47FCF1A8B52B088DC246BD3"
+    },
+    {
+      "SourceEscaped": "メモリアルダンジョン",
+      "TargetEscaped": "Memorial Dungeon",
+      "SourceUtf8Sha256": "AD503369E1211355121D7962FCF6B1CE8A16F5D6179DF146700B2EA4ED3E0BC8"
+    },
+    {
+      "SourceEscaped": "レイニー湿地帯 入口",
+      "TargetEscaped": "Rainy Wetlands Entrance",
+      "SourceUtf8Sha256": "95B0BDC2DD909A341449437C1E5287BD62FB8C65217ED916187E743907231BFD"
+    },
+    {
+      "SourceEscaped": "レイニー湿地帯",
+      "TargetEscaped": "Rainy Wetlands",
+      "SourceUtf8Sha256": "3E09AD250F2D97266B26DF04D710A0A1DC7458A97401F1E01631C2B98AE56C00"
+    },
+    {
+      "SourceEscaped": "リーレン諸島 辺境 入り口",
+      "TargetEscaped": "Riren Islands Frontier Entrance",
+      "SourceUtf8Sha256": "FF52D4E4614235CE33B830DC1F7F748D8316B28FF54B0EED0069BE3BA10A966A"
+    },
+    {
+      "SourceEscaped": "リーレン諸島 辺境",
+      "TargetEscaped": "Riren Islands Frontier",
+      "SourceUtf8Sha256": "F4A04280D28752251C50465BD35A736A5CE9559962C96DE821FFD9EBC9B88712"
+    },
+    {
+      "SourceEscaped": "リーレン諸島 入り口",
+      "TargetEscaped": "Riren Islands Entrance",
+      "SourceUtf8Sha256": "9DF5B4C110FB04901BBFF879D23FB5042C2315EAE2C4C3B433AE02E97791BA66"
+    },
+    {
+      "SourceEscaped": "リーレン諸島",
+      "TargetEscaped": "Riren Islands",
+      "SourceUtf8Sha256": "B0BE1359529B5B85CE69F18BA2DB9735788157697B3EE9994EE06AC98B8FCA0E"
+    },
+    {
+      "SourceEscaped": "惑星ポイーン奥地 入り口",
+      "TargetEscaped": "Planet Poyeen Hinterlands Entrance",
+      "SourceUtf8Sha256": "EA865B877A426604CBB8A556D1226ED67117630EF91DA2697F7A98AB599610FE"
+    },
+    {
+      "SourceEscaped": "惑星ポイーン奥地",
+      "TargetEscaped": "Planet Poyeen Hinterlands",
+      "SourceUtf8Sha256": "6DCB167A5E96F61C575ED5F3DB4A9088DF981D857EA46CC57E5148F2F6FB73AE"
+    },
+    {
+      "SourceEscaped": "チェックメイ塔 入り口",
+      "TargetEscaped": "Chekkumei Tower Entrance",
+      "SourceUtf8Sha256": "33D192747A51778DE3A2F63BE8756DC0F89F55CFDAB82C3DBE982F832E812E0F"
+    },
+    {
+      "SourceEscaped": "チェックメイ塔",
+      "TargetEscaped": "Chekkumei Tower",
+      "SourceUtf8Sha256": "50E06B426D4D1B1ECF5EFE0184B86C0A90B94D8F30FFE26F6A3B7EC96016FBD5"
+    },
+    {
+      "SourceEscaped": "ハロウィンイベント会場 入り口",
+      "TargetEscaped": "Halloween Event Venue Entrance",
+      "SourceUtf8Sha256": "771906FDE0BE75BC301CF3BAEC5CF5C546F08B5FFE2A21366589FAE486A33975"
+    },
+    {
+      "SourceEscaped": "ハロウィンイベント会場",
+      "TargetEscaped": "Halloween Event Venue",
+      "SourceUtf8Sha256": "55E0605A41F8871EBF8BCF1A0AEE23D96A6CEF7A2BEA3598093607998B3C71DC"
+    },
+    {
+      "SourceEscaped": "ビャクモ高原 入り口",
+      "TargetEscaped": "Byakumo Plateau Entrance",
+      "SourceUtf8Sha256": "8B83BA30A35252189A950B5C7AD53125B13D8BBD5E086CBB3EF5E84253DA0518"
+    },
+    {
+      "SourceEscaped": "ビャクモ高原",
+      "TargetEscaped": "Byakumo Plateau",
+      "SourceUtf8Sha256": "1EEDF5FCA0711876786B2C539590FE293F2F3D9AC30D91A31AA0855FC0284B8E"
+    },
+    {
+      "SourceEscaped": "なっちんイベントエリア１",
+      "TargetEscaped": "Nacchin Event Area １",
+      "SourceUtf8Sha256": "37417551DEBC9AFB22B2F411E10BB6EA8EBBFA4FD8BE4260A12E022639685DA9"
+    },
+    {
+      "SourceEscaped": "惑星ポイーン",
+      "TargetEscaped": "Planet POYEEN",
+      "SourceUtf8Sha256": "07E97037C9838BE87AFB22EB9A028417F7675B6771388050E10EA2D0A916EC9E"
+    },
+    {
+      "SourceEscaped": "惑星ダスド",
+      "TargetEscaped": "Planet DASD",
+      "SourceUtf8Sha256": "E063D80E755C38D9A70778C16209F5514E048191423D4D6A0AECE9EA7C98B1AC"
+    },
+    {
+      "SourceEscaped": "オツキミ山",
+      "TargetEscaped": "Otsukimi Mountain",
+      "SourceUtf8Sha256": "81609F9EC6829D4B180422F9403E848BC32EDF693267009529F3A9AE9BC68EBB"
+    },
+    {
+      "SourceEscaped": "イベントダンジョン（バレンタイン）",
+      "TargetEscaped": "Event Dungeon (Valentine)",
+      "SourceUtf8Sha256": "E612E1DF1A1F8FACBDFE9493881CFF724F911A32216983B8A077B3F9E27C0448"
+    },
+    {
+      "SourceEscaped": "ワームホール",
+      "TargetEscaped": "Wormhole",
+      "SourceUtf8Sha256": "5215987A33A39F1B66C0F009BC5E6BF15F74E0CCC9EDDD61377E5592A4965C26"
+    },
+    {
+      "SourceEscaped": "惑星ガルド",
+      "TargetEscaped": "Planet GALD",
+      "SourceUtf8Sha256": "1DF6754D43D50B8A083B330DCBD0C0408AD41678085910A17B9DA01C84D59C56"
+    },
+    {
+      "SourceEscaped": "メモリアルD深部 入口",
+      "TargetEscaped": "Memorial D Deep Area Entrance",
+      "SourceUtf8Sha256": "9895ABF4C25C694CB25176833D723D0F3C48F4B0694AF821ADB429DE4F37FE46"
+    },
+    {
+      "SourceEscaped": "メモリアルダンジョン 深部",
+      "TargetEscaped": "Memorial Dungeon Deep Area",
+      "SourceUtf8Sha256": "71BE83D87A0CF17B320EF8FE275BCED3971E3A6E0CAEF299AFBA89278DCED82C"
+    },
+    {
+      "SourceEscaped": "プレミアムゲート",
+      "TargetEscaped": "Premium Gate",
+      "SourceUtf8Sha256": "6C7BF2DFE25E5D7D7479AB25007DB61FFF39CC84D9AFF9B0E5E22EFB0F263541"
+    },
+    {
+      "SourceEscaped": "ビコナ集積場★1",
+      "TargetEscaped": "Bicona Stockpile ★1",
+      "SourceUtf8Sha256": "5C0AE9DFF91EC3D991946267F3B7CF380E45B28A9E8C964504ED8796C71925E5"
+    },
+    {
+      "SourceEscaped": "小惑星群",
+      "TargetEscaped": "Asteroid Field",
+      "SourceUtf8Sha256": "CEB964BDB6A5CBFAA0F970EC3EF63271A2CA95634F42668F4475D63F78235506"
+    },
+    {
+      "SourceEscaped": "リンカシュキャンプ★1",
+      "TargetEscaped": "Rinkashu Camp ★1",
+      "SourceUtf8Sha256": "C89848826597250DB602BB9F70C1C042B57A548536D39E7D128BD42A8C5B8E83"
+    },
+    {
+      "SourceEscaped": "ティタン湖★1",
+      "TargetEscaped": "Titan Lake ★1",
+      "SourceUtf8Sha256": "FE966299656CBF2B3E750D72496DD1DD16E13583E981AB89041926E5559A01F5"
+    },
+    {
+      "SourceEscaped": "ジャツン峠★2",
+      "TargetEscaped": "Jatsun Pass ★2",
+      "SourceUtf8Sha256": "1CF6F3880BF7F3E2AA2981B8DBE355FA417888F1349B7372818F41C7BD8C71E7"
+    },
+    {
+      "SourceEscaped": "ティタン空洞★2-1F",
+      "TargetEscaped": "Titan Cavern ★2-1F",
+      "SourceUtf8Sha256": "643803B43BC17FB50772F5D8E9DB41DDD4AA19B124EF1B7C9E91515C314A49B6"
+    },
+    {
+      "SourceEscaped": "ティタン空洞★2",
+      "TargetEscaped": "Titan Cavern ★2",
+      "SourceUtf8Sha256": "BD4063DA3F22FE92FDC303F76AEABDE281A0C8A7AB71DF6983EE4D888310F4AE"
+    },
+    {
+      "SourceEscaped": "ティタン行路★2",
+      "TargetEscaped": "Titan Path ★2",
+      "SourceUtf8Sha256": "6A6F9231FBC0B7E9C8E2042B0BA22E8DF87523B94BB3B183DCEEBAC1D8D24640"
+    },
+    {
+      "SourceEscaped": "ルボック村",
+      "TargetEscaped": "Ruboc Village",
+      "SourceUtf8Sha256": "75D5909BE9784A91ACEC071439EBABF4928D63CFF283077FDAE10CD4E75AD5F2"
+    },
+    {
+      "SourceEscaped": "3F ポンポコの里",
+      "TargetEscaped": "3F Ponpoko Village",
+      "SourceUtf8Sha256": "FFFE640CAE2B5240861AF46CA4F1AFB786D60C61CD64C3345A75E8DD21B5857A"
+    },
+    {
+      "SourceEscaped": "ティタン奥地",
+      "TargetEscaped": "Titan Hinterlands",
+      "SourceUtf8Sha256": "D49C227713ACCEF50F13B7BCE110C0806D1FBD6F66A02EB33396613BC687FBD1"
+    },
+    {
+      "SourceEscaped": "1F ティタン沼地",
+      "TargetEscaped": "1F Titan Swamp",
+      "SourceUtf8Sha256": "54EC709E8DF43A478D6AED9E0BE205416CFD44538D3C5C563E141507088B575E"
+    },
+    {
+      "SourceEscaped": "5F ティタン沼地",
+      "TargetEscaped": "5F Titan Swamp",
+      "SourceUtf8Sha256": "5A3E35632F28423DEEA020F2324D250AEF35C9719501BC69ECBF029CE2C1BABE"
+    },
+    {
+      "SourceEscaped": "河童の里",
+      "TargetEscaped": "Kappa Village",
+      "SourceUtf8Sha256": "B10F3D54492FBFC373D98A34284A54EDDEF913F1CBD482C7BF10FC847A374FC4"
+    },
+    {
+      "SourceEscaped": "プーシャ着陸場",
+      "TargetEscaped": "Pusha Landing Site",
+      "SourceUtf8Sha256": "2CC48A60EF029602F5D495A6F61F14E2DCF6736C6DD19012E80D9220BCB62AC6"
+    },
+    {
+      "SourceEscaped": "ネル森林C",
+      "TargetEscaped": "Nel Forest C",
+      "SourceUtf8Sha256": "E6EC47D85B3D8C726A79B460DB42D46F13812356F922C899E6D14D4AEF06E951"
+    },
+    {
+      "SourceEscaped": "ネル森林A",
+      "TargetEscaped": "Nel Forest A",
+      "SourceUtf8Sha256": "4141E2BA51BA0FE9D282F14D0F3D44ACE43055C671AF108340BCFED241956EEE"
+    },
+    {
+      "SourceEscaped": "アーグル泉C",
+      "TargetEscaped": "Argle Spring C",
+      "SourceUtf8Sha256": "E67742656E6B3C757100E2EE119C15B5503C79A3888CD4BE5E34A8213E1D4D47"
+    },
+    {
+      "SourceEscaped": "ゴーガン洞窟C",
+      "TargetEscaped": "Gogan Cave C",
+      "SourceUtf8Sha256": "40579A12B406B5CBF6354F9F0A913EE43071C103B61A62FDE1CFE9E7B8970A59"
+    },
+    {
+      "SourceEscaped": "ケッセル谷C",
+      "TargetEscaped": "Kessel Valley C",
+      "SourceUtf8Sha256": "F071F646F78BD88D226BF06F81EFE79DC36BEA2702141BAEF07FC28E76F7826E"
+    },
+    {
+      "SourceEscaped": "ゴーガン洞窟A",
+      "TargetEscaped": "Gogan Cave A",
+      "SourceUtf8Sha256": "B48498C3C71178324B086C0921556474C9CBE4414AF026AC73374E6F0875D1E4"
+    },
+    {
+      "SourceEscaped": "河童修行道その１",
+      "TargetEscaped": "Kappa Training Path １",
+      "SourceUtf8Sha256": "33860E9386DCF1BD228B6C9B94484DC6017E96C06B873EA33D76A45548A6FA10"
+    },
+    {
+      "SourceEscaped": "河童回廊",
+      "TargetEscaped": "Kappa Corridor",
+      "SourceUtf8Sha256": "E90143FB754419D816812898C61DC159C4223B6E71AD7927C04915EBC8E14961"
+    },
+    {
+      "SourceEscaped": "河童修行道その３",
+      "TargetEscaped": "Kappa Training Path ３",
+      "SourceUtf8Sha256": "07433E66B03F0240F78D428F47B54C75DEEAC1D16FDA225952AE45A427F3D60B"
+    },
+    {
+      "SourceEscaped": "河童工房奥",
+      "TargetEscaped": "Back of the Kappa Workshop",
+      "SourceUtf8Sha256": "77488AAAA883D352AC816F79156EA02D28B0AC95A1BD03FC8A02293A968A88A9"
+    },
+    {
+      "SourceEscaped": "河童廃城下町",
+      "TargetEscaped": "Abandoned Kappa Castle Town",
+      "SourceUtf8Sha256": "EE4B9200A7ED35310BF85CF6301E116AE76DD4C2EAE1E7B46F0FC3EEC379E6E2"
+    },
+    {
+      "SourceEscaped": "河童廃城本丸",
+      "TargetEscaped": "Abandoned Kappa Castle Keep",
+      "SourceUtf8Sha256": "F4EFD4FEBE8B109C267029CE8687CBD949624336998552D26D60033040F7D93D"
+    },
+    {
+      "SourceEscaped": "ヒストシティ",
+      "TargetEscaped": "Hist City",
+      "SourceUtf8Sha256": "B85E359944EB56985EEA21A374E424C0ED6D6714366D81B0863E653F2244A116"
+    },
+    {
+      "SourceEscaped": "グライ地底海南西",
+      "TargetEscaped": "Grai Southwest Underground Sea",
+      "SourceUtf8Sha256": "A342DEEF46FE82DF13E5EDB0C3AAA99B2A9352966C02F604F4B4DC9A94105C88"
+    },
+    {
+      "SourceEscaped": "ルビ巨岩群",
+      "TargetEscaped": "Ruby Boulder Field",
+      "SourceUtf8Sha256": "FE9B37BAAC24F860566063FE7D71DCEF1226081BF6F215E0D10FDACEC04B5C9E"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 搬入口跡",
+      "TargetEscaped": "Heaven's Tower Former Loading Entrance",
+      "SourceUtf8Sha256": "708BAB0D383E8524FDA58A7F45D811B507F675EB24E80FE589B7ABC0DCE87FCE"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 1F エントランス",
+      "TargetEscaped": "Heaven's Tower 1F Entrance",
+      "SourceUtf8Sha256": "5CB3205A62036D598F53761FCE63521C9643FE6801AD398677C5B8F10D461844"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 150F 展望台",
+      "TargetEscaped": "Heaven's Tower 150F Observation Deck",
+      "SourceUtf8Sha256": "3E01150B793CFE4F8ACCAF799266BF1EB101328D4681D06CBF1FE1DB5CFA1596"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 30F 備品保管所",
+      "TargetEscaped": "Heaven's Tower 30F Supply Storage",
+      "SourceUtf8Sha256": "98DDAA1439D8DD6288D00713AA67543D6F7C3C061CE4248D6D9EFEA1C93512DA"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 110F 整備通路",
+      "TargetEscaped": "Heaven's Tower 110F Maintenance Passage",
+      "SourceUtf8Sha256": "2CB33B7AA45842BD54021292647268500389216DC152C6C46FE524FAA1ED0FA4"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 70F 関係者待機所",
+      "TargetEscaped": "Heaven's Tower 70F Staff Waiting Area",
+      "SourceUtf8Sha256": "32796FCCC98FB6EC75DB83A4905D2BAF2BAC177C19E7A435D3010A78C549F6BA"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 181F",
+      "TargetEscaped": "Heaven's Tower 181F",
+      "SourceUtf8Sha256": "98B6B3382E6D07031EE1D69BDF0836576C6ABA60639383E845993B7773FBC5EE"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 238F",
+      "TargetEscaped": "Heaven's Tower 238F",
+      "SourceUtf8Sha256": "170EFB92E4A26E48059F93D979C3D7684CE9C167B2CF2848B7D91889882E2CAA"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 整備用通路G#",
+      "TargetEscaped": "Heaven's Tower Maintenance Passage G#",
+      "SourceUtf8Sha256": "C855379CE954F081667A0AA226A296237509988C56821DC92F07FE82EBD65F00"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 整備用通路H#",
+      "TargetEscaped": "Heaven's Tower Maintenance Passage H#",
+      "SourceUtf8Sha256": "38CBD1F9275D2BC2EEA45FD60CC601418A8D2E7DCB0AE26DF0AE69E0EA5800D2"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 194F",
+      "TargetEscaped": "Heaven's Tower 194F",
+      "SourceUtf8Sha256": "6564FCC9BEEE21D2DFA5F07668E0817AE3B2C59B77B20F4242B64D6CD64733CC"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 311F",
+      "TargetEscaped": "Heaven's Tower 311F",
+      "SourceUtf8Sha256": "52520A6579EBF57C9B4F8068BD8BBDDC079553A56659A3EC55DF61183CB8D382"
+    },
+    {
+      "SourceEscaped": "ヘブンズタワー 385F",
+      "TargetEscaped": "Heaven's Tower 385F",
+      "SourceUtf8Sha256": "864CFC7017A2599996812F62DF57AAFC0EB69E934B9E32AF5000BCD836A6FED4"
+    },
+    {
+      "SourceEscaped": "クタンス村",
+      "TargetEscaped": "Kutans Village",
+      "SourceUtf8Sha256": "E5722B098CD9B65304173AC21B5B24A2E6E252F061DBE7B1CFB47E41051260BE"
+    },
+    {
+      "SourceEscaped": "ニアンチ山峡",
+      "TargetEscaped": "Nianchi Gorge",
+      "SourceUtf8Sha256": "307A167D375CD82951B6277EB4302E13F27D6409D2BB0FE227273D747725723C"
+    },
+    {
+      "SourceEscaped": "ノルドロ遺跡7F",
+      "TargetEscaped": "Nordro Ruins 7F",
+      "SourceUtf8Sha256": "62DC8C3692C3227B719C4FF2FA0190EBA2A867062444319211087F18079C4FAA"
+    },
+    {
+      "SourceEscaped": "ノルドロ遺跡",
+      "TargetEscaped": "Nordro Ruins",
+      "SourceUtf8Sha256": "FF96017781B4C1C3AE82484A069B99C7DF47CD007AB7FE2463467EB3EE21195A"
+    },
+    {
+      "SourceEscaped": "VD 奈落の入り口",
+      "TargetEscaped": "VD Entrance to the Abyss",
+      "SourceUtf8Sha256": "71432174CA132F9825DDFC51B1BC06398A73069AF1F686BEC6ED9DA7ADEE76EE"
+    },
+    {
+      "SourceEscaped": "VD 不確ならざる浮島B",
+      "TargetEscaped": "VD Certain Floating Island B",
+      "SourceUtf8Sha256": "D4DEA931CACC012177FD2127E45436650F3986C9FE195BC45CE750A33000982B"
+    },
+    {
+      "SourceEscaped": "ADFセントラルベース",
+      "TargetEscaped": "ADF Central Base",
+      "SourceUtf8Sha256": "A6C82B9EC5B2079DE5C415A9059CEDE5CF08DCF4C8875861AEBA841F79BA48F0"
+    },
+    {
+      "SourceEscaped": "司令本部",
+      "TargetEscaped": "Command Headquarters",
+      "SourceUtf8Sha256": "5258B76EB769DE5C356184DBB0CB248B2B47D368C6F72A57149007E96903311A"
+    },
+    {
+      "SourceEscaped": "キンドレド中央転送ゲート",
+      "TargetEscaped": "Kindred Central Teleport Gate",
+      "SourceUtf8Sha256": "BAE2C995D685D7B5E90C1A80F313D173F00B2DD409B1B63CEBB6BE8B92FB8BA4"
+    },
+    {
+      "SourceEscaped": "ジュール転送ゲート",
+      "TargetEscaped": "Joule Teleport Gate",
+      "SourceUtf8Sha256": "58D1C9BB9FE741D7013FC85F547E6E4C4986AB97D991B80F24213C139C372D77"
+    },
+    {
+      "SourceEscaped": "アシモフ野営地",
+      "TargetEscaped": "Asimov Camp",
+      "SourceUtf8Sha256": "C75963C854E5184AAE1B6B9BBADBE11C854E119144D19173C3647F6A149BE74A"
+    },
+    {
+      "SourceEscaped": "リニアトレイン",
+      "TargetEscaped": "Linear Train",
+      "SourceUtf8Sha256": "8CA5921D7E37481CCE32CDA1D1181BF9B89478DC3C24B9F8233CA62D9121FB5A"
+    },
+    {
+      "SourceEscaped": "ハインライン駅",
+      "TargetEscaped": "Heinlein Station",
+      "SourceUtf8Sha256": "6290F17EEE47CE0C8C21ED5F11D9F43A005937548362EDCCB22749B78AA3142D"
+    },
+    {
+      "SourceEscaped": "ウィルスン平地",
+      "TargetEscaped": "Wilson Plains",
+      "SourceUtf8Sha256": "84F05493C50D5A0643D56F7C2663E19321C3A9563DB8DE8FD24F2BF5AD678E2A"
+    },
+    {
+      "SourceEscaped": "ホーガン宇宙港・入り口",
+      "TargetEscaped": "Hogan Spaceport / Entrance",
+      "SourceUtf8Sha256": "EDFD2A9106D9A9BB6523A9495B787A80B47C40D91C9E134B392B1F3C81C70CAB"
+    },
+    {
+      "SourceEscaped": "レム・ゲート中枢",
+      "TargetEscaped": "Rem Gate Core",
+      "SourceUtf8Sha256": "F9A2066019E2BD8B394E316F1AC203C3EF97803575436ADF0A0BAE588F9B28E5"
+    },
+    {
+      "SourceEscaped": "レム・連絡エリア",
+      "TargetEscaped": "Rem Connecting Area",
+      "SourceUtf8Sha256": "4143DC092A8402E180687E933B63D5F9E0C5671E418ADCDA10E6036D9A13AB6D"
+    },
+    {
+      "SourceEscaped": "HG深層エリア",
+      "TargetEscaped": "HG Deep Area",
+      "SourceUtf8Sha256": "B76688A777234D4F3A17E371FED838499EAD5D4F2BCCB1B5B5D45259BD7061CF"
+    },
+    {
+      "SourceEscaped": "コントロール・ルーム",
+      "TargetEscaped": "Control Room",
+      "SourceUtf8Sha256": "8F34E3ADAE59DB90F9BC5AD19AFE3BBE7A52407BE659C3E957EDFDB8C4B014A9"
+    },
+    {
+      "SourceEscaped": "中枢施設 B1F",
+      "TargetEscaped": "Central Facility B1F",
+      "SourceUtf8Sha256": "10B2C1EDE91539DF984C300B585F06333D81EE1E24B992B1E1254204D980BDFF"
+    },
+    {
+      "SourceEscaped": "中枢施設(前半)",
+      "TargetEscaped": "Central Facility (First Half)",
+      "SourceUtf8Sha256": "80D02EE6B67231660881E4CD8EBAB1923E1E902E26A6D07D2214A82969F388D4"
+    },
+    {
+      "SourceEscaped": "バトルタワー フロント",
+      "TargetEscaped": "Battle Tower Reception",
+      "SourceUtf8Sha256": "21962A5E4E8F651F34953673CBCA2D31AEA5AAB7C92B30F53BD79A107422F31A"
+    },
+    {
+      "SourceEscaped": "テストプラネット",
+      "TargetEscaped": "Test Planet",
+      "SourceUtf8Sha256": "C16584F6D4EE04CA171CE83F0422F53E736CBE38A8A6A822089B0A295F3F07D5"
+    },
+    {
+      "SourceEscaped": "VRミッションタワー フロント",
+      "TargetEscaped": "VR Mission Tower Reception",
+      "SourceUtf8Sha256": "F855A5F6DA160BF9553B96BB1A4B86046391B20B7DB4EEA68B1202B9B75E97F5"
+    },
+    {
+      "SourceEscaped": "インターバルエリア(10F)",
+      "TargetEscaped": "Rest Area (10F)",
+      "SourceUtf8Sha256": "BDEF0BD181D8ED83B43F1D7A541DE291932D82F22D56C79F09E8A3FC4AC7AA76"
+    },
+    {
+      "SourceEscaped": "インターバルエリア",
+      "TargetEscaped": "Rest Area",
+      "SourceUtf8Sha256": "1E5E732779D20A887207F1CB474CB97B03994FC88DC0101C40F2298848546B64"
+    },
+    {
+      "SourceEscaped": "インターバルエリア(20F)",
+      "TargetEscaped": "Rest Area (20F)",
+      "SourceUtf8Sha256": "F2C8166319EB64CA7FD39C76E6BC41967BE2E8FB5E7A7F749862FD6253AEF8A2"
+    },
+    {
+      "SourceEscaped": "インターバルエリア(30F)",
+      "TargetEscaped": "Rest Area (30F)",
+      "SourceUtf8Sha256": "9C4177990B842B1784C7098A09E3794347A72D5BCF5263F7D85BF64CE23717AD"
+    },
+    {
+      "SourceEscaped": "インターバルエリア(40F)",
+      "TargetEscaped": "Rest Area (40F)",
+      "SourceUtf8Sha256": "A2F197A72A442AE2CB278C951EDCA6A89EBD22926C81DA90CC9C337EE08C7669"
+    },
+    {
+      "SourceEscaped": "インターバルエリア(50F)",
+      "TargetEscaped": "Rest Area (50F)",
+      "SourceUtf8Sha256": "0E2A857317862974EFD19C2486D2B32C7FDAE0DD7C81528D2D7DA086CBC63A5D"
+    },
+    {
+      "SourceEscaped": "インターバルエリア(60F)",
+      "TargetEscaped": "Rest Area (60F)",
+      "SourceUtf8Sha256": "15659E0FB2E59DDD170B2C0A0DB165C843E27C412012BFCBF885A21B884FA879"
+    },
+    {
+      "SourceEscaped": "ポルド遺跡 深部B6F",
+      "TargetEscaped": "Pold Ruins Deep Area B6F",
+      "SourceUtf8Sha256": "E72D66A083634B30C1A7FC23FB2D800912B8B358581C8F54D0781C20F19AA151"
+    },
+    {
+      "SourceEscaped": "カンビ遺跡 深部王の間",
+      "TargetEscaped": "Kambi Ruins Deep King's Chamber",
+      "SourceUtf8Sha256": "849140C7A0ED013AB87A3D2A8484A4CFBA4FA6518878FA06F3313846F840960D"
+    },
+    {
+      "SourceEscaped": "ジオ深部 第2試験場",
+      "TargetEscaped": "Geo Deep Area Test Site 2",
+      "SourceUtf8Sha256": "4C22EB69F7AD325A4029C193AC9E3007209E747D838F0A58DF44EC81A8AB0244"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部B5F（HARD）",
+      "TargetEscaped": "Fulby Ruins Deep Area B5F (HARD)",
+      "SourceUtf8Sha256": "38126B7D1453DBFBC24AF9CBCD0B6B102BA1D33B16F62D77211BE387F232357F"
+    },
+    {
+      "SourceEscaped": "フルビ遺跡 深部B5F（NORMAL）",
+      "TargetEscaped": "Fulby Ruins Deep Area B5F (NORMAL)",
+      "SourceUtf8Sha256": "62D0473C21445C2DAC8F2FECF95096428401F806952F7A9DFA2188735C7C75F7"
+    },
+    {
+      "SourceEscaped": "リンジャーニ遺跡 B1F（HARD）",
+      "TargetEscaped": "Rinjani Ruins B1F (HARD)",
+      "SourceUtf8Sha256": "E4855214BE80ED7562A383806F438F86A142F7A2F6BB110991EB5F20869D712D"
+    },
+    {
+      "SourceEscaped": "ケイオム遺跡 5F（NORMAL）",
+      "TargetEscaped": "Keiom Ruins 5F (NORMAL)",
+      "SourceUtf8Sha256": "82DE6EDDE3F07D6CFE1DE43DEF01306196965C09D60B8B5D4E9A90305DD4BD97"
+    },
+    {
+      "SourceEscaped": "地下スクラップ場 入口",
+      "TargetEscaped": "Underground Scrapyard Entrance",
+      "SourceUtf8Sha256": "4858F354466E72861FF6929359FCA46A1E557C83CA9194E0C4D629A1A14BC1DB"
+    },
+    {
+      "SourceEscaped": "ゴウツクラボ 入口",
+      "TargetEscaped": "Gotsuku Lab Entrance",
+      "SourceUtf8Sha256": "9207F94EE38FC77D622A87FFCFBAAAF5BD396AE12F4F0424BA4D7A74226455DC"
+    },
+    {
+      "SourceEscaped": "ディザイア庭園",
+      "TargetEscaped": "Desire Garden",
+      "SourceUtf8Sha256": "BC35CC4C3F9ED902A4AF70EC41AF6BD9347C8468B89F17915916A463D376677B"
+    },
+    {
+      "SourceEscaped": "ベーゼ牢獄",
+      "TargetEscaped": "Beze Prison",
+      "SourceUtf8Sha256": "85FCD7462D532CC02587F5844DB581910255FA2B6863693641031D731040C233"
+    },
+    {
+      "SourceEscaped": "ホープシティ本社 防衛シフト",
+      "TargetEscaped": "Hope City Headquarters Defense Shift",
+      "SourceUtf8Sha256": "C072A44C3B286361CB5FABF4FAB2A485E657D70850A0A435F48CBB6A9324CA09"
+    },
+    {
+      "SourceEscaped": "アトリエ小部屋",
+      "TargetEscaped": "Atelier Side Room",
+      "SourceUtf8Sha256": "EA0312969D7D7B3DFD16FBEB2445181AD4781A0A1936E58BE9DE73B7F4B33B07"
+    },
+    {
+      "SourceEscaped": "家族の記憶",
+      "TargetEscaped": "Memory of Family",
+      "SourceUtf8Sha256": "32627DACC5674862787EAC421D7A296C9309E8501C2105B130D92F73125FFF46"
+    },
+    {
+      "SourceEscaped": "決心の記憶",
+      "TargetEscaped": "Memory of Determination",
+      "SourceUtf8Sha256": "E027C0062D83A75717398F3EFBAC6FA0B908EB8231165C7603FBB4C35BE9936E"
+    },
+    {
+      "SourceEscaped": "崩壊の記憶",
+      "TargetEscaped": "Memory of Collapse",
+      "SourceUtf8Sha256": "FDC94A7C778B1ACBE3C72BAC41840B170845CD72B03C175346EC569DF20221C2"
+    },
+    {
+      "SourceEscaped": "労働の記憶",
+      "TargetEscaped": "Memory of Labor",
+      "SourceUtf8Sha256": "713019F733FAA0156D1D9C5409D5315DE04D40BA51A0E609401F2472D429F9CA"
+    },
+    {
+      "SourceEscaped": "犠牲の記憶",
+      "TargetEscaped": "Memory of Sacrifice",
+      "SourceUtf8Sha256": "6D010DB38E150EFE74139C2ACEFCD4AC9CFF3070607D1936CF0C8F7930A7531B"
+    },
+    {
+      "SourceEscaped": "ホープシティ本社地下",
+      "TargetEscaped": "Hope City Headquarters Basement",
+      "SourceUtf8Sha256": "FACEF2F25E6CA9852CD63769FE5181EC592E09C829D0F19B6EB843F05200EBCA"
+    },
+    {
+      "SourceEscaped": "ホープシティ本社地下前（CHALLENGE）",
+      "TargetEscaped": "Hope City Outside Headquarters Basement (CHALLENGE)",
+      "SourceUtf8Sha256": "5AEDF80A9E67397AEAEF003B9DFD8ED51610442D947816CE24CE4956B3675603"
+    },
+    {
+      "SourceEscaped": "地下スクラップ場 B1F（CHALLENGE）",
+      "TargetEscaped": "Underground Scrapyard B1F (CHALLENGE)",
+      "SourceUtf8Sha256": "444511AD5BEB6E9D7E0D45E147F98F7EF167C93AA3BEF19CB2F69E8883EBAE1D"
+    },
+    {
+      "SourceEscaped": "地下スクラップ場",
+      "TargetEscaped": "Underground Scrapyard",
+      "SourceUtf8Sha256": "AB8E709C03C517A26AE9F5E00D1E7D497BB905F1DC8BEEC14C9C4745CDED9BDF"
+    },
+    {
+      "SourceEscaped": "ゴウツクラボ 1F（CHALLENGE）",
+      "TargetEscaped": "Gotsuku Lab 1F (CHALLENGE)",
+      "SourceUtf8Sha256": "BBED182895581BD7F3AABC163F165B6606EC3962CF60BD85C8FDD77C72E5F611"
+    },
+    {
+      "SourceEscaped": "ゴウツクラボ",
+      "TargetEscaped": "Gotsuku Lab",
+      "SourceUtf8Sha256": "4C10CD9F08B6177BD7260932187121EB622104A982551984FB39A8C0FD83E12D"
+    },
+    {
+      "SourceEscaped": "クライ廃道",
+      "TargetEscaped": "Krai Abandoned Road",
+      "SourceUtf8Sha256": "9B187832B22A126ABCF8CC952DF27AABD4E02B68655E05B1CDBDB6F9A504986E"
+    },
+    {
+      "SourceEscaped": "ヘイテッドシティ",
+      "TargetEscaped": "Hated City",
+      "SourceUtf8Sha256": "097F8DE590D525E538A3C8132A81B3A1AECD19FABFC34D90DF7638C7D37270FA"
+    },
+    {
+      "SourceEscaped": "リフレ集落",
+      "TargetEscaped": "Rifre Settlement",
+      "SourceUtf8Sha256": "360B8620D1B427038278CCA0E02ABF12ED8201164E73F9D0A10BBF8C80612F95"
+    },
+    {
+      "SourceEscaped": "地下スクラップ場 最深部",
+      "TargetEscaped": "Underground Scrapyard Deepest Area",
+      "SourceUtf8Sha256": "FBC466F0C3245E719C8DBED1099BE4B005A9EFE759AC36690E542B0FDE1B5978"
+    },
+    {
+      "SourceEscaped": "ゴウツクラボ 実験場",
+      "TargetEscaped": "Gotsuku Lab Testing Ground",
+      "SourceUtf8Sha256": "74E5D5F0B448EF09E0B652CE923E9B63FAEE3F2918E6566F1D9CB1276F1BBB04"
+    },
+    {
+      "SourceEscaped": "誕生の記憶",
+      "TargetEscaped": "Memory of Birth",
+      "SourceUtf8Sha256": "CE3E2C9AF65906196ED2E47EE338C6B63FC2FE2C2B03AFB369F064379C620840"
+    },
+    {
+      "SourceEscaped": "亀裂の記憶",
+      "TargetEscaped": "Memory of the Rift",
+      "SourceUtf8Sha256": "97ADFE24F3FC9F5A24D9040D47B2CA6EC0A0B576D30028AD59211A87578A8D52"
+    },
+    {
+      "SourceEscaped": "瓦解の記憶",
+      "TargetEscaped": "Memory of Disintegration",
+      "SourceUtf8Sha256": "41BA9993E8DBF301E99453DDC34DCCAB150221B360A1E0F54E150BE00FCA810F"
+    },
+    {
+      "SourceEscaped": "別れの記憶",
+      "TargetEscaped": "Memory of Parting",
+      "SourceUtf8Sha256": "5E16000AA83E6BF7CC0E4900ABBF1C9CC020C2488CB4349D27094F67C583E795"
+    },
+    {
+      "SourceEscaped": "決意の記憶",
+      "TargetEscaped": "Memory of Resolve",
+      "SourceUtf8Sha256": "B220B827031E8D50BFAB520CAE8B0950ED8964AC3B1645DEA7FC18489931650E"
+    },
+    {
+      "SourceEscaped": "メモワル集落",
+      "TargetEscaped": "Memoir Settlement",
+      "SourceUtf8Sha256": "A6EA489D8908B1D3536039791142E375C559AA851B3429C4B47145DFAD6C2621"
+    },
+    {
+      "SourceEscaped": "ディザイア庭園 1F（CHALLENGE）",
+      "TargetEscaped": "Desire Garden 1F (CHALLENGE)",
+      "SourceUtf8Sha256": "DE9EFC61C18EAB01A9E4A864DF185A0BFB08D7462A14133433ED12FE3EA37262"
+    },
+    {
+      "SourceEscaped": "ディザイア庭園 最奥",
+      "TargetEscaped": "Desire Garden Innermost Area",
+      "SourceUtf8Sha256": "DB12B8273A696E068D6D2DCD9366BF95660EA84AF3FF71D15DEB3F4A54B67846"
+    },
+    {
+      "SourceEscaped": "始まりの記憶",
+      "TargetEscaped": "Memory of the Beginning",
+      "SourceUtf8Sha256": "306C3E11103C26E855FD606E225FFD6052D0256ACDE73069E2C372767B5019F2"
+    },
+    {
+      "SourceEscaped": "流血の記憶",
+      "TargetEscaped": "Memory of Bloodshed",
+      "SourceUtf8Sha256": "1BFAF694985EE1F3E2F0A960DA73A41406E4BE9471FDE052AD2FACFA6D5D2DFA"
+    },
+    {
+      "SourceEscaped": "幽閉の記憶",
+      "TargetEscaped": "Memory of Confinement",
+      "SourceUtf8Sha256": "3C535D9299AD5A82626FAAFFC91E6F4F4045E3B4C492E312E1EFFE174060E8FC"
+    },
+    {
+      "SourceEscaped": "決戦の記憶",
+      "TargetEscaped": "Memory of the Final Battle",
+      "SourceUtf8Sha256": "66848436A04EDC5F5C2FF2C4AE5D41101EF5EAFC5060E07CADF495523D12058C"
+    },
+    {
+      "SourceEscaped": "誘惑の記憶",
+      "TargetEscaped": "Memory of Temptation",
+      "SourceUtf8Sha256": "90790ECDE8A5E58C5A35EE5EAED54EFEEB9408D754AF1F2743920BB2918AAEF6"
+    },
+    {
+      "SourceEscaped": "共益の記憶",
+      "TargetEscaped": "Memory of Mutual Benefit",
+      "SourceUtf8Sha256": "C403CC20933A1C34F2B6CD52628D0BE3735783BCE631D84AD72EF37096A468CD"
+    },
+    {
+      "SourceEscaped": "開演の記憶",
+      "TargetEscaped": "Memory of the Opening",
+      "SourceUtf8Sha256": "4044E6FFCE03296EAD141A07EFEEB8282750753C0F738F551009C7A4F49E736F"
+    },
+    {
+      "SourceEscaped": "失われた記憶",
+      "TargetEscaped": "Lost Memory",
+      "SourceUtf8Sha256": "FE39E9831470EBB1E7DE3E798FFB297BF421D567AA503C7728B5EB60C44A08A9"
+    },
+    {
+      "SourceEscaped": "パラノア集落",
+      "TargetEscaped": "Paranoa Settlement",
+      "SourceUtf8Sha256": "AF4AC99DC14E156AB5FDB84632655845B4EA1EBA41796C5EC235C03A0640CE0F"
+    },
+    {
+      "SourceEscaped": "ベーゼ牢獄 最奥",
+      "TargetEscaped": "Beze Prison Innermost Area",
+      "SourceUtf8Sha256": "F3E0738EFF2F68E3EAB148C828E6E9D26D70466C8AF2397FDA41A9C3223D4548"
+    },
+    {
+      "SourceEscaped": "スランバー異空間 最奥",
+      "TargetEscaped": "Slumber Other Dimension Innermost Area",
+      "SourceUtf8Sha256": "35FB0BD44DFD961C15BCF0961F191E2BEC129D1BE84580E2B2223DE150598B00"
+    },
+    {
+      "SourceEscaped": "ベーゼ牢獄 1F（CHALLENGE）",
+      "TargetEscaped": "Beze Prison 1F (CHALLENGE)",
+      "SourceUtf8Sha256": "25E7FC5465012C5D0AF725C1E93485C8801EC9F9D491E76FE5448C829CC86DF9"
+    },
+    {
+      "SourceEscaped": "スランバー異空間 1F（CHALLENGE）",
+      "TargetEscaped": "Slumber Other Dimension 1F (CHALLENGE)",
+      "SourceUtf8Sha256": "017369EE59D93793110D12BB861F14CE689E6FE63B9D15245FFB178CC027B7A0"
+    },
+    {
+      "SourceEscaped": "セントラル着陸場",
+      "TargetEscaped": "Central Landing Site",
+      "SourceUtf8Sha256": "DDBF63FE006DC1824806A421A244CE0026D9173E85584461E4E05EB425DEEB30"
+    },
+    {
+      "SourceEscaped": "セントラルシティ",
+      "TargetEscaped": "Central City",
+      "SourceUtf8Sha256": "B3A2217B1740F4F53D26FBD5C7F1EE4505D5614C6E821B26E9A49C47F0D75362"
+    },
+    {
+      "SourceEscaped": "ランタナ野営地",
+      "TargetEscaped": "Lantana Camp",
+      "SourceUtf8Sha256": "C25BAD79F78C7BF141E8A759337D5466E426EECA1163DB90FC545CC20FA51672"
+    },
+    {
+      "SourceEscaped": "ラムタ野営地",
+      "TargetEscaped": "Ramta Camp",
+      "SourceUtf8Sha256": "FFE79920FD973FCE8B0645FC3D04010D9A9EF897E146EAA51C8B7EA9E93D14DB"
+    },
+    {
+      "SourceEscaped": "アレノ野営地",
+      "TargetEscaped": "Areno Camp",
+      "SourceUtf8Sha256": "820E660E59EF94865E5C780118F6F382803B3EA4F5BF2678DC40FB54D1BF6803"
+    },
+    {
+      "SourceEscaped": "ソル野営地",
+      "TargetEscaped": "Sol Camp",
+      "SourceUtf8Sha256": "D3A0BE95FD504EC3C8D7D12BD1A5563A59A89BE2F48977DDB78285078062D3DD"
+    },
+    {
+      "SourceEscaped": "テトロド野営地",
+      "TargetEscaped": "Tetrod Camp",
+      "SourceUtf8Sha256": "59453FD99182572EF77991F44A0C04FB6A15D2AA18B50A05B4918E588FD87C10"
+    },
+    {
+      "SourceEscaped": "ヤドク地帯",
+      "TargetEscaped": "Yadoku Zone",
+      "SourceUtf8Sha256": "AC6942ACBBA60F7BC3021D60DF3EE5D91377F197CC8A934CE2ABA3D6F4BD5C03"
+    },
+    {
+      "SourceEscaped": "クロトンシティ",
+      "TargetEscaped": "Croton City",
+      "SourceUtf8Sha256": "3007F84778C9BB71650A6A94C860701BD4D594D6FA6606A635228E6A7D6B887E"
+    }
+  ]
+}

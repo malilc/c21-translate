@@ -1,0 +1,501 @@
+{
+  "Description": "10 arena announcement templates and 34 trap names. Trap names are used only by SystemEffectBridge inside guarded, anchored system-message display templates; trapstart remains excluded.",
+  "Entries": [
+    {
+      "SourceEscaped": "ルーレットスタート！",
+      "TargetEscaped": "Roulette start!",
+      "SourceUtf8Sha256": "67DB6F04A1163F9FA613923F0F1917BCDF2ADB4ECE1D72E4A47B955BDDF714E5",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[10000].message",
+        "itemtable[10001].message",
+        "itemtable[10002].message",
+        "itemtable[10003].message",
+        "itemtable[10004].message",
+        "itemtable[10005].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの全員が\\n無敵になった！",
+      "TargetEscaped": "Everyone on %s\\nis invincible!",
+      "SourceUtf8Sha256": "2C120B0B80A1230D94091CEAF90477F547769257E2A9E084EF1C2BBC9C2A107B",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11000].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの全員に\\n超連射の効果！",
+      "TargetEscaped": "Everyone on %s\\ngains rapid fire!",
+      "SourceUtf8Sha256": "2D0A45449A1B0A89B64D410DC08C98E565C67F2209E9A0BB868838ADEB329EE2",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11100].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sにENアップの効果！\\n%!%sはENダウンだ！",
+      "TargetEscaped": "%s gains EN!\\n%!%s loses EN!",
+      "SourceUtf8Sha256": "FA8FFA6E5CA86739D3373A7935024B9D12DFA490154644DB19ED48A8ABE002A7",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11200].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sにスピードアップの効果！\\n%!%sはスピードダウンだ！",
+      "TargetEscaped": "%s speeds up!\\n%!%s slows down!",
+      "SourceUtf8Sha256": "FBF32E6B804CEC95CEFBEF0E2D33042B7DE5B746EE8AF4CA2F19AF20B84EF9BD",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11300].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの%sが復活した！",
+      "TargetEscaped": "%s: %s has revived!",
+      "SourceUtf8Sha256": "CD200EE9A2031AEA6BDFCEF19C21CECBACA69661E91BA3353FE07E64240F7303",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11400].message",
+        "itemtable[11401].message",
+        "itemtable[11402].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの%sが\\nブロッサムを呼び出した！",
+      "TargetEscaped": "%s: %s\\nsummoned ブロッサム!",
+      "SourceUtf8Sha256": "981C4FB34E8639B53FBD1CE991B14A57E6E4A8FE534342B628CF9FDB2AACFD68",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11500].message",
+        "itemtable[11501].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの全員が\\nブタークを呼び出した！",
+      "TargetEscaped": "Everyone on %s\\nsummoned ブターク!",
+      "SourceUtf8Sha256": "D13E586DEB00DCD208BFAB07F02AC706BBD8DBF3E7688FB6A011323565BB4F17",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11505].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの全員が\\nギャラモを呼び出した！",
+      "TargetEscaped": "Everyone on %s\\nsummoned ギャラモ!",
+      "SourceUtf8Sha256": "6F6EFAAA0B0CCD9E8418361175CB2B3A55BB3446B54EF93040F549BFB7CCE5C3",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11510].message"
+      ]
+    },
+    {
+      "SourceEscaped": "%sの全員が\\nヘルブーチャーを呼び出した！",
+      "TargetEscaped": "Everyone on %s\\nsummoned ヘルブーチャー!",
+      "SourceUtf8Sha256": "83139406DCAB8FAD7C16EADBAD93C86C26EFB26BF862C0081D510382C1DDE540",
+      "Table": "itemtable",
+      "DisplayStatus": "verified-arena-template",
+      "ObjectPaths": [
+        "itemtable[11515].message"
+      ]
+    },
+    {
+      "SourceEscaped": "ジャンプ台",
+      "TargetEscaped": "Jump Pad",
+      "SourceUtf8Sha256": "79C7FAB3418B133D52012B1009747F554334A20255614E40DAE5F12CB166AB32",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[200].name",
+        "traptable[210].name",
+        "traptable[215].name",
+        "traptable[220].name"
+      ]
+    },
+    {
+      "SourceEscaped": "カタパルト",
+      "TargetEscaped": "Catapult",
+      "SourceUtf8Sha256": "09E0CA74FCA586FC74938A8CF528344AA670C5282FA1711883C1CCB1E684C2A4",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[201].name",
+        "traptable[202].name",
+        "traptable[203].name",
+        "traptable[204].name",
+        "traptable[205].name",
+        "traptable[211].name",
+        "traptable[212].name",
+        "traptable[216].name",
+        "traptable[217].name",
+        "traptable[218].name",
+        "traptable[219].name",
+        "traptable[221].name"
+      ]
+    },
+    {
+      "SourceEscaped": "引力",
+      "TargetEscaped": "Attraction",
+      "SourceUtf8Sha256": "011FB0B4544D7291454267EF9C74867D06A7BA67E8C07175163B9C34BE07B625",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[400].name",
+        "traptable[403].name",
+        "traptable[413].name",
+        "traptable[414].name",
+        "traptable[415].name",
+        "traptable[416].name",
+        "traptable[417].name",
+        "traptable[424].name",
+        "traptable[426].name",
+        "traptable[427].name",
+        "traptable[428].name",
+        "traptable[429].name",
+        "traptable[430].name",
+        "traptable[431].name",
+        "traptable[432].name",
+        "traptable[438].name",
+        "traptable[441].name",
+        "traptable[445].name",
+        "traptable[447].name",
+        "traptable[448].name",
+        "traptable[449].name",
+        "traptable[450].name",
+        "traptable[451].name",
+        "traptable[452].name",
+        "traptable[454].name",
+        "traptable[455].name"
+      ]
+    },
+    {
+      "SourceEscaped": "引力 lv2",
+      "TargetEscaped": "Attraction lv2",
+      "SourceUtf8Sha256": "1646CB99D69B1732775703E4811C960CB18453C3D4B4596DBB042AE30E5E90FA",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[401].name",
+        "traptable[404].name"
+      ]
+    },
+    {
+      "SourceEscaped": "引力 lv3",
+      "TargetEscaped": "Attraction lv3",
+      "SourceUtf8Sha256": "08FE7BB678414F95D22C2E247CA2D1C6897951C07317DCE864256BAAA85AA2A0",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[402].name",
+        "traptable[405].name",
+        "traptable[443].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ディガイアス用竜巻型引力",
+      "TargetEscaped": "Digaius Tornado Attraction",
+      "SourceUtf8Sha256": "741A35EDCA3FA1163B290D971420690E8FA5B3839D0CD0D982D70CDF62EC7A16",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[406].name"
+      ]
+    },
+    {
+      "SourceEscaped": "死神子(仮)竜巻型引力",
+      "TargetEscaped": "Shinigamiko (Temp) Tornado Attraction",
+      "SourceUtf8Sha256": "0ABF49B1656E2FC8D90EACC6DDCBAA8C4ED1A483D4AE66FBE6F6C8D3B7D35564",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[407].name"
+      ]
+    },
+    {
+      "SourceEscaped": "死神子(仮)ボス竜巻型引力",
+      "TargetEscaped": "Shinigamiko (Temp) Boss Tornado Attraction",
+      "SourceUtf8Sha256": "2672B00068458BF28816731F8A1B12DF50F683CFA276A7BF536509E8E0C463E1",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[408].name"
+      ]
+    },
+    {
+      "SourceEscaped": "パラセクターフック",
+      "TargetEscaped": "Parasector Hook",
+      "SourceUtf8Sha256": "FBCAEEAB4467D4D9E39104FCFFAC0E41B84F6B72AA86AFB769C574825212DDE5",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[409].name"
+      ]
+    },
+    {
+      "SourceEscaped": "パラセクターフック(PvP)",
+      "TargetEscaped": "Parasector Hook (PvP)",
+      "SourceUtf8Sha256": "C5A5DE10A85AB556BFA11FC03B838E27F79254633242037B97B5835BF511624F",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[410].name"
+      ]
+    },
+    {
+      "SourceEscaped": "パラセクターフック・ミニ",
+      "TargetEscaped": "Parasector Hook Mini",
+      "SourceUtf8Sha256": "4AFC20527325BC81DE3277FD3A46741E4DF6359CC25BF1B46863FC14F358E238",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[411].name"
+      ]
+    },
+    {
+      "SourceEscaped": "パラセクターフック・ミニ(PvP)",
+      "TargetEscaped": "Parasector Hook Mini (PvP)",
+      "SourceUtf8Sha256": "5EBDBE5647818F48814991A77EA5080CB020A1D400C938C0F1D2FF9A49EE2217",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[412].name"
+      ]
+    },
+    {
+      "SourceEscaped": "斥力",
+      "TargetEscaped": "Repulsion",
+      "SourceUtf8Sha256": "969F318960458BA6275198F837090817C7208DC019FB4F3BB775D477AF5B0651",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[418].name",
+        "traptable[419].name",
+        "traptable[442].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ゼファーフックLv1",
+      "TargetEscaped": "Zephyr Hook Lv1",
+      "SourceUtf8Sha256": "1979C73301B98FAF0393FC9B89ECF2B4DA9DF630F11F294249CFD567EF2002C9",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[420].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ゼファーフックLv2",
+      "TargetEscaped": "Zephyr Hook Lv2",
+      "SourceUtf8Sha256": "B35FE78B7AA29ECE447549340B5E302109348E88A58EB3075A6FEBFEDF605BF9",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[421].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ゼファーフックLv1(PvP)",
+      "TargetEscaped": "Zephyr Hook Lv1 (PvP)",
+      "SourceUtf8Sha256": "86FDD775A13D20C98786C47AAB68367E4E9A0DF1D9D86A101D4255BD53813192",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[422].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ゼファーフックLv2(PvP)",
+      "TargetEscaped": "Zephyr Hook Lv2 (PvP)",
+      "SourceUtf8Sha256": "474F8B310B26B56359877CC6CE06D79372FB0119D3F31D6AAAF8331A98502FAE",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[423].name"
+      ]
+    },
+    {
+      "SourceEscaped": "高度制限重力",
+      "TargetEscaped": "Altitude Limit Gravity",
+      "SourceUtf8Sha256": "A8F6D309E90E8AD6C2641FD13BF78BCE2048E5F5F70404E1F0C713A161457CC9",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[425].name",
+        "traptable[440].name"
+      ]
+    },
+    {
+      "SourceEscaped": "アンカーショット",
+      "TargetEscaped": "Anchor Shot",
+      "SourceUtf8Sha256": "AFB328EE125F270207F1B9EA97D1591761570FBA364DF180BB5276298B283DB9",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[433].name"
+      ]
+    },
+    {
+      "SourceEscaped": "すいこみLV1",
+      "TargetEscaped": "Suction LV1",
+      "SourceUtf8Sha256": "0763E9AD81CD673B57EE81BCB19D6E23913B0CD04B38136D23F6AFF776668FF7",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[434].name"
+      ]
+    },
+    {
+      "SourceEscaped": "すいこみLV2",
+      "TargetEscaped": "Suction LV2",
+      "SourceUtf8Sha256": "A650F4A50D1D7364921122FFCD1E949BA3DEFBC3091BAD0114676A5CAC49B2D3",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[435].name"
+      ]
+    },
+    {
+      "SourceEscaped": "すいこみLV3",
+      "TargetEscaped": "Suction LV3",
+      "SourceUtf8Sha256": "36EFFBABD2A871098AEBE1680B2BC22C8D25315DFF687C7C537F1633A32FE83B",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[436].name"
+      ]
+    },
+    {
+      "SourceEscaped": "口の中へGO",
+      "TargetEscaped": "Into the Mouth",
+      "SourceUtf8Sha256": "32DF0E5809083312FBF41958BC9123C30F66813F1ECD09AF758B0A2ACAF449C2",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[437].name"
+      ]
+    },
+    {
+      "SourceEscaped": "すいこみ",
+      "TargetEscaped": "Suction",
+      "SourceUtf8Sha256": "CF309CD10816D0E1F24B1F39193ED8C4E60737F8415C87143C1B442F99141167",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[439].name",
+        "traptable[453].name"
+      ]
+    },
+    {
+      "SourceEscaped": "壁",
+      "TargetEscaped": "Wall",
+      "SourceUtf8Sha256": "B5F0F70D8D1A3E828112F48FF43CEE311F122BD9F2E0F21ACDC04829BAA569C2",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[446].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ウォーターデバフフィールド",
+      "TargetEscaped": "Water Debuff Field",
+      "SourceUtf8Sha256": "6A76E5C4FE05584D4F841C6D7C0101B3D958A9C5E42515554D6B51DEB7506721",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[700].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ウォーターバフフィールド",
+      "TargetEscaped": "Water Buff Field",
+      "SourceUtf8Sha256": "7A20A45194ED7928E636F26A01E4BFC5815AD7E49BB111A48263F81F2A37801A",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[701].name",
+        "traptable[710].name"
+      ]
+    },
+    {
+      "SourceEscaped": "HP回復",
+      "TargetEscaped": "HP Recovery",
+      "SourceUtf8Sha256": "08D64F7379E4112472E17CD51D668C8963FB72ABFAD29F683FDF94560F9E8956",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[702].name"
+      ]
+    },
+    {
+      "SourceEscaped": "ショックフィールド",
+      "TargetEscaped": "Shock Field",
+      "SourceUtf8Sha256": "0616BB07422F4F180296D671A84256C8336499DC6AD8880585AB83C54D478B4C",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[703].name",
+        "traptable[704].name"
+      ]
+    },
+    {
+      "SourceEscaped": "無敵陣",
+      "TargetEscaped": "Invincibility Field",
+      "SourceUtf8Sha256": "F28B821C3BB8027EB779186CA319950DBA4069657892D0EECFFCD9DCFD3B3AC9",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[705].name"
+      ]
+    },
+    {
+      "SourceEscaped": "バインドデバフフィールド",
+      "TargetEscaped": "Bind Debuff Field",
+      "SourceUtf8Sha256": "4E013FB780425137ACCE427CBECFFB8724111E473AB744881EDAD07D006A5E0D",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[706].name"
+      ]
+    },
+    {
+      "SourceEscaped": "赤ホネデバフフィールド",
+      "TargetEscaped": "Red Bone Debuff Field",
+      "SourceUtf8Sha256": "7D1F861D675E0101472ED871952B36A993D67393DD7AE9F9AC14BC7D2819ACC3",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[707].name"
+      ]
+    },
+    {
+      "SourceEscaped": "青ホネデバフフィールド",
+      "TargetEscaped": "Blue Bone Debuff Field",
+      "SourceUtf8Sha256": "2FC87AD0BC0D4189EEFA35B8DF36BD72671DE34F690D8468384FAE02BA2D1294",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[708].name"
+      ]
+    },
+    {
+      "SourceEscaped": "紫ホネデバフフィールド",
+      "TargetEscaped": "Purple Bone Debuff Field",
+      "SourceUtf8Sha256": "B9CD9E94613A270B801C6B36BF422BCFB52485E9B977CD26EFB98F125FA6C5F6",
+      "Table": "traptable",
+      "DisplayStatus": "guarded-system-template-display",
+      "ObjectPaths": [
+        "traptable[709].name"
+      ]
+    }
+  ]
+}
