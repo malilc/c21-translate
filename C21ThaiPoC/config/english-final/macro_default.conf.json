@@ -1,0 +1,67 @@
+[
+  {
+    "line": 2,
+    "source": "# (rangeはChatPopupButtonのRANGE_TYPE_XXX)",
+    "target": "# (range: ChatPopupButton RANGE_TYPE_XXX)"
+  },
+  {
+    "line": 3,
+    "source": "# 0=BOARD, 1=GSAY, 2=PSAY, 3=TELL(使用不可), 4=NATION, 5=SHOUT, 6=SAY)",
+    "target": "# 0=BOARD, 1=GSAY, 2=PSAY, 3=TELL(unavailable), 4=NATION, 5=SHOUT, 6=SAY)"
+  },
+  {
+    "line": 4,
+    "source": "0,6,こんにちは,",
+    "target": "0,6,Hello!,"
+  },
+  {
+    "line": 5,
+    "source": "1,6,フレンドになってくれませんか？,",
+    "target": "1,6,Would you like to be friends?,"
+  },
+  {
+    "line": 6,
+    "source": "2,6,パーティーを組みませんか？,",
+    "target": "2,6,Would you like to form a party?,"
+  },
+  {
+    "line": 7,
+    "source": "3,2,よろしくお願いします,",
+    "target": "3,2,Nice to meet you!,"
+  },
+  {
+    "line": 8,
+    "source": "4,2,どこにいますか？,",
+    "target": "4,2,Where are you?,"
+  },
+  {
+    "line": 9,
+    "source": "5,2,いたぞ！こっちだ！！,",
+    "target": "5,2,Found them! Over here!,"
+  },
+  {
+    "line": 10,
+    "source": "6,5,誰か助けてください！,",
+    "target": "6,5,Someone please help!,"
+  },
+  {
+    "line": 11,
+    "source": "7,6,多数の敵に追われています、助けて！！,",
+    "target": "7,6,Many enemies are chasing me! Help!,"
+  },
+  {
+    "line": 20,
+    "source": "16,6,/partymake,パーティー名",
+    "target": "16,6,/partymake,PartyName"
+  },
+  {
+    "line": 21,
+    "source": "17,6,/invite,プレーヤー名",
+    "target": "17,6,/invite,PlayerName"
+  },
+  {
+    "line": 23,
+    "source": "19,6,/tell,プレーヤー名",
+    "target": "19,6,/tell,PlayerName"
+  }
+]

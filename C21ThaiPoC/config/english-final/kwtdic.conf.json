@@ -1,0 +1,7001 @@
+{
+  "encoding": "cp932",
+  "entries": [
+    {
+      "key": "%item",
+      "value": "Item"
+    },
+    {
+      "key": "%parts",
+      "value": "Parts"
+    },
+    {
+      "key": "%robo",
+      "value": "Robot"
+    },
+    {
+      "key": "%yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%no",
+      "value": "No"
+    },
+    {
+      "key": "%allperfect.npcwin.message",
+      "value": "Congratulations!\\nYou completed every mission on this planet\\nwith outstanding results."
+    },
+    {
+      "key": "%allperfect.npcwin.name",
+      "value": "Mission Operator"
+    },
+    {
+      "key": "%arena_lose.lobby",
+      "value": "Return to Lobby"
+    },
+    {
+      "key": "%arena_lose.again",
+      "value": "Rematch"
+    },
+    {
+      "key": "%arena_lose.test",
+      "value": "Testing"
+    },
+    {
+      "key": "%arena_lose.c_team",
+      "value": "Charlie Team"
+    },
+    {
+      "key": "%arena_lose.a_team",
+      "value": "Alpha Team"
+    },
+    {
+      "key": "%arena_lose.b_team",
+      "value": "Bravo Team"
+    },
+    {
+      "key": "%arena_lose.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%arena_lose.repair",
+      "value": "Repair Cost"
+    },
+    {
+      "key": "%arena_lose.mvp_bonus",
+      "value": "MVP Bonus"
+    },
+    {
+      "key": "%arena_mission.normal_mes",
+      "value": "For normal messages"
+    },
+    {
+      "key": "%arena_mission.robo_name",
+      "value": "Robot Name"
+    },
+    {
+      "key": "%arena_mission.player_name",
+      "value": "Player Name"
+    },
+    {
+      "key": "%arena_mission.mes.a_break",
+      "value": "Oh no!\\nAn Alpha Team robot has been destroyed!"
+    },
+    {
+      "key": "%arena_retire.lobby",
+      "value": "Return to Lobby"
+    },
+    {
+      "key": "%arena_retire.again",
+      "value": "Rematch"
+    },
+    {
+      "key": "%arena_retire.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%arena_retire.repair",
+      "value": "Repair Cost"
+    },
+    {
+      "key": "%arena_robo_select.message",
+      "value": "Choose your robots for deployment!\\nYour commando lineup\\nmight decide the battle!"
+    },
+    {
+      "key": "%arena_robo_select.select",
+      "value": "Select Deployment Robots"
+    },
+    {
+      "key": "%arena_robo_select.missionrank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%arena_robo_select.reset",
+      "value": "Reset"
+    },
+    {
+      "key": "%arena_robo_select.go",
+      "value": "Confirm"
+    },
+    {
+      "key": "%arena_robo_select.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%arena_robo_select.size",
+      "value": "Size"
+    },
+    {
+      "key": "%arena_robo_select.latent",
+      "value": "Pot."
+    },
+    {
+      "key": "%arena_robo_select.sumcost",
+      "value": "Total Cost"
+    },
+    {
+      "key": "%arena_robo_select.participant",
+      "value": "Players"
+    },
+    {
+      "key": "%arena_robo_select.precondition",
+      "value": "Entry Requirements"
+    },
+    {
+      "key": "%arena_robo_select.sumcost2",
+      "value": "Total Cost"
+    },
+    {
+      "key": "%arena_robo_select.rank_precondition",
+      "value": "Rank Requirement"
+    },
+    {
+      "key": "%arena_select.participant",
+      "value": "Players"
+    },
+    {
+      "key": "%arena_select.introduction",
+      "value": "CN Intelligence has confirmed that the Demon Army massed numerous 10,000t-class Ivanov battleships in the north before dawn. Your orders are to destroy these battleships at once and prevent the Demon Army from advancing south."
+    },
+    {
+      "key": "%arena_select.arena_select",
+      "value": "Select Arena"
+    },
+    {
+      "key": "%arena_select.message",
+      "value": "Join the Robot GP here!\\nCheck the entry requirements\\nand choose an arena!"
+    },
+    {
+      "key": "%arena_select.1st_clear",
+      "value": "First Clear"
+    },
+    {
+      "key": "%arena_select.go",
+      "value": "  Create!"
+    },
+    {
+      "key": "%arena_select.missionrank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%arena_select.precondition",
+      "value": "Entry Requirements"
+    },
+    {
+      "key": "%arena_select.state_force",
+      "value": "Squad Status"
+    },
+    {
+      "key": "%arena_select.arena_name",
+      "value": "Arena Name"
+    },
+    {
+      "key": "%arena_select.clear_pay",
+      "value": "Clear Reward"
+    },
+    {
+      "key": "%arena_select.precondition",
+      "value": "Rank Requirement"
+    },
+    {
+      "key": "%arena_select.go2",
+      "value": "  Join!"
+    },
+    {
+      "key": "%arena_select.name",
+      "value": "Room Name"
+    },
+    {
+      "key": "%arena_select.max",
+      "value": "Players"
+    },
+    {
+      "key": "%arena_select.timelimit",
+      "value": "Time Limit [min]"
+    },
+    {
+      "key": "%arena_select.cost",
+      "value": "Total Cost Limit"
+    },
+    {
+      "key": "%arena_select.num",
+      "value": "Deployment Limit"
+    },
+    {
+      "key": "%arena_select.size",
+      "value": "Size"
+    },
+    {
+      "key": "%arena_select.fix",
+      "value": "Fixed Robots"
+    },
+    {
+      "key": "%arena_select.itemrule",
+      "value": "No Items"
+    },
+    {
+      "key": "%arena_select.volley",
+      "value": "No Full Burst"
+    },
+    {
+      "key": "%arena_select.pvpRate",
+      "value": "PVP Scaling"
+    },
+    {
+      "key": "%arena_select.bsl",
+      "value": "BSL Rules"
+    },
+    {
+      "key": "%arena_select.training",
+      "value": "Training"
+    },
+    {
+      "key": "%arena_select.radar",
+      "value": "Radar Jamming"
+    },
+    {
+      "key": "%arena_select.repop",
+      "value": "Respawn Mode"
+    },
+    {
+      "key": "%arena_select.memberlisttitle",
+      "value": "  Member List"
+    },
+    {
+      "key": "%arena_select.listchange1",
+      "value": "  Join Room"
+    },
+    {
+      "key": "%arena_select.listchange2",
+      "value": "  Create Room"
+    },
+    {
+      "key": "%arena_select.stage",
+      "value": "Stage Data"
+    },
+    {
+      "key": "%arena_select.max_tab",
+      "value": "50 40 30 20 10 9 8 7 6 5 4 3 2"
+    },
+    {
+      "key": "%arena_select.timelimit_tab",
+      "value": "5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+    },
+    {
+      "key": "%arena_select.cost_tab",
+      "value": "- 20000 12000 6000 3000"
+    },
+    {
+      "key": "%arena_select.cost_tab0",
+      "value": "1000 300"
+    },
+    {
+      "key": "%arena_select.cost_tab1",
+      "value": "2500 1500"
+    },
+    {
+      "key": "%arena_select.num_tab",
+      "value": "5 4 3 2 1"
+    },
+    {
+      "key": "%arena_select.size_tab",
+      "value": "- S-or-smaller M-only L-or-larger"
+    },
+    {
+      "key": "%arena_select.money_tab",
+      "value": "0 100 500 1000 1500 3000"
+    },
+    {
+      "key": "%create_arena.msg",
+      "value": "\tConfigure the arena room."
+    },
+    {
+      "key": "%create_arena.pass",
+      "value": "\tPassword"
+    },
+    {
+      "key": "%create_arena.yes",
+      "value": "\tConfirm"
+    },
+    {
+      "key": "%create_arena.no",
+      "value": "\tCancel"
+    },
+    {
+      "key": "%create_arena.msg2",
+      "value": "\tEnter the room password."
+    },
+    {
+      "key": "%arena_win.again",
+      "value": "Rematch"
+    },
+    {
+      "key": "%arena_win.lobby",
+      "value": "Return to Lobby"
+    },
+    {
+      "key": "%arena_win.c_team",
+      "value": "Charlie Team"
+    },
+    {
+      "key": "%arena_win.a_team",
+      "value": "Alpha Team"
+    },
+    {
+      "key": "%arena_win.b_team",
+      "value": "Bravo Team"
+    },
+    {
+      "key": "%arena_win.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%arena_win.win_bonus",
+      "value": "Victory Bonus"
+    },
+    {
+      "key": "%arena_win.mvp_bonus",
+      "value": "MVP Bonus"
+    },
+    {
+      "key": "%base0.text4",
+      "value": "If the requirement is 2 robots, buy\\nrobots and weapons at a Robot Store.\\nOnce you have 2 robots ready to deploy,\\nyou can join the mission."
+    },
+    {
+      "key": "%base0.text3",
+      "value": "[Entry Requirements]\\nYou can only join a mission if you\\nmeet all its entry requirements."
+    },
+    {
+      "key": "%base0.text2",
+      "value": "For now, your immediate objective\\nis to earn a rank."
+    },
+    {
+      "key": "%base0.text1",
+      "value": "Complete missions to earn\\na rank.\\nYour rank also lets you travel\\nto the next planet: Gernia."
+    },
+    {
+      "key": "%base0.text0",
+      "value": "[About Missions]\\nYou can accept missions here\\nat the Mission Center.\\nCompleting missions unlocks\\nnew missions\\nfor you to accept."
+    },
+    {
+      "key": "%buttonsetting_dlg.text_figure0",
+      "value": "Button Settings"
+    },
+    {
+      "key": "%buttonsetting_dlg.ok",
+      "value": "Cancel"
+    },
+    {
+      "key": "%buttonsetting_dlg.text_figure1",
+      "value": "Press the key you want to assign."
+    },
+    {
+      "key": "%ch_01.text0",
+      "value": "Chat Commands\\nType the following in the chat input to use various commands.\\n< /help > or < /? >\\nDisplay the list of chat commands.\\n\\n< /say > or < /s >\\nTalk to other players within 20m.\\nMessages appear in white.\\n\\n< /shout > or < /! >\\nTalk to other players within 50m.\\nMessages appear in white.\\n\\n< /tell > or < /t >\\nTalk privately to a specified player.\\nMessages appear in purple.\\n\\n< /psay > or < /p >\\nTalk to every member of your party.\\nMessages appear in yellow.\\n\\n< /gsay > or < /g >\\nTalk to every member of your guild.\\nMessages appear in orange.\\n\\n< /friend [name] > \\nSend another player a friend request.\\n\\n< /friendoff [name] >\\nRemove a player from your friend list.\\n\\n< /partymake [party name] >\\nCreate a party.\\n< /invite [name] >\\nAs party leader, invite another player to your party.\\n\\n< /kick [name] >\\nAs party leader, remove another player from your party.\\n\\n< /leave >\\nLeave your party.\\nThe party leader cannot use this command.\\n\\n< /leader [name] >\\nAs party leader, transfer leadership to another player.\\n\\n< /ignore [name] >\\nAdd another player to your ignore list. Messages from ignored players are blocked.\\n\\n< /ignoreoff [name]>\\nRemove a player from your ignore list.\\n\\n< /op >\\nSend a report to the support team."
+    },
+    {
+      "key": "%ch_01.text_index",
+      "value": " Chat Commands"
+    },
+    {
+      "key": "%ch_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_01.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_02.text0",
+      "value": "Display every player logged in to your current field.\\n\\nSee Help > Chat > Chat Commands for details.\\n"
+    },
+    {
+      "key": "%ch_02.text_index",
+      "value": "Field"
+    },
+    {
+      "key": "%ch_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_02.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_03.text0",
+      "value": "A party can have up to 10 members.\\nThe Party list shows its current members.\\n\\nBeing in a party provides EXP and C$ benefits.\\n\\nTo join a party, create your own or accept an invitation from another party leader while you are not in a party.\\n\\nLogging out does not automatically remove you from your party.\\n\\nWhen entering missions or ruins, party members are preferentially sent to the same instance.\\nThis does not guarantee that you will enter the same instance.\\n\\nParty members can use the party chat command.\\nSee Help > Chat > Chat Commands for details.\\n"
+    },
+    {
+      "key": "%ch_03.text_index",
+      "value": "Party"
+    },
+    {
+      "key": "%ch_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_03.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_04.text0",
+      "value": "Display the members of your guild.\\n\\nHigher guild ranks increase the member limit and guild assists.\\nEarn guild points to raise the guild rank.\\nGuild points are automatically shared among guild members.\\n\\nLogging out does not automatically remove you from your guild.\\n\\nGuild members can use the guild chat command.\\nSee Help > Chat > Chat Commands for details."
+    },
+    {
+      "key": "%ch_04.text_index",
+      "value": "Guild"
+    },
+    {
+      "key": "%ch_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_04.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_05.text0",
+      "value": "You can register up to 100 friends.\\nThe Friends list shows current members.\\nYour list is saved after you log out.\\n\\nSee Help > Chat > Chat Commands for details.\\n"
+    },
+    {
+      "key": "%ch_05.text_index",
+      "value": "Friends"
+    },
+    {
+      "key": "%ch_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_05.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_06.text0",
+      "value": "You can ignore up to 100 players.\\nThe Ignore list shows current entries.\\nMessages from ignored players will not appear.\\nYour list is saved after you log out.\\n"
+    },
+    {
+      "key": "%ch_06.text_index",
+      "value": "Ignore"
+    },
+    {
+      "key": "%ch_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_06.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_07.text0",
+      "value": "Create or disband a party and manage other settings.\\n\\nSet the rules for distributing EXP, items, and C$.\\n\\n< Round Robin > \\nDistribute in member order.\\n\\n< Free for All >\\nWhoever picks it up first keeps it.\\n< Random >\\nDistribute randomly.\\n\\n< Equal Share >\\nDistribute equally.\\n\\n< Contribution >\\nAward to the member who contributed the most.\\n"
+    },
+    {
+      "key": "%ch_07.text_index",
+      "value": "Party Settings"
+    },
+    {
+      "key": "%ch_07.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_07.text_index1",
+      "value": "Community"
+    },
+    {
+      "key": "%ch_menu.btn1",
+      "value": "Party Settings"
+    },
+    {
+      "key": "%ch_menu.btn2",
+      "value": "Ignore"
+    },
+    {
+      "key": "%ch_menu.btn3",
+      "value": "Friends"
+    },
+    {
+      "key": "%ch_menu.btn4",
+      "value": "Guild"
+    },
+    {
+      "key": "%ch_menu.btn5",
+      "value": "Party"
+    },
+    {
+      "key": "%ch_menu.btn6",
+      "value": "Field"
+    },
+    {
+      "key": "%ch_menu.btn7",
+      "value": "Chat Commands"
+    },
+    {
+      "key": "%ch_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ch_menu.index",
+      "value": "Community"
+    },
+    {
+      "key": "%charter_cd_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%charter_cd_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%charter_cd_dlg.checkin",
+      "value": "Check in."
+    },
+    {
+      "key": "%charter_mt_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%charter_mt_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%charter_mt_dlg.checkin",
+      "value": "Check in."
+    },
+    {
+      "key": "%charter_select.mes",
+      "value": "Welcome"
+    },
+    {
+      "key": "%charter_select.select",
+      "value": "Select Charter Ship"
+    },
+    {
+      "key": "%city0.text4",
+      "value": "That is all.\\nTry the tutorial if you want\\na more detailed explanation."
+    },
+    {
+      "key": "%city0.text3",
+      "value": "Accept missions at the\\nMission Center in the base.\\nHead to the base first.\\nUse the map button at the bottom right\\nto check its location."
+    },
+    {
+      "key": "%city0.text2",
+      "value": "To do that, join missions\\nand crush those\\nDemon Army forces."
+    },
+    {
+      "key": "%city0.text1",
+      "value": "Your mission is to restore peace\\nto every planet\\nin the Cosmic Renaissance."
+    },
+    {
+      "key": "%city0.text0",
+      "value": "[Game Objective]\\nYou played the tutorial, so you\\nknow the goal of this game, right?"
+    },
+    {
+      "key": "%create_guild.no",
+      "value": "No"
+    },
+    {
+      "key": "%create_guild.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%create_guild.name",
+      "value": "Guild Name"
+    },
+    {
+      "key": "%create_guild.check",
+      "value": "Create a guild. Are you sure?"
+    },
+    {
+      "key": "%gacha.garage",
+      "value": "Congratulations!\\nYour carry inventory is full. The prize will be stored in your garage."
+    },
+    {
+      "key": "%gacha.back",
+      "value": "Back"
+    },
+    {
+      "key": "%gacha.buy",
+      "value": "GO!"
+    },
+    {
+      "key": "%gacha.mes",
+      "value": "Your prize is all down to luck!\\nSpinning again today!"
+    },
+    {
+      "key": "%gacha.garage_stock",
+      "value": "Garage Stock"
+    },
+    {
+      "key": "%gacha.tmanimo",
+      "value": "Manimo de Gacha"
+    },
+    {
+      "key": "%gacha.tpremium",
+      "value": "Premium Gacha"
+    },
+    {
+      "key": "%gacha.textra",
+      "value": "Extra Gacha"
+    },
+    {
+      "key": "%gacha.prize_list",
+      "value": "Prize List (Times Won)"
+    },
+    {
+      "key": "%gacha.details_view",
+      "value": "Show Details"
+    },
+    {
+      "key": "%gacha.item",
+      "value": "Item"
+    },
+    {
+      "key": "%gacha.parts",
+      "value": "Parts"
+    },
+    {
+      "key": "%gacha.robo",
+      "value": "Robot"
+    },
+    {
+      "key": "%gacha.bonus_string",
+      "value": "BONUS"
+    },
+    {
+      "key": "%gacha.total_string",
+      "value": "TOTAL"
+    },
+    {
+      "key": "%gacha.num_string",
+      "value": "NUM"
+    },
+    {
+      "key": "%gacha.down_ones",
+      "value": "v"
+    },
+    {
+      "key": "%gacha.down_tens",
+      "value": "v"
+    },
+    {
+      "key": "%gacha.up_ones",
+      "value": "^"
+    },
+    {
+      "key": "%gacha.up_tens",
+      "value": "^"
+    },
+    {
+      "key": "%gacha_index.manimo",
+      "value": "Manimo de Gacha"
+    },
+    {
+      "key": "%gacha_index.premium",
+      "value": "Premium Gacha"
+    },
+    {
+      "key": "%gacha_index.extra",
+      "value": "Extra Gacha"
+    },
+    {
+      "key": "%depart_index.present",
+      "value": "Collect delivered robots, parts, and items using Gift Search in your garage."
+    },
+    {
+      "key": "%depart_index.inquire",
+      "value": "For questions, contact support@c21-online.jp."
+    },
+    {
+      "key": "%depart_index.close",
+      "value": "Close"
+    },
+    {
+      "key": "%depart_index.gift",
+      "value": "You have a delivery."
+    },
+    {
+      "key": "%depart_index.parts_buy",
+      "value": "Buy Parts"
+    },
+    {
+      "key": "%depart_index.robo_buy",
+      "value": "Buy Robots"
+    },
+    {
+      "key": "%depart_index.item_buy",
+      "value": "Buy Items"
+    },
+    {
+      "key": "%depart_item_buy.gacha",
+      "value": "Manimo de Gacha"
+    },
+    {
+      "key": "%depart_item_buy.parts_buy",
+      "value": "Buy Parts"
+    },
+    {
+      "key": "%depart_item_buy.robo_buy",
+      "value": "Buy Robots"
+    },
+    {
+      "key": "%depart_item_buy.garage_stock",
+      "value": "Garage Stock"
+    },
+    {
+      "key": "%depart_item_buy.item_buy",
+      "value": "Buy Items"
+    },
+    {
+      "key": "%depart_item_buy.mes",
+      "value": "Welcome!\\nWe sell special\\nitems here!"
+    },
+    {
+      "key": "%depart_item_buy.piece",
+      "value": "pcs"
+    },
+    {
+      "key": "%depart_item_buy.bulk_buying",
+      "value": "Buy in Bulk"
+    },
+    {
+      "key": "%depart_parts_buy.gacha",
+      "value": "Manimo de Gacha"
+    },
+    {
+      "key": "%depart_parts_buy.item_buy",
+      "value": "Buy Items"
+    },
+    {
+      "key": "%depart_parts_buy.mes",
+      "value": "Come on in!\\nWe sell special\\nparts here!"
+    },
+    {
+      "key": "%depart_parts_buy.garage_stock",
+      "value": "Garage Stock"
+    },
+    {
+      "key": "%depart_parts_buy.robo_buy",
+      "value": "Buy Robots"
+    },
+    {
+      "key": "%depart_parts_buy.parts_buy",
+      "value": "Buy Parts"
+    },
+    {
+      "key": "%depart_robo_buy.gacha",
+      "value": "Manimo de Gacha"
+    },
+    {
+      "key": "%depart_robo_buy.garage_stock",
+      "value": "Garage Stock"
+    },
+    {
+      "key": "%depart_robo_buy.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%depart_robo_buy.size",
+      "value": "Size"
+    },
+    {
+      "key": "%depart_robo_buy.item_buy",
+      "value": "Buy Items"
+    },
+    {
+      "key": "%depart_robo_buy.mes",
+      "value": "Welcome!\\nWe sell special\\nrobots here!"
+    },
+    {
+      "key": "%depart_robo_buy.parts_buy",
+      "value": "Buy Parts"
+    },
+    {
+      "key": "%depart_robo_buy.robo_buy",
+      "value": "Buy Robots"
+    },
+    {
+      "key": "%depart_robo_buy2.no",
+      "value": "No"
+    },
+    {
+      "key": "%depart_robo_buy2.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%depart_robo_buy2.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%depart_robo_buy2.robo_buy",
+      "value": "Buy Robots"
+    },
+    {
+      "key": "%depart_robo_buy2.robo_cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%depart_robo_buy2.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%depart_robo_buy2.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%depart_robo_buy2.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%dimension_select.index",
+      "value": "Select Dimension"
+    },
+    {
+      "key": "%dimension_select.present",
+      "value": "Collect delivered robots, parts, and items using Gift Search in your garage."
+    },
+    {
+      "key": "%dimension_select.inquire",
+      "value": "For questions, contact support@c21-online.jp."
+    },
+    {
+      "key": "%dimension_select.close",
+      "value": "Close"
+    },
+    {
+      "key": "%dimension_select.checkpresent",
+      "value": "Show All"
+    },
+    {
+      "key": "%dimension_select.gift",
+      "value": "You have a delivery."
+    },
+    {
+      "key": "%dimension_select.lock",
+      "value": "You cannot select a dimension if you logged out outside a safe area."
+    },
+    {
+      "key": "%dimension_select.dim_gp",
+      "value": "Versus (PVP)"
+    },
+    {
+      "key": "%dimension_select.dim_main",
+      "value": "Main Game"
+    },
+    {
+      "key": "%dimension_select.dim_start",
+      "value": "Play in This Dimension"
+    },
+    {
+      "key": "%dimension_select.dim_introduction",
+      "value": "A dimension of death, devastated by the Demon Army's invasion and shrouded in darkness. Powerful demon robots roam every corner of the world. Join the few surviving angel robots and restore light to this terrifying world ruled by darkness!"
+    },
+    {
+      "key": "%dimension_select.dim_other",
+      "value": "Other"
+    },
+    {
+      "key": "%dungeon.entry",
+      "value": "- Enter the dungeon."
+    },
+    {
+      "key": "%dungeon.point",
+      "value": "Battle Points"
+    },
+    {
+      "key": "%dungeon.introduction",
+      "value": "CN Intelligence has confirmed that the Demon Army massed numerous 10,000t-class Ivanov battleships in the north before dawn. Your orders are to destroy these battleships at once and prevent the Demon Army from advancing south."
+    },
+    {
+      "key": "%dungeon.name",
+      "value": "[Sink the Demon Battleship!!]"
+    },
+    {
+      "key": "%fa_01.text0",
+      "value": "Buy and sell items.\\n\\nAvailable items vary by store location.\\n"
+    },
+    {
+      "key": "%fa_01.text_index",
+      "value": " Item Store"
+    },
+    {
+      "key": "%fa_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_01.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_02.text0",
+      "value": "Change your robot's colors.\\n\\n< Quick Paint >\\nChange the colors of the entire robot.\\n\\n< Parts Paint >\\nChange the colors of individual robot parts.\\n\\n< Skin Edit >\\nDraw freely on each robot part.\\n\\nOnly robots in your commando can be edited.\\n"
+    },
+    {
+      "key": "%fa_02.text_index",
+      "value": " Paint Store"
+    },
+    {
+      "key": "%fa_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_02.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_03.text0",
+      "value": "Buy and sell robots and parts (tuning parts).\\n\\nAvailable stock varies by store location.\\n"
+    },
+    {
+      "key": "%fa_03.text_index",
+      "value": " Robot Store"
+    },
+    {
+      "key": "%fa_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_03.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_04.text0",
+      "value": "< Space Terminal >\\nBuy shuttle tickets to other planets.\\nYour rank may prevent you from buying some tickets.\\n\\n< Shuttle >\\nThe trip to another planet takes about 3 minutes after boarding.\\n"
+    },
+    {
+      "key": "%fa_04.text_index",
+      "value": " Space Terminal"
+    },
+    {
+      "key": "%fa_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_04.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_05.text0",
+      "value": "A shopping facility where you can buy items and robots.\\nPurchased items and robots are sent to your garage.\\n\\nRobots and items cannot be sold here.\\n"
+    },
+    {
+      "key": "%fa_05.text_index",
+      "value": " Department Store"
+    },
+    {
+      "key": "%fa_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_05.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_06.text0",
+      "value": "Store robots, items, and other possessions.\\nYou can also repair and customize robots.\\nSee Help > Garage for details."
+    },
+    {
+      "key": "%fa_06.text_index",
+      "value": " Garage"
+    },
+    {
+      "key": "%fa_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_06.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_07.text0",
+      "value": "< Mission Center >\\nAccept assignments from the Angel Army here.\\nSome missions award a rank.\\n\\n< Items >\\nOnly items in your item shortcuts can be taken into missions. \\nSee Help > Missions for details.\\n"
+    },
+    {
+      "key": "%fa_07.text_index",
+      "value": " Mission Center"
+    },
+    {
+      "key": "%fa_07.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_07.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_08.text0",
+      "value": "Select and run a recipe. Set the amount to spend and whether to use Combine Plus to adjust the success rate.\\n\\n< Item Synthesis >\\nCreate new items.\\n\\n< Parts Synthesis >\\nCreate new parts.\\n\\n< Parts Enhancement >\\nSelect parts you own and enhance them."
+    },
+    {
+      "key": "%fa_08.text_index",
+      "value": "Laboratory"
+    },
+    {
+      "key": "%fa_08.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_08.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_09.text0",
+      "value": "Contains useful facilities and entrances to special fields.\\nAccessible from the base on each planet.\\n\\n< Premium Field >\\nFind NPCs who exchange certain parts, stores with special rates, and entrances to event fields.\\n\\n< Premium Gate >\\nFind stores with different special rates and hyperspace channels to planets you have cleared.\\n\\nSome areas have entry requirements."
+    },
+    {
+      "key": "%fa_09.text_index",
+      "value": "Premium Area"
+    },
+    {
+      "key": "%fa_09.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_09.text_index1",
+      "value": "Facilities"
+    },
+    {
+      "key": "%fa_menu.btn1",
+      "value": "Laboratory"
+    },
+    {
+      "key": "%fa_menu.btn2",
+      "value": "Mission Center"
+    },
+    {
+      "key": "%fa_menu.btn3",
+      "value": "Garage"
+    },
+    {
+      "key": "%fa_menu.btn4",
+      "value": "Department Store"
+    },
+    {
+      "key": "%fa_menu.btn5",
+      "value": "Space Terminal"
+    },
+    {
+      "key": "%fa_menu.btn6",
+      "value": "Robot Store"
+    },
+    {
+      "key": "%fa_menu.btn7",
+      "value": "Paint Store"
+    },
+    {
+      "key": "%fa_menu.btn8",
+      "value": "Item Store"
+    },
+    {
+      "key": "%fa_menu.btn9",
+      "value": "Premium Area"
+    },
+    {
+      "key": "%fa_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%fa_menu.index",
+      "value": "Facilities"
+    },
+    {
+      "key": "%finishskin.skin_price",
+      "value": "Skin Edit Fee"
+    },
+    {
+      "key": "%finishskin.no",
+      "value": "No"
+    },
+    {
+      "key": "%finishskin.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%finishskin.skin_check",
+      "value": "Apply paint. Are you sure?"
+    },
+    {
+      "key": "%finishskin_mt.skin_price",
+      "value": "Skin Edit Fee"
+    },
+    {
+      "key": "%finishskin_mt.no",
+      "value": "No"
+    },
+    {
+      "key": "%finishskin_mt.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%finishskin_mt.skin_check",
+      "value": "Apply paint. Are you sure?"
+    },
+    {
+      "key": "%fixbar.fc",
+      "value": "Free Cursor"
+    },
+    {
+      "key": "%fixbar.call",
+      "value": "Call"
+    },
+    {
+      "key": "%fixbar.chat_log",
+      "value": "Show Chat"
+    },
+    {
+      "key": "%fixbar.chat_switch",
+      "value": "Change Chat"
+    },
+    {
+      "key": "%fixbar.menu",
+      "value": "Menu"
+    },
+    {
+      "key": "%fixbar.quest",
+      "value": "Quests"
+    },
+    {
+      "key": "%fixbar.is",
+      "value": "Item Shortcuts"
+    },
+    {
+      "key": "%fixbar.member",
+      "value": "Members"
+    },
+    {
+      "key": "%fixbar.radar",
+      "value": "Radar"
+    },
+    {
+      "key": "%fixbar.pm",
+      "value": "Planet Map"
+    },
+    {
+      "key": "%ga_01.text0",
+      "value": "Swap robots between your garage and your commando.\\nYour commando can hold up to 5 robots.\\n"
+    },
+    {
+      "key": "%ga_01.text_index",
+      "value": " Commando"
+    },
+    {
+      "key": "%ga_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_01.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_02.text0",
+      "value": "Restore robot HP and revive incapacitated robots.\\n"
+    },
+    {
+      "key": "%ga_02.text_index",
+      "value": " Repair / Revive"
+    },
+    {
+      "key": "%ga_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_02.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_03.text0",
+      "value": "\u001b< Name >\\nChange your robot's name.\\nRobot names must be 10 characters or fewer.\\n\\n\u001b0< Comment >\\nChange your robot's comment."
+    },
+    {
+      "key": "%ga_03.text_index",
+      "value": " Change Name / Comment"
+    },
+    {
+      "key": "%ga_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_03.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_04.text0",
+      "value": "\u001b< Parts List >\\nClick a part in the parts list to see compatible replacement parts.\\nNotes on equipping parts\\nChanging parts changes the robot's total EXP and may lower its level (Lv).\\n\\nNotes on equipping weapons\\nYou can equip a weapon if your robot's shooting / melee ability\\nexceeds the weapon's required shooting / melee ability.\\n\\n< Tuning Parts >\\nEquip up to 2 tuning parts to modify your abilities.\\n\\nCustomization rules\\nYou cannot deploy if either flight capacity or walking capacity is 0 t.\\n"
+    },
+    {
+      "key": "%ga_04.text_index",
+      "value": " Customize"
+    },
+    {
+      "key": "%ga_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_04.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_05.text0",
+      "value": "Dismantle a robot into individual parts. These parts can be used on other robots.\\n"
+    },
+    {
+      "key": "%ga_05.text_index",
+      "value": " Dismantle"
+    },
+    {
+      "key": "%ga_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_05.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_06.text0",
+      "value": "Build a new robot by combining parts you own."
+    },
+    {
+      "key": "%ga_06.text_index",
+      "value": "Build Robot"
+    },
+    {
+      "key": "%ga_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_06.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_07.text0",
+      "value": "Check the remaining time on items with an expiration date."
+    },
+    {
+      "key": "%ga_07.text_index",
+      "value": " Check Expiration"
+    },
+    {
+      "key": "%ga_07.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_07.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_08.text0",
+      "value": "Open the information page\\nfor your guild.\\nUnavailable if you do not belong to a guild."
+    },
+    {
+      "key": "%ga_08.text_index",
+      "value": " Guild"
+    },
+    {
+      "key": "%ga_08.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_08.text_index1",
+      "value": "Garage"
+    },
+    {
+      "key": "%ga_menu.btn1",
+      "value": "Guild"
+    },
+    {
+      "key": "%ga_menu.btn2",
+      "value": "Check Expiration"
+    },
+    {
+      "key": "%ga_menu.btn3",
+      "value": "Build Robot"
+    },
+    {
+      "key": "%ga_menu.btn4",
+      "value": "Dismantle"
+    },
+    {
+      "key": "%ga_menu.btn5",
+      "value": "Change Name / Comment"
+    },
+    {
+      "key": "%ga_menu.btn6",
+      "value": "Customize"
+    },
+    {
+      "key": "%ga_menu.btn7",
+      "value": "Repair / Revive"
+    },
+    {
+      "key": "%ga_menu.btn8",
+      "value": "Commando"
+    },
+    {
+      "key": "%ga_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ga_menu.index",
+      "value": "Garage"
+    },
+    {
+      "key": "%gacha_confirm_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%gacha_confirm_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%item_buy_cd_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%item_buy_cd_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%item_buy_cd_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%item_buy_cd_limit_dlg.limitnote",
+      "value": "Note: Restriction information"
+    },
+    {
+      "key": "%item_buy_cd_limit_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%item_buy_cd_limit_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%item_buy_cd_limit_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%item_buy_mt_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%item_buy_mt_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%item_buy_mt_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%item_buy_mt_limit_dlg.limitnote",
+      "value": "Note: Restriction information"
+    },
+    {
+      "key": "%item_buy_mt_limit_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%item_buy_mt_limit_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%item_buy_mt_limit_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%item_buysell.item",
+      "value": "Buy / Sell Items"
+    },
+    {
+      "key": "%item_buysell.mes",
+      "value": "\\nBuy and sell\\nitems here!\\nBetter safe than sorry!"
+    },
+    {
+      "key": "%item_buysell.piece",
+      "value": "pcs"
+    },
+    {
+      "key": "%item_buysell.bulk_buying",
+      "value": "Buy in Bulk"
+    },
+    {
+      "key": "%item_buysell.mtcharge",
+      "value": "Charge Mt"
+    },
+    {
+      "key": "%item_buysell.num",
+      "value": "Times"
+    },
+    {
+      "key": "%item_buysell.mtchargeprice",
+      "value": "Variable Price"
+    },
+    {
+      "key": "%item_combine.garage",
+      "value": "Garage"
+    },
+    {
+      "key": "%item_combine.combine",
+      "value": "Synthesize"
+    },
+    {
+      "key": "%item_combine.item_combine",
+      "value": "Item Synthesis List"
+    },
+    {
+      "key": "%item_combine.combine_check",
+      "value": "Synthesize items"
+    },
+    {
+      "key": "%item_combine.list",
+      "value": "  Parts / Item List"
+    },
+    {
+      "key": "%item_combine.robo",
+      "value": "Robot List"
+    },
+    {
+      "key": "%item_combine.name",
+      "value": "Victory 1"
+    },
+    {
+      "key": "%item_combine.name1",
+      "value": "Repair Kit"
+    },
+    {
+      "key": "%item_combine.comment",
+      "value": "Restores 500 HP to your robot when used."
+    },
+    {
+      "key": "%item_combine.warning",
+      "value": "This combination cannot be synthesized."
+    },
+    {
+      "key": "%item_combine.sort",
+      "value": "Sort"
+    },
+    {
+      "key": "%item_combine.tab",
+      "value": "Recipe-No. Recipe-Name Rank Cancel "
+    },
+    {
+      "key": "%item_sell_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%item_sell_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%item_sell_dlg.sell_check",
+      "value": "Sell this. Are you sure?"
+    },
+    {
+      "key": "%item_store_index.item_store",
+      "value": "Buy / Sell Items"
+    },
+    {
+      "key": "%login.prologue",
+      "value": "Prologue"
+    },
+    {
+      "key": "%login.loginpane.pass",
+      "value": "Password"
+    },
+    {
+      "key": "%login.loginpane.userid",
+      "value": "User ID"
+    },
+    {
+      "key": "%login.loginpane.save",
+      "value": "Remember for Next Login"
+    },
+    {
+      "key": "%login.loginpane.login",
+      "value": "Login"
+    },
+    {
+      "key": "%login.options",
+      "value": "  Options"
+    },
+    {
+      "key": "%login.title.company",
+      "value": "Copyright(C) 2005-2025 CyberStep, Inc. All Rights Reserved.    (C) Resound"
+    },
+    {
+      "key": "%login_complete.tutorial",
+      "value": "Tutorial"
+    },
+    {
+      "key": "%login_complete.limitnote",
+      "value": "< Expiring Robots / Items >"
+    },
+    {
+      "key": "%login_complete.index",
+      "value": "Check Expiration"
+    },
+    {
+      "key": "%login_complete.option",
+      "value": "  Options"
+    },
+    {
+      "key": "%mainmenu.depart",
+      "value": "Department Store"
+    },
+    {
+      "key": "%mainmenu.commando",
+      "value": "Commando"
+    },
+    {
+      "key": "%mainmenu.item",
+      "value": "Carry Items"
+    },
+    {
+      "key": "%mainmenu.status",
+      "value": "Status"
+    },
+    {
+      "key": "%mainmenu.option",
+      "value": "Options"
+    },
+    {
+      "key": "%mainmenu.help",
+      "value": "Help"
+    },
+    {
+      "key": "%mainmenu.giveup",
+      "value": "Give Up"
+    },
+    {
+      "key": "%menu.btn0",
+      "value": "More Details"
+    },
+    {
+      "key": "%menu.btn1",
+      "value": "Menu"
+    },
+    {
+      "key": "%menu.btn2",
+      "value": "Options"
+    },
+    {
+      "key": "%menu.btn3",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%menu.btn4",
+      "value": "Garage"
+    },
+    {
+      "key": "%menu.btn5",
+      "value": "Facilities"
+    },
+    {
+      "key": "%menu.btn6",
+      "value": "Community"
+    },
+    {
+      "key": "%menu.btn7",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%menu.btn8",
+      "value": "Controls"
+    },
+    {
+      "key": "%menu.text",
+      "value": "These instructions use the default settings."
+    },
+    {
+      "key": "%mc_01.text0",
+      "value": "\u001b< Safe Area > A field where players cannot take damage. You can freely log out or select a dimension\\nhere.\\n\\n< Normal Field >\\nA field where you fight hostile robots. Player attacks do not damage other players.\\n\\n< Danger Zone >\\nA field where you fight hostile robots. Player attacks can damage other players.\\n\\n< Area Level Scaling >\\nThe bottom right of the screen shows LvExp scaling as a percentage.\\nEXP gains vary depending on your selected robot's LV."
+    },
+    {
+      "key": "%mc_01.index",
+      "value": " Field"
+    },
+    {
+      "key": "%mc_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_01.index1",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mc_02.text0",
+      "value": "\u001b< Select Mission >\\nAccept missions at the Mission Center.\\nPress Join Mission to open the deployment selection screen.\\n\\n< Select Deployment Robots >\\nMove robots that meet the requirements from your commando to the deployment slots.\\nPress Confirm to enter the matching room.\\n\\n< Matching Room >\\nPress Start Mission to enter the mission. Press Leave to exit the matching room.\\n\\nThe first person to enter the matching room becomes the leader.\\n\\nThe leader can remove any member who has not pressed\\nthe Start Mission button.\\n"
+    },
+    {
+      "key": "%mc_02.index",
+      "value": " Missions"
+    },
+    {
+      "key": "%mc_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_02.index1",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mc_03.text0",
+      "value": "Once inside, you cannot turn back. You must clear the dungeon to leave.\\nIf your entire commando is defeated, you lose all items and EXP gained inside the dungeon."
+    },
+    {
+      "key": "%mc_03.index",
+      "value": " Dungeons"
+    },
+    {
+      "key": "%mc_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_03.index1",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mc_04.text0",
+      "value": "Players split into 4 teams, A-D, and fight each other.\\nPress the action button at a team's gate to join that team.\\nThe first team to reach the target score wins, and the match resets.\\nDamage and destroyed robots in the training arena are restored when you move to another field.\\n\\nYou cannot take damage until you join a team."
+    },
+    {
+      "key": "%mc_04.index",
+      "value": " Training Arena"
+    },
+    {
+      "key": "%mc_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_04.index1",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mc_05.text0",
+      "value": "Fight other players in PVP.\\n\\nOnly available in its dedicated dimension."
+    },
+    {
+      "key": "%mc_05.index",
+      "value": " Robot GP"
+    },
+    {
+      "key": "%mc_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_05.index1",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mc_06.text0",
+      "value": "Players split into 4 factions and fight in PVP across an entire planet.\\nHeld at scheduled times. The dimension is hidden when the event is not running.\\n\\nOnly available in its dedicated dimension."
+    },
+    {
+      "key": "%mc_06.index",
+      "value": " Battle Star League"
+    },
+    {
+      "key": "%mc_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_06.index1",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mc_menu.btn1",
+      "value": "Field"
+    },
+    {
+      "key": "%mc_menu.btn2",
+      "value": "Missions"
+    },
+    {
+      "key": "%mc_menu.btn3",
+      "value": "Dungeons"
+    },
+    {
+      "key": "%mc_menu.btn4",
+      "value": "Training Arena"
+    },
+    {
+      "key": "%mc_menu.btn5",
+      "value": "Robot GP"
+    },
+    {
+      "key": "%mc_menu.btn6",
+      "value": "Battle Star League"
+    },
+    {
+      "key": "%mc_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mc_menu.index",
+      "value": "Game Modes"
+    },
+    {
+      "key": "%mission_centre_index.mission",
+      "value": "Missions"
+    },
+    {
+      "key": "%mission_robo_select.mes",
+      "value": "Choose your robots to deploy!\\nRemember to check\\nthe entry requirements!"
+    },
+    {
+      "key": "%mission_robo_select.robo_select",
+      "value": "Select Deployment Robots"
+    },
+    {
+      "key": "%mission_robo_select.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%mission_robo_select.cancel",
+      "value": "Reset"
+    },
+    {
+      "key": "%mission_robo_select.go",
+      "value": "Confirm"
+    },
+    {
+      "key": "%mission_robo_select.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%mission_robo_select.size",
+      "value": "Size"
+    },
+    {
+      "key": "%mission_robo_select.latent",
+      "value": "Pot."
+    },
+    {
+      "key": "%mission_robo_select.sumcost",
+      "value": "Total Cost"
+    },
+    {
+      "key": "%mission_robo_select.precondition",
+      "value": "Rank Requirement"
+    },
+    {
+      "key": "%mission_robo_select.sumcost2",
+      "value": "Total Cost"
+    },
+    {
+      "key": "%mission_robo_select.participant",
+      "value": "Players"
+    },
+    {
+      "key": "%mission_robo_select.precondition",
+      "value": "Entry Requirements"
+    },
+    {
+      "key": "%mission_select.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%mission_select.mission_select",
+      "value": "Select Mission"
+    },
+    {
+      "key": "%mission_select.mes",
+      "value": "The missions you can join\\nshould be listed. Choose one!"
+    },
+    {
+      "key": "%mission_select.1st_clear",
+      "value": "First Clear"
+    },
+    {
+      "key": "%mission_select.mission_go",
+      "value": "Join!"
+    },
+    {
+      "key": "%mission_select.missionrankcondition",
+      "value": "Blazing Comet 12345 or higher"
+    },
+    {
+      "key": "%mission_select.introduction",
+      "value": "CN Intelligence has confirmed that the Demon Army massed numerous 10,000t-class Ivanov battleships in the north before dawn. Your orders are to destroy these battleships at once and prevent the Demon Army from advancing south."
+    },
+    {
+      "key": "%mission_select.precondition",
+      "value": "Entry Requirements"
+    },
+    {
+      "key": "%mission_select.state_force",
+      "value": "Squad Status"
+    },
+    {
+      "key": "%mission_select.mission_name",
+      "value": "Mission Name"
+    },
+    {
+      "key": "%mission_select.clear_pay",
+      "value": "Clear Reward"
+    },
+    {
+      "key": "%mission_select.participant",
+      "value": "Players"
+    },
+    {
+      "key": "%mission_select.precondition",
+      "value": "Rank Requirement"
+    },
+    {
+      "key": "%mission_select.see_ranking",
+      "value": "Rankings"
+    },
+    {
+      "key": "%mission_select.see_mission",
+      "value": "Missions"
+    },
+    {
+      "key": "%mission_select.detail",
+      "value": "Details"
+    },
+    {
+      "key": "%mission_select.timeattack",
+      "value": "Time Attack"
+    },
+    {
+      "key": "%mission_select.scoreattack",
+      "value": "Score Attack"
+    },
+    {
+      "key": "%mission_select.ranking_placestr",
+      "value": "Place"
+    },
+    {
+      "key": "%mission_select.ranking_playerstr",
+      "value": "Player"
+    },
+    {
+      "key": "%mission_select.ranking_cleartimestr",
+      "value": "Clear Time"
+    },
+    {
+      "key": "%mission_select.ranking_scorestr",
+      "value": "Score"
+    },
+    {
+      "key": "%mission_select.ranking_totalcoststr",
+      "value": "Total Cost"
+    },
+    {
+      "key": "%mission_select.ranking_membernumstr",
+      "value": "Members"
+    },
+    {
+      "key": "%mission_select.ranking_cleardatestr",
+      "value": "Date"
+    },
+    {
+      "key": "%mission_select.detailbtn_return",
+      "value": "Back"
+    },
+    {
+      "key": "%mission_select.detail_memname",
+      "value": "Name"
+    },
+    {
+      "key": "%mission_select.detail_playerrank",
+      "value": "Rank"
+    },
+    {
+      "key": "%mission_select.detail_guild",
+      "value": "Guild"
+    },
+    {
+      "key": "%mission_select.detail_cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%mission_select.detail_receiveddmg",
+      "value": "Damage Taken"
+    },
+    {
+      "key": "%mission_select.detail_dealtdmg",
+      "value": "Damage Dealt"
+    },
+    {
+      "key": "%mission_select.detail_killnum",
+      "value": "Kills"
+    },
+    {
+      "key": "%missioncomplete_n.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_n.destroy_bonus",
+      "value": "Kill Bonus"
+    },
+    {
+      "key": "%missioncomplete_n.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missioncomplete_n.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_n_item.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_n_item.destroy_bonus",
+      "value": "Kill Bonus"
+    },
+    {
+      "key": "%missioncomplete_n_item.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missioncomplete_n_item.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_n_tes.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_n_tes.destroy_bonus",
+      "value": "Kill Bonus"
+    },
+    {
+      "key": "%missioncomplete_n_tes.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missioncomplete_n_tes.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_p.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_p.destroy_bonus",
+      "value": "Kill Bonus"
+    },
+    {
+      "key": "%missioncomplete_p.excellent_bonus",
+      "value": "Excellent Bonus"
+    },
+    {
+      "key": "%missioncomplete_p.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missioncomplete_p.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_p_item.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_p_item.destroy_bonus",
+      "value": "Kill Bonus"
+    },
+    {
+      "key": "%missioncomplete_p_item.excellent_bonus",
+      "value": "Excellent Bonus"
+    },
+    {
+      "key": "%missioncomplete_p_item.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missioncomplete_p_item.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_p_tes.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_p_tes.destroy_bonus",
+      "value": "Kill Bonus"
+    },
+    {
+      "key": "%missioncomplete_p_tes.excellent_bonus",
+      "value": "Excellent Bonus"
+    },
+    {
+      "key": "%missioncomplete_p_tes.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missioncomplete_p_tes.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_raid.clear_bonus",
+      "value": "Clear Bonus"
+    },
+    {
+      "key": "%missioncomplete_raid.destroy_bonus",
+      "value": "Contribution Bonus"
+    },
+    {
+      "key": "%missioncomplete_raid.repair_cost",
+      "value": "Wipeout Penalty"
+    },
+    {
+      "key": "%missioncomplete_raid.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missioncomplete_battletower.ranking1",
+      "value": "1st"
+    },
+    {
+      "key": "%missioncomplete_battletower.ranking2",
+      "value": "2nd"
+    },
+    {
+      "key": "%missioncomplete_battletower.ranking3",
+      "value": "3rd"
+    },
+    {
+      "key": "%missioncomplete_battletower.rankingS",
+      "value": "Rank %s"
+    },
+    {
+      "key": "%missionfailed.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%missionfailed.repair_cost",
+      "value": "Revive / Repair Cost"
+    },
+    {
+      "key": "%missionstageclear.m2_nextstage",
+      "value": "Defeat the bandit leader!!"
+    },
+    {
+      "key": "%missionstart.m1_subject",
+      "value": "Defeat the Death Gigander army!!"
+    },
+    {
+      "key": "%mn_01.text0",
+      "value": "If you have robots in your commando, use the Commando button to switch between them.\\nAfter switching outside a safe area, you must wait 60 seconds before switching again.\\n"
+    },
+    {
+      "key": "%mn_01.index",
+      "value": " Commando"
+    },
+    {
+      "key": "%mn_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_01.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_02.text0",
+      "value": "Purchased and collected objects go into your carry inventory.\\nDouble-click an item to use it.\\n"
+    },
+    {
+      "key": "%mn_02.index",
+      "value": " Carry Items"
+    },
+    {
+      "key": "%mn_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_02.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_03.text0",
+      "value": "< Small >\\nView the abilities of your current robot.\\n\\n< Large >\\nView detailed abilities of your current robot.\\n"
+    },
+    {
+      "key": "%mn_03.index",
+      "value": " Status"
+    },
+    {
+      "key": "%mn_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_03.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_04.text0",
+      "value": "Change various game settings."
+    },
+    {
+      "key": "%mn_04.index",
+      "value": " Options"
+    },
+    {
+      "key": "%mn_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_04.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_05.text0",
+      "value": "Read explanations of the controls and facilities."
+    },
+    {
+      "key": "%mn_05.index",
+      "value": " Help"
+    },
+    {
+      "key": "%mn_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_05.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_06.text0",
+      "value": "Visit the Department Store, Gacha Center, and other locations."
+    },
+    {
+      "key": "%mn_06.index",
+      "value": " Department Store"
+    },
+    {
+      "key": "%mn_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_06.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_07.text0",
+      "value": "Return to dimension selection or exit the game."
+    },
+    {
+      "key": "%mn_07.index",
+      "value": " EXIT"
+    },
+    {
+      "key": "%mn_07.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_07.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_08.text0",
+      "value": "Only available during missions or inside dungeons.\\n\\nDefeats your current robot and all robots in your commando.\\n\\nIn missions, this counts as a failure and you are charged robot [ Revive / Repair ] costs.\\n\\nIn dungeons, you lose all items, parts, and EXP gained inside the dungeon.\\n"
+    },
+    {
+      "key": "%mn_08.index",
+      "value": " Give Up"
+    },
+    {
+      "key": "%mn_08.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_08.index1",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_community_01.shat",
+      "value": "Chat"
+    },
+    {
+      "key": "%mn_community_01.window",
+      "value": "Window"
+    },
+    {
+      "key": "%mn_item01.sort",
+      "value": "Sort"
+    },
+    {
+      "key": "%mn_item01.tab",
+      "value": "Category Name Type Cancel "
+    },
+    {
+      "key": "%mn_item01.integration",
+      "value": "Stack"
+    },
+    {
+      "key": "%mn_item01.division",
+      "value": "Split"
+    },
+    {
+      "key": "%mn_menu.btn1",
+      "value": "Give Up"
+    },
+    {
+      "key": "%mn_menu.btn2",
+      "value": "EXIT"
+    },
+    {
+      "key": "%mn_menu.btn3",
+      "value": "Department Store"
+    },
+    {
+      "key": "%mn_menu.btn4",
+      "value": "Help"
+    },
+    {
+      "key": "%mn_menu.btn5",
+      "value": "Options"
+    },
+    {
+      "key": "%mn_menu.btn6",
+      "value": "Status"
+    },
+    {
+      "key": "%mn_menu.btn7",
+      "value": "Carry Items"
+    },
+    {
+      "key": "%mn_menu.btn8",
+      "value": "Commando"
+    },
+    {
+      "key": "%mn_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%mn_menu.index",
+      "value": "Menu"
+    },
+    {
+      "key": "%mn_status_01.defeats",
+      "value": "Losses"
+    },
+    {
+      "key": "%mn_status_01.war_record",
+      "value": "Record"
+    },
+    {
+      "key": "%mn_status_01.wins",
+      "value": "Wins"
+    },
+    {
+      "key": "%mn_status_01.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%mn_status_01.status",
+      "value": "Status-Small Status-Large Quest-List"
+    },
+    {
+      "key": "%mn_status_01.info_view",
+      "value": "Info"
+    },
+    {
+      "key": "%mn_status_02.time1",
+      "value": "times"
+    },
+    {
+      "key": "%mn_status_02.win_record",
+      "value": "Streak"
+    },
+    {
+      "key": "%mn_status_02.wins",
+      "value": "Wins"
+    },
+    {
+      "key": "%mn_status_02.defeats",
+      "value": "Losses"
+    },
+    {
+      "key": "%mn_status_02.time2",
+      "value": "times"
+    },
+    {
+      "key": "%mn_status_02.chicken",
+      "value": "Chicken"
+    },
+    {
+      "key": "%mn_status_02.time3",
+      "value": "times"
+    },
+    {
+      "key": "%mn_status_02.bravely",
+      "value": "Valor"
+    },
+    {
+      "key": "%mn_status_02.time4",
+      "value": "times"
+    },
+    {
+      "key": "%mn_status_02.war_record",
+      "value": "Record"
+    },
+    {
+      "key": "%mn_status_02.text",
+      "value": "A solitary hunter who serves no one and belongs nowhere, ruler of the skies. Floats like a butterfly and stings like a bee."
+    },
+    {
+      "key": "%mn_status_02.status",
+      "value": "Status-Small Status-Large Quest-List"
+    },
+    {
+      "key": "%mn_status_02.info_view",
+      "value": "Info"
+    },
+    {
+      "key": "%mn_status_02.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%mn_status_02.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%mn_status_02.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%mn_status_02.aura_crt",
+      "value": "AURA Cart."
+    },
+    {
+      "key": "%mn_status_02.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%mn_status_03.info",
+      "value": "Info"
+    },
+    {
+      "key": "%mn_status_03.status",
+      "value": "Status-Small Status-Large Information "
+    },
+    {
+      "key": "%mn_status_03.info_view",
+      "value": "Info"
+    },
+    {
+      "key": "%mn_quest",
+      "value": "Quests"
+    },
+    {
+      "key": "%mn_quest.sort_tab",
+      "value": "Quest-Category Quest-Name Location Cancel"
+    },
+    {
+      "key": "%mn_quest.condition_tab",
+      "value": "All Available Active Cleared"
+    },
+    {
+      "key": "%mn_quest.robo",
+      "value": "Robot:"
+    },
+    {
+      "key": "%mn_quest.place",
+      "value": "Location:"
+    },
+    {
+      "key": "%mn_system.set_up",
+      "value": "Settings"
+    },
+    {
+      "key": "%mn_system.default",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "%mn_system_controller_01.default",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "%mn_system_controller_01.controller",
+      "value": "Controller"
+    },
+    {
+      "key": "%mn_system_controller_01.Lock",
+      "value": "Lock"
+    },
+    {
+      "key": "%mn_system_controller_01.target_change",
+      "value": "Change Target"
+    },
+    {
+      "key": "%mn_system_controller_01.weapon_change",
+      "value": "Change Weapon"
+    },
+    {
+      "key": "%mn_system_controller_01.sub_weapon",
+      "value": "Sub Weapon"
+    },
+    {
+      "key": "%mn_system_controller_01.main_weapon",
+      "value": "Main Weapon"
+    },
+    {
+      "key": "%mn_system_controller_01.fly",
+      "value": "Flight"
+    },
+    {
+      "key": "%mn_system_controller_01.controller1",
+      "value": "Controller"
+    },
+    {
+      "key": "%mn_system_controller_01.other",
+      "value": "Other"
+    },
+    {
+      "key": "%mn_system_graphics_01.default",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "%mn_system_graphics_01.name",
+      "value": "Show Names"
+    },
+    {
+      "key": "%mn_system_graphics_01.graphic",
+      "value": "Graphics"
+    },
+    {
+      "key": "%mn_system_graphics_01.fsaa_tab",
+      "value": "Off x8 x16 "
+    },
+    {
+      "key": "%mn_system_graphics_01.performance_tab",
+      "value": "Small Medium Large "
+    },
+    {
+      "key": "%mn_system_graphics_01.dpi_tab",
+      "value": "800x600 1024x768 1280x1024 "
+    },
+    {
+      "key": "%mn_system_graphics_01.display_tab",
+      "value": "Windowed Fullscreen "
+    },
+    {
+      "key": "%mn_system_graphics_01.performance",
+      "value": "Performance"
+    },
+    {
+      "key": "%mn_system_graphics_01.dpi",
+      "value": "Resolution"
+    },
+    {
+      "key": "%mn_system_graphics_01.display",
+      "value": "Display"
+    },
+    {
+      "key": "%mn_system_graphics_01.other",
+      "value": "Other"
+    },
+    {
+      "key": "%mn_system_graphics_01.controller",
+      "value": "Controller"
+    },
+    {
+      "key": "%mn_system_other_01.othere_view",
+      "value": "Other Displays"
+    },
+    {
+      "key": "%mn_system_other_01.default",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "%mn_system_other_01.other",
+      "value": "Other"
+    },
+    {
+      "key": "%mn_system_other_01.function_key",
+      "value": "Function Keys"
+    },
+    {
+      "key": "%mn_system_other_01.sound",
+      "value": "Sound"
+    },
+    {
+      "key": "%mn_system_other_01.se_vol",
+      "value": "SE Volume"
+    },
+    {
+      "key": "%mn_system_other_01.bgm_vol",
+      "value": "BGM Volume"
+    },
+    {
+      "key": "%mn_system_other_01.name",
+      "value": "Show Names"
+    },
+    {
+      "key": "%mn_system_other_01.dim_log_out",
+      "value": "Log Out of Dimension"
+    },
+    {
+      "key": "%mn_system_other_01.chat_input",
+      "value": "Chat Input"
+    },
+    {
+      "key": "%mn_system_other_01.controller",
+      "value": "Controller"
+    },
+    {
+      "key": "%ok_cancel_dlg.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "%ok_cancel_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%ok_cancel_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%ok_cancel_dlg.mes",
+      "value": "Message"
+    },
+    {
+      "key": "%ok_cancel2_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%ok_cancel2_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%ok_cancel2_dlg.mes",
+      "value": "Confirmation"
+    },
+    {
+      "key": "%ok_cancel3_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%ok_cancel3_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%ok_cancel3_dlg.mes",
+      "value": "Confirmation"
+    },
+    {
+      "key": "%ok_cancel4_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%ok_cancel4_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%ok_cancel4_dlg.mes",
+      "value": "Message"
+    },
+    {
+      "key": "%ok_dlg.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ok_dlg.mes",
+      "value": "Message"
+    },
+    {
+      "key": "%ok_dlg2.back",
+      "value": "Back"
+    },
+    {
+      "key": "%ok_dlg2.mes",
+      "value": "Message"
+    },
+    {
+      "key": "%gift_dlg.mes",
+      "value": "Send a gift"
+    },
+    {
+      "key": "%gift_dlg.to",
+      "value": "Recipient"
+    },
+    {
+      "key": "%gift_dlg.comment",
+      "value": "Comment"
+    },
+    {
+      "key": "%op_01.text0",
+      "value": "< Movement >\\nPress W to move forward, A to strafe left, S to move backward, and D to strafe right.\\n\\n< Facing >\\nMove the mouse pointer to turn.\\n\\n< Dash >\\nDouble-tap a movement button to dash.\\n\\n< Flight >\\nPress SPACE once to jump. Hold it to fly."
+    },
+    {
+      "key": "%op_01.index",
+      "value": " Movement"
+    },
+    {
+      "key": "%op_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_01.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_02.text0",
+      "value": "< Main >\\nLeft-click to attack with your selected main weapon.\\nUsually a ranged weapon, with a red part-icon background.\\nHigher shooting ability lets your robot equip more powerful main weapons.\\n\\n< Sub >\\nRight-click to attack with your selected sub weapon.\\nUsually a close-range weapon, with a blue part-icon background.\\nHigher melee ability lets your robot equip more powerful sub weapons.\\n\\nSome sub weapons are ranged, and some parts have both built-in main and sub weapons."
+    },
+    {
+      "key": "%op_02.index",
+      "value": " Attack"
+    },
+    {
+      "key": "%op_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_02.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_03.text0",
+      "value": "< Action >\\nRight-click when the icon beside the HP bar at the top of the screen lights up.\\nPick up items, use link points, enter facilities, or talk to NPCs."
+    },
+    {
+      "key": "%op_03.index",
+      "value": " Action"
+    },
+    {
+      "key": "%op_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_03.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_04.text0",
+      "value": "Hold Shift and click the left or right mouse button to switch weapons.\\n\\nYou can switch when you have at least 2 main weapons or at least 2 sub weapons equipped."
+    },
+    {
+      "key": "%op_04.index",
+      "value": " Change Weapon"
+    },
+    {
+      "key": "%op_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_04.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_05.text0",
+      "value": "< Use Items >\\nOpen Carry Items and double-click the item you want to use.\\n\\n< Item Shortcuts >\\nAssign items to shortcut keys ( F 1 - F 8 ), then press\\nthe corresponding key ( F 1 - F 8 ) to use them quickly.\\nDrag and drop items from the item list to set their shortcuts.\\n\\n< Delete Items >\\nDrag an item from your carry inventory and drop it in the trash to delete it.\\nYou can also select an item and click the trash.\\nBuy items at Item Stores.\\nEnemies may also drop items that are unavailable in stores.\\n"
+    },
+    {
+      "key": "%op_05.index",
+      "value": " Item"
+    },
+    {
+      "key": "%op_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_05.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_06.text0",
+      "value": "Press P to transform.\\nAfter transforming, you must wait for the cooldown before transforming again.\\nTransformation is only possible when the robot's parts meet the requirements."
+    },
+    {
+      "key": "%op_06.index",
+      "value": " Transform"
+    },
+    {
+      "key": "%op_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_06.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_07.text0",
+      "value": "Press F to activate Aura.\\nThe Aura gauge at the top of the screen must be full. It drains while Aura is active.\\n\\nAura can be activated if at least 1 part of your robot supports it."
+    },
+    {
+      "key": "%op_07.index",
+      "value": "Aura"
+    },
+    {
+      "key": "%op_07.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_07.index1",
+      "value": "Controls"
+    },
+    {
+      "key": "%op_menu.btn1",
+      "value": "Aura"
+    },
+    {
+      "key": "%op_menu.btn2",
+      "value": "Transform"
+    },
+    {
+      "key": "%op_menu.btn3",
+      "value": "Item"
+    },
+    {
+      "key": "%op_menu.btn4",
+      "value": "Change Weapon"
+    },
+    {
+      "key": "%op_menu.btn5",
+      "value": "Action"
+    },
+    {
+      "key": "%op_menu.btn6",
+      "value": "Attack"
+    },
+    {
+      "key": "%op_menu.btn7",
+      "value": "Movement"
+    },
+    {
+      "key": "%op_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%op_menu.index",
+      "value": "Controls"
+    },
+    {
+      "key": "%option.set_up",
+      "value": "Settings"
+    },
+    {
+      "key": "%option.default",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "%option.option",
+      "value": "Options"
+    },
+    {
+      "key": "%parts_buy_cd_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%parts_buy_cd_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%parts_buy_cd_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%parts_buy_cd_limit_dlg.limitnote",
+      "value": "Note: Restriction message"
+    },
+    {
+      "key": "%parts_buy_cd_limit_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%parts_buy_cd_limit_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%parts_buy_cd_limit_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%parts_buy_mt_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%parts_buy_mt_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%parts_buy_mt_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%parts_buy_mt_limit_dlg.limitnote",
+      "value": "Note: Restriction message"
+    },
+    {
+      "key": "%parts_buy_mt_limit_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%parts_buy_mt_limit_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%parts_buy_mt_limit_dlg.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%parts_buysell.mes",
+      "value": "Welcome, welcome!\\nBuy and sell your\\nparts right here!"
+    },
+    {
+      "key": "%parts_buysell.robo_shop",
+      "value": "Buy / Sell Robots"
+    },
+    {
+      "key": "%parts_buysell.parts_shop",
+      "value": "Buy / Sell Parts"
+    },
+    {
+      "key": "%parts_sell_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%parts_sell_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%parts_sell_dlg.sell_check",
+      "value": "Sell this. Are you sure?"
+    },
+    {
+      "key": "%parts_sell_dlg.sell_check2",
+      "value": "Selling will exchange this for items. Are you sure?"
+    },
+    {
+      "key": "%partsitem_garage.tab",
+      "value": "Category Name Cancel "
+    },
+    {
+      "key": "%partsitem_garage.tab2",
+      "value": "Category Name Type Cancel "
+    },
+    {
+      "key": "%partsitem_garage.sort",
+      "value": "Sort"
+    },
+    {
+      "key": "%partsitem_garage.allitem_garage",
+      "value": "All Items to Garage"
+    },
+    {
+      "key": "%partsitem_garage.allparts_garage",
+      "value": "All Parts to Garage"
+    },
+    {
+      "key": "%partsitem_garage.selectgarage",
+      "value": "Batch to Garage"
+    },
+    {
+      "key": "%partsitem_garage.selectcarry",
+      "value": "Batch to Carry"
+    },
+    {
+      "key": "%partsitem_garage.item_combine",
+      "value": " Item Synthesis List"
+    },
+    {
+      "key": "%partsitem_garage.mes",
+      "value": "Choose which items\\nto take. Want quick access?\\nUse your shortcuts!"
+    },
+    {
+      "key": "%partsitem_garage.integration",
+      "value": "Stack"
+    },
+    {
+      "key": "%partsitem_garage.division",
+      "value": "Split"
+    },
+    {
+      "key": "%partsitem_garage.allitem_garage.dlg",
+      "value": "Store all carried items in the garage."
+    },
+    {
+      "key": "%partsitem_garage.allparts_garage.dlg",
+      "value": "Store all carried parts in the garage."
+    },
+    {
+      "key": "%ranking_large.easy_view",
+      "value": "Compact View"
+    },
+    {
+      "key": "%ranking_large.class",
+      "value": "Class"
+    },
+    {
+      "key": "%ranking_large.tab",
+      "value": "Class-100 Class-600 Class-1500 "
+    },
+    {
+      "key": "%ranking_large.total",
+      "value": "Overall"
+    },
+    {
+      "key": "%ranking_large.today",
+      "value": "Today"
+    },
+    {
+      "key": "%ranking_large.close",
+      "value": "Close"
+    },
+    {
+      "key": "%ranking_large.top_ranker",
+      "value": "Top Players"
+    },
+    {
+      "key": "%ranking_large.top_10",
+      "value": "  Top Ten"
+    },
+    {
+      "key": "%ranking_large.room_ranking1",
+      "value": " Room Rankings"
+    },
+    {
+      "key": "%ranking_large.room_ranking2",
+      "value": "  Room Rankings"
+    },
+    {
+      "key": "%ranking_large.my_ranking1",
+      "value": "Your Rank"
+    },
+    {
+      "key": "%ranking_large.my_ranking2",
+      "value": "  Your Rank"
+    },
+    {
+      "key": "%ranking_large.cost_600",
+      "value": "Cost 600 Class Top Players"
+    },
+    {
+      "key": "%ranking_large.party_name",
+      "value": "Party Name"
+    },
+    {
+      "key": "%ranking_large.chicken",
+      "value": "Chicken"
+    },
+    {
+      "key": "%ranking_large.bravely",
+      "value": "Valor"
+    },
+    {
+      "key": "%ranking_large.win_record",
+      "value": "Streak"
+    },
+    {
+      "key": "%ranking_large.wins_defeats",
+      "value": "Battle Record"
+    },
+    {
+      "key": "%ranking_large.player",
+      "value": "Player"
+    },
+    {
+      "key": "%ranking_large.ranking",
+      "value": "Place"
+    },
+    {
+      "key": "%ranking_tiny.details_view",
+      "value": "Show Details"
+    },
+    {
+      "key": "%ranking_tiny.total",
+      "value": "Overall"
+    },
+    {
+      "key": "%ranking_tiny.today",
+      "value": "Today"
+    },
+    {
+      "key": "%ranking_tiny.close",
+      "value": "Close"
+    },
+    {
+      "key": "%ranking_tiny.class",
+      "value": "Class"
+    },
+    {
+      "key": "%ranking_tiny.tab",
+      "value": "Class-100 Class-600 Class-1500 "
+    },
+    {
+      "key": "%ranking_tiny.top_10",
+      "value": "Top Ten"
+    },
+    {
+      "key": "%ranking_tiny.room_ranking",
+      "value": "Room Rank"
+    },
+    {
+      "key": "%ranking_tiny.my_ranking",
+      "value": "Your Rank"
+    },
+    {
+      "key": "%ranking_tiny.guildmember",
+      "value": "Guild Members"
+    },
+    {
+      "key": "%mission_ranking_large.sort",
+      "value": "VR Mission Tower"
+    },
+    {
+      "key": "%register_name.mes",
+      "value": "Use 1-10 full-width or half-width characters.\\n    Uppercase and lowercase are distinct."
+    },
+    {
+      "key": "%register_name.mes1",
+      "value": "Enter the player name you will use in the game."
+    },
+    {
+      "key": "%register_name.ok",
+      "value": "Confirm"
+    },
+    {
+      "key": "%register_name.index",
+      "value": "Enter Player Name"
+    },
+    {
+      "key": "%robo_build.new_build",
+      "value": "Build a new robot"
+    },
+    {
+      "key": "%robo_build.new_robo",
+      "value": "New Robot"
+    },
+    {
+      "key": "%robo_build.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_build.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%robo_build.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%robo_build.index",
+      "value": "Build Robot"
+    },
+    {
+      "key": "%robo_build.aura_crt",
+      "value": "AURA Cart."
+    },
+    {
+      "key": "%robo_build.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%robo_build_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_build_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_build_dlg.build_check",
+      "value": "Build with this configuration"
+    },
+    {
+      "key": "%robo_buy2.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_buy2.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_buy2.index",
+      "value": "Buy / Sell Robots"
+    },
+    {
+      "key": "%robo_buy2.buy_check",
+      "value": "Make this purchase. Are you sure?"
+    },
+    {
+      "key": "%robo_buy2.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_buy2.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%robo_buy2.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%robo_buy2.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%robo_buysell.mes",
+      "value": "Welcome!\\nBuy and sell robots here!"
+    },
+    {
+      "key": "%robo_buysell.parts_shop",
+      "value": "Buy / Sell Parts"
+    },
+    {
+      "key": "%robo_buysell.size",
+      "value": "Size"
+    },
+    {
+      "key": "%robo_buysell.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_buysell.details_view",
+      "value": "Show Details"
+    },
+    {
+      "key": "%robo_buysell.index",
+      "value": "Buy / Sell Robots"
+    },
+    {
+      "key": "%robo_chgname_dlg.comment",
+      "value": "Comment"
+    },
+    {
+      "key": "%robo_chgname_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_chgname_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_chgname_dlg.robo_name",
+      "value": "Robot Name"
+    },
+    {
+      "key": "%robo_chgname_dlg.name_check",
+      "value": "Change the robot's name."
+    },
+    {
+      "key": "%robo_disassemble_dlg.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%robo_disassemble_dlg.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%robo_disassemble_dlg.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%robo_disassemble_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_disassemble_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_disassemble_dlg.break_check",
+      "value": "Dismantle the robot into parts."
+    },
+    {
+      "key": "%robo_disassemble_dlg.sell_check",
+      "value": "Dismantle and sell the robot."
+    },
+    {
+      "key": "%robo_garage.latent",
+      "value": "Pot."
+    },
+    {
+      "key": "%robo_garage.size",
+      "value": "Size"
+    },
+    {
+      "key": "%robo_garage.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_garage.tab",
+      "value": "Name Size Cost Type EXP Part-Count Cancel "
+    },
+    {
+      "key": "%robo_garage.sort",
+      "value": "Sort"
+    },
+    {
+      "key": "%robo_garage.break",
+      "value": "Dismantle"
+    },
+    {
+      "key": "%robo_garage.sell",
+      "value": "Sell"
+    },
+    {
+      "key": "%robo_garage.select",
+      "value": "Select All"
+    },
+    {
+      "key": "%robo_garage.selecthelp",
+      "value": "Drag to Select"
+    },
+    {
+      "key": "%robo_garage.lock",
+      "value": "Lock"
+    },
+    {
+      "key": "%robo_garage.customize",
+      "value": "Customize"
+    },
+    {
+      "key": "%robo_garage.name",
+      "value": "Name / Comment"
+    },
+    {
+      "key": "%robo_garage.repair",
+      "value": "Revive / Repair"
+    },
+    {
+      "key": "%robo_garage.repairall",
+      "value": "Revive / Repair Commando"
+    },
+    {
+      "key": "%robo_garage.robo_build",
+      "value": "Build Robot"
+    },
+    {
+      "key": "%robo_garage.mes",
+      "value": "Choose the robots you want\\nto take from your garage\\nand place them in your commando!"
+    },
+    {
+      "key": "%robo_garage.sum_cost",
+      "value": "Total Cost"
+    },
+    {
+      "key": "%robo_garage_search_panel.title",
+      "value": "Search Parts"
+    },
+    {
+      "key": "%robo_garage_search_panel.title0",
+      "value": "Search Items"
+    },
+    {
+      "key": "%robo_garage_search_panel.title1",
+      "value": "Search Parts"
+    },
+    {
+      "key": "%robo_garage_serach_panel.categorystr",
+      "value": "Category"
+    },
+    {
+      "key": "%robo_garage_search_panel.keyword",
+      "value": "Keyword"
+    },
+    {
+      "key": "%robo_garage_search_panel.precise",
+      "value": "Starts With"
+    },
+    {
+      "key": "%robo_garage_search_panel.search",
+      "value": "Search"
+    },
+    {
+      "key": "%robo_garage_serach_panel.search_tab",
+      "value": "All HD-Parts BD-Parts LG-Parts AM-Parts BS-Parts Main-Weapons Sub-Weapons Tuning-Parts Voice-Memory"
+    },
+    {
+      "key": "%robo_garage_search_panel.close",
+      "value": "Close"
+    },
+    {
+      "key": "%robo_garage_search_paresent.button",
+      "value": "Gift Search"
+    },
+    {
+      "key": "%robo_garage_search_paresent.sell",
+      "value": "Sell"
+    },
+    {
+      "key": "%robo_garage_search_paresent.get",
+      "value": "Collect"
+    },
+    {
+      "key": "%robo_garage_search_paresent.demand",
+      "value": "Set Quantity"
+    },
+    {
+      "key": "%robo_garage_search_paresent.allcheck",
+      "value": "Check All"
+    },
+    {
+      "key": "%robo_garage_search_paresent.search_tab0",
+      "value": "All Consumables Materials"
+    },
+    {
+      "key": "%robo_garage_search_paresent.search_tab1",
+      "value": "All HD-Parts BD-Parts LG-Parts AM-Parts BS-Parts Main-Weapons Sub-Weapons Tuning-Parts Voice-Memory"
+    },
+    {
+      "key": "%robo_garage_search_paresent.buy",
+      "value": "Sold!"
+    },
+    {
+      "key": "%robo_garage_index.limit_check",
+      "value": " Check Expiration"
+    },
+    {
+      "key": "%robo_garage_index.item_combine",
+      "value": "  Item Synthesis List"
+    },
+    {
+      "key": "%robo_garage_index.robo_list",
+      "value": "Robot List"
+    },
+    {
+      "key": "%robo_garage_index.parts_list",
+      "value": "Parts List"
+    },
+    {
+      "key": "%robo_garage_index.item_list",
+      "value": "Item List"
+    },
+    {
+      "key": "%robo_garage_index.guild",
+      "value": "Guild"
+    },
+    {
+      "key": "%robo_garage_info.mes",
+      "value": "View information about\\ntime-limited items. Check for\\nanything that expires soon!"
+    },
+    {
+      "key": "%robo_make.mes",
+      "value": "This is a present from me!"
+    },
+    {
+      "key": "%robo_make.mes1",
+      "value": "For completing the tutorial"
+    },
+    {
+      "key": "%robo_make.index",
+      "value": "Create New Robot"
+    },
+    {
+      "key": "%robo_make.ok",
+      "value": "Confirm"
+    },
+    {
+      "key": "%robo_make2.mes",
+      "value": "This is a present from me!"
+    },
+    {
+      "key": "%robo_make2.mes1",
+      "value": "For completing the tutorial"
+    },
+    {
+      "key": "%robo_make2.robo_check",
+      "value": "Choose this robot?"
+    },
+    {
+      "key": "%robo_make2.index",
+      "value": "Create New Robot"
+    },
+    {
+      "key": "%robo_make2.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_make2.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_make2.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_make2.comment",
+      "value": "The Angel Army's latest mass-produced robot. It focuses on basic performance, particularly defense, with a simple design to keep costs down."
+    },
+    {
+      "key": "%robo_paint_custom.ok",
+      "value": "  Confirm"
+    },
+    {
+      "key": "%robo_paint_custom.skin",
+      "value": "Skin Edit"
+    },
+    {
+      "key": "%robo_paint_custom.easy_paint",
+      "value": "Quick Paint"
+    },
+    {
+      "key": "%robo_paint_custom.parts_paint",
+      "value": "Parts Paint"
+    },
+    {
+      "key": "%robo_paint_custom.mes",
+      "value": "Choose a robot for us\\nto paint part by part!"
+    },
+    {
+      "key": "%robo_paint_custom.change",
+      "value": "Transform"
+    },
+    {
+      "key": "%robo_paint_custom2.shuffle",
+      "value": "Shuffle"
+    },
+    {
+      "key": "%robo_paint_custom2.comment",
+      "value": "The Angel Army's latest mass-produced robot. It focuses on basic performance, particularly defense, with a simple design to keep costs down."
+    },
+    {
+      "key": "%robo_paint_custom2.light_color",
+      "value": "Light Color"
+    },
+    {
+      "key": "%robo_paint_custom2.sub_color",
+      "value": "Sub Color"
+    },
+    {
+      "key": "%robo_paint_custom2.main_color",
+      "value": "Main Color"
+    },
+    {
+      "key": "%robo_paint_custom2.index",
+      "value": "Parts Paint"
+    },
+    {
+      "key": "%robo_paint_easy.ok",
+      "value": "  Confirm"
+    },
+    {
+      "key": "%robo_paint_easy.skin",
+      "value": "Skin Edit"
+    },
+    {
+      "key": "%robo_paint_easy.parts_paint",
+      "value": "Parts Paint"
+    },
+    {
+      "key": "%robo_paint_easy.mes",
+      "value": "Choose a robot and leave\\nthe painting to us!"
+    },
+    {
+      "key": "%robo_paint_easy.index",
+      "value": "Quick Paint"
+    },
+    {
+      "key": "%robo_paint_easy2.comment",
+      "value": "The Angel Army's latest mass-produced robot. It focuses on basic performance, particularly defense, with a simple design to keep costs down."
+    },
+    {
+      "key": "%robo_paint_easy2.index",
+      "value": "Quick Paint"
+    },
+    {
+      "key": "%robo_paint_index.skin",
+      "value": "Skin Edit"
+    },
+    {
+      "key": "%robo_paint_index.easy_paint",
+      "value": "Quick Paint"
+    },
+    {
+      "key": "%robo_paint_index.parts_paint",
+      "value": "Parts Paint"
+    },
+    {
+      "key": "%robo_paintcustom_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_paintcustom_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_paintcustom_dlg.paint_price",
+      "value": "Paint Fee"
+    },
+    {
+      "key": "%robo_paintcustom_dlg.paint_check",
+      "value": "Apply paint. Are you sure?"
+    },
+    {
+      "key": "%robo_painteasy_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_painteasy_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_painteasy_dlg.easy_price",
+      "value": "Quick Paint Fee"
+    },
+    {
+      "key": "%robo_painteasy_dlg.paint_check",
+      "value": "Apply paint. Are you sure?"
+    },
+    {
+      "key": "%robo_rebuild.parts_change",
+      "value": "Change parts"
+    },
+    {
+      "key": "%robo_rebuild.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_rebuild.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%robo_rebuild.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%robo_rebuild.index",
+      "value": "Customize"
+    },
+    {
+      "key": "%robo_rebuild.aura_crt",
+      "value": "AURA Cart."
+    },
+    {
+      "key": "%robo_rebuild.sortpopup",
+      "value": "Default vCost vWeight vHP vEN vEN-Recovery vWalk-Spare-Capacity vWalk-Capacity vWalk-Speed vFlight-Spare-Capacity vFlight-Capacity vFlight-Speed vJump vShooting vMelee vPhysical-Defense vBeam-Defense vFlame-Defense vElectric-Defense vStability vSlow-Resistance vFreeze-Resistance vRequired-Shooting vRequired-Melee ^Name"
+    },
+    {
+      "key": "%robo_rebuild.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%robo_rebuild_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_rebuild_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_rebuild_dlg.customize_check",
+      "value": "Use this equipment?"
+    },
+    {
+      "key": "%robo_rebuild_dlg.exp",
+      "value": "EXP did not decrease."
+    },
+    {
+      "key": "%robo_recover_dlg.repair_check",
+      "value": "Revive / repair the selected robot."
+    },
+    {
+      "key": "%robo_recover_dlg.repairall_check",
+      "value": "Revive / repair your commando."
+    },
+    {
+      "key": "%robo_recover_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_recover_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_sell2.no",
+      "value": "No"
+    },
+    {
+      "key": "%robo_sell2.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%robo_sell2.comment",
+      "value": "The Angel Army's latest mass-produced robot. It focuses on basic performance, particularly defense, with a simple design to keep costs down."
+    },
+    {
+      "key": "%robo_sell2.index",
+      "value": "Buy / Sell Robots"
+    },
+    {
+      "key": "%robo_sell2.sell_check",
+      "value": "Sell this. Are you sure?"
+    },
+    {
+      "key": "%robo_sell2.sell_item",
+      "value": "Exchange Items"
+    },
+    {
+      "key": "%robo_sell2.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%robo_sell2.parts_tree",
+      "value": "Parts List"
+    },
+    {
+      "key": "%robo_sell2.tuning_parts",
+      "value": "Tuning"
+    },
+    {
+      "key": "%robo_sell2.voiceaccs",
+      "value": "Voice"
+    },
+    {
+      "key": "%robo_store_index.robo_shop",
+      "value": "Buy / Sell Robots"
+    },
+    {
+      "key": "%robo_store_index.parts_shop",
+      "value": "Buy / Sell Parts"
+    },
+    {
+      "key": "%robogp_index.cost_free",
+      "value": "Unlimited Cost"
+    },
+    {
+      "key": "%robogp_index.room_flame",
+      "value": "Flame Chamber"
+    },
+    {
+      "key": "%robogp_index.cost_free1",
+      "value": "Unlimited Cost"
+    },
+    {
+      "key": "%robogp_index.room_ice",
+      "value": "Ice Chamber"
+    },
+    {
+      "key": "%robogp_index.cost_3000",
+      "value": "Cost 3000 or Less"
+    },
+    {
+      "key": "%robogp_index.room_ice1",
+      "value": "Ice Chamber"
+    },
+    {
+      "key": "%robogp_index.cost_3000_1",
+      "value": "Cost 3000 or Less"
+    },
+    {
+      "key": "%robogp_index.room_flame1",
+      "value": "Flame Chamber"
+    },
+    {
+      "key": "%robogp_index.cost_1000",
+      "value": "Cost 1000 or Less"
+    },
+    {
+      "key": "%robogp_index.room_flame2",
+      "value": "Flame Chamber"
+    },
+    {
+      "key": "%robogp_index.cost_1000_1",
+      "value": "Cost 1000 or Less"
+    },
+    {
+      "key": "%robogp_index.room_ice2",
+      "value": "Ice Chamber"
+    },
+    {
+      "key": "%roboselect.ok",
+      "value": "Confirm"
+    },
+    {
+      "key": "%roboselect.cost",
+      "value": "Cost"
+    },
+    {
+      "key": "%roboselect.size",
+      "value": "Size"
+    },
+    {
+      "key": "%sc_01.text0",
+      "value": "Your robot's HP capacity.\\nDamage reduces HP. At zero, your robot is destroyed.\\nReturn to the garage and click [ Repair / Revive ] to restore it.\\nItems with the same effects can also [ Repair / Revive ] your robot."
+    },
+    {
+      "key": "%sc_01.index",
+      "value": " HP "
+    },
+    {
+      "key": "%sc_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_01.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_02.text0",
+      "value": "Your robot's EN capacity.\\nJumping, flying, dashing, and attacking consume EN. At zero, you cannot act for a while.\\nStand still or walk on the ground to gradually recover EN.\\n"
+    },
+    {
+      "key": "%sc_02.index",
+      "value": " EN "
+    },
+    {
+      "key": "%sc_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_02.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_03.text0",
+      "value": "< Radar >\\nPress the Radar button to cycle\\nthrough [ Nearby / Full Map / Hidden ].\\nShows the area name and your surroundings.\\nThe green arrow at the center represents your robot.\\n\\nAllies appear blue, enemies red, and neutral units yellow.\\nLarge hollow circles indicate bosses; triangles indicate targets.\\nThe red outline is the area boundary.\\n\\n< Planet Map >\\nPress the Planet Map button\\nto [ Show / Hide ] the map.\\n\\nThe location shown in blue is your current position.\\n\\nThese functions may be restricted or unavailable in some dangerous areas or planets."
+    },
+    {
+      "key": "%sc_03.index",
+      "value": " Radar / Map"
+    },
+    {
+      "key": "%sc_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_03.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_04.text0",
+      "value": "Press the Menu button\\nto [ Show / Hide ] the menu.\\nThe menu contains Commando, Carry Items, Status, Options, Help, Department Store, and EXIT.\\n"
+    },
+    {
+      "key": "%sc_04.index",
+      "value": " Menu"
+    },
+    {
+      "key": "%sc_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_04.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_05.text0",
+      "value": "< Clock >\\nThe clock shows the current time.\\nUse it to check shuttle departure times in the Space Terminal.\\n\\n< C$ > \\nC$ (Cosmic Dollars) is an in-game currency used to buy items, robots, and more.\\n\\n< Mt > \\nMt (Metal) is an in-game currency used to buy items, robots, and more."
+    },
+    {
+      "key": "%sc_05.index",
+      "value": " Clock / C$ / Mt"
+    },
+    {
+      "key": "%sc_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_05.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_06.text0",
+      "value": "A list of items assigned to your item shortcuts.\\n"
+    },
+    {
+      "key": "%sc_06.index",
+      "value": " Item Shortcuts"
+    },
+    {
+      "key": "%sc_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_06.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_07.text0",
+      "value": "Press the Members button\\nto [ Show / Hide ] the window.\\nThe Members window shows information about the selected members.\\nUse the dropdown to switch between Party, Friends, and other lists.\\n\\nSee Help > Community for details.\\n"
+    },
+    {
+      "key": "%sc_07.index",
+      "value": "Members"
+    },
+    {
+      "key": "%sc_07.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_07.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_08.text0",
+      "value": "Flashes when you receive messages such as friend requests or party invitations.\\nPress the Call button while it flashes to view the message.\\nMessages disappear automatically after 300 seconds.\\nEmergency messages are an exception.\\n"
+    },
+    {
+      "key": "%sc_08.index",
+      "value": "Call"
+    },
+    {
+      "key": "%sc_08.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_08.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_09.text0",
+      "value": "Type a message and press Enter to speak.\\n\\nPress Show Chat to cycle between a 5-line log, a scrollable log, and no log.\\n\\nChat logs are saved here:\\n\\nC:\\\\CyberStep\\\\C21\\\\chat\\\\\\nC21_2010_0621_2121.log\\nThe format is C21_date_login-start-time.\\n"
+    },
+    {
+      "key": "%sc_09.index",
+      "value": " Chat"
+    },
+    {
+      "key": "%sc_09.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_09.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_10.text0",
+      "value": "Ranks are awarded as you progress and improve your skills.\\nHigher ranks give you access to more areas."
+    },
+    {
+      "key": "%sc_10.index",
+      "value": " Rank"
+    },
+    {
+      "key": "%sc_10.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_10.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_11.text0",
+      "value": "Click the mouse wheel or press ENTER to enter free cursor mode.\\nYou cannot move in this mode, but you can point at another player and right-click to send a friend request, party invitation, and more.\\n"
+    },
+    {
+      "key": "%sc_11.index",
+      "value": " Free Cursor"
+    },
+    {
+      "key": "%sc_11.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_11.index1",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%sc_menu.btn1",
+      "value": "Free Cursor"
+    },
+    {
+      "key": "%sc_menu.btn2",
+      "value": "Rank"
+    },
+    {
+      "key": "%sc_menu.btn3",
+      "value": "Chat"
+    },
+    {
+      "key": "%sc_menu.btn4",
+      "value": "Call"
+    },
+    {
+      "key": "%sc_menu.btn5",
+      "value": "Members"
+    },
+    {
+      "key": "%sc_menu.btn6",
+      "value": "Item Shortcuts"
+    },
+    {
+      "key": "%sc_menu.btn7",
+      "value": "Clock / C$ / Mt"
+    },
+    {
+      "key": "%sc_menu.btn8",
+      "value": "Menu"
+    },
+    {
+      "key": "%sc_menu.btn9",
+      "value": "Radar / Map"
+    },
+    {
+      "key": "%sc_menu.btn10",
+      "value": "E N "
+    },
+    {
+      "key": "%sc_menu.btn11",
+      "value": "H P "
+    },
+    {
+      "key": "%sc_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sc_menu.index",
+      "value": "Screen Guide"
+    },
+    {
+      "key": "%shuttle_cd_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%shuttle_cd_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%shuttle_cd_dlg.service",
+      "value": "Flight CX745 to Planet Poyeen"
+    },
+    {
+      "key": "%shuttle_cd_dlg.service_check",
+      "value": "Check in."
+    },
+    {
+      "key": "%shuttle_cd_dlg.start",
+      "value": "Departure"
+    },
+    {
+      "key": "%shuttle_mt_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%shuttle_mt_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%shuttle_mt_dlg.service",
+      "value": "Flight CX745 to Planet Poyeen"
+    },
+    {
+      "key": "%shuttle_mt_dlg.service_check",
+      "value": "Check in."
+    },
+    {
+      "key": "%shuttle_mt_dlg.start",
+      "value": "Departure"
+    },
+    {
+      "key": "%shuttle_select.mes",
+      "value": "Please check in for the flight\\nat your preferred departure time."
+    },
+    {
+      "key": "%shuttle_select.index",
+      "value": "Select Shuttle"
+    },
+    {
+      "key": "%skin_confirm_dlg.no",
+      "value": "No"
+    },
+    {
+      "key": "%skin_confirm_dlg.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%skin_confirm_dlg.mes",
+      "value": "Message"
+    },
+    {
+      "key": "%skin_dinfo_dlg.back",
+      "value": "Back"
+    },
+    {
+      "key": "%skin_dinfo_dlg.nes",
+      "value": "Message"
+    },
+    {
+      "key": "%skin_edit.file",
+      "value": "File"
+    },
+    {
+      "key": "%skin_edit.name",
+      "value": "Former Instructor"
+    },
+    {
+      "key": "%skin_edit.save_help",
+      "value": "Save skin data for all parts of this robot to a skin file"
+    },
+    {
+      "key": "%skin_edit.save",
+      "value": "      Save"
+    },
+    {
+      "key": "%skin_edit.load_help",
+      "value": "Load a skin file"
+    },
+    {
+      "key": "%skin_edit.load",
+      "value": "    Load"
+    },
+    {
+      "key": "%skin_edit.spuit",
+      "value": "Eyedropper"
+    },
+    {
+      "key": "%skin_edit.zoom",
+      "value": "Zoom"
+    },
+    {
+      "key": "%skin_edit.move",
+      "value": "Movement"
+    },
+    {
+      "key": "%skin_edit.pour",
+      "value": "Fill"
+    },
+    {
+      "key": "%skin_edit.ellipse",
+      "value": "Ellipse"
+    },
+    {
+      "key": "%skin_edit.square",
+      "value": "Rectangle"
+    },
+    {
+      "key": "%skin_edit.straight",
+      "value": "Line"
+    },
+    {
+      "key": "%skin_edit.pencil",
+      "value": "Pencil"
+    },
+    {
+      "key": "%skin_edit.select",
+      "value": "Select"
+    },
+    {
+      "key": "%skin_edit.frame_color",
+      "value": "Frame Color"
+    },
+    {
+      "key": "%skin_edit.user_color",
+      "value": "User Color"
+    },
+    {
+      "key": "%skin_edit.light_color",
+      "value": "Light Color"
+    },
+    {
+      "key": "%skin_edit.sub_color",
+      "value": "Sub Color"
+    },
+    {
+      "key": "%skin_edit.main_color",
+      "value": "Main Color"
+    },
+    {
+      "key": "%skin_edit.reset_help",
+      "value": "Clear Changes"
+    },
+    {
+      "key": "%skin_edit.reset",
+      "value": "Reset"
+    },
+    {
+      "key": "%skin_edit.export_help",
+      "value": "Export the current image as a png file"
+    },
+    {
+      "key": "%skin_edit.export",
+      "value": "Export Image"
+    },
+    {
+      "key": "%skin_edit.inport_help",
+      "value": "Load an image file. Only 16-color gif and png files are supported."
+    },
+    {
+      "key": "%skin_edit.inport",
+      "value": "Import Image"
+    },
+    {
+      "key": "%skin_edit.paste_help",
+      "value": "Paste"
+    },
+    {
+      "key": "%skin_edit.paste",
+      "value": "Paste"
+    },
+    {
+      "key": "%skin_edit.copy_help",
+      "value": "Copy"
+    },
+    {
+      "key": "%skin_edit.copy",
+      "value": "Copy"
+    },
+    {
+      "key": "%skin_edit.undo",
+      "value": "Redo"
+    },
+    {
+      "key": "%skin_edit.redo",
+      "value": "Undo"
+    },
+    {
+      "key": "%skin_edit.pour1",
+      "value": "Fill"
+    },
+    {
+      "key": "%skin_edit.grid_help",
+      "value": "Show grid"
+    },
+    {
+      "key": "%skin_edit.grid",
+      "value": "GRID"
+    },
+    {
+      "key": "%skin_edit.uv_help",
+      "value": "Show UV layout"
+    },
+    {
+      "key": "%skin_edit.uv",
+      "value": "UV"
+    },
+    {
+      "key": "%skin_edit.edit",
+      "value": "Edit"
+    },
+    {
+      "key": "%skin_edit.view",
+      "value": "View"
+    },
+    {
+      "key": "%skin_edit.zoom1",
+      "value": "Zoom"
+    },
+    {
+      "key": "%skin_edit.tool",
+      "value": "Tools"
+    },
+    {
+      "key": "%skin_edit.index",
+      "value": "Skin Edit"
+    },
+    {
+      "key": "%skin_info_dlg.back",
+      "value": "Back"
+    },
+    {
+      "key": "%skin_info_dlg.mes",
+      "value": "Message"
+    },
+    {
+      "key": "%skin_robo_select.ok",
+      "value": "  Confirm"
+    },
+    {
+      "key": "%skin_robo_select.easy_paint",
+      "value": "Quick Paint"
+    },
+    {
+      "key": "%skin_robo_select.parts_paint",
+      "value": "Parts Paint"
+    },
+    {
+      "key": "%skin_robo_select.index",
+      "value": "Skin Edit"
+    },
+    {
+      "key": "%skin_robo_select.mes",
+      "value": "Choose a robot\\nto edit its skin!\\n(Please choose one!)"
+    },
+    {
+      "key": "%space_port_index.charter",
+      "value": "Charter Ship"
+    },
+    {
+      "key": "%space_port_index.text",
+      "value": ""
+    },
+    {
+      "key": "%space_port_index.text1",
+      "value": "Check the destination and fare before boarding."
+    },
+    {
+      "key": "%space_port_index.service_select",
+      "value": "Select Shuttle"
+    },
+    {
+      "key": "%space_port_index.charter_select",
+      "value": "Select Charter Ship"
+    },
+    {
+      "key": "%stats.cd_use",
+      "value": "Money Spent"
+    },
+    {
+      "key": "%stats.get_exp",
+      "value": "EXP Earned"
+    },
+    {
+      "key": "%stats.get_cd",
+      "value": "Money Earned"
+    },
+    {
+      "key": "%stats.play_time",
+      "value": "Elapsed Time"
+    },
+    {
+      "key": "%status_01.main_attack",
+      "value": "Main"
+    },
+    {
+      "key": "%status_01.sub_attack",
+      "value": "Sub"
+    },
+    {
+      "key": "%status_01.attack_spec",
+      "value": "Attack"
+    },
+    {
+      "key": "%status_01.stability",
+      "value": "Stability"
+    },
+    {
+      "key": "%status_01.electric_def",
+      "value": "Elec DEF"
+    },
+    {
+      "key": "%status_01.flame_def",
+      "value": "Fire DEF"
+    },
+    {
+      "key": "%status_01.weight_correct",
+      "value": "Wt Scale"
+    },
+    {
+      "key": "%status_01.fly_speed",
+      "value": "Fly"
+    },
+    {
+      "key": "%status_01.jump",
+      "value": "Jump"
+    },
+    {
+      "key": "%status_01.walk_speed",
+      "value": "Walk"
+    },
+    {
+      "key": "%status_01.def_spec",
+      "value": "Defense"
+    },
+    {
+      "key": "%status_01.beam_def",
+      "value": "Beam DEF"
+    },
+    {
+      "key": "%status_01.solid_def",
+      "value": "Phys DEF"
+    },
+    {
+      "key": "%status_01.fight_spec",
+      "value": "Melee"
+    },
+    {
+      "key": "%status_01.shot_spec",
+      "value": "Shoot"
+    },
+    {
+      "key": "%status_01.fly_capacity",
+      "value": "Fly Cap"
+    },
+    {
+      "key": "%status_01.walk_capacity",
+      "value": "Walk Cap"
+    },
+    {
+      "key": "%status_01.move_spec",
+      "value": "Movement"
+    },
+    {
+      "key": "%status_01.total_weight",
+      "value": "Weight"
+    },
+    {
+      "key": "%status_01.next_lv",
+      "value": "Next LV"
+    },
+    {
+      "key": "%status_01.size",
+      "value": "Size"
+    },
+    {
+      "key": "%status_01.latent",
+      "value": "Pot."
+    },
+    {
+      "key": "%status_01.en_charg",
+      "value": "EN Regen"
+    },
+    {
+      "key": "%status_01.freeze",
+      "value": "Freeze"
+    },
+    {
+      "key": "%status_01.slow",
+      "value": "Slow"
+    },
+    {
+      "key": "%status_01.combo_frequency",
+      "value": "Combo"
+    },
+    {
+      "key": "%status_01.speed_of_bullet",
+      "value": "Shot Spd"
+    },
+    {
+      "key": "%status_01.number_of_bullets",
+      "value": "Ammo"
+    },
+    {
+      "key": "%status_01.range",
+      "value": "Range"
+    },
+    {
+      "key": "%status_01.energy_consumption",
+      "value": "EN Cost"
+    },
+    {
+      "key": "%status_01.weight_limits",
+      "value": "Wt Limit"
+    },
+    {
+      "key": "%status_01.passing_speed",
+      "value": "Speed"
+    },
+    {
+      "key": "%status_01.stable_spec",
+      "value": "Stability"
+    },
+    {
+      "key": "%status_01.status_correction",
+      "value": "Scaling"
+    },
+    {
+      "key": "%status_01.Installing_system",
+      "value": "Systems"
+    },
+    {
+      "key": "%msg.generaldialog.ok",
+      "value": "OK"
+    },
+    {
+      "key": "%status_01.category",
+      "value": "Type"
+    },
+    {
+      "key": "%sy_01.text0",
+      "value": "Choose from 4 control schemes.\\n\\n< Normal >\\nMouse (movement) + keyboard (attack)\\n\\n< FPS >\\nKeyboard (movement) + mouse (attack)\\n\\n< Semi-FPS >\\nKeyboard (movement) + mouse (attack)\\n\\n< Gamepad >\\nGamepad (movement + attack) \\n\\nClick a button setting to reassign its function. Gamepad mode is only available when a gamepad is connected."
+    },
+    {
+      "key": "%sy_01.index",
+      "value": " Controller"
+    },
+    {
+      "key": "%sy_01.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_01.index1",
+      "value": "Options"
+    },
+    {
+      "key": "%sy_02.text0",
+      "value": "< Show Names >\\nChange the name display for your robot, other players' robots, and enemies in the field.\\n\\n< Speech Bubbles >\\nChange speech bubble display in the field.\\n\\n< Signs >\\nChange sign display in the field.\\n\\n< Opaque Limit >\\n< Transp. Limit >\\n< Far Clip >\\n< Fog >\\nConfigure client rendering.\\nAdjust these settings if the application runs slowly.\\n\\n< Display >\\nChoose Windowed or Fullscreen.\\n\\n< Performance >\\nChoose Low or High to prioritize rendering stability or speed.\\nAdjusting this setting may help if the application frequently crashes during play.\\n\\n< Stage Shadows >\\nConfigure shadows displayed on the stage.\\n"
+    },
+    {
+      "key": "%sy_02.index",
+      "value": " View"
+    },
+    {
+      "key": "%sy_02.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_02.index1",
+      "value": "Options"
+    },
+    {
+      "key": "%sy_03.text0",
+      "value": "< Shortcuts >\\nAccess functions such as the menu and items with a single button.\\nReassign the buttons in Options."
+    },
+    {
+      "key": "%sy_03.index",
+      "value": " Shortcuts"
+    },
+    {
+      "key": "%sy_03.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_03.index1",
+      "value": "Options"
+    },
+    {
+      "key": "%sy_04.text0",
+      "value": "Change BGM, SE, and RADIO volume."
+    },
+    {
+      "key": "%sy_04.index",
+      "value": " Sound"
+    },
+    {
+      "key": "%sy_04.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_04.index1",
+      "value": "Options"
+    },
+    {
+      "key": "%sy_05.text0",
+      "value": "Use the key combinations on the left to say the messages assigned to macros."
+    },
+    {
+      "key": "%sy_05.index",
+      "value": " Macros"
+    },
+    {
+      "key": "%sy_05.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_05.index1",
+      "value": "System"
+    },
+    {
+      "key": "%sy_06.text0",
+      "value": "Reset options to their defaults."
+    },
+    {
+      "key": "%sy_06.index",
+      "value": " Restore Defaults"
+    },
+    {
+      "key": "%sy_06.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_06.index1",
+      "value": "Options"
+    },
+    {
+      "key": "%sy_menu.btn1",
+      "value": "Restore Defaults"
+    },
+    {
+      "key": "%sy_menu.btn2",
+      "value": "Macros"
+    },
+    {
+      "key": "%sy_menu.btn3",
+      "value": "Sound"
+    },
+    {
+      "key": "%sy_menu.btn4",
+      "value": "Shortcuts"
+    },
+    {
+      "key": "%sy_menu.btn5",
+      "value": "View"
+    },
+    {
+      "key": "%sy_menu.btn6",
+      "value": "Controller"
+    },
+    {
+      "key": "%sy_menu.back",
+      "value": "Back"
+    },
+    {
+      "key": "%sy_menu.index",
+      "value": "Options"
+    },
+    {
+      "key": "%talk_a.text",
+      "value": "Then select End Tutorial.\\nYou can proceed to the main game.\\nOutside a safe area, exiting takes 30\\nseconds. That really is all."
+    },
+    {
+      "key": "%talk_a.text1",
+      "value": "This place is only for training!\\nYou can only fight with the designated robot.\\nYour data cannot be carried over.\\nPress ESC when you are satisfied with training."
+    },
+    {
+      "key": "%talk_a.text2",
+      "value": "That is all... Oh, I forgot\\nsomething. To hear me again\\nor talk to other robots\\nin this city, approach them\\nand press the action button."
+    },
+    {
+      "key": "%talk_a.text3",
+      "value": "The menu can be turned on or off.\\nUse that button to toggle it."
+    },
+    {
+      "key": "%talk_a.text4",
+      "value": "Commando, Items, Status,\\nOptions, Help, Department Store,\\nand EXIT: everything important is here. You will need these, so\\nlearn how to use them."
+    },
+    {
+      "key": "%talk_a.text5",
+      "value": "Next, the menu."
+    },
+    {
+      "key": "%talk_a.text6",
+      "value": "This handy feature lets you use\\nitems with the function keys.\\nThe shortcut settings are in the menu.\\nPlace the items you want to use\\nin those slots."
+    },
+    {
+      "key": "%talk_a.text7",
+      "value": "Next, item shortcuts."
+    },
+    {
+      "key": "%talk_a.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_a.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_a.text8",
+      "value": "This shows allies, enemies,\\nstores, and more. It contains\\nimportant information, so learn\\nto check it while fighting."
+    },
+    {
+      "key": "%talk_a.text9",
+      "value": "Next, the radar."
+    },
+    {
+      "key": "%talk_a.text10",
+      "value": "Places you have visited are\\nconnected by lines on the map.\\nExplore each new field you enter.\\nYou might discover something unexpected."
+    },
+    {
+      "key": "%talk_a.text11",
+      "value": "Next, I will explain the basic controls.\\nFirst, the map.\\nIt shows how places on the planet\\nconnect, so open it\\nif you get lost."
+    },
+    {
+      "key": "%talk_a.text12",
+      "value": "When you first land on a planet,\\nhead to the Mission Center.\\nIt issues orders to defeat\\nthe Demon Army.\\nComplete those missions."
+    },
+    {
+      "key": "%talk_a.text13",
+      "value": "Now you understand your objective?\\nThen I will tell you\\nwhat to do first."
+    },
+    {
+      "key": "%talk_a.text14",
+      "value": "Peace in the Cosmic Renaissance\\ndepends on the Angel Army!\\nYou will fight alongside us\\nand crush the Demon Army!"
+    },
+    {
+      "key": "%talk_a.text15",
+      "value": "The Demon Army has invaded our home,\\nthe Cosmic Renaissance.\\nSome planets have already fallen\\ninto their hands. The war is turning\\nheavily against us."
+    },
+    {
+      "key": "%talk_a.text16",
+      "value": "[Welcome to the Poyeen Secret Base]\\nThis must be a surprise,\\nso let me explain your situation.\\nYou are now a proud member of the\\nAngel Army, fighting the Demon Army."
+    },
+    {
+      "key": "%talk_a.text17",
+      "value": "Do you not realize you have joined\\nthe Angel Army?!\\nAre you a Demon Army spy?\\nAttack the Angel Army,\\nand I will shoot you myself."
+    },
+    {
+      "key": "%talk_a.text18",
+      "value": "Want to hear what I have to say?"
+    },
+    {
+      "key": "%talk_b.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_b.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_b.text",
+      "value": "You can also customize your robot\\nby changing weapons and parts.\\nThe garage offers many functions.\\nMaking good use of it\\nis the shortest path to victory!"
+    },
+    {
+      "key": "%talk_b.text1",
+      "value": "[About the Garage]\\nHere you can repair damage\\nand revive your robots.\\nYou can also store your precious\\nrobots and items, of course."
+    },
+    {
+      "key": "%talk_b.text2",
+      "value": "You already know without asking?\\nThen I will skip the explanation."
+    },
+    {
+      "key": "%talk_b.text3",
+      "value": "Want to hear about the garage?"
+    },
+    {
+      "key": "%talk_c.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_c.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_c.text",
+      "value": "[About the Robot Store]\\nBuy and sell robots and parts here.\\nMany are expensive, so think\\ncarefully before buying."
+    },
+    {
+      "key": "%talk_c.text1",
+      "value": "Suit yourself."
+    },
+    {
+      "key": "%talk_c.text2",
+      "value": "Want to hear about the Robot Store?"
+    },
+    {
+      "key": "%talk_d.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_d.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_d.text",
+      "value": "You can color each part,\\ncreating a robot unique in the\\nCosmic Renaissance.\\nStand out too much and you will die, though."
+    },
+    {
+      "key": "%talk_d.text1",
+      "value": "[About the Paint Store]\\nHere you can freely paint\\nyour robot.\\nChoose any colors you like."
+    },
+    {
+      "key": "%talk_d.text2",
+      "value": "Good that you already understand.\\nDo not bother me with trivial questions again!"
+    },
+    {
+      "key": "%talk_d.text3",
+      "value": "Want to hear about the Paint Store?"
+    },
+    {
+      "key": "%talk_e.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_e.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_e.text",
+      "value": "You can also sell unwanted items.\\nYour carrying capacity is limited,\\nso sometimes you need the courage to discard things.\\nYou have that courage, do you not?"
+    },
+    {
+      "key": "%talk_e.text1",
+      "value": "[About the Item Store]\\nThis store sells items.\\nDanger is always close on the battlefield,\\nso carry extras. The secret to survival\\nis to be cautious."
+    },
+    {
+      "key": "%talk_e.text2",
+      "value": "Do you have a death wish?\\nAsking brings a moment of embarrassment;\\nnot asking brings a lifetime of it!"
+    },
+    {
+      "key": "%talk_e.text3",
+      "value": "Want to hear about the Item Store?"
+    },
+    {
+      "key": "%talk_f.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_f.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_f.text",
+      "value": "Monsters live outside bases and cities,\\nso stay alert.\\nHunting them is good practice\\nfor fighting the Demon Army,\\nand earns C$ and EXP too."
+    },
+    {
+      "key": "%talk_f.text1",
+      "value": "[About Link Points]\\nThis is a link point leading\\nto the next field.\\nWhen the right side of the status window\\nlights up, press the action button to travel."
+    },
+    {
+      "key": "%talk_f.text2",
+      "value": "You understand link points\\nalready, then?\\nDo not underestimate field monsters."
+    },
+    {
+      "key": "%talk_f.text3",
+      "value": "Want to hear about link points?"
+    },
+    {
+      "key": "%talk_g.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_g.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_g.text",
+      "value": "The tickets you can buy\\ndepend on your rank.\\nOnly those who excel in missions\\nearn new ranks and gain access\\nto new planets."
+    },
+    {
+      "key": "%talk_g.text1",
+      "value": "[About the Space Terminal]\\nTo travel between planets,\\nvisit the Space Terminal\\nand buy a ticket."
+    },
+    {
+      "key": "%talk_g.text2",
+      "value": "Oh, so you can swim\\nthrough space, can you?\\nSuch youthful confidence..."
+    },
+    {
+      "key": "%talk_g.text3",
+      "value": "Want to hear about the Space Terminal?"
+    },
+    {
+      "key": "%talk_h.no",
+      "value": "No"
+    },
+    {
+      "key": "%talk_h.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%talk_h.text",
+      "value": "Clearing certain missions\\nearns you a rank.\\nThat rank is needed elsewhere too,\\nso value it."
+    },
+    {
+      "key": "%talk_h.text1",
+      "value": "Missions also have entry requirements.\\nYou cannot join unless\\nyou meet them. Arrange your commando\\nto match the requirements."
+    },
+    {
+      "key": "%talk_h.text2",
+      "value": "Missions have different objectives:\\nrescue allies, destroy strongholds,\\neliminate enemies, or defeat a boss.\\nAct according to your objective.\\nDefeating enemies alone is not true victory!"
+    },
+    {
+      "key": "%talk_h.text3",
+      "value": "[About the Mission Center]\\nThis is the Mission Center.\\nAccept missions here and fight the Demon Army\\nand monsters as part of the Angel Army."
+    },
+    {
+      "key": "%talk_h.text4",
+      "value": "This is the core of the Angel Army's fight!\\nYou will have no days of rest\\nuntil you have won every battle!"
+    },
+    {
+      "key": "%talk_h.text5",
+      "value": "Want to hear about the Mission Center?"
+    },
+    {
+      "key": "%tutorial_00.text",
+      "value": "Are you looking to join the New Angel Army?\\nThen I will teach you how to fight the Demon Army.\\n\\nI am the Instructor who teaches recruits like you the basics.\\n\\nOnce you join the New Angel Army, defeat at the hands of the Demon Army is unacceptable.\\nI will explain the controls and important facilities you need.\\n\\nLet us begin!\\n...Try falling asleep during my explanation, and I will put a hole in your head.\\n"
+    },
+    {
+      "key": "%tutorial_01.text",
+      "value": "First, the controls.\\nUse the mouse to attack and change direction.\\n"
+    },
+    {
+      "key": "%tutorial_02.text",
+      "value": "Use the keyboard mainly to move your robot.\\n"
+    },
+    {
+      "key": "%tutorial_03.text",
+      "value": "Next, the field.\\nPress M on the keyboard\\nto open the Planet Map.\\nI will explain the icons next.\\n"
+    },
+    {
+      "key": "%tutorial_04.text",
+      "value": "This icon indicates a safe area.\\nYou can log out immediately in safe areas.\\nI will explain the facilities here in great detail later.\\n"
+    },
+    {
+      "key": "%tutorial_05.text",
+      "value": "I forgot one thing.\\nIn the field, attacks from fellow Angel Army robots normally do not damage you.\\nGot that?\\n"
+    },
+    {
+      "key": "%tutorial_06.text",
+      "value": "Now, the facilities.\\nI will start with the important ones.\\n"
+    },
+    {
+      "key": "%tutorial_07.text",
+      "value": "Here is something useful.\\nYou can carry up to 5 robots at once.\\nWe call this a commando.\\nLearned something, did you?\\n"
+    },
+    {
+      "key": "%tutorial_08.text",
+      "value": "It is finally time for you to fight as a New Angel Army soldier.\\nStart by practicing against monsters called Manimo.\\n\\nOne last thing: the world you are entering is harsh.\\nThere may be times when you want to give up.\\nWhen that happens, do not struggle alone. Talk to your comrades in the New Angel Army.\\nThey will surely help you.\\n\\nAnd take pride in being part of the New Angel Army, protecting peace in the Cosmic Renaissance.\\n\\nThat is all. I look forward to your achievements.\\n"
+    },
+    {
+      "key": "%village0.text",
+      "value": "...Is this the end of my research?"
+    },
+    {
+      "key": "%village0.text1",
+      "value": "According to the ancient manuscript I deciphered, an Ancient Tree lives deep in the wilderness... Yet the young soldiers have not found even a trace of it."
+    },
+    {
+      "key": "%village0.text2",
+      "value": "Beyond here lies the deep forest\\nknown as the Ponjava Wilderness.\\nIt remains unexplored, and even the Angel Army\\nhas yet to discover its full extent."
+    },
+    {
+      "key": "%war_areaenter.no",
+      "value": "No"
+    },
+    {
+      "key": "%war_areaenter.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "%war_entry.text",
+      "value": "- Your army has been assigned."
+    },
+    {
+      "key": "%war_entry.text1",
+      "value": " The computer automatically assigns your army."
+    },
+    {
+      "key": "%war_entry.text2",
+      "value": " You cannot change armies until the war ends."
+    },
+    {
+      "key": "%war_entry.text3",
+      "value": " Move to your army's headquarters"
+    },
+    {
+      "key": "%war_worldmap.text",
+      "value": "Enter here"
+    },
+    {
+      "key": "%war_worldmap.text1",
+      "value": "Enter here"
+    },
+    {
+      "key": "%war_worldmap.text2",
+      "value": "Enter here"
+    },
+    {
+      "key": "%war_worldmap.text3",
+      "value": "Enter here"
+    },
+    {
+      "key": "%war_worldmap.text4",
+      "value": "Enter here"
+    },
+    {
+      "key": "%war_worldmap.lv",
+      "value": "Faction Level"
+    },
+    {
+      "key": "%war_worldmap.map",
+      "value": "- World Map"
+    },
+    {
+      "key": "%war1.for_start",
+      "value": "Until Game Starts"
+    },
+    {
+      "key": "%war2.time",
+      "value": "Time Remaining"
+    },
+    {
+      "key": "%war3.for_start",
+      "value": "Until Game Starts"
+    },
+    {
+      "key": "%ArrowPoint.text",
+      "value": "Get a new ID to play online."
+    },
+    {
+      "key": "%arenamatching.btn1",
+      "value": "Join Team"
+    },
+    {
+      "key": "%arenamatching.teamb",
+      "value": "Team B"
+    },
+    {
+      "key": "%arenamatching.get_ready",
+      "value": "Preparing the mission..."
+    },
+    {
+      "key": "%arenamatching.exit",
+      "value": "Leave"
+    },
+    {
+      "key": "%arenamatching.mission_start",
+      "value": " Start Mission"
+    },
+    {
+      "key": "%arenamatching.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%arenamatching.teama",
+      "value": "Team A"
+    },
+    {
+      "key": "%arenamatching.mc",
+      "value": "Angel Army Poyeen Mission Center"
+    },
+    {
+      "key": "%arenamatching.matching_room",
+      "value": "Matching Room"
+    },
+    {
+      "key": "%arenamatching.btn2",
+      "value": "Join Team"
+    },
+    {
+      "key": "%arenamatching.time_limit",
+      "value": "Time Until Exit"
+    },
+    {
+      "key": "%departcall.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "%departcall.depart_call",
+      "value": "Go to Department Store"
+    },
+    {
+      "key": "%departcall.gacha_call",
+      "value": "Go to Gacha Center"
+    },
+    {
+      "key": "%departcall.call_time",
+      "value": "Department Store in 10 seconds"
+    },
+    {
+      "key": "%dimlogout.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "%dimlogout.game_end",
+      "value": "Exit Game"
+    },
+    {
+      "key": "%dimlogout.select_dim",
+      "value": "Select Dimension"
+    },
+    {
+      "key": "%dimlogout.move_time",
+      "value": "Dimension selection in 10 seconds"
+    },
+    {
+      "key": "%dimtlogout.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "%dimtlogout.game_end",
+      "value": "Exit Game"
+    },
+    {
+      "key": "%dimtlogout.tutorial_end",
+      "value": "End Tutorial"
+    },
+    {
+      "key": "%dimtlogout.end_time",
+      "value": "Tutorial ends in * seconds"
+    },
+    {
+      "key": "%giveup.check_mes",
+      "value": "Your entire commando will be defeated. Are you sure?"
+    },
+    {
+      "key": "%giveup.check_mes1",
+      "value": "Your commando will be defeated and you will lose all items, parts, and EXP gained inside the dungeon. Are you sure?"
+    },
+    {
+      "key": "%giveup.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "%giveup.give_up",
+      "value": "Give Up"
+    },
+    {
+      "key": "%giveup.check_mes2",
+      "value": "The mission will fail and you will pay repair costs for every robot in your commando. Are you sure?"
+    },
+    {
+      "key": "%giveup.check_mes3",
+      "value": "Skip this mission?"
+    },
+    {
+      "key": "%giveup.check_mes4",
+      "value": "Leave?"
+    },
+    {
+      "key": "%listpanel.tab",
+      "value": "Friends Party Ignore Party-Management "
+    },
+    {
+      "key": "%macropanel.chat_switch",
+      "value": "Change Chat"
+    },
+    {
+      "key": "%matching.get_ready",
+      "value": "Preparing the mission..."
+    },
+    {
+      "key": "%matching.exit",
+      "value": "Leave"
+    },
+    {
+      "key": "%matching.mission_start",
+      "value": " Start Mission"
+    },
+    {
+      "key": "%matching.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%matching.mission_member",
+      "value": "Mission Member List"
+    },
+    {
+      "key": "%matching.mc",
+      "value": "Angel Army Poyeen Mission Center"
+    },
+    {
+      "key": "%matching.matching_room",
+      "value": "Matching Room"
+    },
+    {
+      "key": "%matching.kick_out",
+      "value": "Kick"
+    },
+    {
+      "key": "%matching.time_limit",
+      "value": "Time Until Exit"
+    },
+    {
+      "key": "%matchingroom0.exit",
+      "value": "Leave"
+    },
+    {
+      "key": "%matchingroom0.time_limit",
+      "value": "Until Exit"
+    },
+    {
+      "key": "%matchingroom1.exit",
+      "value": "Leave"
+    },
+    {
+      "key": "%matchingroom1.bteam",
+      "value": "   Join Blue Team"
+    },
+    {
+      "key": "%matchingroom1.mission_go",
+      "value": "Join Mission"
+    },
+    {
+      "key": "%matchingroom1.kick_out",
+      "value": "Kick"
+    },
+    {
+      "key": "%matchingroom1.decision_member",
+      "value": "Ready Members"
+    },
+    {
+      "key": "%matchingroom1.yteam",
+      "value": "Yellow Team"
+    },
+    {
+      "key": "%matchingroom1.bteam1",
+      "value": "Blue Team"
+    },
+    {
+      "key": "%matchingroom1.sum",
+      "value": "Total"
+    },
+    {
+      "key": "%matchingroom1.ready_member",
+      "value": "Unready Members"
+    },
+    {
+      "key": "%matchingroom1.member_list",
+      "value": "Member List"
+    },
+    {
+      "key": "%matchingroom1.get_ready",
+      "value": "Preparing Mission..."
+    },
+    {
+      "key": "%matchingroom1.mc",
+      "value": "Angel Army Poyeen Mission Center"
+    },
+    {
+      "key": "%matchingroom1.matching_room",
+      "value": "Matching Room"
+    },
+    {
+      "key": "%matchingroom1.participant",
+      "value": "players"
+    },
+    {
+      "key": "%matchingroom1.now_yteam",
+      "value": "Joined Yellow Team"
+    },
+    {
+      "key": "%matchingroom1.now_bteam",
+      "value": "Joined Blue Team"
+    },
+    {
+      "key": "%matchingroom1.now_rteam",
+      "value": "Joined Red Team"
+    },
+    {
+      "key": "%matchingroom1.participant_condition",
+      "value": "Player Count Requirement"
+    },
+    {
+      "key": "%matchingroom1.time_limit",
+      "value": "Time Until Exit"
+    },
+    {
+      "key": "%matchingroom1.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%matchingroom1.help_bonus",
+      "value": "A player has not cleared this mission before. Rewards will change."
+    },
+    {
+      "key": "%matchingroom2.start",
+      "value": "Start"
+    },
+    {
+      "key": "%matchingroom2.exit",
+      "value": "Leave"
+    },
+    {
+      "key": "%matchingroom2.m_team_go",
+      "value": "    Join Team Minerva"
+    },
+    {
+      "key": "%matchingroom2.mf_team_go",
+      "value": "    Join Mars Force"
+    },
+    {
+      "key": "%matchingroom2.random_team_go",
+      "value": "Join Randomly"
+    },
+    {
+      "key": "%matchingroom2.kick_out",
+      "value": "Kick"
+    },
+    {
+      "key": "%matchingroom2.decision_member",
+      "value": "Ready Members (cost)"
+    },
+    {
+      "key": "%matchingroom2.c_team",
+      "value": "Charlie Team"
+    },
+    {
+      "key": "%matchingroom2.mf_team",
+      "value": "Mars Force"
+    },
+    {
+      "key": "%matchingroom2.m_team",
+      "value": "Team Minerva"
+    },
+    {
+      "key": "%matchingroom2.random_team",
+      "value": "Random"
+    },
+    {
+      "key": "%matchingroom2.gallery",
+      "value": "Spectate"
+    },
+    {
+      "key": "%matchingroom2.random",
+      "value": "Your team will be assigned randomly."
+    },
+    {
+      "key": "%matchingroom2.ready_member",
+      "value": "Unready Members (cost)"
+    },
+    {
+      "key": "%matchingroom2.member_list",
+      "value": "Member List"
+    },
+    {
+      "key": "%matchingroom2.get_ready",
+      "value": "Preparing Robot GP..."
+    },
+    {
+      "key": "%matchingroom2.mc",
+      "value": "Angel Army Poyeen Mission Center"
+    },
+    {
+      "key": "%matchingroom2.matching_room",
+      "value": "Matching Room"
+    },
+    {
+      "key": "%matchingroom2.participant",
+      "value": "players"
+    },
+    {
+      "key": "%matchingroom2.now_team",
+      "value": " joined"
+    },
+    {
+      "key": "%matchingroom2.participant_condition",
+      "value": "Player Count Requirement"
+    },
+    {
+      "key": "%matchingroom2.time_limit",
+      "value": "Time Until Exit"
+    },
+    {
+      "key": "%matchingroom2.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%matchingroom3.exit",
+      "value": "Leave"
+    },
+    {
+      "key": "%matchingroom3.yteam_go",
+      "value": "   Join Yellow Team"
+    },
+    {
+      "key": "%matchingroom3.bteam_go",
+      "value": "   Join Blue Team"
+    },
+    {
+      "key": "%matchingroom3.rteam_go",
+      "value": "   Join Red Team"
+    },
+    {
+      "key": "%matchingroom3.kick_out",
+      "value": "Kick"
+    },
+    {
+      "key": "%matchingroom3.decision_member",
+      "value": "Ready Members (cost)"
+    },
+    {
+      "key": "%matchingroom3.yteam",
+      "value": "Yellow Team"
+    },
+    {
+      "key": "%matchingroom3.bteam",
+      "value": "Blue Team"
+    },
+    {
+      "key": "%matchingroom3.rteam",
+      "value": "Red Team"
+    },
+    {
+      "key": "%matchingroom3.ready_member",
+      "value": "Unready Members (cost)"
+    },
+    {
+      "key": "%matchingroom3.member_list",
+      "value": "Member List"
+    },
+    {
+      "key": "%matchingroom3.get_ready",
+      "value": "Preparing Robot GP..."
+    },
+    {
+      "key": "%matchingroom3.mc",
+      "value": "Angel Army Poyeen Mission Center"
+    },
+    {
+      "key": "%matchingroom3.matching_room",
+      "value": "Matching Room"
+    },
+    {
+      "key": "%matchingroom3.participant",
+      "value": "players"
+    },
+    {
+      "key": "%matchingroom3.now_yteam",
+      "value": "Joined Yellow Team"
+    },
+    {
+      "key": "%matchingroom3.now_bteam",
+      "value": "Joined Blue Team"
+    },
+    {
+      "key": "%matchingroom3.now_rteam",
+      "value": "Joined Red Team"
+    },
+    {
+      "key": "%matchingroom3.participant_condition",
+      "value": "Player Count Requirement"
+    },
+    {
+      "key": "%matchingroom3.time_limit",
+      "value": "Time Until Exit"
+    },
+    {
+      "key": "%matchingroom3.mission_rank",
+      "value": "Mission Rank"
+    },
+    {
+      "key": "%member_apply.trade",
+      "value": "Request Trade"
+    },
+    {
+      "key": "%member_apply.guild",
+      "value": "Invite to Guild"
+    },
+    {
+      "key": "%member_apply.tell_help",
+      "value": "Private Chat\\n/tell name"
+    },
+    {
+      "key": "%member_apply.tell",
+      "value": "TELL Chat"
+    },
+    {
+      "key": "%member_apply.party_help",
+      "value": "Invite to Party\\n/invite name"
+    },
+    {
+      "key": "%member_apply.party",
+      "value": "Invite to Party"
+    },
+    {
+      "key": "%member_apply.friend",
+      "value": "Friend Request"
+    },
+    {
+      "key": "%memberpanel_normal.tell_help",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_normal.tell_help1",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_normal.tell_help2",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_normal.tell_help3",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_normal.tell_help4",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_normal.tell_help5",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_normal.tab",
+      "value": "Field Party Guild Friends Ignore Party-Settings "
+    },
+    {
+      "key": "%memberpanel_party.tell_help",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help1",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help2",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help3",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help4",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help5",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help6",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help7",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help8",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help9",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tell_help10",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.party_name",
+      "value": "Party Name"
+    },
+    {
+      "key": "%memberpanel_party.tell_help11",
+      "value": "tell Chat"
+    },
+    {
+      "key": "%memberpanel_party.tab",
+      "value": "Field Party Guild Friends Ignore Party-Settings "
+    },
+    {
+      "key": "%option_p1.tutorial",
+      "value": "Tutorial"
+    },
+    {
+      "key": "%option_p1.dim",
+      "value": " Dimension"
+    },
+    {
+      "key": "%option_p1.tab",
+      "value": "Low High "
+    },
+    {
+      "key": "%option_p1.tab1",
+      "value": "Windowed Fullscreen "
+    },
+    {
+      "key": "%option_p1.stage_shadow",
+      "value": "Stage Shadows"
+    },
+    {
+      "key": "%option_p1.performance",
+      "value": "Performance"
+    },
+    {
+      "key": "%option_p1.display",
+      "value": "Display"
+    },
+    {
+      "key": "%option_p1.camera_down",
+      "value": "Camera Down"
+    },
+    {
+      "key": "%option_p1.camera_up",
+      "value": "Camera Up"
+    },
+    {
+      "key": "%option_p1.lock",
+      "value": "Lock"
+    },
+    {
+      "key": "%option_p1.camera_down1",
+      "value": "Camera Down"
+    },
+    {
+      "key": "%option_p1.camera_up1",
+      "value": "Camera Up"
+    },
+    {
+      "key": "%option_p1.right_rotation",
+      "value": "Turn Right"
+    },
+    {
+      "key": "%option_p1.right_parallel",
+      "value": "Strafe Right"
+    },
+    {
+      "key": "%option_p1.left_rotation",
+      "value": "Turn Left"
+    },
+    {
+      "key": "%option_p1.left_parallel",
+      "value": "Strafe Left"
+    },
+    {
+      "key": "%option_p1.back_move",
+      "value": "Backward"
+    },
+    {
+      "key": "%option_p1.front_move",
+      "value": "Forward"
+    },
+    {
+      "key": "%option_p1.speed_change",
+      "value": "Change Speed"
+    },
+    {
+      "key": "%option_p1.tab2",
+      "value": "Gamepad"
+    },
+    {
+      "key": "%option_p1.tab3",
+      "value": "None Top Bottom"
+    },
+    {
+      "key": "%option_p1.target_change",
+      "value": "Change Target"
+    },
+    {
+      "key": "%option_p1.weapon_change",
+      "value": "Change Weapon"
+    },
+    {
+      "key": "%option_p1.direct_main",
+      "value": "Direct Main"
+    },
+    {
+      "key": "%option_p1.direct_sub",
+      "value": "Direct Sub"
+    },
+    {
+      "key": "%option_p1.sub_action",
+      "value": "Sub / Action"
+    },
+    {
+      "key": "%option_p1.main",
+      "value": "Main"
+    },
+    {
+      "key": "%option_p1.fry",
+      "value": "Flight"
+    },
+    {
+      "key": "%option_p1.controller",
+      "value": "Controller"
+    },
+    {
+      "key": "%option_p1.index1",
+      "value": "Controller"
+    },
+    {
+      "key": "%option_p1.sign_view",
+      "value": "Show Signs"
+    },
+    {
+      "key": "%option_p1.mes_view",
+      "value": "Speech Bubbles"
+    },
+    {
+      "key": "%option_p1.name_view",
+      "value": "Show Names"
+    },
+    {
+      "key": "%option_p1.index3",
+      "value": "View"
+    },
+    {
+      "key": "%option_p1.transfrom",
+      "value": "Transform"
+    },
+    {
+      "key": "%option_p1.aura",
+      "value": "AURA"
+    },
+    {
+      "key": "%option_p1.action",
+      "value": "Action"
+    },
+    {
+      "key": "%option_p1.opaque_display",
+      "value": "Opaque Limit"
+    },
+    {
+      "key": "%option_p1.semi_transparent display",
+      "value": "Transp. Limit"
+    },
+    {
+      "key": "%option_p1.f_c",
+      "value": "Far Clip"
+    },
+    {
+      "key": "%option_p1.fog",
+      "value": "Fog"
+    },
+    {
+      "key": "%option_p1.wheel",
+      "value": "Invert Wheel"
+    },
+    {
+      "key": "%option_p1.hover",
+      "value": "Hover"
+    },
+    {
+      "key": "%option_p1.run",
+      "value": "Run"
+    },
+    {
+      "key": "%option_p2.ss",
+      "value": "Screenshot"
+    },
+    {
+      "key": "%option_p2.status_s",
+      "value": "Status (Small)"
+    },
+    {
+      "key": "%option_p2.item",
+      "value": "Item"
+    },
+    {
+      "key": "%option_p2.commando",
+      "value": "Commando"
+    },
+    {
+      "key": "%option_p2.index",
+      "value": "Menu"
+    },
+    {
+      "key": "%option_p2.item_sc0",
+      "value": "Item Shortcut (1)"
+    },
+    {
+      "key": "%option_p2.item_sc1",
+      "value": "Item Shortcut (2)"
+    },
+    {
+      "key": "%option_p2.item_sc2",
+      "value": "Item Shortcut (3)"
+    },
+    {
+      "key": "%option_p2.item_sc3",
+      "value": "Item Shortcut (4)"
+    },
+    {
+      "key": "%option_p2.item_sc4",
+      "value": "Item Shortcut (5)"
+    },
+    {
+      "key": "%option_p2.item_sc5",
+      "value": "Item Shortcut (6)"
+    },
+    {
+      "key": "%option_p2.item_sc6",
+      "value": "Item Shortcut (7)"
+    },
+    {
+      "key": "%option_p2.item_sc7",
+      "value": "Item Shortcut (8)"
+    },
+    {
+      "key": "%option_p2.index1",
+      "value": "Item Shortcuts"
+    },
+    {
+      "key": "%option_p2.se_vol",
+      "value": "SE Volume"
+    },
+    {
+      "key": "%option_p2.bgm_vol",
+      "value": "BGM Volume"
+    },
+    {
+      "key": "%option_p2.index2",
+      "value": "Sound"
+    },
+    {
+      "key": "%option_p2.chat_input",
+      "value": "Chat Input"
+    },
+    {
+      "key": "%option_p2.member",
+      "value": "Members"
+    },
+    {
+      "key": "%option_p2.fc_mode",
+      "value": "Free Cursor Mode"
+    },
+    {
+      "key": "%option_p2.radar",
+      "value": "Radar"
+    },
+    {
+      "key": "%option_p2.planet_map",
+      "value": "Planet Map"
+    },
+    {
+      "key": "%option_p2.index3",
+      "value": "System"
+    },
+    {
+      "key": "%option_p2.depart",
+      "value": "Department Store"
+    },
+    {
+      "key": "%option_p2.exit",
+      "value": "EXIT"
+    },
+    {
+      "key": "%option_p2.radio_vol",
+      "value": "RADIO Volume"
+    },
+    {
+      "key": "%option_p3.index",
+      "value": "Macros"
+    },
+    {
+      "key": "%option_p4.itemsc",
+      "value": "Auto Assign / Remove Item Shortcuts"
+    },
+    {
+      "key": "%option_p4.questinfo",
+      "value": "Always Show Quests"
+    },
+    {
+      "key": "%option_p4.damagepop",
+      "value": "Damage Numbers"
+    },
+    {
+      "key": "%option_p4.damagepopoverkill",
+      "value": "Overkill Damage Numbers"
+    },
+    {
+      "key": "%option_p4.tab",
+      "value": "None Self All"
+    },
+    {
+      "key": "%option_p4.windowsize",
+      "value": "Screen Size"
+    },
+    {
+      "key": "%option_p4.widemode",
+      "value": "Widescreen"
+    },
+    {
+      "key": "%option_p4.coolgage",
+      "value": "None Top-Only Selecting-Weapon-Only All"
+    },
+    {
+      "key": "%option_p4.nameballon",
+      "value": "None All Self-Only Others-Only"
+    },
+    {
+      "key": "%option_p4.show_effect",
+      "value": "All Exclude-Other-Players Self-and-Enemies"
+    },
+    {
+      "key": "%option_p5.tab",
+      "value": "Play-All NPC-Only Do-Not-Play"
+    },
+    {
+      "key": "%party_setting.party_end",
+      "value": "Disband Party"
+    },
+    {
+      "key": "%party_setting.rule_reload",
+      "value": "Update Rules"
+    },
+    {
+      "key": "%party_setting.new_party",
+      "value": "Create Party"
+    },
+    {
+      "key": "%party_setting.party_name",
+      "value": "Party Name"
+    },
+    {
+      "key": "%party_setting.cd_distribution",
+      "value": "C$ Distribution"
+    },
+    {
+      "key": "%party_setting.item_distribution",
+      "value": "Item Distribution"
+    },
+    {
+      "key": "%party_setting.tab",
+      "value": "Round-Robin Free-for-All Random Equal-Share Contribution "
+    },
+    {
+      "key": "%party_setting.tab1",
+      "value": "Round-Robin Free-for-All Random Contribution "
+    },
+    {
+      "key": "%party_setting.tab2",
+      "value": "Equal-Share Individual "
+    },
+    {
+      "key": "%party_setting.exp_distribution",
+      "value": "EXP Distribution"
+    },
+    {
+      "key": "%party_setting.distribution_rule",
+      "value": "Distribution Rules"
+    },
+    {
+      "key": "%party_setting.tab3",
+      "value": "Field Party Guild Friends Ignore Party-Settings "
+    },
+    {
+      "key": "%planetmap.danger_area",
+      "value": "Danger Zone"
+    },
+    {
+      "key": "%planetmap.now_point",
+      "value": "Current Location"
+    },
+    {
+      "key": "%planetmap.dungeon_area",
+      "value": "Ruins"
+    },
+    {
+      "key": "%planetmap.port_area",
+      "value": "Spaceport"
+    },
+    {
+      "key": "%planetmap.village_area",
+      "value": "Village"
+    },
+    {
+      "key": "%planetmap.city_area",
+      "value": "City"
+    },
+    {
+      "key": "%planetmap.base_area",
+      "value": "Angel Army Base"
+    },
+    {
+      "key": "%planetmap.peacelevel_gaugename",
+      "value": "POWER BALANCE"
+    },
+    {
+      "key": "%planetmap.arslevel_gaugename",
+      "value": "A.Re.S"
+    },
+    {
+      "key": "%trade_panel.trade_ok",
+      "value": "Confirm Trade"
+    },
+    {
+      "key": "%trade_panel.trade_cancel",
+      "value": "Cancel Trade"
+    },
+    {
+      "key": "%trade_panel.trade_ok1",
+      "value": "Confirm Trade"
+    },
+    {
+      "key": "%parameditor.mission",
+      "value": "mission script (temporary) :"
+    },
+    {
+      "key": "%roboexport.comment",
+      "value": "The Angel Army's latest mass-produced robot. It focuses on basic performance, particularly defense, with a simple design to keep costs down."
+    },
+    {
+      "key": "%roboexport.robo_name",
+      "value": "Mass-Produced Fabicron II"
+    },
+    {
+      "key": "%arena_robo_select.go.dlg",
+      "value": "Is this correct?"
+    },
+    {
+      "key": "%mission_robo_select.go.dlg",
+      "value": "Is this correct?"
+    },
+    {
+      "key": "%item_combine.combine.dlg",
+      "value": "Perform synthesis. Are you sure?"
+    },
+    {
+      "key": "%mission_tutorial_panel.hp_text",
+      "value": "HP (Hit Points)"
+    },
+    {
+      "key": "%mission_tutorial_panel.en_text",
+      "value": "EN (Energy)"
+    },
+    {
+      "key": "%mission_tutorial_panel.r_text",
+      "value": "Radar\\n(Blue = you and allies / Red = enemies)"
+    },
+    {
+      "key": "%laboratory_index.pagename.item",
+      "value": "Item Synthesis"
+    },
+    {
+      "key": "%laboratory_index.pagename.parts",
+      "value": "Parts Synthesis"
+    },
+    {
+      "key": "%laboratory_index.pagename.upgrade",
+      "value": "Parts Enhancement"
+    },
+    {
+      "key": "%item_comibine.selectracipe",
+      "value": "Show Selected Recipe"
+    },
+    {
+      "key": "%item_comibine.comibineprice",
+      "value": "Synthesis Cost"
+    },
+    {
+      "key": "%item_comibine.comibinepercent",
+      "value": "Success Rate"
+    },
+    {
+      "key": "%item_comibine.comibineconfirm",
+      "value": "Confirm Synthesis"
+    },
+    {
+      "key": "%item_comibine.comibineplus",
+      "value": "Combine Plus"
+    },
+    {
+      "key": "%item_comibine.comibineplustable",
+      "value": "None +10% +25% +35%"
+    },
+    {
+      "key": "%item_comibine.safetyplus",
+      "value": "Combine Guard"
+    },
+    {
+      "key": "%item_comibine.cannotuse",
+      "value": "---"
+    },
+    {
+      "key": "%item_comibine.comibineplusunit",
+      "value": "owned"
+    },
+    {
+      "key": "%item_comibine.makeNum",
+      "value": "Synthesis Count"
+    },
+    {
+      "key": "%item_comibine.premium",
+      "value": "Premium Lab"
+    },
+    {
+      "key": "%item_comibine.use",
+      "value": "Use"
+    },
+    {
+      "key": "%item_comibine.serchTypetableP",
+      "value": "All Part-Name Element/Status Weapon-Traits Material-Name"
+    },
+    {
+      "key": "%item_comibine.serchTypetableI",
+      "value": "All Item-Name Material-Name"
+    },
+    {
+      "key": "%item_combine_complete_dlg.result",
+      "value": "Synthesized Item"
+    },
+    {
+      "key": "%parts_combine_complete_dlg.result",
+      "value": "Synthesized Parts"
+    },
+    {
+      "key": "%parts_upgrade.recipelist",
+      "value": "No enhancement plans available."
+    },
+    {
+      "key": "%parts_upgrade.upgradeprice",
+      "value": "Parts Enhancement Cost"
+    },
+    {
+      "key": "%parts_upgrade.upgradepercent",
+      "value": "Success Rate"
+    },
+    {
+      "key": "%parts_upgrade.upgradeconfirm",
+      "value": "Confirm Parts Enhancement"
+    },
+    {
+      "key": "%parts_upgrade.limit",
+      "value": "Enhancement Limit"
+    },
+    {
+      "key": "%parts_upgrade.count",
+      "value": "Enhancement Count"
+    },
+    {
+      "key": "%parts_upgrade.param.enrecovery",
+      "value": "EN Regen"
+    },
+    {
+      "key": "%parts_upgrade.param.weight",
+      "value": "Weight"
+    },
+    {
+      "key": "%parts_upgrade.param.shooting",
+      "value": "Shoot"
+    },
+    {
+      "key": "%parts_upgrade.param.fighting",
+      "value": "Melee"
+    },
+    {
+      "key": "%parts_upgrade.param.m_speed",
+      "value": "Walk"
+    },
+    {
+      "key": "%parts_upgrade.param.m_ability",
+      "value": "Walk Cap"
+    },
+    {
+      "key": "%parts_upgrade.param.b_speed",
+      "value": "Fly"
+    },
+    {
+      "key": "%parts_upgrade.param.b_ability",
+      "value": "Fly Cap"
+    },
+    {
+      "key": "%parts_upgrade.param.j_ability",
+      "value": "Jump"
+    },
+    {
+      "key": "%parts_upgrade.param.def_normal",
+      "value": "Phys DEF"
+    },
+    {
+      "key": "%parts_upgrade.param.def_laser",
+      "value": "Beam DEF"
+    },
+    {
+      "key": "%parts_upgrade.param.def_flame",
+      "value": "Fire DEF"
+    },
+    {
+      "key": "%parts_upgrade.param.def_shock",
+      "value": "Elec DEF"
+    },
+    {
+      "key": "%parts_upgrade.param.stability",
+      "value": "Stability"
+    },
+    {
+      "key": "%parts_upgrade.param.slow",
+      "value": "Slow Resistance"
+    },
+    {
+      "key": "%parts_upgrade.param.fleeze",
+      "value": "Freeze Resistance"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.mainpower",
+      "value": "Main"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.subpower",
+      "value": "Sub"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.attr",
+      "value": "Attack Element"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.en",
+      "value": "EN Cost"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.ammo",
+      "value": "Ammo"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.speed",
+      "value": "Shot Spd"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.range",
+      "value": "Range"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.gap",
+      "value": "Spread"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.gapmoving",
+      "value": "Moving Spread"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.stunrate",
+      "value": "Stun Rate"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.critical",
+      "value": "Additional Element"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.dmgbad",
+      "value": "Additional Element Damage"
+    },
+    {
+      "key": "%parts_upgrade.atkparam.comment",
+      "value": "Special Effect"
+    },
+    {
+      "key": "%materialpanel.sum",
+      "value": "Owned"
+    },
+    {
+      "key": "%materialpanel.num",
+      "value": "Required"
+    },
+    {
+      "key": "%combinedlg.start",
+      "value": "Start"
+    },
+    {
+      "key": "%partsitem_garage.mesguild",
+      "value": "Equip the guild assists you have learned! Assists are chosen randomly from the list each day."
+    },
+    {
+      "key": "%guild_garage.guildpanelcustum",
+      "value": "Customize"
+    },
+    {
+      "key": "%guild_garage.guildpanelcustum_help",
+      "value": "Edit the guild assists in the random list"
+    },
+    {
+      "key": "%guild_garage.guildpanelmain",
+      "value": "Status"
+    },
+    {
+      "key": "%guild_garage.guildpanelmain_help",
+      "value": "View guild status"
+    },
+    {
+      "key": "%guild_garage.status",
+      "value": "GUILD STATUS"
+    },
+    {
+      "key": "%guild_garage.boost",
+      "value": "GUILD ASSIST"
+    },
+    {
+      "key": "%guild_garage.index",
+      "value": "Guild"
+    },
+    {
+      "key": "%guild_garage.guildname",
+      "value": "Guild Name"
+    },
+    {
+      "key": "%guild_garage.master",
+      "value": "Guild Master"
+    },
+    {
+      "key": "%guild_garage.submaster",
+      "value": "Submaster"
+    },
+    {
+      "key": "%guild_garage.occupationarea",
+      "value": "?????"
+    },
+    {
+      "key": "%guild_garage.member",
+      "value": "Members"
+    },
+    {
+      "key": "%guild_garage.rank",
+      "value": "Guild Rank"
+    },
+    {
+      "key": "%guild_garage.point",
+      "value": "Guild Points"
+    },
+    {
+      "key": "%guild_garage.mypoint",
+      "value": "My Points"
+    },
+    {
+      "key": "%guild_garage.movepointhelp",
+      "value": "Transfer My Points to Guild Points"
+    },
+    {
+      "key": "%guild_garage.message",
+      "value": "Message"
+    },
+    {
+      "key": "%guild_garage.messagehelp",
+      "value": "Update message"
+    },
+    {
+      "key": "%guild_garage.help",
+      "value": "Show guild assist explanation"
+    },
+    {
+      "key": "%guild_garage.slots",
+      "value": "Equipment Slots"
+    },
+    {
+      "key": "%guild_garage.slotset",
+      "value": "Equip guild assist"
+    },
+    {
+      "key": "%guild_garage.guildassisttoday",
+      "value": "Today's Guild Assist"
+    },
+    {
+      "key": "%guild_garage.guildassistrand",
+      "value": "Random List"
+    },
+    {
+      "key": "%guild_garage.equip",
+      "value": "Equip"
+    },
+    {
+      "key": "%guild_garage.guild_help_dlf01",
+      "value": "About GUILD ASSIST"
+    },
+    {
+      "key": "%guild_garage.guild_help_dlgmain",
+      "value": "- Guild assists strengthen you through the bonds of your guild.\\n  They have no effect unless equipped, so remember to equip them.\\n\\n- You can equip a randomly selected guild assist\\n  from the random list customized by your guild master.\\n\\n- Guild assist effects expire at 6:00 AM.\\n  A new random guild assist is selected at the same time."
+    },
+    {
+      "key": "%guild_garage.guild_help_dlghelp1",
+      "value": "1. This list is edited by the guild master."
+    },
+    {
+      "key": "%guild_garage.guild_help_dlghelp1-2",
+      "value": "Equippable assists are marked with a star."
+    },
+    {
+      "key": "%guild_garage.guild_help_dlghelp2",
+      "value": "2. This button equips a guild assist."
+    },
+    {
+      "key": "%guild_garage.guild_help_dlghelp3",
+      "value": "3. This is your currently equipped guild assist."
+    },
+    {
+      "key": "%guild_garage.guild_help_dlghelp4",
+      "value": "Effects of the list created by your guild"
+    },
+    {
+      "key": "%guild_garage.page2_ranklist",
+      "value": "Learned List"
+    },
+    {
+      "key": "%guild_garage.page2_exlist",
+      "value": "Special List"
+    },
+    {
+      "key": "%guild_garage.page2_eqrist",
+      "value": "Equipped List"
+    },
+    {
+      "key": "%guild_garage.page2_outrist",
+      "value": "Remove"
+    },
+    {
+      "key": "%guild_garage.page2_addrand",
+      "value": "Add to Random List"
+    },
+    {
+      "key": "%guild_garage.page2_load",
+      "value": "Redo"
+    },
+    {
+      "key": "%guild_garage.page2_save",
+      "value": "Save"
+    },
+    {
+      "key": "%guild_point.check",
+      "value": "Transfer My Points to Guild Points.\\nAre you sure?"
+    },
+    {
+      "key": "%guild_point.name",
+      "value": "Points"
+    },
+    {
+      "key": "%auction_index.buy",
+      "value": "Buy Items"
+    },
+    {
+      "key": "%auction_index.sell",
+      "value": "List Items for Sale"
+    },
+    {
+      "key": "%auction_index.cancel",
+      "value": "Cancel the following listing!"
+    },
+    {
+      "key": "%auction.sell_message",
+      "value": "No comment needed, crab!"
+    },
+    {
+      "key": "%auction.partslist_panel",
+      "value": "Parts"
+    },
+    {
+      "key": "%auction.materiallist_panel",
+      "value": "Materials"
+    },
+    {
+      "key": "%auction.timelimit",
+      "value": "0 days"
+    },
+    {
+      "key": "%auction.enter",
+      "value": "List for Sale"
+    },
+    {
+      "key": "%auction.sellpage",
+      "value": "List Items for Sale"
+    },
+    {
+      "key": "%auction.selllist",
+      "value": "Active / Sold Listings"
+    },
+    {
+      "key": "%auction.sell_dlg_msg",
+      "value": "List for sale with these details"
+    },
+    {
+      "key": "%auction.sell_dlg_item",
+      "value": "Item to List"
+    },
+    {
+      "key": "%auction.sell_dlg_amount",
+      "value": "Listing Quantity"
+    },
+    {
+      "key": "%auction.sell_dlg_comment",
+      "value": "Comment"
+    },
+    {
+      "key": "%auction.sell_dlg_getmoney",
+      "value": "Amount You Receive (Each)"
+    },
+    {
+      "key": "%auction.sell_dlg_setmoney",
+      "value": "Sale Price (Each)"
+    },
+    {
+      "key": "%auction.sell_dlg_warnmoney",
+      "value": "A fee is charged when you collect payment!"
+    },
+    {
+      "key": "%auction.sell_dlg2_msg",
+      "value": "Settle payment with these details"
+    },
+    {
+      "key": "%auction.sell_dlg2_getmoney",
+      "value": "Amount Received"
+    },
+    {
+      "key": "%auction.sell_dlg2_sellitem",
+      "value": "Status When Listed"
+    },
+    {
+      "key": "%auction.sell_dlg2_formula",
+      "value": " (Listing Price x Quantity) - Fee (% of Sales)"
+    },
+    {
+      "key": "%auction.sell_dlg2_res1",
+      "value": " 1 item"
+    },
+    {
+      "key": "%auction.sell_dlg2_res3",
+      "value": "Fee"
+    },
+    {
+      "key": "%auction.buy_category",
+      "value": "Category"
+    },
+    {
+      "key": "%auction.buy_itemname",
+      "value": "Keyword"
+    },
+    {
+      "key": "%auction.buy_reference",
+      "value": "Search Items"
+    },
+    {
+      "key": "%auction.buy_sell",
+      "value": "List Items"
+    },
+    {
+      "key": "%auction.buy_buy",
+      "value": "Shop"
+    },
+    {
+      "key": "%auction.buy_button",
+      "value": "Buy"
+    },
+    {
+      "key": "%auction.buy_comment",
+      "value": "Gander for sale!"
+    },
+    {
+      "key": "%auction.buy_tab",
+      "value": "Items HD-Parts BD-Parts LG-Parts AM-Parts BS-Parts Main-Weapons Sub-Weapons Tuning-Parts Voice-Memory"
+    },
+    {
+      "key": "%auction.buy_selecte",
+      "value": "Refresh List"
+    },
+    {
+      "key": "%auction.buy_dlg_msg",
+      "value": "Purchase with these details"
+    },
+    {
+      "key": "%auction.buy_dlg_msg1",
+      "value": "Unit Price"
+    },
+    {
+      "key": "%auction.buy_dlg_msg2",
+      "value": "Quantity"
+    },
+    {
+      "key": "%auction.buy_dlg_msg3",
+      "value": "Total"
+    },
+    {
+      "key": "%training.num",
+      "value": "Players:"
+    },
+    {
+      "key": "%war_entry09.open",
+      "value": "Previous Results"
+    },
+    {
+      "key": "%war_entry09.close",
+      "value": "Close"
+    },
+    {
+      "key": "%war_entry09.paytext",
+      "value": "Collecting your prize changes your army affiliation."
+    },
+    {
+      "key": "%war_entry09.commen_score",
+      "value": "SCORE:"
+    },
+    {
+      "key": "%war_entry09.getpay",
+      "value": "Collect Prize"
+    },
+    {
+      "key": "%war_entry09.rnkking",
+      "value": "Rankings"
+    },
+    {
+      "key": "%war_entry09.paynatiion",
+      "value": "Faction"
+    },
+    {
+      "key": "%war_entry09.pay",
+      "value": "Prize"
+    },
+    {
+      "key": "%war_entry09.guildpoint",
+      "value": "Guild Points"
+    },
+    {
+      "key": "%war_entry09.pamftex",
+      "value": "You can review the Battle Star League guide on the map."
+    },
+    {
+      "key": "%war_entry09.prohibitlist",
+      "value": "Rules"
+    },
+    {
+      "key": "%war_warpanel09.spotmain",
+      "value": "Required Spots"
+    },
+    {
+      "key": "%war_warpanel09.etro",
+      "value": "Etrocium"
+    },
+    {
+      "key": "%war_warpanel09.myscore",
+      "value": "Score"
+    },
+    {
+      "key": "%war_warpanel09.areowner",
+      "value": "Area Master"
+    },
+    {
+      "key": "%war_warmap_01",
+      "value": "In Combat"
+    },
+    {
+      "key": "%war_warmap_02",
+      "value": "Base"
+    },
+    {
+      "key": "%war_warmap_03",
+      "value": "Headquarters"
+    },
+    {
+      "key": "%war_warmap_04",
+      "value": "Advancing"
+    },
+    {
+      "key": "%war_warmap_05",
+      "value": "Transfer Rules\\n1. Transfer from home to your army's base\\n2. Outside combat, transfer from your army's base to home\\n3. During a truce, transfer home"
+    },
+    {
+      "key": "%war_warmap_06",
+      "value": "Players in Area"
+    },
+    {
+      "key": "%war_warmap_07",
+      "value": "Transfer"
+    },
+    {
+      "key": "%war_ranking09_tiny.nation_filter",
+      "value": "Army"
+    },
+    {
+      "key": "%war_ranking09_tiny.group_filter",
+      "value": ""
+    },
+    {
+      "key": "%war_ranking09_tiny.details_view",
+      "value": "Show Details"
+    },
+    {
+      "key": "%war_ranking09_tiny.close",
+      "value": "Close"
+    },
+    {
+      "key": "%war_ranking09_tiny.total",
+      "value": "Overall"
+    },
+    {
+      "key": "%war_ranking09_tiny.current",
+      "value": "Current"
+    },
+    {
+      "key": "%war_ranking09_tiny.previous",
+      "value": "Previous"
+    },
+    {
+      "key": "%war_ranking09_tiny.tab",
+      "value": "ペンチョ軍 ドレザロ軍 ブザーク軍 マニマニモ軍 All-Armies"
+    },
+    {
+      "key": "%war_ranking09_tiny.tab2",
+      "value": "Player Guild"
+    },
+    {
+      "key": "%war_ranking09_large.nation_filter",
+      "value": "Army"
+    },
+    {
+      "key": "%war_ranking09_large.group_filter",
+      "value": ""
+    },
+    {
+      "key": "%war_ranking09_large.simple_view",
+      "value": "Compact View"
+    },
+    {
+      "key": "%war_ranking09_large.close",
+      "value": "Close"
+    },
+    {
+      "key": "%war_ranking09_large.total",
+      "value": "Overall"
+    },
+    {
+      "key": "%war_ranking09_large.current",
+      "value": "Current"
+    },
+    {
+      "key": "%war_ranking09_large.previous",
+      "value": "Previous"
+    },
+    {
+      "key": "%war_ranking09_large.tab",
+      "value": "ペンチョ軍 ドレザロ軍 ブザーク軍 マニマニモ軍 All-Armies"
+    },
+    {
+      "key": "%war_ranking09_large.tab2",
+      "value": "Player Guild"
+    },
+    {
+      "key": "%war_ranking09_large.top_10",
+      "value": "Top Ten"
+    },
+    {
+      "key": "%war_ranking09_large.top_10_help",
+      "value": "Top Players"
+    },
+    {
+      "key": "%war_ranking09_large.room_ranking",
+      "value": " Room Rankings"
+    },
+    {
+      "key": "%war_ranking09_large.my_ranking",
+      "value": "Your Rank"
+    },
+    {
+      "key": "%war_ranking09_large.guildmember",
+      "value": "Guild Members"
+    },
+    {
+      "key": "%war_ranking09_large.cost_600",
+      "value": "Cost 600 Class Top Players"
+    },
+    {
+      "key": "%war_ranking09_large.ranking",
+      "value": "Place"
+    },
+    {
+      "key": "%war_ranking09_large.player",
+      "value": "Player"
+    },
+    {
+      "key": "%war_ranking09_large.party_name",
+      "value": "Guild"
+    },
+    {
+      "key": "%war_ranking09_large.score",
+      "value": "Score"
+    },
+    {
+      "key": "%war_ranking09_large.defeats",
+      "value": "Kills"
+    },
+    {
+      "key": "%war_ranking09_large.charge",
+      "value": "Charges"
+    },
+    {
+      "key": "%war_ranking09_large.nation",
+      "value": "Army Affiliation"
+    },
+    {
+      "key": "%mission_reward.time",
+      "value": "Time Remaining"
+    },
+    {
+      "key": "%mission_reward.guild",
+      "value": "Guild Points"
+    },
+    {
+      "key": "%mission_reward.getitem",
+      "value": "Collect All"
+    },
+    {
+      "key": "%mission_reward.droppay",
+      "value": "Drop Sale Value"
+    },
+    {
+      "key": "%mission_reward.end",
+      "value": "Sell and Exit"
+    },
+    {
+      "key": "%mission_reward.select",
+      "value": "Clear Rewards"
+    },
+    {
+      "key": "%mission_rewardlog",
+      "value": "Sell the rewards and exit. Are you sure?"
+    },
+    {
+      "key": "%mission_reward.exit",
+      "value": "Leave Room"
+    },
+    {
+      "key": "%mission_reward.nothing",
+      "value": "Your contribution was too low to receive a reward."
+    },
+    {
+      "key": "%stageeditoruser.ifields",
+      "value": "ICON FIELD"
+    },
+    {
+      "key": "%stageeditoruser.hfields",
+      "value": "HEIGHT FIELD"
+    },
+    {
+      "key": "%stageeditoruser.bfields",
+      "value": "PARTS"
+    },
+    {
+      "key": "%stageeditoruser.ofields",
+      "value": "OBJECTS"
+    },
+    {
+      "key": "%stageeditoruser.pfields",
+      "value": "POLYGON FIELD"
+    },
+    {
+      "key": "%stageeditoruser.mappats",
+      "value": "Stage Parts"
+    },
+    {
+      "key": "%stageeditoruser.unground",
+      "value": "UGROUND"
+    },
+    {
+      "key": "%stageeditoruser.ground",
+      "value": "Sphere Drawing"
+    },
+    {
+      "key": "%stageeditoruser.radius",
+      "value": "Radius"
+    },
+    {
+      "key": "%stageeditoruser.appry",
+      "value": "Apply"
+    },
+    {
+      "key": "%stageeditoruser.del",
+      "value": "Delete"
+    },
+    {
+      "key": "%stageeditoruser.rot",
+      "value": "Rotate"
+    },
+    {
+      "key": "%stageeditoruser.env",
+      "value": "Environmental Effects"
+    },
+    {
+      "key": "%stageeditoruser.height",
+      "value": "Height"
+    },
+    {
+      "key": "%stageeditoruser.size",
+      "value": "Size"
+    },
+    {
+      "key": "%stageeditoruser.floordamage",
+      "value": "SEA Damage"
+    },
+    {
+      "key": "%stageeditoruser.copy",
+      "value": "Mirror Copy"
+    },
+    {
+      "key": "%stageeditoruser.stagesize",
+      "value": "Stage Size"
+    },
+    {
+      "key": "%stageeditoruser.movesize",
+      "value": "Movement Bounds"
+    },
+    {
+      "key": "%stageeditoruser.stageceil",
+      "value": "Maximum Altitude"
+    },
+    {
+      "key": "%stageeditoruser.layer",
+      "value": "Layer"
+    },
+    {
+      "key": "%stageeditoruser.position",
+      "value": "Position"
+    },
+    {
+      "key": "%stageeditoruser.way",
+      "value": "Direction"
+    },
+    {
+      "key": "%stageeditoruser.msg.objectmark",
+      "value": "Environmental Objects"
+    },
+    {
+      "key": "%stageeditoruser.attach",
+      "value": "Add"
+    },
+    {
+      "key": "%stageeditoruser.buildtool.autoboder",
+      "value": "AUTO BORDER"
+    },
+    {
+      "key": "%stageeditoruser.ground.autoboder.help",
+      "value": "Automatically adjust borders when placing certain ground parts"
+    },
+    {
+      "key": "%stageeditoruser.height.help",
+      "value": "Set ground height"
+    },
+    {
+      "key": "%stageeditoruser.ground.help",
+      "value": "Place terrain"
+    },
+    {
+      "key": "%stageeditoruser.buildtool.help",
+      "value": "Place objects"
+    },
+    {
+      "key": "%stageeditoruser.light.help",
+      "value": "Place lights"
+    },
+    {
+      "key": "%stageeditoruser.mark.help",
+      "value": "Set player spawn positions and environmental objects"
+    },
+    {
+      "key": "%stageeditoruser.camera.help",
+      "value": "Change camera position on the 2D map"
+    },
+    {
+      "key": "%stageeditoruser.light.drop.help",
+      "value": "Drag this button onto the 2D map to place a light"
+    },
+    {
+      "key": "%stageeditoruser.mark.drop.help",
+      "value": "Drag this button onto the 2D map to set an environmental object"
+    },
+    {
+      "key": "%stageeditoruser.copy.up",
+      "value": "^"
+    },
+    {
+      "key": "%stageeditoruser.copy.down",
+      "value": "v"
+    },
+    {
+      "key": "%stageeditoruser.copy.right",
+      "value": ">"
+    },
+    {
+      "key": "%stageeditoruser.copy.left",
+      "value": "<"
+    },
+    {
+      "key": "%stageeditoruser.range",
+      "value": "Range"
+    },
+    {
+      "key": "%stageeditoruser.color",
+      "value": "Color"
+    },
+    {
+      "key": "%stageeditoruser.type",
+      "value": "Light Source"
+    },
+    {
+      "key": "%stageeditoruser.shadow",
+      "value": "Shadow"
+    },
+    {
+      "key": "%stageeditoruser.num.obj",
+      "value": "Part Count"
+    },
+    {
+      "key": "%stageeditoruser.num.light",
+      "value": "Light Count"
+    },
+    {
+      "key": "%stageeditoruser.num.mark",
+      "value": "Object Count"
+    },
+    {
+      "key": "%stageeditoruser.parts.nature",
+      "value": "Standard Set"
+    },
+    {
+      "key": "%stageeditoruser.parts.build",
+      "value": "Extended Set"
+    },
+    {
+      "key": "%stageeditoruser.layerceil.help",
+      "value": "Layer for ceiling parts\\nObjects on this layer do not automatically change height when the ground height changes."
+    },
+    {
+      "key": "%dialog.stageeditor.title.changestageneme",
+      "value": "Set the stage name (up to 10 characters) and comment."
+    },
+    {
+      "key": "%dialog.stageeditor.title.stagename",
+      "value": "Stage Name"
+    },
+    {
+      "key": "%dialog.stageeditor.title.stagecomment",
+      "value": "Stage Comment"
+    },
+    {
+      "key": "%dialog.stageeditor.top.stagename",
+      "value": "Stage Name"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.save.thistime",
+      "value": "Upload to WorkShop When Saving"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.preview",
+      "value": "Preview Attached Image"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.changename",
+      "value": "Set the title and comment"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.name",
+      "value": "Title"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.comment",
+      "value": "Comment"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.tag",
+      "value": "Tags"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.tag.add",
+      "value": "Required Tags:"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.tag.explanation",
+      "value": "Separate tags with commas (,). Only English is allowed."
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.tag.ex",
+      "value": "Example tags: stage,name,partsname,etc...."
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.workshoplist",
+      "value": "workshop list below*****************"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.check",
+      "value": "By uploading this item,\\nyou agree to the Workshop Terms of Service."
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.link",
+      "value": "Link:https://steamcommunity.com/sharedfiles/workshoplegalagreement"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.link2",
+      "value": "Workshop Terms of Service Link"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.check2",
+      "value": "Please agree to the Workshop Terms of Service first."
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.error",
+      "value": "Error"
+    },
+    {
+      "key": "%dialog.uploadsteamworkshop.top.success",
+      "value": "Upload complete"
+    },
+    {
+      "key": "%stageeditor.layerceil.help",
+      "value": "Ceiling layer: Objects on this layer can use absolute heights,\\nand do not automatically change height when the ground height changes."
+    },
+    {
+      "key": "%shop.btn.receipt",
+      "value": "Purchase History"
+    },
+    {
+      "key": "%shop.btn.close",
+      "value": "Close"
+    },
+    {
+      "key": "%shop.receipt.title.record",
+      "value": "Purchase History"
+    },
+    {
+      "key": "%shop.receipt.title.date",
+      "value": "Purchase Date"
+    },
+    {
+      "key": "%garage.customize.shopcart.totalprice",
+      "value": "Item Total"
+    },
+    {
+      "key": "%serialpresent.key",
+      "value": "Gift Code:"
+    },
+    {
+      "key": "%serialpresent.message",
+      "value": "Enter your gift code"
+    },
+    {
+      "key": "%cbinformation.word.title",
+      "value": "INFORMATION"
+    },
+    {
+      "key": "%cbinformation.word.always",
+      "value": "Show Every Time"
+    },
+    {
+      "key": "%cbinformation.word.daily",
+      "value": "Do Not Show Again Today"
+    },
+    {
+      "key": "%cbinformation.word.updating",
+      "value": "Show When Updated"
+    }
+  ]
+}

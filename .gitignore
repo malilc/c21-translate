@@ -1,0 +1,33 @@
+# Local game installation, including proprietary resources and user data
+/CyberStep/
+/.superpowers/
+/*.zip
+/0
+*.private-request
+*.snk
+
+# C21 Thai mod generated and local-only payloads
+/C21ThaiPoC/cosmic-thai-offline.exe
+/C21ThaiPoC/bin/
+/C21ThaiPoC/backups/
+/C21ThaiPoC/diagnostics/
+/C21ThaiPoC/reports/
+/C21ThaiPoC/.superpowers/
+/C21ThaiPoC/ThaiMod/
+
+# Build output created below the source tree
+/C21ThaiPoC/**/bin/
+/C21ThaiPoC/**/obj/
+/C21ThaiPoC/**/build/
+/C21ThaiPoC/**/out/
+/C21ThaiPoC/**/*.class
+/C21ThaiPoC/**/*.jar
+/C21ThaiPoC/**/*.dll
+/C21ThaiPoC/**/*.pdb
+
+# Local temporary and recovery files
+/C21ThaiPoC/**/*.tmp
+/C21ThaiPoC/**/*.bak
+/C21ThaiPoC/**/*.prev
+/C21ThaiPoC/**/*.before-*
+/C21ThaiPoC/**/*.log

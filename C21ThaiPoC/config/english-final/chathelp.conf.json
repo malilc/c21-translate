@@ -1,0 +1,107 @@
+[
+  {
+    "line": 1,
+    "source": "チャットコマンド一覧 /help (短縮形 /?)",
+    "target": "Chat command list /help (alias /?)"
+  },
+  {
+    "line": 2,
+    "source": "運営報告 /op",
+    "target": "Report to staff /op"
+  },
+  {
+    "line": 3,
+    "source": "無視削除 /ignoreoff [name]",
+    "target": "Remove from ignore list /ignoreoff [name]"
+  },
+  {
+    "line": 4,
+    "source": "無視登録 /ignore [name]",
+    "target": "Add to ignore list /ignore [name]"
+  },
+  {
+    "line": 5,
+    "source": "看板 /board (短縮形 /b) CTRL+B",
+    "target": "Signboard /board (alias /b) CTRL+B"
+  },
+  {
+    "line": 6,
+    "source": "パーティーリーダー交代 /leader [name]",
+    "target": "Change party leader /leader [name]"
+  },
+  {
+    "line": 7,
+    "source": "パーティー脱退 /leave",
+    "target": "Leave party /leave"
+  },
+  {
+    "line": 8,
+    "source": "パーティー追い出し /kick [name]",
+    "target": "Remove party member /kick [name]"
+  },
+  {
+    "line": 9,
+    "source": "パーティー会話 /psay (短縮形 /p) CTRL+P",
+    "target": "Party chat /psay (alias /p) CTRL+P"
+  },
+  {
+    "line": 10,
+    "source": "パーティー勧誘 /invite [name]",
+    "target": "Invite to party /invite [name]"
+  },
+  {
+    "line": 11,
+    "source": "パーティー作成 /partymake [partyname]",
+    "target": "Create party /partymake [partyname]"
+  },
+  {
+    "line": 12,
+    "source": "ギルド会話 /gsay (短縮形 /g) CTRL+G",
+    "target": "Guild chat /gsay (alias /g) CTRL+G"
+  },
+  {
+    "line": 13,
+    "source": "フレンド削除 /friendoff [name]",
+    "target": "Remove friend /friendoff [name]"
+  },
+  {
+    "line": 14,
+    "source": "フレンド申請 /friend [name]",
+    "target": "Send friend request /friend [name]"
+  },
+  {
+    "line": 15,
+    "source": "TELL会話 /tell [name] (短縮系 /t [name]) CTRL+T",
+    "target": "Private chat /tell [name] (alias /t [name]) CTRL+T"
+  },
+  {
+    "line": 16,
+    "source": "以前の相手にTELL /reply (短縮形 /r) CTRL+R",
+    "target": "Reply to last sender /reply (alias /r) CTRL+R"
+  },
+  {
+    "line": 17,
+    "source": "軍会話 /nation (短縮形 /n) CTRL+N",
+    "target": "Army chat /nation (alias /n) CTRL+N"
+  },
+  {
+    "line": 18,
+    "source": "全体会話 /shout (短縮形 /!)",
+    "target": "Global chat /shout (alias /!)"
+  },
+  {
+    "line": 19,
+    "source": "周囲会話 /say (短縮形 /s) CTRL+S",
+    "target": "Nearby chat /say (alias /s) CTRL+S"
+  },
+  {
+    "line": 20,
+    "source": "入力の補完  CTRL+SPACE",
+    "target": "Autocomplete  CTRL+SPACE"
+  },
+  {
+    "line": 21,
+    "source": "チャットコマンド一覧を出力しました",
+    "target": "Chat command list displayed"
+  }
+]

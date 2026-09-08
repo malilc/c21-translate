@@ -1,0 +1,920 @@
+[
+  {
+    "sourceEscaped": "１２ポイントゴシックにもじは全部変える",
+    "thaiEscaped": "１２ポイントゴシックにもじは全部変える",
+    "status": "retained-template",
+    "note": "Developer instruction about changing all text to 12-point Gothic, stored in embedded fixbar templates; not player-facing copy."
+  },
+  {
+    "sourceEscaped": "AURAカートリッジ",
+    "thaiEscaped": "AURA Cartridge",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "EN回復量",
+    "thaiEscaped": "EN Recovery",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ＲＡＤＩＯボリューム",
+    "thaiEscaped": "RADIO Volume",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(1)",
+    "thaiEscaped": "Item Shortcut (1)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(2)",
+    "thaiEscaped": "Item Shortcut (2)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(3)",
+    "thaiEscaped": "Item Shortcut (3)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(4)",
+    "thaiEscaped": "Item Shortcut (4)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(5)",
+    "thaiEscaped": "Item Shortcut (5)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(6)",
+    "thaiEscaped": "Item Shortcut (6)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(7)",
+    "thaiEscaped": "Item Shortcut (7)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット(8)",
+    "thaiEscaped": "Item Shortcut (8)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムショートカット自動登録/解除",
+    "thaiEscaped": "Auto Assign/Clear Item Shortcuts",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテムナンデスヨイ",
+    "thaiEscaped": "アイテムナンデスヨイ",
+    "status": "retained-template",
+    "note": "Dummy item name in the generic item-sell dialog; runtime item binding replaces it."
+  },
+  {
+    "sourceEscaped": "アイテムの名前",
+    "thaiEscaped": "アイテムの名前",
+    "status": "retained-template",
+    "note": "Placeholder item-name field in generic gacha/combine dialogs; runtime item binding replaces it."
+  },
+  {
+    "sourceEscaped": "アイテム十文字八九十",
+    "thaiEscaped": "アイテム十文字八九十",
+    "status": "retained-template",
+    "note": "Ten-character item-name width-test sample in a receipt template."
+  },
+  {
+    "sourceEscaped": "アイテム名前",
+    "thaiEscaped": "Item Name",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "アイテム系統",
+    "thaiEscaped": "Item Type",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "インフォメーション",
+    "thaiEscaped": "Information",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "エリア",
+    "thaiEscaped": "Area",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ガチャ名",
+    "thaiEscaped": "ガチャ名",
+    "status": "retained-template",
+    "note": "Placeholder gacha-name field in confirmation dialogs; runtime gacha binding replaces it."
+  },
+  {
+    "sourceEscaped": "カメラ上",
+    "thaiEscaped": "Camera Up",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "カメラ下",
+    "thaiEscaped": "Camera Down",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ガレージちゅーたー",
+    "thaiEscaped": "ガレージちゅーたー",
+    "status": "retained-npc",
+    "note": "NPC name/dialogue remains Japanese as requested."
+  },
+  {
+    "sourceEscaped": "ガレージに格納されました。",
+    "thaiEscaped": "Stored in the garage.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ギフトを送ります",
+    "thaiEscaped": "Send a gift",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "クエスト",
+    "thaiEscaped": "Quest",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "クエスト常時表示",
+    "thaiEscaped": "Always Show Quests",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ゲームモード",
+    "thaiEscaped": "Game Mode",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ここにメッセージ入力",
+    "thaiEscaped": "ここにメッセージ入力",
+    "status": "retained-template",
+    "note": "Developer placeholder requesting message insertion in generic parts-parameter dialogs."
+  },
+  {
+    "sourceEscaped": "コスト",
+    "thaiEscaped": "Cost",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "コマンドー",
+    "thaiEscaped": "Commando",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "コントローラ",
+    "thaiEscaped": "Controller",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "サイズ",
+    "thaiEscaped": "Size",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "サブ",
+    "thaiEscaped": "Sub",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "サブ / アクション",
+    "thaiEscaped": "Sub / Action",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "サブパラメータをここに記述しないとなぁ",
+    "thaiEscaped": "サブパラメータをここに記述しないとなぁ",
+    "status": "retained-template",
+    "note": "Developer placeholder requesting Sub parameter insertion in generic parts-parameter dialogs."
+  },
+  {
+    "sourceEscaped": "サブ威力",
+    "thaiEscaped": "Sub Power",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "シャインバスターだよ",
+    "thaiEscaped": "シャインバスターだよ",
+    "status": "retained-template",
+    "note": "Sample NPC name (Shine Buster) with casual dummy suffix in generic dialogue templates; preserve proper name and template."
+  },
+  {
+    "sourceEscaped": "ジャンプ力",
+    "thaiEscaped": "Jump Power",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "スクリーンショット",
+    "thaiEscaped": "Screenshot",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ステージの影",
+    "thaiEscaped": "Stage Shadows",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ステータス(小)",
+    "thaiEscaped": "Status (Small)",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "スピード変化",
+    "thaiEscaped": "Speed Change",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ゼロファイターHD",
+    "thaiEscaped": "ゼロファイターHD",
+    "status": "retained-template",
+    "note": "Sample Zero Fighter HD part name in a recipe panel; preserve proper name rather than localizing a dynamic item name."
+  },
+  {
+    "sourceEscaped": "そざいのなまえをいれて下さ",
+    "thaiEscaped": "そざいのなまえをいれて下さ",
+    "status": "retained-template",
+    "note": "Developer placeholder requesting a material name in the generic material panel."
+  },
+  {
+    "sourceEscaped": "ターゲットチェンジ",
+    "thaiEscaped": "Change Target",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ダイレクトサブ",
+    "thaiEscaped": "Direct Sub",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ダイレクトメイン",
+    "thaiEscaped": "Direct Main",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ダメージポップ",
+    "thaiEscaped": "Damage Numbers",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ダメージポップオーバーキル",
+    "thaiEscaped": "Overkill Damage",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ダンジョン",
+    "thaiEscaped": "Dungeon",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "チェックボックス",
+    "thaiEscaped": "チェックボックス",
+    "status": "retained-template",
+    "note": "Generic embedded checkbox component's sample caption; runtime configured label not established."
+  },
+  {
+    "sourceEscaped": "チューニング",
+    "thaiEscaped": "Tuning",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": " ディメンション",
+    "thaiEscaped": " Dimension",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "テキストサブインデックス",
+    "thaiEscaped": "テキストサブインデックス",
+    "status": "retained-template",
+    "note": "Generic embedded sub-index component's placeholder caption."
+  },
+  {
+    "sourceEscaped": "パーツの元名前",
+    "thaiEscaped": "パーツの元名前",
+    "status": "retained-template",
+    "note": "Placeholder current part-name field in upgrade confirmation; runtime part binding replaces it."
+  },
+  {
+    "sourceEscaped": "パーツの名前ですよっと",
+    "thaiEscaped": "パーツの名前ですよっと",
+    "status": "retained-template",
+    "note": "Dummy part-name text in generic parts-parameter dialogs."
+  },
+  {
+    "sourceEscaped": "パーツの新名前",
+    "thaiEscaped": "パーツの新名前",
+    "status": "retained-template",
+    "note": "Placeholder upgraded part-name field in upgrade confirmation; runtime part binding replaces it."
+  },
+  {
+    "sourceEscaped": "パーツ名前",
+    "thaiEscaped": "Part Name",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "パーツ構成",
+    "thaiEscaped": "Parts Setup",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "パーツ系統",
+    "thaiEscaped": "Part Type",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "パーティ",
+    "thaiEscaped": "Party",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "バトルスターリーグ",
+    "thaiEscaped": "Battle Star League",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "バトルタワー",
+    "thaiEscaped": "Battle Tower",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "パラメータをここに記述したいねぇーーーーーーーーーーーーーーーーー",
+    "thaiEscaped": "パラメータをここに記述したいねぇーーーーーーーーーーーーーーーーー",
+    "status": "retained-template",
+    "note": "Developer parameter-insertion placeholder with width-test padding."
+  },
+  {
+    "sourceEscaped": "ビーム防御",
+    "thaiEscaped": "Beam Defense",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ふきだし表示",
+    "thaiEscaped": "Chat Bubbles",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ファークリップ",
+    "thaiEscaped": "View Distance",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "フィールド",
+    "thaiEscaped": "Field",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "フォグ",
+    "thaiEscaped": "Fog",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "フリーカーソルモード",
+    "thaiEscaped": "Free Cursor Mode",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "プレイヤー名",
+    "thaiEscaped": "Player Name",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ほげほげ",
+    "thaiEscaped": "ほげほげ",
+    "status": "retained-template",
+    "note": "Japanese dummy filler used for gift item/recipient fields; not a player name to translate."
+  },
+  {
+    "sourceEscaped": "ホイール反転",
+    "thaiEscaped": "Invert Wheel",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ボイス",
+    "thaiEscaped": "Voice",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ホバリング",
+    "thaiEscaped": "Hover",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ミッション",
+    "thaiEscaped": "Mission",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ミッションランク",
+    "thaiEscaped": "Mission Rank",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "メイン",
+    "thaiEscaped": "Main",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "メインパラメータをここに記述しないとなぁ",
+    "thaiEscaped": "メインパラメータをここに記述しないとなぁ",
+    "status": "retained-template",
+    "note": "Developer placeholder requesting Main parameter insertion in generic parts-parameter dialogs."
+  },
+  {
+    "sourceEscaped": "メイン威力",
+    "thaiEscaped": "Main Power",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "メニュー",
+    "thaiEscaped": "Menu",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "やめる",
+    "thaiEscaped": "Quit",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "-　ユーザーID、パスワードを入力してログインします。",
+    "thaiEscaped": "- Enter your User ID and password to log in.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ランニング",
+    "thaiEscaped": "Run",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ログイン",
+    "thaiEscaped": "Log In",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ロック",
+    "thaiEscaped": "Lock",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ロボ：",
+    "thaiEscaped": "Robot:",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ロボGP",
+    "thaiEscaped": "Robo GP",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ロボの名前",
+    "thaiEscaped": "Robot Name",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ロボを解体してパーツにします。",
+    "thaiEscaped": "Dismantle the robot into parts.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ロボを解体して売却します。",
+    "thaiEscaped": "Dismantle and sell the robot.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ワイド画面",
+    "thaiEscaped": "Widescreen",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "下のアイテムを消費して99回まわします",
+    "thaiEscaped": "Spend the items below to roll 99 times.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "下のパーツを消費して99回まわします",
+    "thaiEscaped": "Spend the parts below to roll 99 times.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "下のメタルを消費して99回まわします",
+    "thaiEscaped": "Spend the Mt below to roll 99 times.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "不透明表示数",
+    "thaiEscaped": "Opaque Object Limit",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "付加属性",
+    "thaiEscaped": "Additional Attributes",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "個 人",
+    "thaiEscaped": "Whisper",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "全 体",
+    "thaiEscaped": "All",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "全滅となり遺跡内部で得たアイテムとパーツ、EXPを全て失いますが、よろしいですか？",
+    "thaiEscaped": "Your team will be defeated and lose all items, parts, and EXP gained in the ruins. Continue?",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "切り替え",
+    "thaiEscaped": "Switch",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "前進",
+    "thaiEscaped": "Move Forward",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "勝",
+    "thaiEscaped": "Wins",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "半透明表示数",
+    "thaiEscaped": "Transparent Object Limit",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "参加費",
+    "thaiEscaped": "Entry Fee",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "右平行移動",
+    "thaiEscaped": "Strafe Right",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "右旋回",
+    "thaiEscaped": "Turn Right",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "周 囲",
+    "thaiEscaped": "Nearby",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "回",
+    "thaiEscaped": "Times",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "基地が陥落しました！",
+    "thaiEscaped": "The base has fallen!",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "場所：",
+    "thaiEscaped": "Location:",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "安定性",
+    "thaiEscaped": "Stability",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "射撃能力",
+    "thaiEscaped": "Shooting Ability",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "左平行移動",
+    "thaiEscaped": "Strafe Left",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "左旋回",
+    "thaiEscaped": "Turn Left",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "弾エフェクトの表示",
+    "thaiEscaped": "Shot Effects",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "後退",
+    "thaiEscaped": "Move Backward",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "悪悪〇壱弐参四五六七八九",
+    "thaiEscaped": "悪悪〇壱弐参四五六七八九",
+    "status": "retained-template",
+    "note": "Rank-field character/width-test sample including formal Japanese numerals."
+  },
+  {
+    "sourceEscaped": "情報表示",
+    "thaiEscaped": "Show Information",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "攻撃の名前",
+    "thaiEscaped": "攻撃の名前",
+    "status": "retained-template",
+    "note": "Placeholder attack-name field populated from weapon data at runtime."
+  },
+  {
+    "sourceEscaped": "攻撃性能",
+    "thaiEscaped": "Attack Stats",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "敗",
+    "thaiEscaped": "Losses",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "敢闘賞",
+    "thaiEscaped": "Fighting Spirit Award",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "：文字は１２ポイントゴシックを",
+    "thaiEscaped": "：文字は１２ポイントゴシックを",
+    "status": "retained-template",
+    "note": "Developer instruction about 12-point Gothic in an embedded fixbar template."
+  },
+  {
+    "sourceEscaped": "旗のてすと",
+    "thaiEscaped": "旗のてすと",
+    "status": "retained-template",
+    "note": "Flag test string in an embedded arena result component parameter."
+  },
+  {
+    "sourceEscaped": "本ミッション未クリアのユーザがいます!",
+    "thaiEscaped": "Some players have not cleared this mission!",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "格闘能力",
+    "thaiEscaped": "Melee Ability",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "武器ナンデスヨ９十",
+    "thaiEscaped": "武器ナンデスヨ９十",
+    "status": "retained-template",
+    "note": "Dummy weapon-name width-test string in generic sell dialogs."
+  },
+  {
+    "sourceEscaped": "武器ナンデスヨ八九十",
+    "thaiEscaped": "武器ナンデスヨ八九十",
+    "status": "retained-template",
+    "note": "Dummy weapon-name width-test string in generic buy dialogs."
+  },
+  {
+    "sourceEscaped": "歩行制限",
+    "thaiEscaped": "Walk Weight Limit",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "歩行速度",
+    "thaiEscaped": "Walk Speed",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "汎用ボタン A",
+    "thaiEscaped": "汎用ボタン A",
+    "status": "retained-template",
+    "note": "Generic embedded button component's sample caption; runtime configured action not established."
+  },
+  {
+    "sourceEscaped": "潜在能力",
+    "thaiEscaped": "Potential",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "火炎防御",
+    "thaiEscaped": "Fire Defense",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "物理防御",
+    "thaiEscaped": "Physical Defense",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "生涯戦績",
+    "thaiEscaped": "Lifetime Record",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "画面サイズ",
+    "thaiEscaped": "Screen Size",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "発射間隔ゲージ",
+    "thaiEscaped": "Fire Gauge",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "看板表示",
+    "thaiEscaped": "Show Signs",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "素材の名前をいれて下さい",
+    "thaiEscaped": "素材の名前をいれて下さい",
+    "status": "retained-template",
+    "note": "Developer placeholder requesting a material name in the generic material panel."
+  },
+  {
+    "sourceEscaped": "総重量",
+    "thaiEscaped": "Total Weight",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "表 示",
+    "thaiEscaped": "Display",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "設定",
+    "thaiEscaped": "Settings",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "誰にも使えずどこにも属さぬ孤高のハンターであり、大空の覇者。蝶のように舞い蜂のように刺す。",
+    "thaiEscaped": "A lone hunter who serves no one and belongs nowhere, sovereign of the skies. Floats like a butterfly and stings like a bee.",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "連れて行きたいロボをガレージ\\nから選んでコマンドーにセット\\nするんぢゃ！",
+    "thaiEscaped": "連れて行きたいロボをガレージ\\nから選んでコマンドーにセット\\nするんぢゃ！",
+    "status": "retained-npc",
+    "note": "NPC name/dialogue remains Japanese as requested."
+  },
+  {
+    "sourceEscaped": "連勝記録",
+    "thaiEscaped": "Win Streak",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "防御性能",
+    "thaiEscaped": "Defense Stats",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "電撃防御",
+    "thaiEscaped": "Electric Defense",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "飛行制限",
+    "thaiEscaped": "Flight Weight Limit",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "飛行速度",
+    "thaiEscaped": "Flight Speed",
+    "status": "translated",
+    "note": "English UI translation; original raster bytes preserved."
+  },
+  {
+    "sourceEscaped": "ホバリング表示",
+    "thaiEscaped": "Hover Display",
+    "status": "translated",
+    "note": "English target; legacy field name required by structured span tool."
+  }
+]

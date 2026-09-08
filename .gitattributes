@@ -1,0 +1,23 @@
+# Preserve exact bytes. Several safety checks pin SHA-256 values, while the
+# machine-wide Git configuration currently enables core.autocrlf.
+* -text
+
+# Keep text files reviewable without applying line-ending normalization.
+*.md   -text diff
+*.ps1  -text diff
+*.psd1 -text diff
+*.cs   -text diff
+*.java -text diff
+*.tsv  -text diff
+*.conf -text diff
+
+# Treat generated/resource formats as binary if they are ever staged locally.
+*.cnt   -text -diff
+*.ser   -text -diff
+*.png   -text -diff
+*.exe   -text -diff
+*.dll   -text -diff
+*.class -text -diff
+*.jar   -text -diff
+*.kar   -text -diff
+*.dat   -text -diff

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "files": {
+    "resources/etc.kar": "1bbe1c1d64db2ef3746523702181bc521dfb23c849bc84f6c7213e79c5043d09",
+    "resources/kwt.kar": "153cdae9cb5f02e1652b228a62deef1ea8b985104cc8314358c894a17e65cc2d",
+    "README-TH.txt": "5c946a1b1840e1bfd983572fdb3e23edb2c47765704b350308ef6d45b895408c"
+  },
+  "zip_sha256": "1d1ad84d33862417c0dad0dc5913fe31d801cc221a3ad687089ab6dda70bf769",
+  "resource_version": "v1.2 unchanged",
+  "full_visual_verification": "not performed"
+}

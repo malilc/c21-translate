@@ -1,0 +1,32 @@
+[
+  {
+    "line": 6,
+    "source": "\t\tmessege = T\"・・・\";",
+    "target": "\t\tmessege = T\"...\";"
+  },
+  {
+    "line": 10,
+    "source": "\t\tmessege = T\"コマンドーにロボをセットするには、ロボ一覧ボタンを選択するんぢゃ！\";",
+    "target": "\t\tmessege = T\"Select the robot list button to add robots to your commando!\";"
+  },
+  {
+    "line": 17,
+    "source": "\t\tmessege = T\"この画面では所持しているロボを一覧できるんぢゃ！\";",
+    "target": "\t\tmessege = T\"This screen lists all the robots you own!\";"
+  },
+  {
+    "line": 21,
+    "source": "\t\tmessege = T\"ステージではコマンドーにセットした最大５体のロボを使えるんぢゃ！\";",
+    "target": "\t\tmessege = T\"You can use up to five robots assigned to your commando on a stage!\";"
+  },
+  {
+    "line": 25,
+    "source": "\t\tmessege = T\"コマンドーにロボをセットするには、ドラッグ＆ドロップぢゃ！\";",
+    "target": "\t\tmessege = T\"Drag and drop a robot to add it to your commando!\";"
+  },
+  {
+    "line": 29,
+    "source": "\t\tmessege = T\"ロボを選択してからカスタマイズボタンを押せば、パーツを組み換えれるんぢゃ！\";",
+    "target": "\t\tmessege = T\"Select a robot and press Customize to rearrange its parts!\";"
+  }
+]

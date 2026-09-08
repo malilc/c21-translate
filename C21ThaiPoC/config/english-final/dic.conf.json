@@ -1,0 +1,4769 @@
+{
+  "encoding": "cp932",
+  "entries": [
+    {
+      "key": "locale",
+      "value": "jp"
+    },
+    {
+      "key": "msg.cosmic.closedimension",
+      "value": "Closing dimension"
+    },
+    {
+      "key": "msg.cosmic.disconnect",
+      "value": "Disconnecting from network"
+    },
+    {
+      "key": "msg.cosmic.serverstopped",
+      "value": "Server stopped"
+    },
+    {
+      "key": "msg.dimension.closed",
+      "value": "Dimension closed"
+    },
+    {
+      "key": "msg.dimension.capacityover",
+      "value": "Dimension is full"
+    },
+    {
+      "key": "msg.store.closed",
+      "value": "Preparing"
+    },
+    {
+      "key": "msg.store.closed2",
+      "value": "Shop closed"
+    },
+    {
+      "key": "msg.arena.closed",
+      "value": "Preparing"
+    },
+    {
+      "key": "msg.arena.closed2",
+      "value": "Closed"
+    },
+    {
+      "key": "msg.dungeon.closed",
+      "value": "This dungeon is closed"
+    },
+    {
+      "key": "msg.mission.closed",
+      "value": "This mission is closed"
+    },
+    {
+      "key": "msg.room.closed",
+      "value": "This room is closed"
+    },
+    {
+      "key": "msg.operator.received",
+      "value": "Sent to the support team: \" %s \""
+    },
+    {
+      "key": "msg.present.empty",
+      "value": "Nothing has arrived"
+    },
+    {
+      "key": "msg.present.from",
+      "value": "[ %s ]\\n"
+    },
+    {
+      "key": "msg.present.receive",
+      "value": "    - %s\\n    - Check your garage for details\\n      "
+    },
+    {
+      "key": "msg.present.confirm",
+      "value": "    - %s\\n    - Check your status for details\\n      "
+    },
+    {
+      "key": "msg.present.remove",
+      "value": "    - %s\\n      "
+    },
+    {
+      "key": "msg.present.modify",
+      "value": "    - The C21 team has changed the amount as follows\\n"
+    },
+    {
+      "key": "msg.present.office",
+      "value": "C21 Support Team"
+    },
+    {
+      "key": "msg.present.hangame",
+      "value": "Hange"
+    },
+    {
+      "key": "msg.present.fujitv",
+      "value": "Fuji TV"
+    },
+    {
+      "key": "msg.present.nifty",
+      "value": "Nifty"
+    },
+    {
+      "key": "msg.present.steam",
+      "value": "Steam"
+    },
+    {
+      "key": "msg.present.itempresent",
+      "value": "Item gift"
+    },
+    {
+      "key": "msg.present.partspresent",
+      "value": "Parts gift"
+    },
+    {
+      "key": "msg.present.gmoneypresent",
+      "value": "Cosmic Dollars"
+    },
+    {
+      "key": "msg.present.metalpresent",
+      "value": "Metal gift"
+    },
+    {
+      "key": "msg.present.itemremove",
+      "value": "Item removed"
+    },
+    {
+      "key": "msg.present.partsremove",
+      "value": "Parts removed"
+    },
+    {
+      "key": "msg.present.gmoneysub",
+      "value": "Cosmic Dollars deducted"
+    },
+    {
+      "key": "msg.present.metalsub",
+      "value": "Metal deducted"
+    },
+    {
+      "key": "msg.present.gmoneyset",
+      "value": "Cosmic Dollars adjusted"
+    },
+    {
+      "key": "msg.present.metalset",
+      "value": "Metal adjusted"
+    },
+    {
+      "key": "msg.ranking.win",
+      "value": "Wins"
+    },
+    {
+      "key": "msg.ranking.lose",
+      "value": "Losses"
+    },
+    {
+      "key": "msg.ranking.place",
+      "value": "Place"
+    },
+    {
+      "key": "msg.ranking.times",
+      "value": "Times"
+    },
+    {
+      "key": "msg.ranking.consecutive",
+      "value": "Win streak"
+    },
+    {
+      "key": "msg.ranking.msgfont",
+      "value": "gothic"
+    },
+    {
+      "key": "msg.ranking.placefont",
+      "value": "C21wide"
+    },
+    {
+      "key": "msg.matching.prepare",
+      "value": "<POS TR/><ID 2/><W 200/><PL C>Preparing mission</>"
+    },
+    {
+      "key": "msg.matching.closed",
+      "value": "<POS MC/><W 200/><TOUT 5000/><PL C>The room is closed</><SBTN 60><ST I>Back</></>"
+    },
+    {
+      "key": "msg.matching.leaderchange",
+      "value": "Room leader changed to \"%s\""
+    },
+    {
+      "key": "msg.matching.youaretheleader",
+      "value": "You are now the room leader"
+    },
+    {
+      "key": "msg.matching.exitconfirm",
+      "value": "Leave the room?"
+    },
+    {
+      "key": "msg.matching.ejectconfirm",
+      "value": "Players who are not ready will be removed"
+    },
+    {
+      "key": "msg.matching.adfname",
+      "value": "Angel Army"
+    },
+    {
+      "key": "msg.matching.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "msg.matching.no",
+      "value": "No"
+    },
+    {
+      "key": "msg.matching.font",
+      "value": "gothic"
+    },
+    {
+      "key": "msg.matching.humanunit",
+      "value": "Players"
+    },
+    {
+      "key": "msg.matching.non",
+      "value": "None"
+    },
+    {
+      "key": "msg.matching.levelGEStr",
+      "value": "Level %d or higher"
+    },
+    {
+      "key": "msg.matching.levelLEStr",
+      "value": "Level %d or lower"
+    },
+    {
+      "key": "msg.matching.levelEQStr",
+      "value": "Level %d only"
+    },
+    {
+      "key": "msg.matching.levelRangeStr",
+      "value": "Level %d to %d"
+    },
+    {
+      "key": "msg.matching.sizeGEStr",
+      "value": "Size %s or larger"
+    },
+    {
+      "key": "msg.matching.sizeLEStr",
+      "value": "Size %s or smaller"
+    },
+    {
+      "key": "msg.matching.sizeEQStr",
+      "value": "Size %s only"
+    },
+    {
+      "key": "msg.matching.sizeRangeStr",
+      "value": "Size %s to %s"
+    },
+    {
+      "key": "msg.matching.numGEStr",
+      "value": "Deploy at least %d robots"
+    },
+    {
+      "key": "msg.matching.numLEStr",
+      "value": "Deploy at most %d robots"
+    },
+    {
+      "key": "msg.matching.numEQStr",
+      "value": "Deploy exactly %d robots"
+    },
+    {
+      "key": "msg.matching.numRangeStr",
+      "value": "Deploy %d to %d robots"
+    },
+    {
+      "key": "msg.matching.costGEStr",
+      "value": "Cost %d or higher"
+    },
+    {
+      "key": "msg.matching.costLEStr",
+      "value": "Cost %d or lower"
+    },
+    {
+      "key": "msg.matching.costEQStr",
+      "value": "Cost %d only"
+    },
+    {
+      "key": "msg.matching.costRangeStr",
+      "value": "Cost %d to %d"
+    },
+    {
+      "key": "msg.matching.totalcostGEStr",
+      "value": "Total cost %d or higher"
+    },
+    {
+      "key": "msg.matching.totalcostLEStr",
+      "value": "Total cost %d or lower"
+    },
+    {
+      "key": "msg.matching.totalcostEQStr",
+      "value": "Total cost %d only"
+    },
+    {
+      "key": "msg.matching.totalcostRangeStr",
+      "value": "Total cost %d to %d"
+    },
+    {
+      "key": "msg.matching.itemStr",
+      "value": "Required item:"
+    },
+    {
+      "key": "msg.matching.moneyGEStr",
+      "value": "At least %dC$ held"
+    },
+    {
+      "key": "msg.matching.metalGEStr",
+      "value": "At least %dMt held"
+    },
+    {
+      "key": "msg.matching.categoryStr",
+      "value": "Type %s only"
+    },
+    {
+      "key": "msg.matching.partsCountGEStr",
+      "value": "At least %d parts"
+    },
+    {
+      "key": "msg.matching.partsCountLEStr",
+      "value": "At most %d parts"
+    },
+    {
+      "key": "msg.matching.bodyCountGEStr",
+      "value": "At least %d BD parts"
+    },
+    {
+      "key": "msg.matching.bodyCountLEStr",
+      "value": "At most %d BD parts"
+    },
+    {
+      "key": "msg.matching.weightGEStr",
+      "value": "Weight %d or higher"
+    },
+    {
+      "key": "msg.matching.weightLEStr",
+      "value": "Weight %d or lower"
+    },
+    {
+      "key": "msg.matching.enGEStr",
+      "value": "EN %d or higher"
+    },
+    {
+      "key": "msg.matching.enLEStr",
+      "value": "EN %d or lower"
+    },
+    {
+      "key": "msg.matching.enchargeGEStr",
+      "value": "EN recovery %d or higher"
+    },
+    {
+      "key": "msg.matching.enchargeLEStr",
+      "value": "EN recovery %d or lower"
+    },
+    {
+      "key": "msg.matching.stabilityGEStr",
+      "value": "Stability %d or higher"
+    },
+    {
+      "key": "msg.matching.stabilityLEStr",
+      "value": "Stability %d or lower"
+    },
+    {
+      "key": "msg.matching.fightingGEStr",
+      "value": "Melee %d or higher"
+    },
+    {
+      "key": "msg.matching.fightingLEStr",
+      "value": "Melee %d or lower"
+    },
+    {
+      "key": "msg.matching.shootingGEStr",
+      "value": "Shooting %d or higher"
+    },
+    {
+      "key": "msg.matching.shootingLEStr",
+      "value": "Shooting %d or lower"
+    },
+    {
+      "key": "msg.matching.mov0GEStr",
+      "value": "Walk capacity %d or higher"
+    },
+    {
+      "key": "msg.matching.mov0LEStr",
+      "value": "Walk capacity %d or lower"
+    },
+    {
+      "key": "msg.matching.mov1GEStr",
+      "value": "Walk speed %d or higher"
+    },
+    {
+      "key": "msg.matching.mov1LEStr",
+      "value": "Walk speed %d or lower"
+    },
+    {
+      "key": "msg.matching.mov2GEStr",
+      "value": "Flight capacity %d or higher"
+    },
+    {
+      "key": "msg.matching.mov2LEStr",
+      "value": "Flight capacity %d or lower"
+    },
+    {
+      "key": "msg.matching.mov3GEStr",
+      "value": "Flight speed %d or higher"
+    },
+    {
+      "key": "msg.matching.mov3LEStr",
+      "value": "Flight speed %d or lower"
+    },
+    {
+      "key": "msg.matching.mov4GEStr",
+      "value": "Jump %d or higher"
+    },
+    {
+      "key": "msg.matching.mov4LEStr",
+      "value": "Jump %d or lower"
+    },
+    {
+      "key": "msg.matching.def0GEStr",
+      "value": "Physical defense %d or higher"
+    },
+    {
+      "key": "msg.matching.def0LEStr",
+      "value": "Physical defense %d or lower"
+    },
+    {
+      "key": "msg.matching.def1GEStr",
+      "value": "Beam defense %d or higher"
+    },
+    {
+      "key": "msg.matching.def1LEStr",
+      "value": "Beam defense %d or lower"
+    },
+    {
+      "key": "msg.matching.def2GEStr",
+      "value": "Fire defense %d or higher"
+    },
+    {
+      "key": "msg.matching.def2LEStr",
+      "value": "Fire defense %d or lower"
+    },
+    {
+      "key": "msg.matching.def3GEStr",
+      "value": "Electric defense %d or higher"
+    },
+    {
+      "key": "msg.matching.def3LEStr",
+      "value": "Electric defense %d or lower"
+    },
+    {
+      "key": "msg.matching.resist0GEStr",
+      "value": "Slow resistance %d or higher"
+    },
+    {
+      "key": "msg.matching.resist0LEStr",
+      "value": "Slow resistance %d or lower"
+    },
+    {
+      "key": "msg.matching.resist1GEStr",
+      "value": "Freeze resistance %d or higher"
+    },
+    {
+      "key": "msg.matching.resist1LEStr",
+      "value": "Freeze resistance %d or lower"
+    },
+    {
+      "key": "msg.matching.itemdisabled",
+      "value": "Items disabled"
+    },
+    {
+      "key": "msg.matching.commandofixed",
+      "value": "Fixed deployment robots"
+    },
+    {
+      "key": "msg.arenamission.team0",
+      "value": "Mars Force"
+    },
+    {
+      "key": "msg.arenamission.team1",
+      "value": "Team Minerva"
+    },
+    {
+      "key": "msg.arenamission.roulettestart",
+      "value": "%s's %s\\ngot a Chance Box!"
+    },
+    {
+      "key": "msg.arenamission.crash",
+      "value": "Oh no!\\n%s's robot was destroyed!"
+    },
+    {
+      "key": "msg.arenamission.crash2",
+      "value": "%s lands the final blow!\\n%s's robot was destroyed!"
+    },
+    {
+      "key": "msg.arenamission.bonusguild",
+      "value": "Arena reward - Guild Points"
+    },
+    {
+      "key": "msg.dungeonmission.done",
+      "value": "Mission ended!"
+    },
+    {
+      "key": "msg.dungeonmission.failed",
+      "value": "Commando wiped out!"
+    },
+    {
+      "key": "msg.dungeon.done",
+      "value": "<POS TC/><TOUT 800/><PL C>Dungeon ended!</>"
+    },
+    {
+      "key": "msg.dungeon.clear",
+      "value": "<POS TC/><TOUT 800/><PL C>Dungeon cleared!</>"
+    },
+    {
+      "key": "msg.dungeon.failed",
+      "value": "<TOUT 800/><PL C>Dungeon failed!</>"
+    },
+    {
+      "key": "msg.dungeon.bonusmoney",
+      "value": "Dungeon clear reward - C$"
+    },
+    {
+      "key": "msg.dungeon.bonusexp",
+      "value": "Dungeon clear reward - EXP"
+    },
+    {
+      "key": "msg.dungeon.bonusItem",
+      "value": "Dungeon clear reward - %s x %s"
+    },
+    {
+      "key": "msg.dungeon.bonusguild",
+      "value": "Dungeon clear reward - Guild Points"
+    },
+    {
+      "key": "msg.stage.defeat",
+      "value": "Defeated %s! EXP +%s"
+    },
+    {
+      "key": "msg.stage.defeatplayer",
+      "value": "%s defeated %s!"
+    },
+    {
+      "key": "msg.stage.defeatbyother",
+      "value": "%s defeated %s! EXP +%s"
+    },
+    {
+      "key": "msg.stage.defeatplayerexp",
+      "value": "%s defeated %s! EXP +%s"
+    },
+    {
+      "key": "msg.stage.linkscore",
+      "value": "linkscore %s"
+    },
+    {
+      "key": "msg.stage.lvup",
+      "value": " %s reached level %s!"
+    },
+    {
+      "key": "msg.stage.itemget",
+      "value": "Obtained [%s] x %d!"
+    },
+    {
+      "key": "msg.stage.stoneget",
+      "value": "%s obtained [%s] x %d!"
+    },
+    {
+      "key": "msg.stage.itemused",
+      "value": "Used [%s]!"
+    },
+    {
+      "key": "msg.stage.itemusedbyother",
+      "value": "%s used [%s]!"
+    },
+    {
+      "key": "msg.stage.itemcantuse",
+      "value": "%s used [%s], but it had no effect!"
+    },
+    {
+      "key": "msg.stage.itemremove",
+      "value": "Lost [%s] x %d"
+    },
+    {
+      "key": "msg.stage.partsget",
+      "value": "Obtained [%s]!"
+    },
+    {
+      "key": "msg.stage.partsremove",
+      "value": "Lost [%s]"
+    },
+    {
+      "key": "msg.stage.partsbroken",
+      "value": "%s was destroyed"
+    },
+    {
+      "key": "msg.stage.moneyget",
+      "value": "Obtained C$ [%s]"
+    },
+    {
+      "key": "msg.stage.moneyremove",
+      "value": "Lost C$ [%s]"
+    },
+    {
+      "key": "msg.stage.metalget",
+      "value": "Obtained Mt [%s]"
+    },
+    {
+      "key": "msg.stage.metalremove",
+      "value": "Lost Mt [%s]"
+    },
+    {
+      "key": "msg.stage.expget",
+      "value": "Obtained EXP [%s]"
+    },
+    {
+      "key": "msg.stage.stone_gate",
+      "value": "Use %s?"
+    },
+    {
+      "key": "msg.stage.pickdlg_gate",
+      "value": "Travel now?"
+    },
+    {
+      "key": "msg.stage.ridefloorgate",
+      "value": "%s activated the floor gate!"
+    },
+    {
+      "key": "msg.stage.ridefloorgate_setname",
+      "value": "%s activated %s!"
+    },
+    {
+      "key": "msg.stage.peacelevelitemcharge",
+      "value": "Consumed [%s] x %d to charge"
+    },
+    {
+      "key": "msg.stage.raidgate_partyleader",
+      "value": "Only the leader can use this while in a party."
+    },
+    {
+      "key": "msg.stage.slow_start",
+      "value": "You are slowed!"
+    },
+    {
+      "key": "msg.stage.fleeze_start",
+      "value": "You are frozen!"
+    },
+    {
+      "key": "msg.stage.burning_start",
+      "value": "You are burning!"
+    },
+    {
+      "key": "msg.stage.hinderedhoming_start",
+      "value": "Weapon homing reduced!"
+    },
+    {
+      "key": "msg.stage.magicbind_start",
+      "value": "Sub weapons disabled!"
+    },
+    {
+      "key": "msg.stage.slow_end",
+      "value": "Recovered from slow!"
+    },
+    {
+      "key": "msg.stage.fleeze_end",
+      "value": "Recovered from freeze!"
+    },
+    {
+      "key": "msg.stage.burning_end",
+      "value": "Recovered from burning!"
+    },
+    {
+      "key": "msg.stage.hinderedhoming_end",
+      "value": "Weapon homing restored!"
+    },
+    {
+      "key": "msg.stage.magicbind_end",
+      "value": "Sub weapons enabled!"
+    },
+    {
+      "key": "msg.stage.fromchange_keep",
+      "value": "Can transform again in %d seconds"
+    },
+    {
+      "key": "msg.err.cannot.attach",
+      "value": "Your current robot cannot board"
+    },
+    {
+      "key": "msg.stage.dimlogout.cannotlogout",
+      "value": "You cannot log out here"
+    },
+    {
+      "key": "msg.stage.dimlogout.remain",
+      "value": "Dimension selection in %s seconds"
+    },
+    {
+      "key": "msg.stage.dimlogout.remain_tutorial",
+      "value": "Tutorial ends in %s seconds"
+    },
+    {
+      "key": "msg.stage.dimlogout.remain_exit",
+      "value": "Game exits in %s seconds"
+    },
+    {
+      "key": "msg.stage.departcall.cannotdepartcall",
+      "value": "You cannot call the department store here"
+    },
+    {
+      "key": "msg.stage.departcall.remain",
+      "value": "Department store opens in %s seconds"
+    },
+    {
+      "key": "word.category.land",
+      "value": "LND"
+    },
+    {
+      "key": "word.category.air",
+      "value": "AIR"
+    },
+    {
+      "key": "word.category.range",
+      "value": "ART"
+    },
+    {
+      "key": "word.category.support",
+      "value": "SUP"
+    },
+    {
+      "key": "word.category.general",
+      "value": "GEN"
+    },
+    {
+      "key": "word.category.none",
+      "value": "None"
+    },
+    {
+      "key": "word.categoryfull.land",
+      "value": "Land"
+    },
+    {
+      "key": "word.categoryfull.air",
+      "value": "Air"
+    },
+    {
+      "key": "word.categoryfull.range",
+      "value": "Artillery"
+    },
+    {
+      "key": "word.categoryfull.support",
+      "value": "Support"
+    },
+    {
+      "key": "word.categoryfull.general",
+      "value": "General"
+    },
+    {
+      "key": "word.categoryfull.none",
+      "value": "None"
+    },
+    {
+      "key": "word.money.mt",
+      "value": "%s Mt"
+    },
+    {
+      "key": "word.money.cd",
+      "value": "%s C$"
+    },
+    {
+      "key": "info.cost",
+      "value": "Cost %s"
+    },
+    {
+      "key": "info.size",
+      "value": "Size %s"
+    },
+    {
+      "key": "info.growth",
+      "value": "Potential %s"
+    },
+    {
+      "key": "info.encharge",
+      "value": "EN recovery %s"
+    },
+    {
+      "key": "info.wgt",
+      "value": "Weight %st"
+    },
+    {
+      "key": "info.req_sht",
+      "value": "Shooting %s or higher"
+    },
+    {
+      "key": "info.req_fgt",
+      "value": "Melee %s or higher"
+    },
+    {
+      "key": "info.req_sht_fgt",
+      "value": "Shooting %s or higher / Melee %s or higher"
+    },
+    {
+      "key": "info.shooting",
+      "value": "Shooting: %s"
+    },
+    {
+      "key": "info.fighting",
+      "value": "Melee: %s"
+    },
+    {
+      "key": "info.mainweapon",
+      "value": "Main: %s"
+    },
+    {
+      "key": "info.subweapon",
+      "value": "Sub: %s"
+    },
+    {
+      "key": "info.param_hp",
+      "value": "HP"
+    },
+    {
+      "key": "info.param_encap",
+      "value": "EN"
+    },
+    {
+      "key": "info.param_encharage",
+      "value": "EN recovery"
+    },
+    {
+      "key": "info.param_mability",
+      "value": "Walk capacity"
+    },
+    {
+      "key": "info.param_mspeed",
+      "value": "Walk speed"
+    },
+    {
+      "key": "info.param_bability",
+      "value": "Flight capacity"
+    },
+    {
+      "key": "info.param_bspeed",
+      "value": "Flight speed"
+    },
+    {
+      "key": "info.param_jabliity",
+      "value": "Jump"
+    },
+    {
+      "key": "info.param_fighting",
+      "value": "Melee"
+    },
+    {
+      "key": "info.param_shooting",
+      "value": "Shooting"
+    },
+    {
+      "key": "info.param_stability",
+      "value": "Stability"
+    },
+    {
+      "key": "info.param_defnormal",
+      "value": "Physical defense"
+    },
+    {
+      "key": "info.param_defbeam",
+      "value": "Beam defense"
+    },
+    {
+      "key": "info.param_defflame",
+      "value": "Fire defense"
+    },
+    {
+      "key": "info.param_defshock",
+      "value": "Electric defense"
+    },
+    {
+      "key": "info.param_resist1",
+      "value": "Slow resistance"
+    },
+    {
+      "key": "info.param_resist2",
+      "value": "Freeze resistance"
+    },
+    {
+      "key": "info.param_cost",
+      "value": "Cost"
+    },
+    {
+      "key": "info.param_weight",
+      "value": "Weight"
+    },
+    {
+      "key": "info.param_param1lv",
+      "value": "Lv1"
+    },
+    {
+      "key": "info.param_param2lv",
+      "value": "Lv30"
+    },
+    {
+      "key": "info.param_param3lv",
+      "value": "Lv50"
+    },
+    {
+      "key": "info.param_param4lv",
+      "value": "Lv70"
+    },
+    {
+      "key": "info.param_param5lv",
+      "value": "Lv90"
+    },
+    {
+      "key": "info.param_acc",
+      "value": "Tuning"
+    },
+    {
+      "key": "info.param_atkmain",
+      "value": "Main power"
+    },
+    {
+      "key": "info.param_atksub",
+      "value": "Sub power"
+    },
+    {
+      "key": "info.param_atknormal",
+      "value": "Physical power"
+    },
+    {
+      "key": "info.param_atkbeam",
+      "value": "Beam power"
+    },
+    {
+      "key": "info.param_atkflame",
+      "value": "Fire power"
+    },
+    {
+      "key": "info.param_atkshock",
+      "value": "Electric power"
+    },
+    {
+      "key": "info.param_dropRate",
+      "value": "Drop rate"
+    },
+    {
+      "key": "info.param_expRate",
+      "value": "EXP rate"
+    },
+    {
+      "key": "info.param_moneyRate",
+      "value": "C$ rate"
+    },
+    {
+      "key": "info.param_divider",
+      "value": "~"
+    },
+    {
+      "key": "info.param_trait0",
+      "value": ""
+    },
+    {
+      "key": "info.param_trait1",
+      "value": "Trait: Universal"
+    },
+    {
+      "key": "info.param_trait2",
+      "value": "Trait: Bullet"
+    },
+    {
+      "key": "info.param_trait3",
+      "value": "Trait: Impact"
+    },
+    {
+      "key": "info.param_trait4",
+      "value": "Trait: Homing"
+    },
+    {
+      "key": "info.param_trait5",
+      "value": "Trait: Blunt"
+    },
+    {
+      "key": "info.param_trait6",
+      "value": "Trait: Slashing"
+    },
+    {
+      "key": "info.param_trait7",
+      "value": "Trait: Piercing"
+    },
+    {
+      "key": "info.param_trait8",
+      "value": "Effective vs. humanoids"
+    },
+    {
+      "key": "info.param_trait9",
+      "value": "Effective vs. beasts"
+    },
+    {
+      "key": "info.param_trait10",
+      "value": "Effective vs. birds"
+    },
+    {
+      "key": "info.param_trait11",
+      "value": "Effective vs. aquatic types"
+    },
+    {
+      "key": "info.param_trait12",
+      "value": "Effective vs. insects"
+    },
+    {
+      "key": "info.param_trait13",
+      "value": "Effective vs. plants"
+    },
+    {
+      "key": "info.param_trait14",
+      "value": "Effective vs. spirits"
+    },
+    {
+      "key": "info.param_trait15",
+      "value": "Effective vs. large types"
+    },
+    {
+      "key": "info.param_trait16",
+      "value": "Effective vs. dragons"
+    },
+    {
+      "key": "info.param_trait17",
+      "value": "Effective vs. weapons"
+    },
+    {
+      "key": "info.param_trait18",
+      "value": "Effective vs. ancient types"
+    },
+    {
+      "key": "info.param_trait19",
+      "value": "Effective vs. demons"
+    },
+    {
+      "key": "info.param_trait20",
+      "value": "Trait: Eternal Darkness"
+    },
+    {
+      "key": "info.param_trait21",
+      "value": "Trait: Stars (Blue)"
+    },
+    {
+      "key": "info.param_trait22",
+      "value": "Trait: Stars (Yellow)"
+    },
+    {
+      "key": "info.param_trait24",
+      "value": "Effective vs. VR Mission Tower"
+    },
+    {
+      "key": "info.auratype",
+      "value": "AURA"
+    },
+    {
+      "key": "info.auratype0",
+      "value": ""
+    },
+    {
+      "key": "info.auratype1",
+      "value": "TYPE : SWORD"
+    },
+    {
+      "key": "info.auratype2",
+      "value": "TYPE : COMBAT"
+    },
+    {
+      "key": "info.auratype3",
+      "value": "TYPE : SHIELD"
+    },
+    {
+      "key": "info.auratype4",
+      "value": "TYPE : GUN"
+    },
+    {
+      "key": "info.auratype5",
+      "value": "TYPE : DEVICE"
+    },
+    {
+      "key": "info.auratype6",
+      "value": "TYPE : WALK"
+    },
+    {
+      "key": "info.auratype7",
+      "value": "TYPE : FLY"
+    },
+    {
+      "key": "info.aura.hp_en_lv0",
+      "value": "HP Muscle Lv"
+    },
+    {
+      "key": "info.aura.hp_en_lv1",
+      "value": "EN Muscle Lv"
+    },
+    {
+      "key": "info.aura.hp_en_lv2",
+      "value": "EN Recovery Lv"
+    },
+    {
+      "key": "info.aura.mov_lv0",
+      "value": "Walk Lift Lv"
+    },
+    {
+      "key": "info.aura.mov_lv1",
+      "value": "Walk Plus Lv"
+    },
+    {
+      "key": "info.aura.mov_lv2",
+      "value": "Fly Lift Lv"
+    },
+    {
+      "key": "info.aura.mov_lv3",
+      "value": "Fly Plus Lv"
+    },
+    {
+      "key": "info.aura.mov_lv4",
+      "value": "Jump Plus Lv"
+    },
+    {
+      "key": "info.aura.battle_lv0",
+      "value": "Anti-Stun Lv"
+    },
+    {
+      "key": "info.aura.battle_lv1",
+      "value": "Sword Tech Lv"
+    },
+    {
+      "key": "info.aura.battle_lv2",
+      "value": "Bullet Tech Lv"
+    },
+    {
+      "key": "info.aura.def_lv0",
+      "value": "Solid Coat Lv"
+    },
+    {
+      "key": "info.aura.def_lv1",
+      "value": "Beam Coat Lv"
+    },
+    {
+      "key": "info.aura.def_lv2",
+      "value": "Flame Coat Lv"
+    },
+    {
+      "key": "info.aura.def_lv3",
+      "value": "Electric Coat Lv"
+    },
+    {
+      "key": "info.aura.atk_lv0",
+      "value": "Solid Power Lv"
+    },
+    {
+      "key": "info.aura.atk_lv1",
+      "value": "Beam Power Lv"
+    },
+    {
+      "key": "info.aura.atk_lv2",
+      "value": "Flame Power Lv"
+    },
+    {
+      "key": "info.aura.atk_lv3",
+      "value": "Electric Power Lv"
+    },
+    {
+      "key": "info.aura.atk_boost_main_lv",
+      "value": "Main Power Lv"
+    },
+    {
+      "key": "info.aura.atk_boost_sub_lv",
+      "value": "Sub Power Lv"
+    },
+    {
+      "key": "info.aura.resist_lv0",
+      "value": "Anti-Slow Lv"
+    },
+    {
+      "key": "info.aura.resist_lv1",
+      "value": "Anti-Freeze Lv"
+    },
+    {
+      "key": "info.aura.resist_lv2",
+      "value": "Anti-Virus Lv"
+    },
+    {
+      "key": "info.aura.resist_lv3",
+      "value": "Anti-Shock Lv"
+    },
+    {
+      "key": "info.partssorce.name",
+      "value": "Parts Material [%s]"
+    },
+    {
+      "key": "info.partssorce.comment",
+      "value": "Collect %s to synthesize robot parts"
+    },
+    {
+      "key": "info.amount",
+      "value": "%s x %d"
+    },
+    {
+      "key": "msg.amount",
+      "value": "%s x %d"
+    },
+    {
+      "key": "info.equiplvcap ",
+      "value": " Required Lv %s or higher"
+    },
+    {
+      "key": "info.attribute.normal",
+      "value": "Physical"
+    },
+    {
+      "key": "info.attribute.laser",
+      "value": "Beam"
+    },
+    {
+      "key": "info.attribute.flame",
+      "value": "Fire"
+    },
+    {
+      "key": "info.attribute.shock",
+      "value": "Electric"
+    },
+    {
+      "key": "info.attribute.mining",
+      "value": "Mining"
+    },
+    {
+      "key": "info.attribute.exception",
+      "value": "Nonstandard"
+    },
+    {
+      "key": "info.mining.type1",
+      "value": "Type N mining efficiency"
+    },
+    {
+      "key": "info.mining.type2",
+      "value": "Type P mining efficiency"
+    },
+    {
+      "key": "info.mining.type3",
+      "value": "Type D mining efficiency"
+    },
+    {
+      "key": "info.mining.type4",
+      "value": "Type B mining efficiency"
+    },
+    {
+      "key": "info.mining.type5",
+      "value": "Type M mining efficiency"
+    },
+    {
+      "key": "info.condition.stun",
+      "value": "Additional effect"
+    },
+    {
+      "key": "info.condition.stun11",
+      "value": "Pull"
+    },
+    {
+      "key": "info.condition.stun12",
+      "value": "Launch"
+    },
+    {
+      "key": "info.condition.stun14",
+      "value": "Launch"
+    },
+    {
+      "key": "info.condition.stun15",
+      "value": "Knockback"
+    },
+    {
+      "key": "info.condition.stun16",
+      "value": "Hitback"
+    },
+    {
+      "key": "info.condition.stun17",
+      "value": "Hold"
+    },
+    {
+      "key": "info.condition.stun18",
+      "value": "Immobilize"
+    },
+    {
+      "key": "info.condition.stun32",
+      "value": "Reduced homing"
+    },
+    {
+      "key": "info.condition.stun33",
+      "value": "Data Link (homing up)"
+    },
+    {
+      "key": "info.condition.stun34",
+      "value": "Charge time +1.5 seconds"
+    },
+    {
+      "key": "info.condition.stun50",
+      "value": "Carry"
+    },
+    {
+      "key": "info.condition.slow",
+      "value": "Slow"
+    },
+    {
+      "key": "info.condition.fleeze",
+      "value": "Freeze"
+    },
+    {
+      "key": "info.condition.magicbind",
+      "value": "Shock"
+    },
+    {
+      "key": "info.condition.bind",
+      "value": "Bind"
+    },
+    {
+      "key": "info.condition.hpabsorb",
+      "value": "HP Drain"
+    },
+    {
+      "key": "info.condition.hpabsorb_ratino",
+      "value": "HP Drain (%)"
+    },
+    {
+      "key": "info.condition.enabsorb",
+      "value": "EN Drain"
+    },
+    {
+      "key": "info.condition.encharge",
+      "value": "EN Recovery (%)"
+    },
+    {
+      "key": "info.condition.en",
+      "value": "EN Damage (%,PVP)"
+    },
+    {
+      "key": "info.condition.ennotabsorb",
+      "value": "EN Damage"
+    },
+    {
+      "key": "info.condition.hp",
+      "value": "HP Damage (%,PVP)"
+    },
+    {
+      "key": "info.condition.poison",
+      "value": "Virus"
+    },
+    {
+      "key": "info.condition.berserk",
+      "value": "Awakening"
+    },
+    {
+      "key": "info.condition.normal",
+      "value": "None"
+    },
+    {
+      "key": "info.condition.non",
+      "value": "No added attribute"
+    },
+    {
+      "key": "info.condition.snaildamage",
+      "value": "Additional slow damage"
+    },
+    {
+      "key": "info.condition.adddamage",
+      "value": "Simultaneous hit modifier (%)"
+    },
+    {
+      "key": "info.condition.hpnumdamege",
+      "value": "Kill count damage (%)"
+    },
+    {
+      "key": "info.condition.airresist",
+      "value": "Booster Trouble"
+    },
+    {
+      "key": "info.condition.ignoreallcritical",
+      "value": "Clearance (status recovery)"
+    },
+    {
+      "key": "info.condition.melt",
+      "value": "Melt"
+    },
+    {
+      "key": "info.condition.ignoreshield",
+      "value": "Shield penetration"
+    },
+    {
+      "key": "info.condition.weightup",
+      "value": "Reduced ascent/descent"
+    },
+    {
+      "key": "info.condition.intercept",
+      "value": "Bullet erase (same attribute)"
+    },
+    {
+      "key": "info.condition.interceptall",
+      "value": "Bullet erase"
+    },
+    {
+      "key": "info.condition.ignoreallcriticalshort",
+      "value": "Holy Spring (Clearance)"
+    },
+    {
+      "key": "info.condition.lateclock",
+      "value": "Reduced attack/move speed"
+    },
+    {
+      "key": "info.condition.targetsummonmob",
+      "value": "Designate target (summoned robot)"
+    },
+    {
+      "key": "info.condition.targetofficer",
+      "value": "Designate target"
+    },
+    {
+      "key": "info.condition.ignoreallcriticalhyperarmor",
+      "value": "Stun immunity + Clearance"
+    },
+    {
+      "key": "info.condition.hprespectnpc",
+      "value": "HP Damage (%)"
+    },
+    {
+      "key": "info.condition.addberserk",
+      "value": "Extended awakening duration"
+    },
+    {
+      "key": "info.condition.flamedamage",
+      "value": "Fire weakness effect (%)"
+    },
+    {
+      "key": "info.condition.medaforce",
+      "value": "Medaforce"
+    },
+    {
+      "key": "info.condition.enabsorbatcounterd",
+      "value": "EN Drain (on bullet erase)"
+    },
+    {
+      "key": "info.condition.hpnotabsorb",
+      "value": "HP Damage"
+    },
+    {
+      "key": "info.condition.hpabsorbsummoner",
+      "value": "HP Drain (summoner)"
+    },
+    {
+      "key": "info.condition.enabsorbsummoner",
+      "value": "EN Drain (summoner)"
+    },
+    {
+      "key": "info.condition.shockdamage",
+      "value": "Electric weakness effect (%)"
+    },
+    {
+      "key": "info.condition.ignoreattr",
+      "value": "Defense penetration"
+    },
+    {
+      "key": "info.condition.pulltrap",
+      "value": "Pull"
+    },
+    {
+      "key": "info.condition.busyou",
+      "value": "Warlord gauge"
+    },
+    {
+      "key": "info.condition.beamdamage",
+      "value": "Beam weakness effect (%)"
+    },
+    {
+      "key": "info.upgrade",
+      "value": "Upgrade count"
+    },
+    {
+      "key": "info.upgradenum",
+      "value": "[ %s/%s ]"
+    },
+    {
+      "key": "info.stackMax",
+      "value": "Stack limit"
+    },
+    {
+      "key": "info.stackRate",
+      "value": "Stack upgrade rate"
+    },
+    {
+      "key": "info.shield_armor",
+      "value": "Shield durability"
+    },
+    {
+      "key": "info.weapon.enlost",
+      "value": "EN cost"
+    },
+    {
+      "key": "info.weapon.speed",
+      "value": "Bullet speed"
+    },
+    {
+      "key": "info.weapon.range",
+      "value": "Range"
+    },
+    {
+      "key": "info.weapon.combo",
+      "value": "Combo count"
+    },
+    {
+      "key": "info.weapon.spcombo",
+      "value": "Main follow-up combo count"
+    },
+    {
+      "key": "info.weapon.comboRate",
+      "value": "Combo multiplier"
+    },
+    {
+      "key": "info.weapon.nextcomborate",
+      "value": "Next combo multiplier (melee only)"
+    },
+    {
+      "key": "info.weapon.pvpPowerRate",
+      "value": "PVP / PVE power modifier"
+    },
+    {
+      "key": "info.weapon.pvpResistRate",
+      "value": "PVP status effect modifier"
+    },
+    {
+      "key": "info.weapon.charge",
+      "value": "Charge time"
+    },
+    {
+      "key": "info.weapon.fireinterval",
+      "value": "Firing interval"
+    },
+    {
+      "key": "info.weapon.subinterval",
+      "value": "Activation interval"
+    },
+    {
+      "key": "info.weapon.reload",
+      "value": "Reload"
+    },
+    {
+      "key": "info.weapon.stunrate",
+      "value": "Stun rate"
+    },
+    {
+      "key": "info.weapon.gap",
+      "value": "Spread"
+    },
+    {
+      "key": "info.weapon.gapmoving",
+      "value": "Moving spread"
+    },
+    {
+      "key": "info.weapon.ammo",
+      "value": "Ammo"
+    },
+    {
+      "key": "info.weapon.ammonum",
+      "value": "Uses"
+    },
+    {
+      "key": "info.weapon.lockontime",
+      "value": "Lock-on time"
+    },
+    {
+      "key": "info.weapon.doublelock",
+      "value": "Locks per target"
+    },
+    {
+      "key": "info.weapon.shootnum",
+      "value": "Simultaneous shots"
+    },
+    {
+      "key": "info.weapon.powrate",
+      "value": "Base power"
+    },
+    {
+      "key": "info.weapon.exppow",
+      "value": "Blast power"
+    },
+    {
+      "key": "info.weapon.subpowrate",
+      "value": "(Bullet) Base power"
+    },
+    {
+      "key": "info.weapon.subexppow",
+      "value": "(Bullet) Blast power"
+    },
+    {
+      "key": "info.weapon.pierce",
+      "value": "Penetration"
+    },
+    {
+      "key": "info.weapon.piercefriend",
+      "value": "Allies"
+    },
+    {
+      "key": "info.weapon.pierceobject",
+      "value": "Allies,enemies"
+    },
+    {
+      "key": "info.weapon.piercemap",
+      "value": "Field"
+    },
+    {
+      "key": "info.weapon.pvpBoostPowRate",
+      "value": "PVP boost ability modifier"
+    },
+    {
+      "key": "info.weapon.pvpBoostTimeRate",
+      "value": "PVP boost duration modifier"
+    },
+    {
+      "key": "info.weapon.flag_adddamage",
+      "value": "Additional power"
+    },
+    {
+      "key": "info.rarity",
+      "value": "Rank %s-%s"
+    },
+    {
+      "key": "info.rarity.short",
+      "value": "%s-%s"
+    },
+    {
+      "key": "info.statuspanel.system.transform",
+      "value": "Transform"
+    },
+    {
+      "key": "info.statuspanel.system.transform_parts",
+      "value": "Partial transform"
+    },
+    {
+      "key": "info.statuspanel.system.aura",
+      "value": "Aura"
+    },
+    {
+      "key": "info.statuspanel.system.category.land_1",
+      "value": "Reduced ground dash/run EN cost (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.land_2",
+      "value": "Reduced sub weapon EN cost (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.land_3",
+      "value": "Increased ground melee power (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.air_1",
+      "value": "Reduced flight/air dash EN cost (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.air_2",
+      "value": "Reduced airborne sub weapon EN cost (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.range_1",
+      "value": "Reduced all-out fire EN cost (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.range_2",
+      "value": "Reduced main weapon EN cost (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.support_1",
+      "value": "Resistance modifier (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.support_2",
+      "value": "Automatic HP recovery (%s)"
+    },
+    {
+      "key": "info.statuspanel.system.category.effect_1",
+      "value": "Small"
+    },
+    {
+      "key": "info.statuspanel.system.category.effect_2",
+      "value": "Medium"
+    },
+    {
+      "key": "info.statuspanel.system.category.effect_3",
+      "value": "Large"
+    },
+    {
+      "key": "info.statuspanel.system.bstplane",
+      "value": "Level flight"
+    },
+    {
+      "key": "msg.option.pleasepresskey",
+      "value": "Press the key to assign"
+    },
+    {
+      "key": "msg.option.mouseandkey",
+      "value": "Normal"
+    },
+    {
+      "key": "msg.option.fps",
+      "value": "FPS"
+    },
+    {
+      "key": "msg.option.fpslike",
+      "value": "Semi-FPS"
+    },
+    {
+      "key": "msg.option.keyboard",
+      "value": "Keyboard"
+    },
+    {
+      "key": "msg.option.gamepad",
+      "value": "Gamepad"
+    },
+    {
+      "key": "msg.option.ask_reset",
+      "value": "Restore all settings to their defaults?"
+    },
+    {
+      "key": "msg.option.fullscreen_failed",
+      "value": "Cannot enter fullscreen at the current screen size"
+    },
+    {
+      "key": "msg.dialog.cannotchange.wide",
+      "value": "Cannot change aspect ratio in fullscreen"
+    },
+    {
+      "key": "msg.login.connecting",
+      "value": "Connecting"
+    },
+    {
+      "key": "msg.login.connected",
+      "value": "Connected"
+    },
+    {
+      "key": "msg.login.invalidversion",
+      "value": "Update incomplete. Please restart the game"
+    },
+    {
+      "key": "msg.login.resetall",
+      "value": "Initialization complete. Please restart the game"
+    },
+    {
+      "key": "err.login.idempty",
+      "value": "Enter your user ID"
+    },
+    {
+      "key": "err.login.passwordempty",
+      "value": "Enter your password"
+    },
+    {
+      "key": "err.login.closed",
+      "value": "This service is currently unavailable"
+    },
+    {
+      "key": "err.login.certificationfailed",
+      "value": "Incorrect user ID or password"
+    },
+    {
+      "key": "err.login.certificationfailed.disabled",
+      "value": "This account is currently suspended"
+    },
+    {
+      "key": "err.login.alreadyloggedin",
+      "value": "Already logged in. Please wait, then try again"
+    },
+    {
+      "key": "err.login.doublelogin",
+      "value": "Exiting due to duplicate login"
+    },
+    {
+      "key": "err.login.trouble",
+      "value": "Authentication error"
+    },
+    {
+      "key": "msg.logincomplete.limititemnothing",
+      "value": "You have no time-limited robots/items"
+    },
+    {
+      "key": "err.dimensionselect.dimensionnotselected",
+      "value": "Select a dimension"
+    },
+    {
+      "key": "err.dimensionselect.dimensionenterfailed",
+      "value": "Could not enter the dimension"
+    },
+    {
+      "key": "msg.missionselect.battlepoint",
+      "value": "Required Battle Points: %s"
+    },
+    {
+      "key": "msg.missionselect.battlepointshort",
+      "value": "Required Battle Points: %s\\n(Not enough Battle Points)"
+    },
+    {
+      "key": "msg.missionselect.missionsucceed",
+      "value": "This mission succeeded"
+    },
+    {
+      "key": "msg.missionselect.missionfailed",
+      "value": "This mission failed"
+    },
+    {
+      "key": "msg.missionselect.missionstatus.going",
+      "value": "In progress"
+    },
+    {
+      "key": "msg.missionselect.missionstatus.succeed",
+      "value": "Success"
+    },
+    {
+      "key": "msg.missionselect.missionstatus.failed",
+      "value": "Failure"
+    },
+    {
+      "key": "msg.missionselect.missionstatus.prepared",
+      "value": "---"
+    },
+    {
+      "key": "msg.missionselect.entryreqnotsatisfied",
+      "value": "Entry requirements not met"
+    },
+    {
+      "key": "msg.missionselect.password",
+      "value": "Incorrect password"
+    },
+    {
+      "key": "msg.missionselect.maxpassword",
+      "value": "Password too long. Use at most %s characters"
+    },
+    {
+      "key": "msg.missionselect.helpbonus",
+      "value": "\"Special HELP reward for assisting first-time clears\""
+    },
+    {
+      "key": "msg.missionselect.helpbonus_up",
+      "value": "or higher"
+    },
+    {
+      "key": "err.missionselect.default",
+      "value": "Entry denied"
+    },
+    {
+      "key": "err.missionselect.entryover",
+      "value": "Currently full"
+    },
+    {
+      "key": "err.missionselect.missionclosed",
+      "value": "This mission is closed"
+    },
+    {
+      "key": "err.missionselect.costover",
+      "value": "Your first robot's cost is too high"
+    },
+    {
+      "key": "err.shuttleselect.enterfailed",
+      "value": "Could not enter the shuttle"
+    },
+    {
+      "key": "err.room.enterfailed",
+      "value": "Could not enter the room"
+    },
+    {
+      "key": "err.dungeon.dungeonclosed",
+      "value": "This dungeon is closed"
+    },
+    {
+      "key": "err.room.roomclosed",
+      "value": "Currently closed"
+    },
+    {
+      "key": "msg.missionroboselect.entryreqnotsatisfied",
+      "value": "Entry requirements not met"
+    },
+    {
+      "key": "msg.missionroboselect.notjoinguild",
+      "value": "You have not joined a guild"
+    },
+    {
+      "key": "msg.mission.failed",
+      "value": "All robots destroyed"
+    },
+    {
+      "key": "msg.mission.button.exit",
+      "value": "Retire"
+    },
+    {
+      "key": "msg.mission.button.camera",
+      "value": "Camera"
+    },
+    {
+      "key": "msg.mission.button.skip",
+      "value": "Skip"
+    },
+    {
+      "key": "msg.mission.boosted_money",
+      "value": "Clear bonus C$ %s x %s  Defeat bonus C$ %s x %s"
+    },
+    {
+      "key": "msg.mission.boosted_exp",
+      "value": "Clear bonus EXP %s x %s  Defeat bonus EXP %s x %s"
+    },
+    {
+      "key": "msg.mission.boosted_money_clear_only",
+      "value": "Clear bonus C$ %s x %s"
+    },
+    {
+      "key": "msg.mission.boosted_exp_clear_only",
+      "value": "Clear bonus EXP %s x %s"
+    },
+    {
+      "key": "msg.mission.boosted_item_clear_only",
+      "value": "Clear reward %s x %s"
+    },
+    {
+      "key": "msg.mission.boosted_item_clear_lose",
+      "value": "Could not receive the clear reward."
+    },
+    {
+      "key": "msg.mission.bonusguild",
+      "value": "Clear reward - Guild Points"
+    },
+    {
+      "key": "err.mission.latecomer",
+      "value": "You missed the start"
+    },
+    {
+      "key": "msg.spaceport.ranknotice",
+      "value": "Check the destination and fare before boarding"
+    },
+    {
+      "key": "info.garage_search.result_carry",
+      "value": "Carry"
+    },
+    {
+      "key": "info.garage_search.result_garage",
+      "value": "Garage"
+    },
+    {
+      "key": "info.garage_search.result_commando",
+      "value": "Commando"
+    },
+    {
+      "key": "info.garage_search.result_page",
+      "value": "Page %s"
+    },
+    {
+      "key": "info.garage_search.result_found",
+      "value": "Details (%s):"
+    },
+    {
+      "key": "info.garage_search.result_etc",
+      "value": ", ..."
+    },
+    {
+      "key": "info.garage_search.presentNum",
+      "value": "Total:"
+    },
+    {
+      "key": "info.garage_search.present_dlg_getPresent",
+      "value": "Receive the gift?"
+    },
+    {
+      "key": "info.garage_search.present_dlg_sellPresent",
+      "value": "Warning!! Sell the gift?"
+    },
+    {
+      "key": "info.garage_search.present_dlg_fail",
+      "value": "Select a gift."
+    },
+    {
+      "key": "info.garage_search.select",
+      "value": "Select all"
+    },
+    {
+      "key": "info.garage_search.noselect",
+      "value": "Cancel"
+    },
+    {
+      "key": "info.garage_search.lock",
+      "value": "Lock"
+    },
+    {
+      "key": "info.garage_search.nolock",
+      "value": "Cancel"
+    },
+    {
+      "key": "info.garage_search.sell",
+      "value": "Sell the selected robot?"
+    },
+    {
+      "key": "info.garage_search.bulk",
+      "value": "Dismantle all selected robots?"
+    },
+    {
+      "key": "info.garage_search.bulksell",
+      "value": "Sell all selected robots?"
+    },
+    {
+      "key": "info.garage_search.bulksellitem",
+      "value": "Sell all selected items?"
+    },
+    {
+      "key": "info.garage_search.bulksellparts",
+      "value": "Sell all selected parts?"
+    },
+    {
+      "key": "msg.partitemgarage.discard",
+      "value": "Discard %s?"
+    },
+    {
+      "key": "err.robogarage.commandoempty",
+      "value": "Register a deployable robot in your commando"
+    },
+    {
+      "key": "err.robogarage.commandotimelimit",
+      "value": "Register a robot with no time limit in your commando"
+    },
+    {
+      "key": "err.robogarage.lockitem",
+      "value": "An item in your carry is locked"
+    },
+    {
+      "key": "err.robogarage.lockparts",
+      "value": "A part in your carry is locked"
+    },
+    {
+      "key": "err.robogarage.notselectedrobo",
+      "value": "Select a robot"
+    },
+    {
+      "key": "err.parts.discard.timelimitparts",
+      "value": "Time-limited parts cannot be discarded"
+    },
+    {
+      "key": "err.robo.disassemble.timelimitrobo",
+      "value": "Time-limited robots cannot be dismantled"
+    },
+    {
+      "key": "err.robo.disassemble.lastrobo",
+      "value": "The selected robot cannot be dismantled"
+    },
+    {
+      "key": "err.robogarage.transform",
+      "value": "Remove the transformed parts"
+    },
+    {
+      "key": "err.robogarage.diff",
+      "value": "Inconsistency detected. Please cancel."
+    },
+    {
+      "key": "info.robogarage.choose",
+      "value": "Left click\\n  Swap the entire stack\\nRight click\\n  Equip 1 from the stack"
+    },
+    {
+      "key": "info.robogarage.del",
+      "value": "Left click\\n  Remove the entire stack\\nRight click\\n  Remove 1 from the stack"
+    },
+    {
+      "key": "info.robogarage.highlight",
+      "value": "* Highlight"
+    },
+    {
+      "key": "info.robogarage.m_ability",
+      "value": "* Capacity: smallest walk/flight difference"
+    },
+    {
+      "key": "info.robogarage.scrolllock",
+      "value": "Scroll Lock"
+    },
+    {
+      "key": "msg.buy",
+      "value": "Purchased - %s x %s ( %s )"
+    },
+    {
+      "key": "msg.sell",
+      "value": "Sold - %s x %s ( %s )"
+    },
+    {
+      "key": "msg.buy1",
+      "value": "Purchased - %s ( %s )"
+    },
+    {
+      "key": "msg.sell1",
+      "value": "Sold - %s ( %s )"
+    },
+    {
+      "key": "msg.togarage",
+      "value": "Moved to garage - %s x %s"
+    },
+    {
+      "key": "msg.tocarry",
+      "value": "Moved to carry - %s x %s"
+    },
+    {
+      "key": "err.robobuy.notbuyable",
+      "value": "This robot cannot be purchased now"
+    },
+    {
+      "key": "err.itembuy.notbuyable",
+      "value": "This item cannot be purchased now"
+    },
+    {
+      "key": "err.partbuy.notbuyable",
+      "value": "This part cannot be purchased now"
+    },
+    {
+      "key": "err.parts.sell.timelimitparts",
+      "value": "Time-limited parts cannot be sold"
+    },
+    {
+      "key": "err.robo.sell.notselectedrobo",
+      "value": "Select a robot"
+    },
+    {
+      "key": "err.robo.sell.timelimitrobo",
+      "value": "Time-limited robots cannot be sold"
+    },
+    {
+      "key": "err.robo.sell.timelimitparts",
+      "value": "Robots with time-limited parts cannot be sold"
+    },
+    {
+      "key": "err.robo.sell.lastrobo",
+      "value": "The selected robot cannot be sold"
+    },
+    {
+      "key": "err.buy.rankfailin",
+      "value": "Your rank does not allow this purchase"
+    },
+    {
+      "key": "err.robo.sell.maxitem",
+      "value": "No space to receive items"
+    },
+    {
+      "key": "err.iabo.lackmaterial",
+      "value": "Synthesis requirements not met"
+    },
+    {
+      "key": "err.labo.combinerecipe",
+      "value": "This synthesis cannot be performed"
+    },
+    {
+      "key": "err.labo.combinepluserror",
+      "value": "%s is locked or not owned"
+    },
+    {
+      "key": "msg.labo.startcombine",
+      "value": "Start synthesis with this recipe?"
+    },
+    {
+      "key": "msg.labo.combinecomplete",
+      "value": "Synthesis succeeded"
+    },
+    {
+      "key": "msg.labo.combinemiss",
+      "value": "Synthesis failed"
+    },
+    {
+      "key": "msg.labo.notlostmaterial",
+      "value": "No materials were lost"
+    },
+    {
+      "key": "msg.labo.putinorder0",
+      "value": "The crafted item was placed in your carry."
+    },
+    {
+      "key": "msg.labo.putinorder1",
+      "value": "The crafted item was placed in your garage."
+    },
+    {
+      "key": "msg.labo.putinorder2",
+      "value": "The crafted item was sent as a gift."
+    },
+    {
+      "key": "msg.labo.fromName",
+      "value": "Laboratory"
+    },
+    {
+      "key": "msg.labo.presentmessage",
+      "value": ""
+    },
+    {
+      "key": "info.labo.recipename",
+      "value": "No.%s %s"
+    },
+    {
+      "key": "info.labo.itemnum",
+      "value": "%s x %s\\n"
+    },
+    {
+      "key": "info.labo.rate",
+      "value": "%s%"
+    },
+    {
+      "key": "info.labo.norecipename",
+      "value": "---"
+    },
+    {
+      "key": "info.labo.norate",
+      "value": "---%"
+    },
+    {
+      "key": "info.labo.noprice",
+      "value": "---"
+    },
+    {
+      "key": "info.labo.nocomment",
+      "value": "---"
+    },
+    {
+      "key": "info.labo.staffserif1",
+      "value": "Synthesize items.\\nSelect a recipe\\nand confirm synthesis."
+    },
+    {
+      "key": "info.labo.staffserif2",
+      "value": "Items marked as safe\\nwill not be lost\\nif synthesis fails."
+    },
+    {
+      "key": "info.labo.lostmaterial",
+      "value": "Material %s x %s was lost."
+    },
+    {
+      "key": "info.labo.combineinfo",
+      "value": "Successfully created %s."
+    },
+    {
+      "key": "info.labo.coveredoutcome",
+      "value": "?????"
+    },
+    {
+      "key": "err.labo.upgradeNum",
+      "value": "Upgrade limit exceeded"
+    },
+    {
+      "key": "err.labo.upgraderecipe",
+      "value": "This upgrade cannot be performed"
+    },
+    {
+      "key": "msg.labo.upgradestart",
+      "value": "Perform this upgrade?"
+    },
+    {
+      "key": "msg.labo.upgradecomplete",
+      "value": "Upgrade succeeded"
+    },
+    {
+      "key": "msg.labo.upgrademiss",
+      "value": "Upgrade failed"
+    },
+    {
+      "key": "err.labo.initrecipe",
+      "value": "This reset cannot be performed"
+    },
+    {
+      "key": "msg.labo.initstart",
+      "value": "Perform this reset?"
+    },
+    {
+      "key": "msg.labo.initcomplete",
+      "value": "Reset succeeded"
+    },
+    {
+      "key": "msg.labo.initmiss",
+      "value": "Reset failed"
+    },
+    {
+      "key": "info.labo.upgradepenalty",
+      "value": "Failure penalty"
+    },
+    {
+      "key": "info.labo.upgradepenalty0",
+      "value": "No penalty"
+    },
+    {
+      "key": "info.labo.upgradepenalty1",
+      "value": "Upgrade level will decrease by one"
+    },
+    {
+      "key": "info.labo.upgradepenalty2",
+      "value": "All upgrade levels will be reset"
+    },
+    {
+      "key": "info.labo.staffserif3",
+      "value": "Choose the part\\nyou want to upgrade!"
+    },
+    {
+      "key": "info.labo.noupgraderange",
+      "value": "-----"
+    },
+    {
+      "key": "info.labo.norecipepage",
+      "value": "--/--"
+    },
+    {
+      "key": "info.labo.upgradeinfo",
+      "value": "%s was upgraded to %s."
+    },
+    {
+      "key": "info.labo.init",
+      "value": "Successfully reset %s."
+    },
+    {
+      "key": "info.labo.initnum",
+      "value": "Successfully reset %s by %s levels."
+    },
+    {
+      "key": "info.labo.EXP",
+      "value": "%2$s (exp:%1$s)"
+    },
+    {
+      "key": "info.parts_upgrade.on",
+      "value": "Yes"
+    },
+    {
+      "key": "info.parts_upgrade.off",
+      "value": "No"
+    },
+    {
+      "key": "info.parts_upgrade.param.hp",
+      "value": "HP"
+    },
+    {
+      "key": "info.parts_upgrade.param.en",
+      "value": "EN"
+    },
+    {
+      "key": "info.parts_upgrade.param.enrecovery",
+      "value": "EN recovery"
+    },
+    {
+      "key": "info.parts_upgrade.param.weight",
+      "value": "Weight"
+    },
+    {
+      "key": "info.parts_upgrade.param.shooting",
+      "value": "Shooting"
+    },
+    {
+      "key": "info.parts_upgrade.param.fighting",
+      "value": "Melee"
+    },
+    {
+      "key": "info.parts_upgrade.param.m_speed",
+      "value": "Walk speed"
+    },
+    {
+      "key": "info.parts_upgrade.param.m_ability",
+      "value": "Walk capacity"
+    },
+    {
+      "key": "info.parts_upgrade.param.b_speed",
+      "value": "Flight speed"
+    },
+    {
+      "key": "info.parts_upgrade.param.b_ability",
+      "value": "Flight capacity"
+    },
+    {
+      "key": "info.parts_upgrade.param.j_ability",
+      "value": "Jump"
+    },
+    {
+      "key": "info.parts_upgrade.param.def_normal",
+      "value": "Physical defense"
+    },
+    {
+      "key": "info.parts_upgrade.param.def_laser",
+      "value": "Beam defense"
+    },
+    {
+      "key": "info.parts_upgrade.param.def_flame",
+      "value": "Fire defense"
+    },
+    {
+      "key": "info.parts_upgrade.param.def_shock",
+      "value": "Electric defense"
+    },
+    {
+      "key": "info.parts_upgrade.param.stability",
+      "value": "Stability"
+    },
+    {
+      "key": "info.parts_upgrade.param.slow",
+      "value": "Slow resistance"
+    },
+    {
+      "key": "info.parts_upgrade.param.fleeze",
+      "value": "Freeze resistance"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.mainpower",
+      "value": "Main power"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.subpower",
+      "value": "Sub power"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.attr",
+      "value": "Attack attribute"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.enlost",
+      "value": "EN cost"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.ammo",
+      "value": "Ammo"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.reload",
+      "value": "Reload time"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.fireinterval",
+      "value": "Firing interval"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.speed",
+      "value": "Bullet speed"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.range",
+      "value": "Range"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.gap",
+      "value": "Accuracy"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.gapmoving",
+      "value": "Moving accuracy"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.stunrate",
+      "value": "Stun rate"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.pierceobj",
+      "value": "Object penetration"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.throughfriend",
+      "value": "Ally penetration"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.critical",
+      "value": "Added attribute"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.dmgbad",
+      "value": "Special damage"
+    },
+    {
+      "key": "info.parts_upgrade.atkparam.comment",
+      "value": "Special effect"
+    },
+    {
+      "key": "msg.parts.pierceobj",
+      "value": "Enemy penetration"
+    },
+    {
+      "key": "msg.parts.throughfriend",
+      "value": "Ally penetration"
+    },
+    {
+      "key": "msg.parts.pierce",
+      "value": "Ally/enemy penetration"
+    },
+    {
+      "key": "msg.parts.notpierce",
+      "value": "No penetration"
+    },
+    {
+      "key": "info.labo.paramnotchange",
+      "value": "No change"
+    },
+    {
+      "key": "msg.parts.paramtitlehp",
+      "value": "%sHP [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitleen",
+      "value": "%sEN [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitleencharges",
+      "value": "%sEN recovery [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitleweight",
+      "value": "%sWeight [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitlecost",
+      "value": "%sCost [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitlemainatk",
+      "value": "%sMain power [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitlesubatk",
+      "value": "%sSub power [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramtitleattack",
+      "value": "Attack ability"
+    },
+    {
+      "key": "msg.parts.paramnormalatk",
+      "value": "Physical damage [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.parambeamatk",
+      "value": "Beam damage [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramflameatk",
+      "value": "Fire damage [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramshockatk",
+      "value": "Electric damage [ %s ]\\n"
+    },
+    {
+      "key": "msg.parts.paramshoot",
+      "value": "Shooting: %s"
+    },
+    {
+      "key": "msg.parts.paramfight",
+      "value": "Melee: %s"
+    },
+    {
+      "key": "msg.parts.paramstability",
+      "value": "Stability: %s"
+    },
+    {
+      "key": "msg.parts.paramtitlemove",
+      "value": "Movement ability"
+    },
+    {
+      "key": "msg.parts.parammovespeed",
+      "value": "Walk speed: %s"
+    },
+    {
+      "key": "msg.parts.parammoveweight",
+      "value": "Walk capacity: %s"
+    },
+    {
+      "key": "msg.parts.paramflyspeed",
+      "value": "Flight speed: %s"
+    },
+    {
+      "key": "msg.parts.paramflyweight",
+      "value": "Flight capacity: %s"
+    },
+    {
+      "key": "msg.parts.paramjmup",
+      "value": "Jump: %s"
+    },
+    {
+      "key": "msg.parts.paramtitledefense",
+      "value": "Defense"
+    },
+    {
+      "key": "msg.parts.paramnormal",
+      "value": "Physical: %s"
+    },
+    {
+      "key": "msg.parts.parambeam",
+      "value": "Beam: %s"
+    },
+    {
+      "key": "msg.parts.paramflame",
+      "value": "Fire: %s"
+    },
+    {
+      "key": "msg.parts.paramshock",
+      "value": "Electric: %s"
+    },
+    {
+      "key": "msg.parts.paramtitleresist",
+      "value": "Resistance"
+    },
+    {
+      "key": "msg.parts.paramslow",
+      "value": "Slow: %s"
+    },
+    {
+      "key": "msg.parts.paramfreeze",
+      "value": "Freeze: %s"
+    },
+    {
+      "key": "msg.parts.paramdropRate",
+      "value": "%s Drop rate modified by %s %\\n"
+    },
+    {
+      "key": "msg.parts.paramexpRate",
+      "value": "%s EXP gain modified by %s %\\n"
+    },
+    {
+      "key": "msg.parts.parammoneyRate",
+      "value": "%s C$ gain modified by %s %\\n"
+    },
+    {
+      "key": "msg.parts.attackpower",
+      "value": "Power %s\\n"
+    },
+    {
+      "key": "msg.parts.attackbullet",
+      "value": "Ammo %s\\n"
+    },
+    {
+      "key": "msg.parts.attacken",
+      "value": "EN cost %s\\n"
+    },
+    {
+      "key": "msg.parts.attackrenge",
+      "value": "Range %s\\n"
+    },
+    {
+      "key": "msg.parts.attackspeed",
+      "value": "Bullet speed %s\\n"
+    },
+    {
+      "key": "msg.parts.status.default",
+      "value": "STATUS"
+    },
+    {
+      "key": "msg.parts.status.accessory",
+      "value": "ACCESSORY"
+    },
+    {
+      "key": "msg.parts.status.random",
+      "value": "???"
+    },
+    {
+      "key": "msg.parts.nostatus",
+      "value": "-"
+    },
+    {
+      "key": "msg.parts.nomain",
+      "value": "-"
+    },
+    {
+      "key": "msg.parts.nosub",
+      "value": "-"
+    },
+    {
+      "key": "msg.parts.rarity",
+      "value": "Rank %s"
+    },
+    {
+      "key": "msg.parts.rarity.random",
+      "value": "Rank ?"
+    },
+    {
+      "key": "msg.itembuy.limittimeday",
+      "value": "Valid for %s days after purchase"
+    },
+    {
+      "key": "msg.itembuy.limitafterusehour",
+      "value": "Lasts %s hours after use"
+    },
+    {
+      "key": "msg.itembuy.limitafterusemin",
+      "value": "Lasts %s minutes after use"
+    },
+    {
+      "key": "err.mtcharge.notbuyable",
+      "value": "Cannot buy this item: monthly purchase limit would be exceeded"
+    },
+    {
+      "key": "msg.mtcharge.rest",
+      "value": "Mt charged. You can charge up to %s more Mt with this item this month"
+    },
+    {
+      "key": "msg.item.noeffect",
+      "value": "No effect: %s"
+    },
+    {
+      "key": "msg.item.partition",
+      "value": "No space to split the stack."
+    },
+    {
+      "key": "msg.item.expcharge",
+      "value": "You will lose %s EXP due to the cap! Continue?"
+    },
+    {
+      "key": "err.area.movefailed",
+      "value": "Travel failed"
+    },
+    {
+      "key": "err.area.movefailed2",
+      "value": "Travel failed. Moving elsewhere."
+    },
+    {
+      "key": "err.planet.areamovefailed",
+      "value": "Travel failed"
+    },
+    {
+      "key": "err.mission.areamovefailed",
+      "value": "Travel failed. Moving elsewhere"
+    },
+    {
+      "key": "err.shuttle.areamovefailed",
+      "value": "Could not travel to the destination"
+    },
+    {
+      "key": "err.area.moverejected",
+      "value": "The destination area is crowded. Please wait and try again"
+    },
+    {
+      "key": "err.warp.notavailable",
+      "value": "The target is not in a location you can warp to"
+    },
+    {
+      "key": "err.continuous.warp",
+      "value": "You cannot warp repeatedly"
+    },
+    {
+      "key": "err.robo.name.empty",
+      "value": "Enter a name"
+    },
+    {
+      "key": "err.robo.name.maxlength",
+      "value": "Name too long: maximum %s characters"
+    },
+    {
+      "key": "err.robo.name.badword",
+      "value": "Name contains forbidden characters: %s"
+    },
+    {
+      "key": "err.robo.name.duplicated",
+      "value": "This name is already in use"
+    },
+    {
+      "key": "err.robo.comment.empty",
+      "value": "Comment is empty"
+    },
+    {
+      "key": "err.robo.comment.maxlength",
+      "value": "Comment too long: maximum %s characters"
+    },
+    {
+      "key": "err.robo.comment.badword",
+      "value": "Comment contains forbidden characters: %s"
+    },
+    {
+      "key": "msg.input_text.contains_bad_word",
+      "value": "Contains forbidden words"
+    },
+    {
+      "key": "msg.input_text.contains_return_word",
+      "value": "Line breaks are not allowed"
+    },
+    {
+      "key": "err.garage.itemfull",
+      "value": "Cannot store any more items"
+    },
+    {
+      "key": "err.garage.partsfull",
+      "value": "Cannot store any more parts"
+    },
+    {
+      "key": "err.garage.robofull",
+      "value": "Full"
+    },
+    {
+      "key": "msg.build.newroboname",
+      "value": "New robot"
+    },
+    {
+      "key": "msg.build.newrobocomment",
+      "value": "Newly created robot"
+    },
+    {
+      "key": "msg.build.ask_cancel",
+      "value": "Stop building and return to the robot list?"
+    },
+    {
+      "key": "err.build.robofull",
+      "value": "The garage is full of robots"
+    },
+    {
+      "key": "msg.rebuild.ask_cancel",
+      "value": "Stop customizing and return to the robot list?"
+    },
+    {
+      "key": "err.rebuild.treenumlimit",
+      "value": "Too many parts in this robot"
+    },
+    {
+      "key": "err.rebuild.treebodylimit",
+      "value": "Body part limit exceeded"
+    },
+    {
+      "key": "err.rebuild.treeheightlimit",
+      "value": "Robot height limit exceeded"
+    },
+    {
+      "key": "err.rebuild.treedepthlimit",
+      "value": "Vertical part limit reached"
+    },
+    {
+      "key": "err.rebuild.treeinvalid",
+      "value": "This configuration cannot deploy"
+    },
+    {
+      "key": "msg.build.expnodown ",
+      "value": "* EXP will not decrease\\n* Excess EXP at the robot level cap goes to the AURA cartridge slot"
+    },
+    {
+      "key": "msg.build.expdown ",
+      "value": "* %s EXP will be lost!\\n* Excess EXP at the robot level cap goes to the AURA cartridge slot"
+    },
+    {
+      "key": "err.common.cannotconnect",
+      "value": "Cannot connect to the server. Exiting"
+    },
+    {
+      "key": "err.common.servermaintenance",
+      "value": "Server maintenance in progress. Exiting"
+    },
+    {
+      "key": "err.common.default",
+      "value": "An error occurred. Exiting"
+    },
+    {
+      "key": "err.common.network",
+      "value": "Communication error. Exiting"
+    },
+    {
+      "key": "err.common.notenoughmoney",
+      "value": "Not enough money"
+    },
+    {
+      "key": "err.common.notenoughitem",
+      "value": "Not enough quantity"
+    },
+    {
+      "key": "err.common.usernotfound",
+      "value": "The specified user was not found"
+    },
+    {
+      "key": "msg.chatcommand.board",
+      "value": "Signboard"
+    },
+    {
+      "key": "msg.chatcommand.guild",
+      "value": "Guild"
+    },
+    {
+      "key": "msg.chatcommand.party",
+      "value": "Party"
+    },
+    {
+      "key": "msg.chatcommand.tell",
+      "value": "TELL"
+    },
+    {
+      "key": "msg.chatcommand.nation",
+      "value": "Army"
+    },
+    {
+      "key": "msg.chatcommand.shout",
+      "value": "Global"
+    },
+    {
+      "key": "msg.chatcommand.say",
+      "value": "Nearby"
+    },
+    {
+      "key": "err.accept.failed",
+      "value": "Your reply could not be delivered"
+    },
+    {
+      "key": "err.chatcommand.friendapply.self",
+      "value": "Cannot send a friend request to %s"
+    },
+    {
+      "key": "err.chatcommand.friendapply.notfound",
+      "value": "%s was not found"
+    },
+    {
+      "key": "err.chatcommand.friendapply.already",
+      "value": "%s is already registered"
+    },
+    {
+      "key": "err.chatcommand.friendapply.ignore",
+      "value": "Cannot send a friend request to %s: they are on your ignore list"
+    },
+    {
+      "key": "err.chatcommand.friendkick.notregister",
+      "value": "%s is not on your friend list"
+    },
+    {
+      "key": "err.chatcommand.ignoreadd.self",
+      "value": "Cannot add %s to your ignore list"
+    },
+    {
+      "key": "err.chatcommand.ignoreadd.notfound",
+      "value": "%s was not found"
+    },
+    {
+      "key": "err.chatcommand.ignoreadd.already",
+      "value": "%s is already on your ignore list"
+    },
+    {
+      "key": "err.chatcommand.ignoreadd.isgm",
+      "value": "Cannot ignore a GM"
+    },
+    {
+      "key": "err.chatcommand.ignoreremove.notregister",
+      "value": "%s is not on your ignore list"
+    },
+    {
+      "key": "err.chatcommand.partyapply.self",
+      "value": "Cannot invite %s to your party"
+    },
+    {
+      "key": "err.chatcommand.partyapply.notfound",
+      "value": "%s was not found"
+    },
+    {
+      "key": "err.chatcommand.partyapply.already",
+      "value": "%s is already in a party"
+    },
+    {
+      "key": "err.chatcommand.partyapply.ignore",
+      "value": "Cannot invite %s: they are on your ignore list"
+    },
+    {
+      "key": "err.chatcommand.partykick.self",
+      "value": "Cannot kick %s"
+    },
+    {
+      "key": "err.chatcommand.partykick.notregister",
+      "value": "%s is not in your party"
+    },
+    {
+      "key": "err.chatcommand.partyleave.leader",
+      "value": "The leader cannot leave the party"
+    },
+    {
+      "key": "err.chatcommand.partydelegate.self",
+      "value": "Cannot ask %s to become leader"
+    },
+    {
+      "key": "err.chatcommand.partydelegate.notfound",
+      "value": "%s was not found"
+    },
+    {
+      "key": "err.chatcommand.guildapply.already",
+      "value": "%s is already in a guild"
+    },
+    {
+      "key": "err.chatcommand.guildleave.leader",
+      "value": "The guild master cannot leave the guild"
+    },
+    {
+      "key": "err.chatcommand.tradeapply.already",
+      "value": "%s is trading"
+    },
+    {
+      "key": "err.chatcommand.tell.self",
+      "value": "Cannot TELL %s"
+    },
+    {
+      "key": "err.chatcommand.tell.notfound",
+      "value": "Cannot TELL %s"
+    },
+    {
+      "key": "err.chatcommand.tell.ignore",
+      "value": "Cannot TELL %s"
+    },
+    {
+      "key": "err.chatcommand.invalidcommand",
+      "value": "Invalid command: %s"
+    },
+    {
+      "key": "err.chatcommand.chatunavailable",
+      "value": "Chat restricted (%s seconds remaining)"
+    },
+    {
+      "key": "err.chatcommand.chatpenalty",
+      "value": "You spoke %s or more times in 1 second. Chat disabled for %s seconds"
+    },
+    {
+      "key": "err.board.safetyonly",
+      "value": "Signboards can only be used in safe areas"
+    },
+    {
+      "key": "err.something.failed",
+      "value": "Failed"
+    },
+    {
+      "key": "msg.member.in",
+      "value": "Joined %s"
+    },
+    {
+      "key": "msg.member.out",
+      "value": "Separated from %s"
+    },
+    {
+      "key": "err.friend.gminvite",
+      "value": "Cannot send requests to a GM"
+    },
+    {
+      "key": "err.friend.alreadyinvited",
+      "value": "An invitation is already pending"
+    },
+    {
+      "key": "err.friend.invitetimeout",
+      "value": "Friend request timed out"
+    },
+    {
+      "key": "msg.friend.invite",
+      "value": "Friend request sent to %s"
+    },
+    {
+      "key": "msg.friend.invited",
+      "value": "%s sent you a friend request"
+    },
+    {
+      "key": "msg.friend.loggedin",
+      "value": "%s logged in"
+    },
+    {
+      "key": "msg.friend.loggedout",
+      "value": "%s logged out"
+    },
+    {
+      "key": "msg.friend.added",
+      "value": "%s added as a friend"
+    },
+    {
+      "key": "err.friend.rejected",
+      "value": "%s rejected your friend request"
+    },
+    {
+      "key": "msg.friend.reject",
+      "value": "Rejected the friend request from %s"
+    },
+    {
+      "key": "err.friend.falied",
+      "value": "Friend request to %s failed"
+    },
+    {
+      "key": "err.friend.already",
+      "value": "%s is already on your friend list"
+    },
+    {
+      "key": "err.friend.full",
+      "value": "Your friend list is full"
+    },
+    {
+      "key": "msg.friend.removed",
+      "value": "Removed %s from your friend list"
+    },
+    {
+      "key": "err.friend.removefailed",
+      "value": "Could not remove %s from your friend list"
+    },
+    {
+      "key": "msg.friend.removenotified",
+      "value": "%s removed you from their friend list"
+    },
+    {
+      "key": "msg.party.leaderchanged",
+      "value": "Party leader changed to %s"
+    },
+    {
+      "key": "msg.party.kickout",
+      "value": "You were kicked from the party"
+    },
+    {
+      "key": "msg.party.kickedout",
+      "value": "You are no longer a member of party %s"
+    },
+    {
+      "key": "msg.party.renamed",
+      "value": "Party renamed to %s"
+    },
+    {
+      "key": "msg.party.updateparam",
+      "value": "%s changed the distribution rules"
+    },
+    {
+      "key": "msg.party.delegate",
+      "value": "Asked %s to become leader"
+    },
+    {
+      "key": "msg.party.delegated",
+      "value": "%s asked you to become leader"
+    },
+    {
+      "key": "err.party.tellfailed",
+      "value": "Could not send a message to %s"
+    },
+    {
+      "key": "err.party.invitetimeout",
+      "value": "Party invitation timed out"
+    },
+    {
+      "key": "msg.party.invite",
+      "value": "Invited %s to the party"
+    },
+    {
+      "key": "msg.party.invited",
+      "value": "%s invited you to a party"
+    },
+    {
+      "key": "msg.party.loggedin",
+      "value": "%s logged in and rejoined the party"
+    },
+    {
+      "key": "msg.party.loggedout",
+      "value": "%s logged out and left the party"
+    },
+    {
+      "key": "msg.party.apply",
+      "value": "Sent a party join request to %s"
+    },
+    {
+      "key": "msg.party.applied",
+      "value": "%s requested to join the party"
+    },
+    {
+      "key": "err.party.rejected",
+      "value": "%s rejected your party request"
+    },
+    {
+      "key": "msg.party.reject",
+      "value": "Rejected the party request from %s"
+    },
+    {
+      "key": "msg.party.joined",
+      "value": "%s joined the party"
+    },
+    {
+      "key": "msg.party.leaved",
+      "value": "%s left the party"
+    },
+    {
+      "key": "msg.party.ijoined",
+      "value": "Joined %s"
+    },
+    {
+      "key": "msg.party.ileaved",
+      "value": "You left the party"
+    },
+    {
+      "key": "msg.party.created",
+      "value": "Party created"
+    },
+    {
+      "key": "err.party.alreadyjoined",
+      "value": "You are already in a party"
+    },
+    {
+      "key": "err.party.partynameconflict",
+      "value": "Party name already in use"
+    },
+    {
+      "key": "err.party.full",
+      "value": "The party is full"
+    },
+    {
+      "key": "msg.party.broken",
+      "value": "Party disbanded"
+    },
+    {
+      "key": "err.party.notcreated",
+      "value": "%s has not created a party"
+    },
+    {
+      "key": "err.party.inparty",
+      "value": "%s is in another party"
+    },
+    {
+      "key": "err.party.noparty",
+      "value": "You are not in a party"
+    },
+    {
+      "key": "err.party.notleader",
+      "value": "You are not the leader"
+    },
+    {
+      "key": "err.party.leadertimeout",
+      "value": "Leader transfer request timed out"
+    },
+    {
+      "key": "err.party.leaderrejected",
+      "value": "%s rejected your leader transfer request"
+    },
+    {
+      "key": "msg.party.leaderreject",
+      "value": "Rejected the leader transfer request from %s"
+    },
+    {
+      "key": "msg.guild.leaderchanged",
+      "value": "Guild master changed to %s"
+    },
+    {
+      "key": "msg.guild.kickout",
+      "value": "You were kicked from the guild"
+    },
+    {
+      "key": "msg.guild.kickedout",
+      "value": "You are no longer a member of guild %s"
+    },
+    {
+      "key": "msg.guild.delegate",
+      "value": "Asked %s to become guild master"
+    },
+    {
+      "key": "msg.guild.delegated",
+      "value": "%s asked you to become guild master"
+    },
+    {
+      "key": "err.guild.tellfailed",
+      "value": "Could not send a message to %s"
+    },
+    {
+      "key": "err.guild.invitetimeout",
+      "value": "Guild invitation timed out"
+    },
+    {
+      "key": "msg.guild.invite",
+      "value": "Invited %s to the guild"
+    },
+    {
+      "key": "msg.guild.invited",
+      "value": "%s invited you to a guild"
+    },
+    {
+      "key": "msg.guild.loggedin",
+      "value": "%s logged in"
+    },
+    {
+      "key": "msg.guild.loggedout",
+      "value": "%s logged out"
+    },
+    {
+      "key": "err.guild.rejected",
+      "value": "%s rejected your guild request"
+    },
+    {
+      "key": "msg.guild.reject",
+      "value": "Rejected the guild request from %s"
+    },
+    {
+      "key": "msg.guild.joined",
+      "value": "%s joined the guild"
+    },
+    {
+      "key": "msg.guild.leaved",
+      "value": "%s left the guild"
+    },
+    {
+      "key": "msg.guild.ijoined",
+      "value": "Joined %s"
+    },
+    {
+      "key": "msg.guild.created",
+      "value": "Guild created"
+    },
+    {
+      "key": "err.guild.alreadyjoined",
+      "value": "You are already in a guild"
+    },
+    {
+      "key": "err.guild.guildnameconflict",
+      "value": "Guild name already in use"
+    },
+    {
+      "key": "err.guild.full",
+      "value": "The guild is full"
+    },
+    {
+      "key": "msg.guild.broken",
+      "value": "Guild disbanded"
+    },
+    {
+      "key": "err.guild.notcreated",
+      "value": "%s has not created a guild"
+    },
+    {
+      "key": "err.guild.inguild",
+      "value": "%s is in another guild"
+    },
+    {
+      "key": "msg.guild.subleaderchanged",
+      "value": "%s transferred the submaster role to %s"
+    },
+    {
+      "key": "msg.guild.leavesub",
+      "value": "%s stepped down as submaster"
+    },
+    {
+      "key": "msg.guild.memberpromoted",
+      "value": "%s was promoted to submaster"
+    },
+    {
+      "key": "msg.guild.memberdemoted",
+      "value": "%s was demoted to regular member"
+    },
+    {
+      "key": "err.guild.noguild",
+      "value": "You are not in a guild"
+    },
+    {
+      "key": "err.guild.leadertimeout",
+      "value": "Guild master transfer request timed out"
+    },
+    {
+      "key": "err.guild.leaderrejected",
+      "value": "%s rejected your guild master transfer request"
+    },
+    {
+      "key": "msg.guild.leaderreject",
+      "value": "Rejected the guild master transfer request from %s"
+    },
+    {
+      "key": "msg.guild.ask_input_party_name",
+      "value": "Enter a guild name"
+    },
+    {
+      "key": "msg.guild.ask_bad_party_name",
+      "value": "Guild name contains forbidden words or spaces"
+    },
+    {
+      "key": "msg.guild.ask_long_party_name",
+      "value": "Guild names may contain up to 5 characters"
+    },
+    {
+      "key": "msg.trade.invite",
+      "value": "Sent a trade request to %s"
+    },
+    {
+      "key": "msg.trade.invited",
+      "value": "%s sent you a trade request"
+    },
+    {
+      "key": "err.trade.invitetimeout",
+      "value": "Trade request timed out"
+    },
+    {
+      "key": "err.trade.open",
+      "value": "Could not start trading with %s"
+    },
+    {
+      "key": "msg.trade.reject",
+      "value": "Rejected the trade request from %s"
+    },
+    {
+      "key": "msg.trade.rejected",
+      "value": "%s rejected your trade request"
+    },
+    {
+      "key": "msg.trade.started",
+      "value": "Started trading with %s"
+    },
+    {
+      "key": "msg.trade.canceled",
+      "value": "Trade canceled"
+    },
+    {
+      "key": "msg.trade.confirmation",
+      "value": "Trade contents changed. Please check"
+    },
+    {
+      "key": "msg.trade.dialog",
+      "value": "Trade losses will not be compensated. Confirm?"
+    },
+    {
+      "key": "msg.trade.agree",
+      "value": "You agreed to the trade"
+    },
+    {
+      "key": "msg.trade.failure",
+      "value": "%s restarted the trade"
+    },
+    {
+      "key": "msg.trade.consist",
+      "value": "Trade completed"
+    },
+    {
+      "key": "msg.trade.unconsist",
+      "value": "Trade failed"
+    },
+    {
+      "key": "msg.trade.over",
+      "value": "No space on your carry page"
+    },
+    {
+      "key": "msg.trade.overed",
+      "value": "No space on %s's carry page"
+    },
+    {
+      "key": "msg.trade.overGameMoney",
+      "value": "%s has reached the C$ limit"
+    },
+    {
+      "key": "msg.trade.overRealMoney",
+      "value": "%s has reached the Mt limit"
+    },
+    {
+      "key": "msg.trade.decide",
+      "value": "Trade contents confirmed"
+    },
+    {
+      "key": "msg.trade.entry",
+      "value": "Added %s x %d"
+    },
+    {
+      "key": "msg.trade.empty",
+      "value": "Canceled %s x %d"
+    },
+    {
+      "key": "msg.trade.undecide",
+      "value": "Rank R items/parts cannot be traded"
+    },
+    {
+      "key": "msg.trade.num",
+      "value": "%s x %d"
+    },
+    {
+      "key": "msg.trade.get",
+      "value": "Received from %s: %s"
+    },
+    {
+      "key": "msg.trade.set",
+      "value": "Gave to %s: %s"
+    },
+    {
+      "key": "msg.trade.invalidGameMoney",
+      "value": "Invalid C$ amount"
+    },
+    {
+      "key": "msg.trade.invalidRealMoney",
+      "value": "Invalid Mt amount"
+    },
+    {
+      "key": "msg.gift.send",
+      "value": "Sent a gift to %s: %s"
+    },
+    {
+      "key": "msg.location.dim",
+      "value": "Another dimension"
+    },
+    {
+      "key": "err.depart.garagerobofull",
+      "value": "Carry and garage are full"
+    },
+    {
+      "key": "msg.depart.commandorobofull",
+      "value": "Carry is full. Sending to garage"
+    },
+    {
+      "key": "err.depart.garagepartsfull",
+      "value": "Carry and garage are full"
+    },
+    {
+      "key": "msg.depart.commandopartsfull",
+      "value": "Carry is full. Sending to garage"
+    },
+    {
+      "key": "err.depart.garageitemfull",
+      "value": "Carry and garage are full"
+    },
+    {
+      "key": "msg.depart.commandoitemfull",
+      "value": "Carry is full. Sending to garage"
+    },
+    {
+      "key": "err.depart.limitnotextended",
+      "value": "Cannot extend further"
+    },
+    {
+      "key": "msg.depart.limitnotehead",
+      "value": "* Warning"
+    },
+    {
+      "key": "msg.depart.limittime",
+      "value": "Valid for %s days after purchase"
+    },
+    {
+      "key": "msg.depart.limitcustomize",
+      "value": "Cannot customize"
+    },
+    {
+      "key": "msg.gacha.partstopresent",
+      "value": "Congratulations!\\nYour carry and garage are full.\\nYour prize will be sent as a gift"
+    },
+    {
+      "key": "msg.gacha.partstogarage",
+      "value": "Congratulations!\\nYour carry is full.\\nYour prize will be stored in the garage"
+    },
+    {
+      "key": "msg.gacha.partstocommando",
+      "value": "Congratulations!"
+    },
+    {
+      "key": "msg.gacha.partsget",
+      "value": "You won [%s]!"
+    },
+    {
+      "key": "msg.gacha.fromName",
+      "value": "Gacha Center"
+    },
+    {
+      "key": "msg.gacha.presentmessage",
+      "value": "Thank you for using the Gacha Center."
+    },
+    {
+      "key": "msg.gacha.announce",
+      "value": "Someone won [%s] at the Gacha Center!"
+    },
+    {
+      "key": "msg.gacha.announce_name",
+      "value": "[%s] won [%s] at the Gacha Center!"
+    },
+    {
+      "key": "msg.gacha.buy_metal",
+      "value": "Use the Metal below for %s spins in total"
+    },
+    {
+      "key": "msg.gacha.buy_item",
+      "value": "Use the items below for %s spins in total"
+    },
+    {
+      "key": "msg.gacha.buy_parts",
+      "value": "Use the parts below for %s spins in total"
+    },
+    {
+      "key": "msg.gacha.buy2",
+      "value": "Continue?"
+    },
+    {
+      "key": "info.gacha.bonusinfo",
+      "value": "Spin %s times to receive %s bonus spins\\nUp to %s bonus spins can be awarded"
+    },
+    {
+      "key": "info.gacha.nobonusinfo",
+      "value": "NO BONUS"
+    },
+    {
+      "key": "info.gacha.pluralnum",
+      "value": "Buy %s spins"
+    },
+    {
+      "key": "err.gacha.maxpresent",
+      "value": "Too many gifts pending. Please clear some gifts first"
+    },
+    {
+      "key": "msg.gacha.metalname",
+      "value": "%s Metal"
+    },
+    {
+      "key": "err.gacha.notenoughtitem",
+      "value": "%s is locked or you do not have enough"
+    },
+    {
+      "key": "err.gacha.rankfailin",
+      "value": "Your rank does not allow this gacha"
+    },
+    {
+      "key": "msg.gacha.gachalisttitle_result",
+      "value": "You received the product!"
+    },
+    {
+      "key": "msg.gacha.gachalisttitle_info",
+      "value": "Contents of \"%s\""
+    },
+    {
+      "key": "msg.gacha.daily_expired",
+      "value": "Daily Gacha contents have been updated."
+    },
+    {
+      "key": "caption.shop.receipt",
+      "value": "Select purchase date"
+    },
+    {
+      "key": "caption.shop.suffix_receipt_gacha",
+      "value": "@Gacha"
+    },
+    {
+      "key": "url.metalcharge.cyberstep",
+      "value": "https://www.c21-online.jp/home/logout/charge"
+    },
+    {
+      "key": "url.metalcharge.hangame",
+      "value": "http://c21.hange.jp/shop?m=guide"
+    },
+    {
+      "key": "url.metalcharge.fujitv",
+      "value": "https://www.c21-online.jp/fujitv/charge/chargemt.html"
+    },
+    {
+      "key": "url.metalcharge.nifty",
+      "value": "https://www.c21-online.jp/nifty/charge/chargemt.html"
+    },
+    {
+      "key": "url.metalcharge.ms",
+      "value": "http://redirect.hange.jp/ms/c21/shop/top/"
+    },
+    {
+      "key": "url.metalcharge.steam",
+      "value": "https://c21-steam.cyberstep.com/purchase/steam/form"
+    },
+    {
+      "key": "err.ignore.full",
+      "value": "Your ignore list is full"
+    },
+    {
+      "key": "err.ignore.alreadyadded",
+      "value": "%s is already on your ignore list"
+    },
+    {
+      "key": "msg.ignore.added",
+      "value": "Added %s to your ignore list"
+    },
+    {
+      "key": "err.ignore.addfailed",
+      "value": "Could not add %s to your ignore list"
+    },
+    {
+      "key": "err.ignore.removed",
+      "value": "Removed %s from your ignore list"
+    },
+    {
+      "key": "err.ignore.removefailed",
+      "value": "Could not remove %s from your ignore list"
+    },
+    {
+      "key": "err.friend.notloggedin",
+      "value": "%s is not logged in"
+    },
+    {
+      "key": "err.friend.tellfailed",
+      "value": "Could not send a message to %s"
+    },
+    {
+      "key": "msg.timelimititem.removed",
+      "value": "%s expired and was removed"
+    },
+    {
+      "key": "msg.timelimititem.leftday",
+      "value": "%s valid for %s days"
+    },
+    {
+      "key": "msg.timelimititem.lefttime",
+      "value": "%s valid for %s hours %s minutes"
+    },
+    {
+      "key": "msg.timelimititem.lefttimemin",
+      "value": "%s valid for %s minutes"
+    },
+    {
+      "key": "msg.timelimititem.expired",
+      "value": "%s has expired"
+    },
+    {
+      "key": "msg.boostitem.startuse",
+      "value": "Used [%s]. Effect lasts until %s:%s"
+    },
+    {
+      "key": "msg.boostitem.expired",
+      "value": "The effect of [%s] has ended"
+    },
+    {
+      "key": "msg.boostskill.use",
+      "value": "The effect of [%s] was applied"
+    },
+    {
+      "key": "msg.robo.healtrap ",
+      "value": "The effect of [%s %s %] was applied"
+    },
+    {
+      "key": "msg.robo.healtrap.owner",
+      "value": "Support effect from %s [%s %s %] was applied"
+    },
+    {
+      "key": "msg.robo.negativeboost",
+      "value": "Affected by [%s]!"
+    },
+    {
+      "key": "msg.robo.trapstart",
+      "value": "%s! %s"
+    },
+    {
+      "key": "word.realmoneycharge",
+      "value": "Charge Metal"
+    },
+    {
+      "key": "word.towebhelp",
+      "value": "More details"
+    },
+    {
+      "key": "url.towebhelp.cyberstep",
+      "value": "https://www.c21-online.jp/playguide/ui_base.html"
+    },
+    {
+      "key": "url.opcontact.cyberstep",
+      "value": "https://www.c21-online.jp/support/contact.html"
+    },
+    {
+      "key": "url.opcontact.hangame",
+      "value": "https://www.c21-online.jp/hangame/support/contact.html"
+    },
+    {
+      "key": "url.opcontact.fujitv",
+      "value": "https://www.c21-online.jp/fujitv/support/contact.html"
+    },
+    {
+      "key": "url.opcontact.nifty",
+      "value": "https://www.c21-online.jp/nifty/support/contact.html"
+    },
+    {
+      "key": "url.opcontact.ms",
+      "value": "https://www.c21-online.jp/msn/support/contact.html"
+    },
+    {
+      "key": "url.opcontact.steam",
+      "value": "https://c21-steam.cyberstep.com/inquiry"
+    },
+    {
+      "key": "url.macrolist.cyberstep",
+      "value": "https://www.c21-online.jp/playguide/com_command.html"
+    },
+    {
+      "key": "url.macrolist.hangame",
+      "value": "http://c21.hange.jp/playguide?m=community#command"
+    },
+    {
+      "key": "url.macrolist.fujitv",
+      "value": "https://www.c21-online.jp/fujitv/playguide/com_command.html"
+    },
+    {
+      "key": "url.macrolist.nifty",
+      "value": "https://www.c21-online.jp/nifty/playguide/com_command.html"
+    },
+    {
+      "key": "url.macrolist.mn",
+      "value": "https://www.c21-online.jp/msn/playguide/com_command.html"
+    },
+    {
+      "key": "url.macrolist.steam",
+      "value": "https://c21-steam.cyberstep.com/playguide/com_command.html"
+    },
+    {
+      "key": "msg.memberlist.help_party_chat",
+      "value": "Party chat"
+    },
+    {
+      "key": "msg.memberlist.help_guild_chat",
+      "value": "Guild chat"
+    },
+    {
+      "key": "msg.memberlist.help_tell_chat",
+      "value": "TELL chat"
+    },
+    {
+      "key": "msg.memberlist.help_friend_apply",
+      "value": "Send friend request"
+    },
+    {
+      "key": "msg.memberlist.help_friend_remove",
+      "value": "Remove friend"
+    },
+    {
+      "key": "msg.memberlist.help_ignore_add",
+      "value": "Add to ignore list"
+    },
+    {
+      "key": "msg.memberlist.help_ignore_remove",
+      "value": "Remove from ignore list"
+    },
+    {
+      "key": "msg.memberlist.help_party_apply",
+      "value": "Invite to party"
+    },
+    {
+      "key": "msg.memberlist.help_party_kick",
+      "value": "Kick from party"
+    },
+    {
+      "key": "msg.memberlist.help_party_drop",
+      "value": "Leave party"
+    },
+    {
+      "key": "msg.memberlist.help_party_break",
+      "value": "Disband party"
+    },
+    {
+      "key": "msg.memberlist.help_party_delegate",
+      "value": "Transfer leadership"
+    },
+    {
+      "key": "msg.memberlist.help_guild_apply",
+      "value": "Invite to guild"
+    },
+    {
+      "key": "msg.memberlist.help_guild_kick",
+      "value": "Kick from guild"
+    },
+    {
+      "key": "msg.memberlist.help_guild_drop",
+      "value": "Leave guild"
+    },
+    {
+      "key": "msg.memberlist.help_guild_break",
+      "value": "Disband guild"
+    },
+    {
+      "key": "msg.memberlist.help_guild_delegate",
+      "value": "Transfer guild master"
+    },
+    {
+      "key": "msg.memberlist.help_guild_promote",
+      "value": "Appoint submaster"
+    },
+    {
+      "key": "msg.memberlist.help_guild_dropsub",
+      "value": "Resign as submaster"
+    },
+    {
+      "key": "msg.memberlist.help_guild_delegatesub",
+      "value": "Transfer submaster"
+    },
+    {
+      "key": "msg.memberlist.help_guild_demote",
+      "value": "Revoke submaster"
+    },
+    {
+      "key": "msg.memberlist.help_member_info",
+      "value": "Member details"
+    },
+    {
+      "key": "msg.memberlist.help_tripto",
+      "value": "Move near selected player"
+    },
+    {
+      "key": "msg.memberlist.help_gift",
+      "value": "Gift"
+    },
+    {
+      "key": "msg.memberlist.ask_addfriend",
+      "value": "Send a friend request to %s?"
+    },
+    {
+      "key": "msg.memberlist.ask_inviteparty",
+      "value": "Invite %s to your party?"
+    },
+    {
+      "key": "msg.memberlist.ask_inviteguild",
+      "value": "Invite %s to your guild?"
+    },
+    {
+      "key": "msg.memberlist.ask_removefriend",
+      "value": "Remove %s from your friend list?"
+    },
+    {
+      "key": "msg.memberlist.ask_addignore",
+      "value": "Add %s to your ignore list?"
+    },
+    {
+      "key": "msg.memberlist.ask_removeignore",
+      "value": "Remove %s from your ignore list?"
+    },
+    {
+      "key": "msg.memberlist.ask_partykick",
+      "value": "Kick %s from the party?"
+    },
+    {
+      "key": "msg.memberlist.ask_partydrop",
+      "value": "Leave the party?"
+    },
+    {
+      "key": "msg.memberlist.ask_partydelegate",
+      "value": "Make %s the leader?"
+    },
+    {
+      "key": "msg.memberlist.ask_guildkick",
+      "value": "Kick %s from the guild?"
+    },
+    {
+      "key": "msg.memberlist.err_guildkick",
+      "value": "Cannot kick from the guild"
+    },
+    {
+      "key": "msg.memberlist.ask_guilddrop",
+      "value": "Leave the guild?"
+    },
+    {
+      "key": "msg.memberlist.ask_guilddelegate",
+      "value": "Make %s the guild master?"
+    },
+    {
+      "key": "msg.memberlist.ask_guildpromote",
+      "value": "Appoint %s as submaster?"
+    },
+    {
+      "key": "msg.memberlist.err_guildpromote",
+      "value": "Cannot appoint"
+    },
+    {
+      "key": "msg.memberlist.ask_guilddropsub",
+      "value": "Resign as submaster?"
+    },
+    {
+      "key": "msg.memberlist.ask_guilddelegatesub",
+      "value": "Transfer the submaster role?"
+    },
+    {
+      "key": "msg.memberlist.err_guilddelegatesub",
+      "value": "Cannot transfer authority"
+    },
+    {
+      "key": "msg.memberlist.ask_guilddemote",
+      "value": "Revoke %s's submaster role?"
+    },
+    {
+      "key": "msg.memberlist.err_guilddemote",
+      "value": "Not a submaster"
+    },
+    {
+      "key": "msg.memberlist.memberinfo_moving",
+      "value": "Moving between areas"
+    },
+    {
+      "key": "msg.memberlist.memberinfo_head",
+      "value": "%s's current location"
+    },
+    {
+      "key": "msg.memberlist.party_ask_create",
+      "value": "Confirm these settings?"
+    },
+    {
+      "key": "msg.memberlist.party_ask_change",
+      "value": "Confirm these settings?"
+    },
+    {
+      "key": "msg.memberlist.party_ask_break",
+      "value": "Disband the party?"
+    },
+    {
+      "key": "msg.memberlist.party_setting_exp",
+      "value": "[EXP distribution]"
+    },
+    {
+      "key": "msg.memberlist.party_setting_item",
+      "value": "[Item distribution]"
+    },
+    {
+      "key": "msg.memberlist.party_setting_money",
+      "value": "[C$ distribution]"
+    },
+    {
+      "key": "msg.memberlist.party_setting_name",
+      "value": "[Party name]"
+    },
+    {
+      "key": "msg.memberlist.help_party_create",
+      "value": "Create party\\n/partymake"
+    },
+    {
+      "key": "msg.memberlist.party_btn_break",
+      "value": "Disband party"
+    },
+    {
+      "key": "msg.memberlist.party_btn_drop",
+      "value": "Leave party"
+    },
+    {
+      "key": "msg.memberlist.guild_ask_break",
+      "value": "Disband the guild?"
+    },
+    {
+      "key": "msg.memberlist.fig1",
+      "value": "O"
+    },
+    {
+      "key": "msg.memberlist.fig2",
+      "value": "o"
+    },
+    {
+      "key": "msg.memberlist.fig3",
+      "value": "x"
+    },
+    {
+      "key": "msg.party.dealmethod0",
+      "value": "By contribution"
+    },
+    {
+      "key": "msg.party.dealmethod1",
+      "value": "Individual pickup"
+    },
+    {
+      "key": "msg.party.dealmethod2",
+      "value": "Equal share"
+    },
+    {
+      "key": "msg.party.dealmethod3",
+      "value": "Round robin"
+    },
+    {
+      "key": "msg.party.dealmethod4",
+      "value": "Random"
+    },
+    {
+      "key": "msg.party.ask_input_party_name",
+      "value": "Enter a party name"
+    },
+    {
+      "key": "msg.party.ask_no_party_change",
+      "value": "Party settings unchanged"
+    },
+    {
+      "key": "msg.party.ask_bad_party_name",
+      "value": "Party name contains forbidden words or spaces"
+    },
+    {
+      "key": "msg.party.ask_long_party_name",
+      "value": "Party names may contain up to 5 characters"
+    },
+    {
+      "key": "msg.generaldialog.yes",
+      "value": "Yes"
+    },
+    {
+      "key": "msg.generaldialog.return",
+      "value": "Back"
+    },
+    {
+      "key": "msg.generaldialog.no",
+      "value": "No"
+    },
+    {
+      "key": "msg.generaldialog.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "msg.generaldialog.ok",
+      "value": "OK"
+    },
+    {
+      "key": "msg.invitation.ask_accept",
+      "value": "Accept?"
+    },
+    {
+      "key": "msg.card.group_monster",
+      "value": "Monster Card"
+    },
+    {
+      "key": "msg.card.group_ancient",
+      "value": "Ancient Robot Card"
+    },
+    {
+      "key": "msg.card.group_angel",
+      "value": "Angel Army Robot Card"
+    },
+    {
+      "key": "msg.card.group_devil",
+      "value": "Devil Army Robot Card"
+    },
+    {
+      "key": "msg.ui.enter_freecursor_mode",
+      "value": "Free cursor mode enabled"
+    },
+    {
+      "key": "msg.ui.exit_freecursor_mode",
+      "value": "Normal mode enabled"
+    },
+    {
+      "key": "msg.skin.reset",
+      "value": "Reset this part's skin?"
+    },
+    {
+      "key": "msg.skin.cancel",
+      "value": "Discard changes and return to selection?"
+    },
+    {
+      "key": "err.skin.openfile",
+      "value": "Could not read the file"
+    },
+    {
+      "key": "err.skin.savefile",
+      "value": "Could not write the file"
+    },
+    {
+      "key": "err.skin.addskin",
+      "value": "Could not register the skin"
+    },
+    {
+      "key": "errtype.skin.unknown",
+      "value": "Unknown error"
+    },
+    {
+      "key": "errtype.skin.format",
+      "value": "Invalid file format"
+    },
+    {
+      "key": "errtype.skin.access",
+      "value": "Cannot open the file"
+    },
+    {
+      "key": "errtype.skin.imagesize",
+      "value": "Image dimensions do not match"
+    },
+    {
+      "key": "errtype.skin.nopalette",
+      "value": "Image is not in palette format"
+    },
+    {
+      "key": "errtype.skin.palettesize",
+      "value": "Invalid image palette size"
+    },
+    {
+      "key": "errtype.skin.cantwrite",
+      "value": "Cannot write to that directory"
+    },
+    {
+      "key": "msg.war.battlestart",
+      "value": "Battle started at %s"
+    },
+    {
+      "key": "msg.war.battleend",
+      "value": "In the battle at %s, %s won"
+    },
+    {
+      "key": "msg.war.battleend_draw",
+      "value": "The battle at %s ended in a draw"
+    },
+    {
+      "key": "msg.war.rulerchange",
+      "value": "Control of %s passed to %s"
+    },
+    {
+      "key": "msg.war09.guild",
+      "value": "(Guild)"
+    },
+    {
+      "key": "msg.war09.fromName",
+      "value": "Battle Star League reward"
+    },
+    {
+      "key": "msg.war09.fromName_top",
+      "value": "Battle Star League reward"
+    },
+    {
+      "key": "msg.war09.fromName_topall",
+      "value": "Battle Star League reward"
+    },
+    {
+      "key": "msg.war09.presentmessage",
+      "value": "Rank %s %s participation prize"
+    },
+    {
+      "key": "msg.war09.presentmessage_top",
+      "value": "Rank %s %s: member rank %s"
+    },
+    {
+      "key": "msg.war09.presentmessage_topall",
+      "value": "Rank %s across all armies"
+    },
+    {
+      "key": "msg.war09.prize",
+      "value": "BSL reward (gift) Rank %s %s participation prize"
+    },
+    {
+      "key": "msg.war09.prize_top",
+      "value": "BSL reward (gift) Rank %s %s: member rank %s"
+    },
+    {
+      "key": "msg.war09.prize_topall",
+      "value": "BSL reward (gift) Rank %s across all armies"
+    },
+    {
+      "key": "msg.war09.bonus",
+      "value": "BSL reward"
+    },
+    {
+      "key": "msg.war09.bonusguild",
+      "value": "BSL reward - Guild Points"
+    },
+    {
+      "key": "msg.war09.lastrule_1",
+      "value": "Score +%s%"
+    },
+    {
+      "key": "msg.war09.lastrule_2",
+      "value": "Score -%s%"
+    },
+    {
+      "key": "msg.war09.batlle",
+      "value": "In combat"
+    },
+    {
+      "key": "msg.war09.win",
+      "value": "Occupied"
+    },
+    {
+      "key": "msg.war09.lose",
+      "value": "Lost"
+    },
+    {
+      "key": "msg.war09.modetext_normal",
+      "value": "Battle Star League"
+    },
+    {
+      "key": "msg.war09.modetext_last",
+      "value": "Final battle"
+    },
+    {
+      "key": "msg.war09.modetext_free",
+      "value": "Break"
+    },
+    {
+      "key": "msg.trigger.name",
+      "value": "%s[%s %s/%s]"
+    },
+    {
+      "key": "msg.trigger.ontrigger",
+      "value": "%s [Active]"
+    },
+    {
+      "key": "msg.trigger.nexttime",
+      "value": "%s [Available in %s sec]"
+    },
+    {
+      "key": "msg.trigger.say",
+      "value": "%s: target %s, used %s x %s"
+    },
+    {
+      "key": "msg.statusinfo.dayleft",
+      "value": "%s days remaining"
+    },
+    {
+      "key": "msg.statusinfo.hourleft",
+      "value": "%s hours remaining"
+    },
+    {
+      "key": "msg.statusinfo.minleft",
+      "value": "%s minutes remaining"
+    },
+    {
+      "key": "msg.statusinfo.expired",
+      "value": "Expired"
+    },
+    {
+      "key": "msg.statusinfo.noexpireditems",
+      "value": "No time-limited items currently in use"
+    },
+    {
+      "key": "bgm.entrance",
+      "value": "music/Hagane.mp3"
+    },
+    {
+      "key": "bgm.shuttle",
+      "value": "music/menu.mp3"
+    },
+    {
+      "key": "err.lvcap",
+      "value": "Cannot unlock"
+    },
+    {
+      "key": "msg.lvcap.again",
+      "value": "Already unlocked"
+    },
+    {
+      "key": "msg.lvcap.symbol",
+      "value": "*"
+    },
+    {
+      "key": "msg.lvcap.symbol70",
+      "value": "**"
+    },
+    {
+      "key": "msg.lvcap.symbol90",
+      "value": "***"
+    },
+    {
+      "key": "msg.guild.garagemesslog",
+      "value": "Guild message updated!"
+    },
+    {
+      "key": "msg.guild.memberss",
+      "value": "Guild capacity increased!"
+    },
+    {
+      "key": "msg.guild.eqipfail",
+      "value": "Set 5 random list entries."
+    },
+    {
+      "key": "msg.guild.save_customboost",
+      "value": "Random list saved."
+    },
+    {
+      "key": "msg.mileage.getcoin",
+      "value": "Received %s Cosmic Coins"
+    },
+    {
+      "key": "msg.mileage.togarage",
+      "value": "Carry is full. Sending to garage"
+    },
+    {
+      "key": "msg.mileage.topresent",
+      "value": "No space. Sending as a gift"
+    },
+    {
+      "key": "msg.mileage.presentinfo",
+      "value": "Check your gifts at the department store"
+    },
+    {
+      "key": "msg.mileage.fromName",
+      "value": "Mileage Service"
+    },
+    {
+      "key": "msg.mileage.presentmessage",
+      "value": "Thank you for your purchase."
+    },
+    {
+      "key": "msg.mileage.error",
+      "value": "Could not send Cosmic Coins."
+    },
+    {
+      "key": "msg.auction.sellpage_0",
+      "value": "List for sale"
+    },
+    {
+      "key": "msg.auction.sellpage_1",
+      "value": "Cancel listing"
+    },
+    {
+      "key": "msg.auction.sellpage_2",
+      "value": "Settle sale"
+    },
+    {
+      "key": "msg.auction.sellpage_3",
+      "value": "Expired"
+    },
+    {
+      "key": "err.auction.sellsell",
+      "value": "Cannot list for sale"
+    },
+    {
+      "key": "err.auction.sellitem",
+      "value": "Select an item!"
+    },
+    {
+      "key": "err.auction.sellparts",
+      "value": "Select a part!"
+    },
+    {
+      "key": "err.auction.sellmoney",
+      "value": "Set a price!"
+    },
+    {
+      "key": "err.auction.sellcomment",
+      "value": "Listing comment contains forbidden words!"
+    },
+    {
+      "key": "msg.auction.sellsell",
+      "value": "Listing for sale!"
+    },
+    {
+      "key": "msg.auction.sellcancel",
+      "value": "Canceling listing!"
+    },
+    {
+      "key": "msg.auction.sellliquidate",
+      "value": "Settling sale!"
+    },
+    {
+      "key": "err.auction.sellsold",
+      "value": "Already sold!"
+    },
+    {
+      "key": "msg.auction.selltime",
+      "value": "%s days  %s hours"
+    },
+    {
+      "key": "msg.auction.sellfee",
+      "value": "Fee"
+    },
+    {
+      "key": "msg.auction.buylistupdate",
+      "value": "Refresh the list?"
+    },
+    {
+      "key": "err.auction.buyitem",
+      "value": "Select the item to refresh"
+    },
+    {
+      "key": "err.auction.buylistupdate",
+      "value": "No longer listed!"
+    },
+    {
+      "key": "msg.auction.buybuy",
+      "value": "Buy this item?"
+    },
+    {
+      "key": "err.auction.buybuy",
+      "value": "Purchase failed"
+    },
+    {
+      "key": "err.auction.buymoney",
+      "value": "Not enough money!"
+    },
+    {
+      "key": "err.auction.buyrank",
+      "value": "Your rank does not allow this purchase"
+    },
+    {
+      "key": "msg.war09.entry_text",
+      "value": "* A personal score of at least %s points is required for rewards."
+    },
+    {
+      "key": "msg.war09.bonusguild",
+      "value": "Battle Star League reward - Guild Points"
+    },
+    {
+      "key": "msg.war09.modetext_normal",
+      "value": "Normal Battle Mode!"
+    },
+    {
+      "key": "msg.war09.modetext_last",
+      "value": "Last Battle Mode!"
+    },
+    {
+      "key": "msg.war09.modetext_free",
+      "value": "Ceasefire Mode"
+    },
+    {
+      "key": "msg.war09.modetext_freeb",
+      "value": "War ended"
+    },
+    {
+      "key": "msg.war09.lastrule_1",
+      "value": "Defeat score x %s"
+    },
+    {
+      "key": "msg.war09.lastrule_2",
+      "value": "Score penalty x %s"
+    },
+    {
+      "key": "msg.war09.batlle",
+      "value": "In combat!"
+    },
+    {
+      "key": "msg.war09.win",
+      "value": "Occupied"
+    },
+    {
+      "key": "msg.war09.lose",
+      "value": "Lost"
+    },
+    {
+      "key": "msg.war09.hooligan",
+      "value": "Unaffiliated"
+    },
+    {
+      "key": "msg.war09.non",
+      "value": "Absent"
+    },
+    {
+      "key": "msg.war09.owner",
+      "value": "Area Master"
+    },
+    {
+      "key": "msg.war09.close",
+      "value": "Closing BSL."
+    },
+    {
+      "key": "msg.war09.mission1",
+      "value": "Defend your army's symbol!"
+    },
+    {
+      "key": "msg.war09.mission2",
+      "value": "Destroy the enemy army's symbol!"
+    },
+    {
+      "key": "msg.war09.mission3",
+      "value": "Defend the base\\nand keep the enemy from taking spots!"
+    },
+    {
+      "key": "msg.war09.mission4",
+      "value": "Take 5 spots with Etrosium\\nto capture the base!"
+    },
+    {
+      "key": "msg.war09.mission5",
+      "value": "Defeat enemy robots!"
+    },
+    {
+      "key": "msg.war09.mission6",
+      "value": "Deploy!"
+    },
+    {
+      "key": "msg.war09.mission7",
+      "value": "Prepare your forces for the Last Battle!"
+    },
+    {
+      "key": "msg.war09.mission8",
+      "value": "BattleStarLEAGUE ended!"
+    },
+    {
+      "key": "msg.war09.mission9",
+      "value": "Return home!\\nUse the world map to teleport home"
+    },
+    {
+      "key": "msg.war09.infodlg0",
+      "value": "Base captured!"
+    },
+    {
+      "key": "msg.war09.infodlg1",
+      "value": "Base lost!"
+    },
+    {
+      "key": "msg.war09.infodlg2",
+      "value": "Ceasefire Mode started!"
+    },
+    {
+      "key": "msg.war09.infodlg3",
+      "value": "Last Battle Mode started!"
+    },
+    {
+      "key": "msg.war09.infodlg4",
+      "value": "%s captured spot [ %s ]!"
+    },
+    {
+      "key": "msg.war09.infodlg5",
+      "value": "(Return home from the world map)"
+    },
+    {
+      "key": "msg.war09.infodlg6",
+      "value": "(Fight on the final planet map)"
+    },
+    {
+      "key": "msg.war09.infodlg7",
+      "value": "Normal Battle Mode started!"
+    },
+    {
+      "key": "msg.war09.name0",
+      "value": "ペンチョ軍"
+    },
+    {
+      "key": "msg.war09.name1",
+      "value": "ドレザロ軍"
+    },
+    {
+      "key": "msg.war09.name2",
+      "value": "ブザーク軍"
+    },
+    {
+      "key": "msg.war09.name3",
+      "value": "マニマニモ軍"
+    },
+    {
+      "key": "msg.war09.nameall",
+      "value": "All armies"
+    },
+    {
+      "key": "msg.stage.etrosiumspot",
+      "value": "%s activated a spot!"
+    },
+    {
+      "key": "msg.etrosium.carryfull",
+      "value": "Carry was full!"
+    },
+    {
+      "key": "msg.war09.hour",
+      "value": "Hours"
+    },
+    {
+      "key": "msg.war09.min",
+      "value": "Minutes"
+    },
+    {
+      "key": "msg.war09.sec",
+      "value": "Seconds"
+    },
+    {
+      "key": "msg.reward.endlog",
+      "value": "Close the reward screen?"
+    },
+    {
+      "key": "msg.reward.item",
+      "value": "Reward - %s x %s"
+    },
+    {
+      "key": "msg.reward.sellitem",
+      "value": "Reward sold - %s x %s ( C$ %s )"
+    },
+    {
+      "key": "msg.reward.money",
+      "value": "Total reward sales - C$ %s"
+    },
+    {
+      "key": "msg.reward.fromName",
+      "value": "Reward"
+    },
+    {
+      "key": "msg.reward.presentmessage",
+      "value": ""
+    },
+    {
+      "key": "msg.stageedit.partslimit",
+      "value": "Cannot place any more objects."
+    },
+    {
+      "key": "msg.stageedit.lightlimit",
+      "value": "Cannot place any more lights."
+    },
+    {
+      "key": "msg.stageedit.marklimit",
+      "value": "Cannot place any more objects."
+    },
+    {
+      "key": "msg.stageedit.markpowerspotlimit",
+      "value": "Cannot place any more %s."
+    },
+    {
+      "key": "msg.stageedit.marklimitnum",
+      "value": "Cannot place any more."
+    },
+    {
+      "key": "msg.stageedit.quit",
+      "value": "Exiting the stage editor."
+    },
+    {
+      "key": "msg.stageedit.saveandquit",
+      "value": "Save the current stage data and exit?"
+    },
+    {
+      "key": "msg.stageedit.default.stagename",
+      "value": "NO NAME"
+    },
+    {
+      "key": "msg.stageedit.export.terms",
+      "value": "* Please read the \"Export Feature Terms of Use\" in the included Stage Editor Manual regarding use of exported data. Do you agree to the terms and wish to export?"
+    },
+    {
+      "key": "msg.stageedit.export.success",
+      "value": "Export succeeded."
+    },
+    {
+      "key": "msg.stageedit.export.failed",
+      "value": "Export failed."
+    },
+    {
+      "key": "msg.stageedit.object.TRAP200",
+      "value": "CatapultUp"
+    },
+    {
+      "key": "msg.stageedit.object.TRAP201",
+      "value": "CatapultSkew"
+    },
+    {
+      "key": "msg.stageedit.object.TRAP202",
+      "value": "CatapultSide"
+    },
+    {
+      "key": "\terr.stage.name.empty",
+      "value": "Enter a name"
+    },
+    {
+      "key": "err.stage.name.maxlength",
+      "value": "Name too long: maximum %s characters"
+    },
+    {
+      "key": "err.stage.name.badword",
+      "value": "Name contains forbidden words: %s"
+    },
+    {
+      "key": "err.workshop.title.empty",
+      "value": "Enter a title"
+    },
+    {
+      "key": "err.workshop.title.maxlength",
+      "value": "Title too long: maximum %s characters"
+    },
+    {
+      "key": "err.workshop.title.badword",
+      "value": "Title contains forbidden words: %s"
+    },
+    {
+      "key": "err.workshop.comment.maxlength",
+      "value": "Comment too long: maximum %s characters"
+    },
+    {
+      "key": "err.workshop.comment.badword",
+      "value": "Comment contains forbidden words: %s"
+    },
+    {
+      "key": "err.workshop.tag.maxlength",
+      "value": "Tag too long: maximum %s characters"
+    },
+    {
+      "key": "err.workshop.tag.badword",
+      "value": "Tag contains forbidden words: %s"
+    },
+    {
+      "key": "msg.loadstagedata.failed",
+      "value": "Could not load stage data. File: %s"
+    },
+    {
+      "key": "info.missionranking.plural",
+      "value": "Multiple"
+    },
+    {
+      "key": "info.linkscore.time",
+      "value": "%d seconds"
+    },
+    {
+      "key": "info.linkscore.open",
+      "value": "Link to %s opened"
+    },
+    {
+      "key": "info.linkscore.close",
+      "value": "Link to %s closed"
+    },
+    {
+      "key": "msg.rank.rankup",
+      "value": "Rank up! You are now [%s]"
+    },
+    {
+      "key": "msg.serialkeypresent.invalidkey",
+      "value": "The gift code is invalid."
+    },
+    {
+      "key": "msg.serialkeypresent.alreadyused",
+      "value": "The gift code has already been used."
+    },
+    {
+      "key": "msg.serialkeypresent.received",
+      "value": "Gift received. Please check your garage."
+    },
+    {
+      "key": "msg.serialkeypresent.expired",
+      "value": "The gift code has expired."
+    },
+    {
+      "key": "msg.serialkeypresent.error",
+      "value": "The gift code service is currently unavailable."
+    },
+    {
+      "key": "msg.serialkeypresent.notuniqueuser",
+      "value": "You have already used this type of gift code. Uses are limited per user."
+    },
+    {
+      "key": "msg.serialkeypresent.commonerror",
+      "value": "You cannot reuse this gift code. Uses are limited per user."
+    },
+    {
+      "key": "msg.serialkeypresent.defultmessage",
+      "value": "Gift code: %s was used. Please collect your gift items."
+    },
+    {
+      "key": "msg.cheat.debugger",
+      "value": "A debugger was detected. Please review the terms of use."
+    }
+  ]
+}
